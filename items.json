@@ -1,5 +1,79 @@
 [
  {
+  "id": "2116904319434019119",
+  "handle": "techtalkjp",
+  "name": "coji 溝口浩二",
+  "avatar": "https://pbs.twimg.com/profile_images/2104824598185594880/MAHVbrBJ_400x400.jpg",
+  "theme": "行政DX",
+  "text": "デジタル庁のデザインシステムが偉大すぎて毎回感謝の念があふれてしまう。\n\nAIつかってHTMLで社内レポートつくるときに「デジタル庁のデザインシステムを参考にして」と一言いれるだけで、段違いに読みやすいレポートが一発で出るのです。\n\n本当にすごいことです。",
+  "media": [],
+  "created_at": "2026-11-01T14:44:54.000Z",
+  "metrics": {
+   "like": 11,
+   "repost": 1,
+   "bookmark": 9,
+   "view": 262
+  }
+ },
+ {
+  "id": "2116879725499142418",
+  "handle": "chawan_wabita",
+  "name": "ちゃわんご",
+  "avatar": "https://pbs.twimg.com/profile_images/1674738676247691265/0GoAaOdL_400x400.jpg",
+  "theme": "日本株・高配当株",
+  "text": "明日からの！決算！\n\n三井物産！NTT！三菱商事！トヨタ！任天堂！太陽誘電！三菱重工！サンリオ！明日のキオクシアでそれどころじゃないって？！",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWCq288aEAAbxOf.png"
+   }
+  ],
+  "created_at": "2026-11-01T13:07:10.000Z",
+  "metrics": {
+   "like": 374,
+   "repost": 26,
+   "bookmark": 110,
+   "view": 33690
+  }
+ },
+ {
+  "id": "2116866846079259054",
+  "handle": "cu30rry_",
+  "name": "kaito",
+  "avatar": "https://pbs.twimg.com/profile_images/2101959420439834625/ucyJOshP_400x400.jpg",
+  "theme": "AI",
+  "text": "エージェントの検証だが、実はコード品質の担保・自動化の土台になるだけじゃなく、改善にする方法もある\n\n検証の考え方では、テストの本数ではなく「確かめたこと／確かめられなかったこと」を明確にするが、これをファイルに書かせることで、エージェントの改善につなげられる\n\nfeedback ツールで取り入れられた検証パターン（pstack の手法）は、PRごとに verifications/{pr_num}.md を作らせていて、これがないと draft から ready にできないようになっている\n\npstack ではPlaybookが厳格に定めているが、pstack を使えない環境・組織ではこのfeedback ツールの仕組みが役立つだろう\n\n指摘の却下は /dismiss {reason} で理由がつくし、このファイル自体が、エージェントがどこで検証に苦戦しているかのデータになる\n\nそれを、日次で拾い、改善issueにすれば、開発を自動化しつつエージェントの検証の質を高めていける",
+  "media": [],
+  "created_at": "2026-11-01T12:16:00.000Z",
+  "metrics": {
+   "like": 6,
+   "repost": 0,
+   "bookmark": 9,
+   "view": 862
+  }
+ },
+ {
+  "id": "2116855272530432208",
+  "handle": "sorave55",
+  "name": "そらぶ🐶💓高配当株好き",
+  "avatar": "https://pbs.twimg.com/profile_images/2109273488490110976/sj0VgkHS_400x400.jpg",
+  "theme": "日本株・高配当株",
+  "text": "株価−93％って…\n下がりすぎて下がりすぎて震える。\n\n2026年も残り2か月\n\n今年の株価下落率ランキングで\n振り返ってみました。\n\n1位：海帆 -93.64%\n2位：ビート・HD・リミテッド -86.67%\n3位：Delta-Fly Pharma -86.47%\n4位：エスクリプトエナジー -85.71%\n5位：ウェルディッシュ -84.17%\n6位：abc -84.10%\n7位：ジーイエット -82.99%\n8位：FUNDINNO -80.21%\n9位：ピクセラ -80.00%\n10位：ウェッジHD -78.69%\n11位：ANAPHD -78.44%\n12位：アイドマ・HD -76.55%\n13位：Bitcoin Japan -74.56%\n14位：アドバンスクリエイト -74.22%\n15位：ライトアップ -73.77%\n16位：バリュークリエーション -73.20%\n17位：REVOLUTION -72.55%\n18位：TORICO -71.90%\n19位：クオンタムソリューションズ -70.97%\n20位：enish -70.18%\n21位：BlueMeme -69.79%\n22位：CRAVIA -69.57%\n23位：unbanked -69.39%\n24位：サンウェルズ -67.35%\n25位：Schoo -66.17%\n26位：Birdman -65.08%\n27位：オルトプラスHD -64.81%\n28位：夢展望 -63.90%\n29位：ウィルソン・ラーニング ワールドワイド -62.65%\n30位：クラシコ -62.59%",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWADlM_aUAAksL5.jpg"
+   }
+  ],
+  "created_at": "2026-11-01T11:30:00.000Z",
+  "metrics": {
+   "like": 68,
+   "repost": 4,
+   "bookmark": 12,
+   "view": 22069
+  }
+ },
+ {
   "id": "2116804209295446515",
   "handle": "Kazzn_blog",
   "name": "KAZZN",

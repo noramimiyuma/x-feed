@@ -6,7 +6,16 @@
 <atom:link href="https://noramimiyuma.github.io/x-feed/feed.xml" rel="self" type="application/rss+xml"/>
 <description>行政DX・PdM・AI・日本株/高配当株の注目X投稿（X偵察が更新）</description>
 <language>ja</language>
-<lastBuildDate>Mon, 02 Nov 2026 04:16:37 +0900</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 05:13:26 +0900</lastBuildDate>
+<item>
+<title>ハニプリ〜7/20 PRISMMOON (@vegetanpul)</title>
+<link>https://x.com/vegetanpul/status/2116957367669788747</link>
+<guid isPermaLink="true">https://x.com/vegetanpul/status/2116957367669788747</guid>
+<category>行政DX</category>
+<dc:creator>ハニプリ〜7/20 PRISMMOON</dc:creator>
+<pubDate>Sun, 01 Nov 2026 18:15:42 +0000</pubDate>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/988035196636180480/QrV1laiS_400x400.jpg" width="48" height="48" alt="ハニプリ〜7/20 PRISMMOON"/> <b>ハニプリ〜7/20 PRISMMOON</b> @vegetanpul</p><p>氏名に「外字」使用の市民400人、マイナンバーカードの電子証明書が失効　群馬・太田市<br/><br/>⬆<br/>電子証明書が失効するとe-Taxやネットでの口座開設出来ないね。<br/><br/>通常は再発行約2ヶ月かかるんだっけ？<br/><br/>#マイナ保険証紐付け解除<br/>#マイナンバーカード返納　<br/><br/>#ナンマイダーカード<br/><br/><a href="https://www.jomo-news.co.jp/articles/-/1055522">https://www.jomo-news.co.jp/articles/-/1055522</a></p><p>いいね 2・リポスト 1・ブックマーク 0・表示 114</p><p><a href="https://x.com/vegetanpul/status/2116957367669788747">Xで開く</a></p>]]></description>
+</item>
 <item>
 <title>Lenny Rachitsky (@lennysan)</title>
 <link>https://x.com/lennysan/status/2116927042759635132</link>
@@ -71,6 +80,15 @@
 <description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/2101959420439834625/ucyJOshP_400x400.jpg" width="48" height="48" alt="kaito"/> <b>kaito</b> @cu30rry_</p><p>エージェントの検証だが、実はコード品質の担保・自動化の土台になるだけじゃなく、改善にする方法もある<br/><br/>検証の考え方では、テストの本数ではなく「確かめたこと／確かめられなかったこと」を明確にするが、これをファイルに書かせることで、エージェントの改善につなげられる<br/><br/>feedback ツールで取り入れられた検証パターン（pstack の手法）は、PRごとに verifications/{pr_num}.md を作らせていて、これがないと draft から ready にできないようになっている<br/><br/>pstack ではPlaybookが厳格に定めているが、pstack を使えない環境・組織ではこのfeedback ツールの仕組みが役立つだろう<br/><br/>指摘の却下は /dismiss {reason} で理由がつくし、このファイル自体が、エージェントがどこで検証に苦戦しているかのデータになる<br/><br/>それを、日次で拾い、改善issueにすれば、開発を自動化しつつエージェントの検証の質を高めていける</p><p>いいね 6・リポスト 0・ブックマーク 9・表示 862</p><p><a href="https://x.com/cu30rry_/status/2116866846079259054">Xで開く</a></p>]]></description>
 </item>
 <item>
+<title>けい@高配当株投資家 (@kei_toshi__)</title>
+<link>https://x.com/kei_toshi__/status/2116862831614185622</link>
+<guid isPermaLink="true">https://x.com/kei_toshi__/status/2116862831614185622</guid>
+<category>日本株・高配当株</category>
+<dc:creator>けい@高配当株投資家</dc:creator>
+<pubDate>Sun, 01 Nov 2026 12:00:03 +0000</pubDate>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1941752759197499393/XLlSQeGC_400x400.jpg" width="48" height="48" alt="けい@高配当株投資家"/> <b>けい@高配当株投資家</b> @kei_toshi__</p><p>日本株の配当金TOP10<br/><br/>🔰三菱商事：62875円<br/>🔰NF日経高配当50：50232円<br/>🔰三菱HCC：34221円<br/>🔰ヒューリック：25060円<br/>🔰積水ハウス：24940円<br/>🔰三菱UFJFG：24672円<br/>🔰全国保証：24600円<br/>🔰みずほリース：24128円<br/>🔰稲畑産業：24024円<br/>🔰NTT：23506円<br/><br/>今はNF日経高配当、三菱HCC、ヒューリック、積水ハウス、三菱UFJ、稲畑産業を強化中。この6銘柄が今後どこまで育つのかが重要。決算増配こい！</p><p>いいね 20・リポスト 1・ブックマーク 9・表示 4,507</p><p><a href="https://x.com/kei_toshi__/status/2116862831614185622">Xで開く</a></p>]]></description>
+</item>
+<item>
 <title>24万株(まんかぶ) (@24_9424)</title>
 <link>https://x.com/24_9424/status/2116861864521200046</link>
 <guid isPermaLink="true">https://x.com/24_9424/status/2116861864521200046</guid>
@@ -105,6 +123,15 @@
 <dc:creator>しば田 | FDE（AIを現場に実装する人）</dc:creator>
 <pubDate>Sun, 01 Nov 2026 11:25:21 +0000</pubDate>
 <description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1905102247819923456/8Vg6vjB7_400x400.jpg" width="48" height="48" alt="しば田 | FDE（AIを現場に実装する人）"/> <b>しば田 | FDE（AIを現場に実装する人）</b> @KeisukeShibata_</p><p>「AIに必要なのはオントロジーかデータモデルか」<br/><br/>これは別に二者択一の話ではないと思っていて、データモデルで完結するパターンは無限にあると思う。何ならプロンプトに関係性とルールを記述してそれでAIがすんなり動くならそれでよくないか？という話。<br/><br/>本質的な問いは、「AIが業務を正しく遂行するために、どこまで意味を明示的に定義する必要があるのか？」で、<br/><br/>企業には複雑な業務オペレーションが存在し、既存のデータモデルだけでは、その意味や判断ルールを十分に表現・共有できないケースもある。<br/><br/>さらにAIエージェントによる業務完了を目指すと、概念や関係性だけでなく、エージェントの役割、実行可能な業務、権限、制約まで一貫して定義する必要が出てくる。<br/>それをプロンプトで表現するのか、データモデルで表現するのか、RDFやOWLを使うのか。あるいは組み合わせるのか。<br/>これらは目的ではなく、実装手段の選択に過ぎない。<br/><br/>重要なのはオントロジーを作ることではなく、AIが企業の業務を正しく理解し、安全に実行できる状態を作ることなのである。<br/><br/><a href="https://metafind.jp/2026/10/29/ontology-or-data-model-which-does-ai-need-more/">https://metafind.jp/2026/10/29/ontology-or-data-model-which-does-ai-need-more/</a></p><p>いいね 15・リポスト 0・ブックマーク 10・表示 837</p><p><a href="https://x.com/KeisukeShibata_/status/2116854099736137994">Xで開く</a></p>]]></description>
+</item>
+<item>
+<title>岩手日報 (@iwatenippo)</title>
+<link>https://x.com/iwatenippo/status/2116847721055478219</link>
+<guid isPermaLink="true">https://x.com/iwatenippo/status/2116847721055478219</guid>
+<category>行政DX</category>
+<dc:creator>岩手日報</dc:creator>
+<pubDate>Sun, 01 Nov 2026 11:00:00 +0000</pubDate>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/970369887813054465/ov4ZiKIP_400x400.jpg" width="48" height="48" alt="岩手日報"/> <b>岩手日報</b> @iwatenippo</p><p>【30%お得。でも「売れない」】<br/>一関市が発行したデジタル商品券の販売率が約5割と低調。<br/>「お金を東京に流さない」という強い理念のもと、あえて大手ではなく地域通貨を選択しました。<br/>挑戦の裏側で何が起きていたのか？ <br/><br/>直面した「壁」と、打開に向けた次の一手に迫ります▼<br/>（※有料会員限定／申し込み月は無料で読めます）<br/><a href="https://www.iwate-np.co.jp/article/2026/10/28/198114?utm_source=x&amp;utm_medium=social&amp;utm_campaign=ichinoseki_dx">https://www.iwate-np.co.jp/article/2026/10/28/198114?utm_source=x&amp;utm_medium=social&amp;utm_campaign=ichinoseki_dx</a><br/>#自治体DX #地域通貨</p><p>いいね 23・リポスト 7・ブックマーク 1・表示 5,683</p><p><a href="https://x.com/iwatenippo/status/2116847721055478219">Xで開く</a></p>]]></description>
 </item>
 <item>
 <title>ラッキー｜AIを武器に。 (@lucky_note_lab)</title>

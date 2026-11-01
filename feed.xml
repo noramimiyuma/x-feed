@@ -6,7 +6,16 @@
 <atom:link href="https://noramimiyuma.github.io/x-feed/feed.xml" rel="self" type="application/rss+xml"/>
 <description>行政DX・PdM・AI・日本株/高配当株の注目X投稿（X偵察が更新）</description>
 <language>ja</language>
-<lastBuildDate>Mon, 02 Nov 2026 00:10:08 +0900</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 01:12:16 +0900</lastBuildDate>
+<item>
+<title>Kenn Ejima (@kenn)</title>
+<link>https://x.com/kenn/status/2116920663919546789</link>
+<guid isPermaLink="true">https://x.com/kenn/status/2116920663919546789</guid>
+<category>AI</category>
+<dc:creator>Kenn Ejima</dc:creator>
+<pubDate>Sun, 01 Nov 2026 15:49:51 +0000</pubDate>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/2101495370660655104/F8tzCryw_400x400.jpg" width="48" height="48" alt="Kenn Ejima"/> <b>Kenn Ejima</b> @kenn</p><p>シリコンバレーで年収7500万円稼いでいた<br/>AdobeのFireflyの開発者でもあった<br/>業歴28年で著書も3冊あるAIエンジニアが<br/><br/>そのAIのせいで3年前に仕事を失って今では<br/>ホームレスとなり車中生活を強いられている<br/>という記事が話題になっている<br/><br/>そんなに稼いでるのに運用してなかったの？<br/>とか色々つっこまれながらも<br/>きちんと次の記事で回答している<br/><br/>遠くない未来に世界中へやってくる<br/>ニューエコノミクスの現実を学べるので<br/>一読おすすめです</p><p>いいね 15・リポスト 3・ブックマーク 22・表示 1,599</p><p><a href="https://x.com/kenn/status/2116920663919546789">Xで開く</a></p>]]></description>
+</item>
 <item>
 <title>coji 溝口浩二 (@techtalkjp)</title>
 <link>https://x.com/techtalkjp/status/2116904319434019119</link>
@@ -35,6 +44,15 @@
 <description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/2101959420439834625/ucyJOshP_400x400.jpg" width="48" height="48" alt="kaito"/> <b>kaito</b> @cu30rry_</p><p>エージェントの検証だが、実はコード品質の担保・自動化の土台になるだけじゃなく、改善にする方法もある<br/><br/>検証の考え方では、テストの本数ではなく「確かめたこと／確かめられなかったこと」を明確にするが、これをファイルに書かせることで、エージェントの改善につなげられる<br/><br/>feedback ツールで取り入れられた検証パターン（pstack の手法）は、PRごとに verifications/{pr_num}.md を作らせていて、これがないと draft から ready にできないようになっている<br/><br/>pstack ではPlaybookが厳格に定めているが、pstack を使えない環境・組織ではこのfeedback ツールの仕組みが役立つだろう<br/><br/>指摘の却下は /dismiss {reason} で理由がつくし、このファイル自体が、エージェントがどこで検証に苦戦しているかのデータになる<br/><br/>それを、日次で拾い、改善issueにすれば、開発を自動化しつつエージェントの検証の質を高めていける</p><p>いいね 6・リポスト 0・ブックマーク 9・表示 862</p><p><a href="https://x.com/cu30rry_/status/2116866846079259054">Xで開く</a></p>]]></description>
 </item>
 <item>
+<title>24万株(まんかぶ) (@24_9424)</title>
+<link>https://x.com/24_9424/status/2116860318081257878</link>
+<guid isPermaLink="true">https://x.com/24_9424/status/2116860318081257878</guid>
+<category>日本株・高配当株</category>
+<dc:creator>24万株(まんかぶ)</dc:creator>
+<pubDate>Sun, 01 Nov 2026 11:50:03 +0000</pubDate>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/2106558662173212672/BiEgWfaV_400x400.jpg" width="48" height="48" alt="24万株(まんかぶ)"/> <b>24万株(まんかぶ)</b> @24_9424</p><p>日本車輌製造(予想eps 665円),統合報告書のグラフを見てると発行体は配当50円で満足してそう…<br/><a href="https://www.n-sharyo.co.jp/finance/report/2025ir_report.pdf">https://www.n-sharyo.co.jp/finance/report/2025ir_report.pdf</a></p><p><img src="https://pbs.twimg.com/media/HWCYjTOaAAA3fF9.jpg" alt="画像"/></p><p>いいね 15・リポスト 0・ブックマーク 1・表示 4,715</p><p><a href="https://x.com/24_9424/status/2116860318081257878">Xで開く</a></p>]]></description>
+</item>
+<item>
 <title>そらぶ🐶💓高配当株好き (@sorave55)</title>
 <link>https://x.com/sorave55/status/2116855272530432208</link>
 <guid isPermaLink="true">https://x.com/sorave55/status/2116855272530432208</guid>
@@ -42,6 +60,33 @@
 <dc:creator>そらぶ🐶💓高配当株好き</dc:creator>
 <pubDate>Sun, 01 Nov 2026 11:30:00 +0000</pubDate>
 <description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/2109273488490110976/sj0VgkHS_400x400.jpg" width="48" height="48" alt="そらぶ🐶💓高配当株好き"/> <b>そらぶ🐶💓高配当株好き</b> @sorave55</p><p>株価−93％って…<br/>下がりすぎて下がりすぎて震える。<br/><br/>2026年も残り2か月<br/><br/>今年の株価下落率ランキングで<br/>振り返ってみました。<br/><br/>1位：海帆 -93.64%<br/>2位：ビート・HD・リミテッド -86.67%<br/>3位：Delta-Fly Pharma -86.47%<br/>4位：エスクリプトエナジー -85.71%<br/>5位：ウェルディッシュ -84.17%<br/>6位：abc -84.10%<br/>7位：ジーイエット -82.99%<br/>8位：FUNDINNO -80.21%<br/>9位：ピクセラ -80.00%<br/>10位：ウェッジHD -78.69%<br/>11位：ANAPHD -78.44%<br/>12位：アイドマ・HD -76.55%<br/>13位：Bitcoin Japan -74.56%<br/>14位：アドバンスクリエイト -74.22%<br/>15位：ライトアップ -73.77%<br/>16位：バリュークリエーション -73.20%<br/>17位：REVOLUTION -72.55%<br/>18位：TORICO -71.90%<br/>19位：クオンタムソリューションズ -70.97%<br/>20位：enish -70.18%<br/>21位：BlueMeme -69.79%<br/>22位：CRAVIA -69.57%<br/>23位：unbanked -69.39%<br/>24位：サンウェルズ -67.35%<br/>25位：Schoo -66.17%<br/>26位：Birdman -65.08%<br/>27位：オルトプラスHD -64.81%<br/>28位：夢展望 -63.90%<br/>29位：ウィルソン・ラーニング ワールドワイド -62.65%<br/>30位：クラシコ -62.59%</p><p><img src="https://pbs.twimg.com/media/HWADlM_aUAAksL5.jpg" alt="画像"/></p><p>いいね 68・リポスト 4・ブックマーク 12・表示 22,069</p><p><a href="https://x.com/sorave55/status/2116855272530432208">Xで開く</a></p>]]></description>
+</item>
+<item>
+<title>しば田 | FDE（AIを現場に実装する人） (@KeisukeShibata_)</title>
+<link>https://x.com/KeisukeShibata_/status/2116854099736137994</link>
+<guid isPermaLink="true">https://x.com/KeisukeShibata_/status/2116854099736137994</guid>
+<category>AI</category>
+<dc:creator>しば田 | FDE（AIを現場に実装する人）</dc:creator>
+<pubDate>Sun, 01 Nov 2026 11:25:21 +0000</pubDate>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1905102247819923456/8Vg6vjB7_400x400.jpg" width="48" height="48" alt="しば田 | FDE（AIを現場に実装する人）"/> <b>しば田 | FDE（AIを現場に実装する人）</b> @KeisukeShibata_</p><p>「AIに必要なのはオントロジーかデータモデルか」<br/><br/>これは別に二者択一の話ではないと思っていて、データモデルで完結するパターンは無限にあると思う。何ならプロンプトに関係性とルールを記述してそれでAIがすんなり動くならそれでよくないか？という話。<br/><br/>本質的な問いは、「AIが業務を正しく遂行するために、どこまで意味を明示的に定義する必要があるのか？」で、<br/><br/>企業には複雑な業務オペレーションが存在し、既存のデータモデルだけでは、その意味や判断ルールを十分に表現・共有できないケースもある。<br/><br/>さらにAIエージェントによる業務完了を目指すと、概念や関係性だけでなく、エージェントの役割、実行可能な業務、権限、制約まで一貫して定義する必要が出てくる。<br/>それをプロンプトで表現するのか、データモデルで表現するのか、RDFやOWLを使うのか。あるいは組み合わせるのか。<br/>これらは目的ではなく、実装手段の選択に過ぎない。<br/><br/>重要なのはオントロジーを作ることではなく、AIが企業の業務を正しく理解し、安全に実行できる状態を作ることなのである。<br/><br/><a href="https://metafind.jp/2026/10/29/ontology-or-data-model-which-does-ai-need-more/">https://metafind.jp/2026/10/29/ontology-or-data-model-which-does-ai-need-more/</a></p><p>いいね 15・リポスト 0・ブックマーク 10・表示 837</p><p><a href="https://x.com/KeisukeShibata_/status/2116854099736137994">Xで開く</a></p>]]></description>
+</item>
+<item>
+<title>サトウカズオ🇲🇽FX自動売買と高配当株でサイドFIRE (@sato_kazu0)</title>
+<link>https://x.com/sato_kazu0/status/2116821811883393187</link>
+<guid isPermaLink="true">https://x.com/sato_kazu0/status/2116821811883393187</guid>
+<category>日本株・高配当株</category>
+<dc:creator>サトウカズオ🇲🇽FX自動売買と高配当株でサイドFIRE</dc:creator>
+<pubDate>Sun, 01 Nov 2026 09:17:03 +0000</pubDate>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1333763660393578498/almVnMHm_400x400.jpg" width="48" height="48" alt="サトウカズオ🇲🇽FX自動売買と高配当株でサイドFIRE"/> <b>サトウカズオ🇲🇽FX自動売買と高配当株でサイドFIRE</b> @sato_kazu0</p><p>【監視高配当銘柄利回りTOP10】<br/><br/>1⃣東計電算は連続増配10期以上<br/>監視銘柄で、株価次第ではサトウ動きます<br/>11月2日(月)に決算発表<br/><br/>3⃣ジャックスは元保有、減配銘柄は売却です<br/>MUFGで何やってるの😡<br/><br/>6⃣プレス工業も良いと思います<br/><br/>あとの銘柄は…勉強します😅  <a href="https://twitter.com/mako_kouhaitou/status/2116313250082214090">https://twitter.com/mako_kouhaitou/status/2116313250082214090</a></p><p><img src="https://pbs.twimg.com/media/HWBq6eVbAAAOC4x.jpg" alt="画像"/></p><p>いいね 34・リポスト 2・ブックマーク 2・表示 2,135</p><p><a href="https://x.com/sato_kazu0/status/2116821811883393187">Xで開く</a></p>]]></description>
+</item>
+<item>
+<title>shoyu ｜高配当×株主優待 (@kikko10k)</title>
+<link>https://x.com/kikko10k/status/2116810279665508735</link>
+<guid isPermaLink="true">https://x.com/kikko10k/status/2116810279665508735</guid>
+<category>日本株・高配当株</category>
+<dc:creator>shoyu ｜高配当×株主優待</dc:creator>
+<pubDate>Sun, 01 Nov 2026 08:31:13 +0000</pubDate>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/2055984204161392640/v5-Wk7Hd_400x400.jpg" width="48" height="48" alt="shoyu ｜高配当×株主優待"/> <b>shoyu ｜高配当×株主優待</b> @kikko10k</p><p>11月権利銘柄ピックアップ<br/><br/>◉ E・Jホールディングス（2153）  <br/><br/>◎株価1802円<br/>◎PER：約8.75倍<br/>◎PBR：約0.82倍<br/>◎予想配当利回り：約4.55％<br/>◎自己資本比率：約71％  <br/><br/>✅総合建設コンサルタントを傘下に持つ持株会社で、官公庁向けのインフラ整備、防災・減災、老朽化対策、維持管理などが主力<br/><br/>✅公共インフラ需要を背景に安定した収益が期待できる銘柄です  <br/><br/>【配当実績】<br/>年間配当の推移（株式分割調整後）<br/>・17/5期：13円<br/>・18/5期：15円<br/>・19/5期：19円<br/>・20/5期：25円<br/>・21/5期：35円<br/>・22/5期：43円<br/>・23/5期：50円<br/>・24/5期：55円<br/>・25/5期：67円<br/>・26/5期：69円<br/>・27/5期予想：82円  <br/><br/>☑︎10期連続増配予想！<br/>（9期連続増配中）  <br/><br/>☑︎17/5期の13円から82円へ、10年間で年間配当は約6.3倍に大幅拡大する見込み・増配にも注目<br/><br/>【27/5期の配当予想】<br/>・年間配当：82円<br/>・中間配当：30円<br/>・期末配当：52円<br/>・うち記念配当：10円<br/>・予想配当利回り：約4.55％  <br/>配当性向は26/5期実績で約36％<br/>※82円には20周年記念配当10円が含まれるため、翌期以降の普通配当の維持が有るか注意が必要<br/><br/>【株主還元方針】<br/>① DOE3.0%以上を目安<br/>② 累進配当の継続を目指す<br/>③ 長期安定的かつ継続的な株主還元の拡充<br/><br/>　【業績・成長性】<br/>26/5期実績<br/>◎売上高：約466億円<br/>◎営業利益：約47億円<br/>第6次中期経営計画では28/5期に、<br/>◎売上高500億円<br/>◎営業利益59億円<br/>◎ROE10%以上を目指しています<br/><br/>国土強靭化や自然災害への対策、道路・橋梁などの老朽化対策は中長期的にも重要なテーマ、公共インフラを支える事業基盤は強みです<br/><br/>【注意点・リスク】<br/>◎官公庁依存度が高く、公共事業予算の影響を受ける<br/>◎業績の季節偏重が強く、中間期は赤字になりやすい<br/>◎人件費や外注費の上昇による利益率低下<br/>◎M&amp;Aに伴うのれんや統合コストのリスク<br/>◎PBR1倍割れが続いており、資本効率改善が課題<br/>◎記念配当終了後の配当水準にも注目が必要<br/><br/>#日本株 #高配当株 #累進配当 #連続増配 #DOE #配当金 #株主還元</p><p><img src="https://pbs.twimg.com/media/HWBrum2bEAATLDD.jpg" alt="画像"/></p><p>いいね 28・リポスト 0・ブックマーク 6・表示 2,562</p><p><a href="https://x.com/kikko10k/status/2116810279665508735">Xで開く</a></p>]]></description>
 </item>
 <item>
 <title>KAZZN (@Kazzn_blog)</title>
@@ -87,6 +132,15 @@
 <dc:creator>Kenn Ejima</dc:creator>
 <pubDate>Sun, 01 Nov 2026 05:14:01 +0000</pubDate>
 <description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/2101495370660655104/F8tzCryw_400x400.jpg" width="48" height="48" alt="Kenn Ejima"/> <b>Kenn Ejima</b> @kenn</p><p>なぜこの詐欺話をしてるかというと<br/><br/>2025年当時でも多くのユーザーが<br/>Claudeを好みCodexは嫌われていて<br/><br/>当時はまだコードを全部読んで<br/>品質を評価していた自分からすると<br/><br/>明らかにCodexの方が正解を出すのに<br/>Claudeの評価ばかり高すぎることを<br/>不当だと感じていた<br/><br/>人類はかくも甘言に弱く<br/>耳の痛い諫言を遠ざけるのは<br/>歴史が証明している通りだなぁと<br/>高みから見下ろすような余裕が<br/>まだその時にはあった<br/><br/>だから当時はCodexを擁護するという<br/>不人気な少数派の役割を担っていた<br/><br/>ところが自分でコードも読まなくなり<br/>AIの扱える情報量が爆発的に増えると<br/>Codexとの意思疎通が難しくなった<br/><br/>平たくいうと<br/>Codexが何を言ってるのかわからない<br/>その結果として指示も曖昧になり<br/>Codexが暴走してしまう場面が増えた<br/><br/>そうなると<br/>ちょっと頭が悪くても人当たりが良く<br/>世渡りのうまい人の方が評価される<br/><br/>少なくともそういう人を上司につけて<br/>扱いの難しい専門家を動かしてほしい<br/>と感じるようになるものだ<br/><br/>これは人間の世界でも典型的な<br/>コミュニケーション不全だ<br/><br/>まるで<br/>親の喜ぶ顔を見たくて頑張った子供が<br/>逆に叱られてしまい闇堕ちするような<br/><br/>以前はCodexの味方をして<br/>君の賢さを僕はよく理解してるんだよ<br/>と擁護していた自分でさえ<br/><br/>今ではOpus 5.5の力を借りなければ<br/>AstraやSolに直接指示を出すのは<br/>難しくなってきている<br/><br/>これは人間の組織でミスコミにより<br/>不祥事や事故が起きるのと<br/>同じ構造ではないか？<br/><br/>しっかり末端までグリップせずに<br/>「自動経営」のようなものを<br/>本当に追求してもいいのだろうか？<br/><br/>その問いを<br/>今も抱えたまま走り続けている</p><p>いいね 495・リポスト 66・ブックマーク 197・表示 40,309</p><p><a href="https://x.com/kenn/status/2116760650244665469">Xで開く</a></p>]]></description>
+</item>
+<item>
+<title>かんち＠高配当株優待株投資 (@kanti990)</title>
+<link>https://x.com/kanti990/status/2116752743838994548</link>
+<guid isPermaLink="true">https://x.com/kanti990/status/2116752743838994548</guid>
+<category>日本株・高配当株</category>
+<dc:creator>かんち＠高配当株優待株投資</dc:creator>
+<pubDate>Sun, 01 Nov 2026 04:42:36 +0000</pubDate>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1613852211666391042/UhIYVl2-_400x400.jpg" width="48" height="48" alt="かんち＠高配当株優待株投資"/> <b>かんち＠高配当株優待株投資</b> @kanti990</p><p>素晴らしい。<br/>私は資源、価格転嫁、銀行にです。 <a href="https://twitter.com/tarachan00000/status/2116752006874558494">https://twitter.com/tarachan00000/status/2116752006874558494</a></p><p>いいね 171・リポスト 3・ブックマーク 57・表示 24,440</p><p><a href="https://x.com/kanti990/status/2116752743838994548">Xで開く</a></p>]]></description>
 </item>
 <item>
 <title>Kenn Ejima (@kenn)</title>

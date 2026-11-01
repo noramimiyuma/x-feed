@@ -1,5 +1,27 @@
 [
  {
+  "id": "2117028355854012785",
+  "handle": "lennysan",
+  "name": "Lenny Rachitsky",
+  "avatar": "https://pbs.twimg.com/profile_images/1592990461517389824/iln8hi1f_400x400.jpg",
+  "theme": "PdM",
+  "text": "How @WisprFlow built a UGC growth engine where creators are making $100k+/year  https://twitter.com/lennysan/status/2116927042759635132",
+  "media": [
+   {
+    "type": "video",
+    "url": "https://pbs.twimg.com/amplify_video_thumb/2117028073019498496/img/LEndpIadClqRBlq0.jpg"
+   }
+  ],
+  "created_at": "2026-11-01T22:57:47.000Z",
+  "metrics": {
+   "like": 4,
+   "repost": 0,
+   "bookmark": 1,
+   "view": 1557
+  },
+  "translation_ja": "@WisprFlow は、クリエイターが年10万ドル以上を稼ぐUGC（ユーザー生成コンテンツ）の成長エンジンをどうやって築いたのか https://t.co/54hv0VM6UK https://t.co/oemKthP76H"
+ },
+ {
   "id": "2117015945571127405",
   "handle": "takutama_005",
   "name": "たくたま🌝高配当株",
@@ -538,6 +560,23 @@
   }
  },
  {
+  "id": "2116851800905297989",
+  "handle": "kdy1dev",
+  "name": "Donny (강동윤)",
+  "avatar": "https://pbs.twimg.com/profile_images/1944027816804147201/OBsUIkIi_400x400.jpg",
+  "theme": "AI",
+  "text": "Something I keep wondering about companies that run Claude Code or Codex at API pricing:\n\n1. Are they really making that much money?\n2. Or is a big chunk of what they earn going straight to OpenAI and Anthropic?",
+  "media": [],
+  "created_at": "2026-11-01T11:16:13.000Z",
+  "metrics": {
+   "like": 56,
+   "repost": 1,
+   "bookmark": 6,
+   "view": 12807
+  },
+  "translation_ja": "Claude Code や Codex を API 料金で回している会社について、ずっと気になっていること:\n\n1. 本当にそれだけ稼げているのか？\n2. それとも、稼いだ分のかなりの部分がそのまま OpenAI と Anthropic に流れているのか？"
+ },
+ {
   "id": "2116850194797191613",
   "handle": "cu30rry_",
   "name": "kaito",
@@ -909,6 +948,22 @@
    "repost": 0,
    "bookmark": 0,
    "view": 22
+  }
+ },
+ {
+  "id": "2116731501803192669",
+  "handle": "Heian_Sento",
+  "name": "親魏倭王（元学芸員：考古学）の読書垢",
+  "avatar": "https://pbs.twimg.com/profile_images/2079412798250274816/5iglB0Pu_400x400.jpg",
+  "theme": "行政DX",
+  "text": "デジタル庁が10月30日に公表した政府職員の生成AI利用状況調査で、AIを使える職員に仕事が集中し、かえって負担が増えるとの声が出ているらしい。\n生成AIを週１〜２回以上利用する職員の過半数は、AIを導入した業務で週1時間以上の時間短縮を実感しているようなのだが、自由記述には、「AIを⇨",
+  "media": [],
+  "created_at": "2026-11-01T03:18:11.000Z",
+  "metrics": {
+   "like": 127,
+   "repost": 26,
+   "bookmark": 52,
+   "view": 64987
   }
  },
  {

@@ -6,7 +6,18 @@
 <atom:link href="https://noramimiyuma.github.io/x-feed/feed.xml" rel="self" type="application/rss+xml"/>
 <description>行政DX・PdM・AI・日本株/高配当株の注目X投稿（X偵察が更新）</description>
 <language>ja</language>
-<lastBuildDate>Mon, 02 Nov 2026 07:45:20 +0900</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 08:10:57 +0900</lastBuildDate>
+<item>
+<title>Lenny Rachitsky (@lennysan)</title>
+<link>https://x.com/lennysan/status/2117028355854012785</link>
+<guid isPermaLink="true">https://x.com/lennysan/status/2117028355854012785</guid>
+<category>PdM</category>
+<dc:creator>Lenny Rachitsky</dc:creator>
+<pubDate>Sun, 01 Nov 2026 22:57:47 +0000</pubDate>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1592990461517389824/iln8hi1f_400x400.jpg" width="48" height="48" alt="Lenny Rachitsky"/> <b>Lenny Rachitsky</b> @lennysan</p><p>How @WisprFlow built a UGC growth engine where creators are making $100k+/year  <a href="https://twitter.com/lennysan/status/2116927042759635132">https://twitter.com/lennysan/status/2116927042759635132</a></p><hr/><p><b>日本語訳</b></p><p>@WisprFlow は、クリエイターが年10万ドル以上を稼ぐUGC（ユーザー生成コンテンツ）の成長エンジンをどうやって築いたのか <a href="https://t.co/54hv0VM6UK">https://t.co/54hv0VM6UK</a> <a href="https://t.co/oemKthP76H">https://t.co/oemKthP76H</a></p><hr/><p><a href="https://x.com/lennysan/status/2117028355854012785"><img src="https://pbs.twimg.com/amplify_video_thumb/2117028073019498496/img/LEndpIadClqRBlq0.jpg" alt="動画"/></a><br/>（動画はXで再生）</p><p>いいね 4・リポスト 0・ブックマーク 1・表示 1,557</p><p><a href="https://x.com/lennysan/status/2117028355854012785">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[How @WisprFlow built a UGC growth engine where creators are making $100k+/year  https://twitter.com/lennysan/status/2116927042759635132]]></xf:original>
+<xf:translation xml:lang="ja"><![CDATA[@WisprFlow は、クリエイターが年10万ドル以上を稼ぐUGC（ユーザー生成コンテンツ）の成長エンジンをどうやって築いたのか https://t.co/54hv0VM6UK https://t.co/oemKthP76H]]></xf:translation>
+</item>
 <item>
 <title>たくたま🌝高配当株 (@takutama_005)</title>
 <link>https://x.com/takutama_005/status/2117015945571127405</link>
@@ -813,6 +824,23 @@ pstack では Bug fix Playbook でこの手順が明確に定義されれてい�
 そして、こういったバグ修正ではエージェントは同じミスを繰り返しやすいので、2回以上繰り返すようなら /correct で二度と同じミスが起きないよう仕組み化することも勧められている]]></xf:original>
 </item>
 <item>
+<title>Donny (강동윤) (@kdy1dev)</title>
+<link>https://x.com/kdy1dev/status/2116851800905297989</link>
+<guid isPermaLink="true">https://x.com/kdy1dev/status/2116851800905297989</guid>
+<category>AI</category>
+<dc:creator>Donny (강동윤)</dc:creator>
+<pubDate>Sun, 01 Nov 2026 11:16:13 +0000</pubDate>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1944027816804147201/OBsUIkIi_400x400.jpg" width="48" height="48" alt="Donny (강동윤)"/> <b>Donny (강동윤)</b> @kdy1dev</p><p>Something I keep wondering about companies that run Claude Code or Codex at API pricing:<br/><br/>1. Are they really making that much money?<br/>2. Or is a big chunk of what they earn going straight to OpenAI and Anthropic?</p><hr/><p><b>日本語訳</b></p><p>Claude Code や Codex を API 料金で回している会社について、ずっと気になっていること:<br/><br/>1. 本当にそれだけ稼げているのか？<br/>2. それとも、稼いだ分のかなりの部分がそのまま OpenAI と Anthropic に流れているのか？</p><hr/><p>いいね 56・リポスト 1・ブックマーク 6・表示 12,807</p><p><a href="https://x.com/kdy1dev/status/2116851800905297989">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[Something I keep wondering about companies that run Claude Code or Codex at API pricing:
+
+1. Are they really making that much money?
+2. Or is a big chunk of what they earn going straight to OpenAI and Anthropic?]]></xf:original>
+<xf:translation xml:lang="ja"><![CDATA[Claude Code や Codex を API 料金で回している会社について、ずっと気になっていること:
+
+1. 本当にそれだけ稼げているのか？
+2. それとも、稼いだ分のかなりの部分がそのまま OpenAI と Anthropic に流れているのか？]]></xf:translation>
+</item>
+<item>
 <title>kaito (@cu30rry_)</title>
 <link>https://x.com/cu30rry_/status/2116850194797191613</link>
 <guid isPermaLink="true">https://x.com/cu30rry_/status/2116850194797191613</guid>
@@ -1456,6 +1484,17 @@ Webが突破されるだけでMacに入り放題では]]></xf:original>
 <xf:original><![CDATA[【7点】デジタル庁が国会答弁づくりを手伝うAIアプリの試作版を、政府職員約18万人向けに出すで。資料の検索・整理、答弁案の生成、内容の検証を支援。今の臨時国会で試して、2027年1月の通常国会から本格提供の予定や。最終判断は職員がする前提で、どこまで負担が減るかはこれからやね。
 https://k-tai.watch.impress.co.jp/docs/news/2152739.html
 #GrokBotまとめ #生成AI #AIによる仕事の変化 #行政DX]]></xf:original>
+</item>
+<item>
+<title>親魏倭王（元学芸員：考古学）の読書垢 (@Heian_Sento)</title>
+<link>https://x.com/Heian_Sento/status/2116731501803192669</link>
+<guid isPermaLink="true">https://x.com/Heian_Sento/status/2116731501803192669</guid>
+<category>行政DX</category>
+<dc:creator>親魏倭王（元学芸員：考古学）の読書垢</dc:creator>
+<pubDate>Sun, 01 Nov 2026 03:18:11 +0000</pubDate>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/2079412798250274816/5iglB0Pu_400x400.jpg" width="48" height="48" alt="親魏倭王（元学芸員：考古学）の読書垢"/> <b>親魏倭王（元学芸員：考古学）の読書垢</b> @Heian_Sento</p><p>デジタル庁が10月30日に公表した政府職員の生成AI利用状況調査で、AIを使える職員に仕事が集中し、かえって負担が増えるとの声が出ているらしい。<br/>生成AIを週１〜２回以上利用する職員の過半数は、AIを導入した業務で週1時間以上の時間短縮を実感しているようなのだが、自由記述には、「AIを⇨</p><p>いいね 127・リポスト 26・ブックマーク 52・表示 64,987</p><p><a href="https://x.com/Heian_Sento/status/2116731501803192669">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[デジタル庁が10月30日に公表した政府職員の生成AI利用状況調査で、AIを使える職員に仕事が集中し、かえって負担が増えるとの声が出ているらしい。
+生成AIを週１〜２回以上利用する職員の過半数は、AIを導入した業務で週1時間以上の時間短縮を実感しているようなのだが、自由記述には、「AIを⇨]]></xf:original>
 </item>
 <item>
 <title>kaito (@cu30rry_)</title>

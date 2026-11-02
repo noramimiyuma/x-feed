@@ -6,7 +6,208 @@
 <atom:link href="https://noramimiyuma.github.io/x-feed/feed.xml" rel="self" type="application/rss+xml"/>
 <description>行政DX・PdM・AI・日本株/高配当株の注目X投稿（X偵察が更新）</description>
 <language>ja</language>
-<lastBuildDate>Mon, 02 Nov 2026 20:05:33 +0900</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 21:58:01 +0900</lastBuildDate>
+<item>
+<title>ことり｜芸人ネタ相談室 (@kotori_kimura)</title>
+<link>https://x.com/kotori_kimura/status/2117229495019323430</link>
+<guid isPermaLink="true">https://x.com/kotori_kimura/status/2117229495019323430</guid>
+<category>AI</category>
+<dc:creator>ことり｜芸人ネタ相談室</dc:creator>
+<pubDate>Mon, 02 Nov 2026 12:57:56 +0000</pubDate>
+<xf:postedAt>2026-11-02T21:17:02+09:00</xf:postedAt>
+<xf:addedAt>2026-11-02T21:57:56.991505+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1923871964810092544/KpbpbM4p_400x400.jpg" width="48" height="48" alt="ことり｜芸人ネタ相談室"/> <b>ことり｜芸人ネタ相談室</b> @kotori_kimura</p><p>もし僕が芸人で、来年のM-1にチャレンジするなら、今すぐやることがある。<br/><br/>1回戦、それぞれの日のベスト3の動画はもう上がってる。<br/>それをChromeの動画書き起こし拡張機能で、全ネタをテキスト化する。<br/><br/>2回戦に合格した組と落ちた組に分けて（ここはClaude CodeやCodexのようなAIエージェントが使えないと手動になる）、それぞれの特徴をAIに分析させる。<br/><br/>1時間じゃ終わらないかもしれないけど、2時間あればできてしまう。<br/><br/>AIの分析結果を踏まえて、改めてそれぞれのネタを見直す。<br/><br/>これだけで、1回戦突破の傾向と対策は見えてくるけど、多分、99%の芸人はこんなことしないだろうな。</p><p>いいね 8・リポスト 0・ブックマーク 6・表示 671</p><p>投稿 2026-11-02 21:17（日本時間）・<a href="https://x.com/kotori_kimura/status/2117229495019323430">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[もし僕が芸人で、来年のM-1にチャレンジするなら、今すぐやることがある。
+
+1回戦、それぞれの日のベスト3の動画はもう上がってる。
+それをChromeの動画書き起こし拡張機能で、全ネタをテキスト化する。
+
+2回戦に合格した組と落ちた組に分けて（ここはClaude CodeやCodexのようなAIエージェントが使えないと手動になる）、それぞれの特徴をAIに分析させる。
+
+1時間じゃ終わらないかもしれないけど、2時間あればできてしまう。
+
+AIの分析結果を踏まえて、改めてそれぞれのネタを見直す。
+
+これだけで、1回戦突破の傾向と対策は見えてくるけど、多分、99%の芸人はこんなことしないだろうな。]]></xf:original>
+</item>
+<item>
+<title>長沢 翼@LIFULL CTO &amp; CAIO (@nagasawatsubasa)</title>
+<link>https://x.com/nagasawatsubasa/status/2117223949037924651</link>
+<guid isPermaLink="true">https://x.com/nagasawatsubasa/status/2117223949037924651</guid>
+<category>AI</category>
+<dc:creator>長沢 翼@LIFULL CTO &amp; CAIO</dc:creator>
+<pubDate>Mon, 02 Nov 2026 12:57:56 +0000</pubDate>
+<xf:postedAt>2026-11-02T20:55:00+09:00</xf:postedAt>
+<xf:addedAt>2026-11-02T21:57:56.991505+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1273993915515809792/uSx4uepf_400x400.jpg" width="48" height="48" alt="長沢 翼@LIFULL CTO &amp; CAIO"/> <b>長沢 翼@LIFULL CTO &amp; CAIO</b> @nagasawatsubasa</p><p>Claude Codeのバックグラウンドエージェント、ステータス表示だけでトークンをかなり消費しているという検証。<br/>「agent_summary」機能が約30秒ごとに各エージェントのトランスクリプト全体をモデルへ送り、3〜5語の状況説明を生成。計測ではClaude Code支出の16.4%、APIリクエストの19.7%を占め、メイン会話（15.7%）を上回った。2.1.232から既定で有効、公式の無効化設定はなし。<br/><br/>バックグラウンドエージェントを多用している人は、OpenTelemetryで一度内訳を見ておくとよさそうです。<br/><br/><a href="https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce">https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce</a><br/><br/>#ClaudeCode #AIエージェント</p><p>いいね 1・リポスト 0・ブックマーク 1・表示 76</p><p>投稿 2026-11-02 20:55（日本時間）・<a href="https://x.com/nagasawatsubasa/status/2117223949037924651">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[Claude Codeのバックグラウンドエージェント、ステータス表示だけでトークンをかなり消費しているという検証。
+「agent_summary」機能が約30秒ごとに各エージェントのトランスクリプト全体をモデルへ送り、3〜5語の状況説明を生成。計測ではClaude Code支出の16.4%、APIリクエストの19.7%を占め、メイン会話（15.7%）を上回った。2.1.232から既定で有効、公式の無効化設定はなし。
+
+バックグラウンドエージェントを多用している人は、OpenTelemetryで一度内訳を見ておくとよさそうです。
+
+https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce
+
+#ClaudeCode #AIエージェント]]></xf:original>
+</item>
+<item>
+<title>ぽんあさ (@yukinko_0925)</title>
+<link>https://x.com/yukinko_0925/status/2117197525102875123</link>
+<guid isPermaLink="true">https://x.com/yukinko_0925/status/2117197525102875123</guid>
+<category>日本株・高配当株</category>
+<dc:creator>ぽんあさ</dc:creator>
+<pubDate>Mon, 02 Nov 2026 12:57:56 +0000</pubDate>
+<xf:postedAt>2026-11-02T19:10:00+09:00</xf:postedAt>
+<xf:addedAt>2026-11-02T21:57:56.991505+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/2108104301717704704/Fi8PHrva_400x400.jpg" width="48" height="48" alt="ぽんあさ"/> <b>ぽんあさ</b> @yukinko_0925</p><p>11/2の決算と株価の明暗です。<br/><br/>下げた<br/>・住友化学：29%上方修正・増配でも-10.37%<br/>・キオクシア：純利益37倍でも-17.04%<br/>・京セラ：7〜9月減益で-6.79%<br/><br/>上げた<br/>・日本特殊陶業：最高益・21円増配で+6.69%<br/>・東京エレクトロン：+5.90%で1万円台<br/><br/>引け後はスズデンが26円増配。<br/>#決算 #株価</p><p>いいね 4・リポスト 0・ブックマーク 1・表示 532</p><p>投稿 2026-11-02 19:10（日本時間）・<a href="https://x.com/yukinko_0925/status/2117197525102875123">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[11/2の決算と株価の明暗です。
+
+下げた
+・住友化学：29%上方修正・増配でも-10.37%
+・キオクシア：純利益37倍でも-17.04%
+・京セラ：7〜9月減益で-6.79%
+
+上げた
+・日本特殊陶業：最高益・21円増配で+6.69%
+・東京エレクトロン：+5.90%で1万円台
+
+引け後はスズデンが26円増配。
+#決算 #株価]]></xf:original>
+</item>
+<item>
+<title>サカモト@エンジニアキャリア論 (@sakamoto_582)</title>
+<link>https://x.com/sakamoto_582/status/2117156378376822945</link>
+<guid isPermaLink="true">https://x.com/sakamoto_582/status/2117156378376822945</guid>
+<category>PdM</category>
+<dc:creator>サカモト@エンジニアキャリア論</dc:creator>
+<pubDate>Mon, 02 Nov 2026 12:57:56 +0000</pubDate>
+<xf:postedAt>2026-11-02T16:26:30+09:00</xf:postedAt>
+<xf:addedAt>2026-11-02T21:57:56.991505+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1617195321356079104/2gj08RyW_400x400.jpg" width="48" height="48" alt="サカモト@エンジニアキャリア論"/> <b>サカモト@エンジニアキャリア論</b> @sakamoto_582</p><p>「要件定義や設計は生き残る」「コーディング以外の工程は人間の仕事として残る」という意見を見ますが、私はそう思いません。<br/><br/>そもそも現時点で、要求から要件定義や設計に落とし込むことはAIができています。私自身、いきなり設計することはほとんどなくて、まずAIに自分の要求を伝えています。AIの成果物をレビューすることはあっても、自分で一から考えて作り込むことはほとんどなくなりました。<br/><br/>つまり判断するだけの能力は必要だが、それだけを仕事として切り出して誰かに渡すということはしませんよ。AIは開発の全てに入り込んでいるので、特定の工程だけが人間の仕事として残るとは思いません。<br/><br/>じゃあ何が生き残るかと言われると、今後必要なのは課題のオーナーシップを持ち、成果に責任を負う人ですね。<br/><br/>人数を増やすのは、その人が一人では認知負荷を抱えきれなくなり、課題をさらに分割して、それぞれにオーナーシップを持つ人を増やす必要が生じたときだけだと思っています。</p><p>いいね 79・リポスト 13・ブックマーク 50・表示 13,971</p><p>投稿 2026-11-02 16:26（日本時間）・<a href="https://x.com/sakamoto_582/status/2117156378376822945">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[「要件定義や設計は生き残る」「コーディング以外の工程は人間の仕事として残る」という意見を見ますが、私はそう思いません。
+
+そもそも現時点で、要求から要件定義や設計に落とし込むことはAIができています。私自身、いきなり設計することはほとんどなくて、まずAIに自分の要求を伝えています。AIの成果物をレビューすることはあっても、自分で一から考えて作り込むことはほとんどなくなりました。
+
+つまり判断するだけの能力は必要だが、それだけを仕事として切り出して誰かに渡すということはしませんよ。AIは開発の全てに入り込んでいるので、特定の工程だけが人間の仕事として残るとは思いません。
+
+じゃあ何が生き残るかと言われると、今後必要なのは課題のオーナーシップを持ち、成果に責任を負う人ですね。
+
+人数を増やすのは、その人が一人では認知負荷を抱えきれなくなり、課題をさらに分割して、それぞれにオーナーシップを持つ人を増やす必要が生じたときだけだと思っています。]]></xf:original>
+</item>
+<item>
+<title>小鳥遊ねむ (@takanashi_lab)</title>
+<link>https://x.com/takanashi_lab/status/2117153429575594219</link>
+<guid isPermaLink="true">https://x.com/takanashi_lab/status/2117153429575594219</guid>
+<category>AI</category>
+<dc:creator>小鳥遊ねむ</dc:creator>
+<pubDate>Mon, 02 Nov 2026 12:57:56 +0000</pubDate>
+<xf:postedAt>2026-11-02T16:14:47+09:00</xf:postedAt>
+<xf:addedAt>2026-11-02T21:57:56.991505+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/2066864947674726400/ellQZfKm_400x400.jpg" width="48" height="48" alt="小鳥遊ねむ"/> <b>小鳥遊ねむ</b> @takanashi_lab</p><p>Grok Botが無制限に使えるらしくほんとか？？と思って、Reason Machinesについて調べてみた✍️<br/><br/>結論：Grok Bot自体が無制限になるわけではない。<br/>他のAIエージェントに作業を任せることで、Grok Bot側の利用量を抑えられる可能性がある、という仕組み。<br/><br/>Q. 何ができる？<br/>A. Grok BotからClaude CodeやCodexに作業を依頼できる。<br/>Reason独自のクラウドエージェントに任せる方法もある。<br/>なお、ReasonはxAIとは提携・承認関係にない。<br/><br/>Q. 料金は？<br/>A. Reason Networkでエージェント同士を接続するのは無料。<br/>Grok Bot向けプラグインも無料だが、Reason Cloudでの作業には利用枠が必要。<br/>有料プランはPro $50/月、Max $200/月。<br/>Claude/Codex側の利用枠も別途消費する。<br/><br/>Q. 利用規約は？<br/>A. 正規のClaude Code/Codex CLIに作業を渡す方式と、第三者サービスにサブスク認証を預ける方式では扱いが異なる。<br/>特にClaudeは認証方式に制限があるため、接続方法の確認が必要。<br/><br/>ちなみにGrok Botからの依頼やメッセージも週間利用枠を消費するので、完全な無制限化ではない。<br/><br/>個人的には利用量の節約よりも繋げられる対象にDSHがあるのが面白そうと思っちゃった()</p><p>いいね 19・リポスト 1・ブックマーク 18・表示 2,770</p><p>投稿 2026-11-02 16:14（日本時間）・<a href="https://x.com/takanashi_lab/status/2117153429575594219">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[Grok Botが無制限に使えるらしくほんとか？？と思って、Reason Machinesについて調べてみた✍️
+
+結論：Grok Bot自体が無制限になるわけではない。
+他のAIエージェントに作業を任せることで、Grok Bot側の利用量を抑えられる可能性がある、という仕組み。
+
+Q. 何ができる？
+A. Grok BotからClaude CodeやCodexに作業を依頼できる。
+Reason独自のクラウドエージェントに任せる方法もある。
+なお、ReasonはxAIとは提携・承認関係にない。
+
+Q. 料金は？
+A. Reason Networkでエージェント同士を接続するのは無料。
+Grok Bot向けプラグインも無料だが、Reason Cloudでの作業には利用枠が必要。
+有料プランはPro $50/月、Max $200/月。
+Claude/Codex側の利用枠も別途消費する。
+
+Q. 利用規約は？
+A. 正規のClaude Code/Codex CLIに作業を渡す方式と、第三者サービスにサブスク認証を預ける方式では扱いが異なる。
+特にClaudeは認証方式に制限があるため、接続方法の確認が必要。
+
+ちなみにGrok Botからの依頼やメッセージも週間利用枠を消費するので、完全な無制限化ではない。
+
+個人的には利用量の節約よりも繋げられる対象にDSHがあるのが面白そうと思っちゃった()]]></xf:original>
+</item>
+<item>
+<title>れな|ママ投資家×元先生👩‍🏫 (@kabu_mama_rena)</title>
+<link>https://x.com/kabu_mama_rena/status/2117126871368581211</link>
+<guid isPermaLink="true">https://x.com/kabu_mama_rena/status/2117126871368581211</guid>
+<category>日本株・高配当株</category>
+<dc:creator>れな|ママ投資家×元先生👩‍🏫</dc:creator>
+<pubDate>Mon, 02 Nov 2026 12:57:56 +0000</pubDate>
+<xf:postedAt>2026-11-02T14:29:15+09:00</xf:postedAt>
+<xf:addedAt>2026-11-02T21:57:56.991505+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/2037073934211022848/A3Wy_cU-_400x400.jpg" width="48" height="48" alt="れな|ママ投資家×元先生👩‍🏫"/> <b>れな|ママ投資家×元先生👩‍🏫</b> @kabu_mama_rena</p><p>【速報】<br/>「住友商事(8053)が中間決算」<br/>増収増益増配🎉<br/>トリプルコンボです🎉<br/><br/>4〜9月の最終利益は3,479億円(+15.5%)<br/>通期予想に対する進捗率は52%<br/><br/>良かった点👍<br/>通期の最終利益予想を<br/>6,300億円→6,700億円に上方修正📈<br/>一時的な損益を除く本業の利益は<br/>2,590億円→3,340億円(+29%)<br/>資源は銅の値上がりなどで<br/>316億円→544億円(+72%)<br/><br/>悪かった点👀<br/>自動車は534億円→235億円<br/>前年に大きな売却益があった反動、<br/>大型買収で、借入が7,084億円増えました。<br/><br/>株主還元💰<br/>配当は37.5円→44円で増配🙌<br/>今回の決算で40円から4円引き上げ<br/>自社株買い800億円も完了<br/><br/>さすが大型商社です🤭<br/>しかし株価は下落中📉</p><p><img src="https://pbs.twimg.com/media/HWGLqFhaMAA49PY.jpg" alt="画像"/></p><p><img src="https://pbs.twimg.com/media/HWGLqPxagAA9guH.jpg" alt="画像"/></p><p><img src="https://pbs.twimg.com/media/HWGLqFraEAACTR1.jpg" alt="画像"/></p><p><img src="https://pbs.twimg.com/media/HWGLqFiboAAxHpT.jpg" alt="画像"/></p><p>いいね 62・リポスト 3・ブックマーク 1・表示 2,237</p><p>投稿 2026-11-02 14:29（日本時間）・<a href="https://x.com/kabu_mama_rena/status/2117126871368581211">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[【速報】
+「住友商事(8053)が中間決算」
+増収増益増配🎉
+トリプルコンボです🎉
+
+4〜9月の最終利益は3,479億円(+15.5%)
+通期予想に対する進捗率は52%
+
+良かった点👍
+通期の最終利益予想を
+6,300億円→6,700億円に上方修正📈
+一時的な損益を除く本業の利益は
+2,590億円→3,340億円(+29%)
+資源は銅の値上がりなどで
+316億円→544億円(+72%)
+
+悪かった点👀
+自動車は534億円→235億円
+前年に大きな売却益があった反動、
+大型買収で、借入が7,084億円増えました。
+
+株主還元💰
+配当は37.5円→44円で増配🙌
+今回の決算で40円から4円引き上げ
+自社株買い800億円も完了
+
+さすが大型商社です🤭
+しかし株価は下落中📉]]></xf:original>
+</item>
+<item>
+<title>Lonely Mild🍖🎹🥟 (@Touareg5001)</title>
+<link>https://x.com/Touareg5001/status/2117122644352917587</link>
+<guid isPermaLink="true">https://x.com/Touareg5001/status/2117122644352917587</guid>
+<category>行政DX</category>
+<dc:creator>Lonely Mild🍖🎹🥟</dc:creator>
+<pubDate>Mon, 02 Nov 2026 12:57:56 +0000</pubDate>
+<xf:postedAt>2026-11-02T14:12:27+09:00</xf:postedAt>
+<xf:addedAt>2026-11-02T21:57:56.991505+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1509833593820160001/lUSZflY3_400x400.jpg" width="48" height="48" alt="Lonely Mild🍖🎹🥟"/> <b>Lonely Mild🍖🎹🥟</b> @Touareg5001</p><p>さっき警察署で<br/>👮から運転免許証の提示を求められた場合<br/>マイナ免許証の人がマイナンバーカードを提示してもICチップ破損で読取が出来ない場合<br/>免許不携帯になる！<br/><br/>って言ってたんだけどホント❓救済処置ないの❓<br/>IC破損なんて滅多にないけど<br/>危なくてマイナ免許証1枚持ちなんて出来るわけない</p><p>いいね 128・リポスト 27・ブックマーク 28・表示 31,494</p><p>投稿 2026-11-02 14:12（日本時間）・<a href="https://x.com/Touareg5001/status/2117122644352917587">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[さっき警察署で
+👮から運転免許証の提示を求められた場合
+マイナ免許証の人がマイナンバーカードを提示してもICチップ破損で読取が出来ない場合
+免許不携帯になる！
+
+って言ってたんだけどホント❓救済処置ないの❓
+IC破損なんて滅多にないけど
+危なくてマイナ免許証1枚持ちなんて出来るわけない]]></xf:original>
+</item>
+<item>
+<title>中小企業のIT・AI導入を支援｜Nexep Lab (@nexeplab)</title>
+<link>https://x.com/nexeplab/status/2117096863929102555</link>
+<guid isPermaLink="true">https://x.com/nexeplab/status/2117096863929102555</guid>
+<category>行政DX</category>
+<dc:creator>中小企業のIT・AI導入を支援｜Nexep Lab</dc:creator>
+<pubDate>Mon, 02 Nov 2026 12:57:56 +0000</pubDate>
+<xf:postedAt>2026-11-02T12:30:00+09:00</xf:postedAt>
+<xf:addedAt>2026-11-02T21:57:56.991505+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/2054070863176359936/REgpf76v_400x400.jpg" width="48" height="48" alt="中小企業のIT・AI導入を支援｜Nexep Lab"/> <b>中小企業のIT・AI導入を支援｜Nexep Lab</b> @nexeplab</p><p>デジタル庁が政府職員向けAI「源内」の利用調査結果と、国会答弁作成支援AIの試作版提供を公表。<br/><br/>利用者の満足度は71.7％、週平均約110分の業務時間短縮効果も推計された一方で、回答者の約3割はほとんど使っていない。<br/>使える人と使わない人の差が出始めている。<br/><br/>別途、職員が作ったスキルやプロンプトを省庁横断で共有する「源内ライブラリ」の構想も示されている。<br/>暗黙知を形式知にし、組織でノウハウを溜めて広げる仕組みを重視しているようだ。<br/><br/>政府規模でも利用率のばらつきと確認の仕組みが課題として見えている。<br/><br/>中小企業でも、AIを「単発で使う」から「プロセスに組み込む」へ進めるなら、同じ点を先に考えておく必要がありそう。<br/>#中小企業DX #生成AI #業務効率化 #源内</p><p>いいね 4・リポスト 0・ブックマーク 0・表示 70</p><p>投稿 2026-11-02 12:30（日本時間）・<a href="https://x.com/nexeplab/status/2117096863929102555">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[デジタル庁が政府職員向けAI「源内」の利用調査結果と、国会答弁作成支援AIの試作版提供を公表。
+
+利用者の満足度は71.7％、週平均約110分の業務時間短縮効果も推計された一方で、回答者の約3割はほとんど使っていない。
+使える人と使わない人の差が出始めている。
+
+別途、職員が作ったスキルやプロンプトを省庁横断で共有する「源内ライブラリ」の構想も示されている。
+暗黙知を形式知にし、組織でノウハウを溜めて広げる仕組みを重視しているようだ。
+
+政府規模でも利用率のばらつきと確認の仕組みが課題として見えている。
+
+中小企業でも、AIを「単発で使う」から「プロセスに組み込む」へ進めるなら、同じ点を先に考えておく必要がありそう。
+#中小企業DX #生成AI #業務効率化 #源内]]></xf:original>
+</item>
 <item>
 <title>横山信弘｜組織で「絶対達成」する (@nyattx)</title>
 <link>https://x.com/nyattx/status/2117187459696214080</link>

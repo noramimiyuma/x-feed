@@ -1,5 +1,98 @@
 [
  {
+  "id": "2117332449382510884",
+  "handle": "ClaudeDevs",
+  "name": "ClaudeDevs",
+  "avatar": "https://pbs.twimg.com/profile_images/2044472418815893504/xf14RxM8_400x400.png",
+  "theme": "AI",
+  "text": "Message threads are now in public beta on the Messages API.\n\nThe API caches your conversation on the server between turns, so instead of resending the full conversation, you send only new messages and the previous message ID, and Claude starts responding sooner.",
+  "media": [
+   {
+    "type": "video",
+    "url": "https://pbs.twimg.com/amplify_video_thumb/2117332353785704449/img/p7_rHqaEU7-HLGfG.jpg"
+   }
+  ],
+  "created_at": "2026-11-02T19:06:08.000Z",
+  "metrics": {
+   "like": 3478,
+   "repost": 118,
+   "bookmark": 983,
+   "view": 193241
+  },
+  "translation_ja": "Messages API でメッセージスレッドがパブリックベータになりました。\n\nAPI がターン間の会話をサーバー側でキャッシュするので、会話全体を毎回送り直す代わりに、新しいメッセージと直前のメッセージIDだけを送ればよく、Claude はより早く応答を始めます。 https://t.co/VeiehyqfIg",
+  "added_at": "2026-11-02T21:00:21.590127+00:00"
+ },
+ {
+  "id": "2117310847525831020",
+  "handle": "umiyuki_ai",
+  "name": "うみゆき@AI研究",
+  "avatar": "https://pbs.twimg.com/profile_images/1581572203660787712/SAdL4WOj_400x400.jpg",
+  "theme": "AI",
+  "text": "冷やかしでGMO会見のニコ生観てるけど熊谷社長メッチャ大事な事言ってる！「昨今、毎日情報漏洩の勢いがヤバい。何故なのか？AIの発展が原因だ！ChatGPTが出てから完全にレベルが変わった。AIの勢いはもはや垂直。特にここ半年は異常。\nそうなった原因は”AIがAIの開発をしだした”から（再帰的自己改善のことね）AIは電気さえ食わせとけば1日24時間ぶっ通しで働く。そしてエージェントは計算資源がある限り無限に数を増やせる。もはや人間からの指示待ち時間がボトルネックなだけ。それさえもエージェント能力の向上によって指示無しでも長時間働けるようになってきた。\n今後AIはあらゆるデバイスに組み込まれて浸透していくだろう。つまり我々も企業もAIの垂直の加速に付いていかないとアカン。すでにサイバー犯罪者達が真っ先にAI垂直世界に付いていってる。犯罪者たちはAIを使って社会を脅かしてる現状。GMOは一歩たりとも犯罪者に屈しない！金は払わない！\nすでに韓国ではセキュリティカチカチのハズの銀行16社でも情報漏洩が起きてしまった。この攻撃に使われたのが中国発のAIペネトレツール、ARTEXだ！OpenAIやAnthropicのクローズAIならセーフガードによって悪用は拒否されるが、一方でオープンモデルだとセーフガード解除や無検閲化によって悪用し放題になってしまう。ARTEXではそういうモデルが使われてる。これを使えば高度なサイバー技術が無い初心者の中学生でも高度なサイバー攻撃ができてしまう！AIで誰でもサイバー攻撃できちゃう、これがインターネットの危険な現状だ！\nしかもこれはまだ始まったばかり…プロローグに過ぎない！犯罪者たちが使ってた道具、以前が拳銃だとしたら今はマシンガンだ！いや、絨毯爆撃、無差別殺人だ！人、企業、政府はこの戦いのスピードに付いていかなければインターネットはAIに汚染されて使えなくなる！記者の皆さんは、ペンという武器を使ってこの事実を周知させ、社会の変化を促していただきたい。これは論点すり替えで問題をAIのせいにするための言い訳をしてるんじゃない。日本のインターネットを守るために言っているんです！インターネットを犯罪者のオモチャにされたままで逃げ出せない！僕は安心安全笑顔のインターネットを取り返してから死ぬつもりです！！」…との事。\nなんかGMOの事件とはあんま関係ない話をして煙に巻かれた感じもありますが、熊谷社長の言ってる事自体は事実。10月に入ってからインターネットはAIのせいで完全に状況が変わった。AIとセキュリティを舐めてる奴からただちに罰せられる。誰もがただちにシリアスに対応を考えざるを得ない。逃げ場なしだ！この事実をどうにかしてはよ世間に周知させねばと思ってたけど、熊谷社長が全部言ってくれてエライ！さすがにこれでAIがもはやシャレになってない状況に突入してる事にみんな気付くやろ",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWIjJyIasAAsb-1.jpg"
+   },
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWImQmHbkAQ68as.jpg"
+   },
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWInA2xbkAErLbE.jpg"
+   }
+  ],
+  "created_at": "2026-11-02T17:40:18.000Z",
+  "metrics": {
+   "like": 37,
+   "repost": 7,
+   "bookmark": 15,
+   "view": 4593
+  },
+  "added_at": "2026-11-02T21:00:21.590127+00:00"
+ },
+ {
+  "id": "2117307611338997846",
+  "handle": "OpenAI",
+  "name": "OpenAI",
+  "avatar": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_400x400.jpg",
+  "theme": "AI",
+  "text": "For AGI to benefit all of humanity, it should help people with the everyday tasks that matter most to them. So we built LifeVal, a new benchmark shaped by feedback from thousands of ChatGPT users on where they most want help from a personal assistant—from finding childcare to accessing government services to managing personal finances.\n\nOver the past year, we’ve used LifeVal to measure and improve how well our models handle these everyday tasks.\n\nhttps://openai.com/index/lifeval/",
+  "media": [
+   {
+    "type": "video",
+    "url": "https://pbs.twimg.com/amplify_video_thumb/2117307511820754944/img/KAscj7SLp6lhMJr9.jpg"
+   }
+  ],
+  "created_at": "2026-11-02T17:27:26.000Z",
+  "metrics": {
+   "like": 4066,
+   "repost": 251,
+   "bookmark": 923,
+   "view": 344819
+  },
+  "translation_ja": "AGI が全人類に恩恵をもたらすには、人々にとって最も大切な日々の用事を手伝えるものでなければなりません。そこで私たちは LifeVal を作りました。これは、何千人もの ChatGPT ユーザーから寄せられた「パーソナルアシスタントに最も助けてほしいこと」――保育先探しから行政サービスの利用、家計の管理まで――についてのフィードバックをもとに形作られた新しいベンチマークです。\n\nこの1年、私たちは LifeVal を使って、こうした日常的なタスクをモデルがどれだけうまくこなせるかを測定し、改善してきました。\n\nhttps://t.co/GlUjixzEM0",
+  "added_at": "2026-11-02T21:00:21.590127+00:00"
+ },
+ {
+  "id": "2117267740193112503",
+  "handle": "purazumakoi",
+  "name": "プラズマコイ@会社員が年間配当100万円",
+  "avatar": "https://pbs.twimg.com/profile_images/2046462884998467584/IVx9GPDL_400x400.jpg",
+  "theme": "日本株・高配当株",
+  "text": "🎏 11/02(月) 増配発表7選 🎏\n\n本日増配発表した企業さんで注目企業をまとめました😊✨\n\n📝累進配当を採用(既存採用)\n住友商事(8053)\n\n■配当利回り5%以上\n👑スズデン(7480) 26円増額 配当利回り6.01% (旧:5.24%) 利回り:+0.77%\n\n■配当利回り4%以上\n👑小松マテーレ(3580) 1円増額 配当利回り4.07% (旧:3.92%) 利回り:+0.15%\n\n■配当利回り3%以上\n👑SBIHD(8473) 15円増配 配当利回り3.90% (旧:-) 利回り:-\n👑大和工業(5444) 20円増額 配当利回り3.54% (旧:3.37%) 利回り:+0.17%\n👑住友化学(4005) 1円増額 配当利回り3.32% (旧:3.13%) 利回り:+0.19%\n\n■配当利回り2%以上\n👑住友商事(8053) 4円増額 配当利回り2.64% (旧:2.40%) 利回り:+0.24%\n👑ほくほくFG(8377) 4円増額 配当利回り2.60% (旧:2.05%) 利回り:+0.55%\n\nご参考になれば幸いです✨\n※各種情報は独自取得であり、間違いがある場合がございます。",
+  "media": [],
+  "created_at": "2026-11-02T14:49:00.000Z",
+  "metrics": {
+   "like": 52,
+   "repost": 1,
+   "bookmark": 8,
+   "view": 7860
+  },
+  "added_at": "2026-11-02T21:00:21.590127+00:00"
+ },
+ {
   "id": "2117243784891441256",
   "handle": "maakun1988",
   "name": "まーくん@株主優待",

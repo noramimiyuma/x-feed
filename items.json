@@ -1,5 +1,169 @@
 [
  {
+  "id": "2117088940780036416",
+  "handle": "chawan_wabita",
+  "name": "ちゃわんご",
+  "avatar": "https://pbs.twimg.com/profile_images/1674738676247691265/0GoAaOdL_400x400.jpg",
+  "theme": "日本株・高配当株",
+  "text": "半導体さん、明暗が分かれ始める\n\n東京エレクトロン　＋5.1%\nアドバンテスト　＋2.3%\nレーザーテック　＋4.5%\n\nSCREEN　▲18.6%\nキオクシア　▲13.2%\nイビデン　▲4.1%",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWFpK5waAAAgSwn.jpg"
+   },
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWFpK5vboAEI3Zo.jpg"
+   },
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWFpK58bQAAWIVe.jpg"
+   },
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWFpK5uawAA-I6G.jpg"
+   }
+  ],
+  "created_at": "2026-11-02T02:58:31.000Z",
+  "metrics": {
+   "like": 11,
+   "repost": 3,
+   "bookmark": 1,
+   "view": 1639
+  }
+ },
+ {
+  "id": "2117081044860154331",
+  "handle": "digital_jpn",
+  "name": "デジタル庁",
+  "avatar": "https://pbs.twimg.com/profile_images/1432867630298419206/Uez_q2Zx_400x400.png",
+  "theme": "行政DX",
+  "text": "機械可読性チェックツール「Harunobu（はるのぶ）」公開✅\n\nExcelなどの表形式のデータが「コンピュータやAIにとって読みやすい形になっているか」を自動で点検し、100点満点で採点してくれるツールをGitHubで公開。データのどこをどう直せばよいかを迅速に把握できます。\nhttps://www.digital.go.jp/resources/machine-readability-rule/harunobu",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWFh0X8bAAE17dW.jpg"
+   }
+  ],
+  "created_at": "2026-11-02T02:27:09.000Z",
+  "metrics": {
+   "like": 14,
+   "repost": 2,
+   "bookmark": 8,
+   "view": 2032
+  }
+ },
+ {
+  "id": "2117079339812684211",
+  "handle": "kgsi",
+  "name": "こぎそ",
+  "avatar": "https://pbs.twimg.com/profile_images/2106765574747623424/YKS7OaPc_400x400.jpg",
+  "theme": "PdM",
+  "text": "AIで完成形まですぐ作れるようになった今、最初に何を見せるかを考えた記事📝\n\n「アウトプットの完成度と、合意の完成度は別」はその通りで、完成案をいきなり出すと、相手は好き嫌いでしか反応できなくなる。\n制作が速くなった分、合意フローは特に意図して組み立てる必要がある。受託の提案だとここが大事だと思う。\n\n完成形がすぐ作れる時代に、どこから見せるべきか｜ミテ @mite_pon \nhttps://note.com/miteo/n/n218625eae4c9",
+  "media": [],
+  "created_at": "2026-11-02T02:20:22.000Z",
+  "metrics": {
+   "like": 9,
+   "repost": 0,
+   "bookmark": 7,
+   "view": 788
+  }
+ },
+ {
+  "id": "2117072330656821641",
+  "handle": "yumamaeda1210",
+  "name": "前田悠馬｜御社専用のAIツールを毎月作る顧問",
+  "avatar": "https://pbs.twimg.com/profile_images/2111057152492326912/MqAJkBtX_400x400.jpg",
+  "theme": "AI",
+  "text": "Claude CodeやCodexでOffice資料を作るなら知っておきたい、AIエージェント向けのオープンソースツール「OfficeCLI」\n\nWord・Excel・PowerPointの作成だけでなく、既存ファイルの編集、データ集計、レイアウト確認までAIに任せられる。\n\nしかも、Microsoft Officeのインストール不要。\n\n何がすごいのかと言うと、\n■ ① Word・Excel・PowerPointをAIが直接編集\n例えば、AIにこんな指示ができる。\n・「この営業資料の売上数値を更新して」\n・「Excelの売上データを集計してグラフを作って」\n・「Wordの契約書から特定の条項を探して修正して」\n・「既存のPowerPointを使って来月の報告資料を作って」\nOfficeCLIは、AIがファイルの中身を読み取り、文章・セル・スライドなどを操作するためのツール。\nゼロから作るだけでなく、既存資料の修正にも使えるのがポイント。\n\n■ ② AIが資料を「目で見て」修正できる\nこれまでのAIによる資料作成では、内容が正しくても、\n・文字がスライドからはみ出す\n・図形が重なる\n・レイアウトが崩れる\nといった問題が起こりがちだった。\nOfficeCLIには、OfficeファイルをHTMLや画像として表示する機能がある。\nそのため、画像を認識できるAIなら、\n① 資料を作成する\n② 完成イメージを画像で確認する\n③ レイアウトの問題を見つける\n④ 修正して再確認する\nという流れを実行できる。\nつまり、AIが作って終わりではなく、自分の成果物を確認して改善する仕組みを作れる。\n\n■ ③ Excelの高度な処理にも対応\n単純なセル編集だけではない。\n・350種類以上のExcel関数\n・XLOOKUPなどの関数計算\n・ピボットテーブル\n・グラフ作成\n・条件付き書式\n・データの並び替え\nなどにも対応。\n例えば、毎月の売上Excelから集計表やグラフを作成し、報告資料に反映するといった業務自動化にも活用できる。\n\n■ ④ 大量の資料作成も自動化\nテンプレートにデータを流し込む機能もある。\n例えば、\n・顧客100社分の提案資料\n・毎月の営業報告書\n・取引先ごとの請求書\n・部署別の実績レポート\nなどを、共通のテンプレートから一括生成する仕組みを構築できる。\n毎回AIにゼロから作らせる必要がないため、レイアウトの統一や処理の効率化にもつながる。\n\n■ ⑤ Claude CodeやCodexなどと連携できる\nOfficeCLIは、AIエージェントから使うことを前提に設計されている。\nClaude Code、Codex、Cursorなどとの連携が可能で、MCPにも対応。\n\nさらに、AionUiというGUIアプリを使えば、自然言語でOffice資料を作成・編集することもできる。\nそして、OfficeCLI自体は無料のオープンソース。",
+  "media": [],
+  "created_at": "2026-11-02T01:52:31.000Z",
+  "metrics": {
+   "like": 3,
+   "repost": 0,
+   "bookmark": 2,
+   "view": 155
+  }
+ },
+ {
+  "id": "2117070827644662060",
+  "handle": "n__tysk",
+  "name": "億り猫レオ🐈🐾高配当投資",
+  "avatar": "https://pbs.twimg.com/profile_images/2116391297225494528/Xhlht0ME_400x400.jpg",
+  "theme": "日本株・高配当株",
+  "text": "【8473 SBI】2Q決算＆大幅増配発表📣\n\n大幅な増収増益の好決算と増配が発表されました！中間決算の時点ですでにEPS356.7円を稼ぎ出す力強い内容です✨\n  \n📊 決算ハイライト（27年3月期 2Q累計）\n・収益：1兆575億円（前年同期比+17.2%）\n・税引前利益：3,243億円（同+52.9%）\n・純利益：2,305億円（同+39.1%）\n・EPS：356.7円 （上期分のみ）\n\n💰 配当情報\n・期末配当予想：80円に決定！\n・年間配当予想：110円（+15円の増配）\n・予想配当利回り：約3.88%\n\n💬 株価動向\n私には好決算に見えますし、増配発表ですが、株価は2,840円（前日比 -26円 / -0.9%）と若干の下落で推移しています😭",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWFYskMasAA9J5U.jpg"
+   },
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWFYskLaUAA2ocJ.jpg"
+   }
+  ],
+  "created_at": "2026-11-02T01:46:33.000Z",
+  "metrics": {
+   "like": 43,
+   "repost": 2,
+   "bookmark": 3,
+   "view": 6189
+  }
+ },
+ {
+  "id": "2117063326228480403",
+  "handle": "_map_universe_",
+  "name": "Map",
+  "avatar": "https://pbs.twimg.com/profile_images/2076110644471099392/pevRMoHH_400x400.jpg",
+  "theme": "日本株・高配当株",
+  "text": "今朝の株クラ話題銘柄\n\n【日本株】\n・285A キオクシア — 金曜引け後の決算でPTS-12%前後、寄り前気配も-14%台で投げ売り報告が相次ぐ\n・6920 レーザーテック — 7-9月売上25%減で利益半減、PTSでもう一段安\n・8035 東京エレクトロン — 今期最高益見通しと1500億円の自社株買い、PTSで買い損ねた声も\n・6752 パナソニックHD — 今期最終を20%上方修正し最高益上乗せ、配当も増額\n・9984 ソフトバンクG — OpenAIの資金調達目標引き下げ報道で大幅続落\n・5334 日本特殊陶業 — 通期上方修正とDOE6%程度への還元方針変更で急騰\n・6196 ストライクG — 2期連続最高益と増配・自社株買いでストップ高\n\n【米株】\n・$AMZN Amazon — 決算未達とAI投資によるフリーCF流出で時間外に一時急落、本日は-1.75%で引け\n・$GOOGL Alphabet — 決算未達で過去最大の下落、時価総額約5000億ドルが吹き飛ぶ\n・$INTC Intel — 決算後に約-29%の暴落、半導体全面安（SOX-7.2%）の震源に\n・$NVDA Nvidia — 半導体売りで-4%、「Nvidiaが決算を外せば世界が終わる」投稿が拡散\n・$AAPL / $PLTR — どちらも今週決算、Appleは時価総額首位奪還が目前と話題\n・$MRVL / $LITE — MarvellがLumentum買収へ最終調整と報道、LITE+12%・MRVL-10%",
+  "media": [],
+  "created_at": "2026-11-02T01:16:44.000Z",
+  "metrics": {
+   "like": 7,
+   "repost": 0,
+   "bookmark": 0,
+   "view": 1876
+  }
+ },
+ {
+  "id": "2117060075865219219",
+  "handle": "nyattx",
+  "name": "横山信弘｜組織で「絶対達成」する",
+  "avatar": "https://pbs.twimg.com/profile_images/1187708714184130560/J9f3NUuT_400x400.jpg",
+  "theme": "PdM",
+  "text": "仮説検証サイクルを回すには、頭の中にフローチャートがあるといい（⤵） https://twitter.com/nyattx/status/2116455141746385014",
+  "media": [],
+  "created_at": "2026-11-02T01:03:49.000Z",
+  "metrics": {
+   "like": 6,
+   "repost": 2,
+   "bookmark": 3,
+   "view": 438
+  }
+ },
+ {
+  "id": "2117048220484571627",
+  "handle": "okayokay0214",
+  "name": "岡　佳伸",
+  "avatar": "https://pbs.twimg.com/profile_images/1349590569706639360/IepgiWPD_400x400.jpg",
+  "theme": "行政DX",
+  "text": "電子申請時に私は社労夢からe-govにＧビズID経由で申請していたのですが、先週末からエラー＆返戻が多発していたんですよね(2026年10月28日現在）\n（自動的にエラー又は返戻になる、返戻時は返戻表の添付が無い）\n訳も分からず再認証繰返していたのですが、その対応で正しいとのことです\n#電子申請",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWFClNGacAAeCsH.jpg"
+   }
+  ],
+  "created_at": "2026-11-02T00:16:43.000Z",
+  "metrics": {
+   "like": 9,
+   "repost": 0,
+   "bookmark": 0,
+   "view": 882
+  }
+ },
+ {
   "id": "2117045493134213588",
   "handle": "kobaka7",
   "name": "こばかな",
@@ -13,6 +177,48 @@
    "repost": 0,
    "bookmark": 0,
    "view": 231
+  }
+ },
+ {
+  "id": "2117037334248280128",
+  "handle": "umiyuki_ai",
+  "name": "うみゆき@AI研究",
+  "avatar": "https://pbs.twimg.com/profile_images/1581572203660787712/SAdL4WOj_400x400.jpg",
+  "theme": "AI",
+  "text": "OpenAIからチャット使い放題死刑宣告のメールが来ました",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWE6IdJaQAAYGki.png"
+   }
+  ],
+  "created_at": "2026-11-01T23:33:27.000Z",
+  "metrics": {
+   "like": 63,
+   "repost": 11,
+   "bookmark": 4,
+   "view": 4039
+  }
+ },
+ {
+  "id": "2117034230656184638",
+  "handle": "shota7180",
+  "name": "木内翔大＠SHIFT AI代表「日本をAI先進国に」𝕏",
+  "avatar": "https://pbs.twimg.com/profile_images/1734034566925725696/cI8GDs2U_400x400.jpg",
+  "theme": "AI",
+  "text": "TapNow、言葉だけで3DCGの世界を生成できる「CineMap」を公開中！\n\n・テキストや音声指示で3D空間を構築\n・人物やオブジェクトを自由に配置\n・カメラ位置や動きを設定、撮影前にシミュレーション\n\n頭の中で思い描いた世界を3D空間として再現。映像制作に大いに活用できそう。",
+  "media": [
+   {
+    "type": "video",
+    "url": "https://pbs.twimg.com/ext_tw_video_thumb/2116856760581472256/pu/img/plz_vxNWP1KyAZkh.jpg"
+   }
+  ],
+  "created_at": "2026-11-01T23:21:07.000Z",
+  "metrics": {
+   "like": 11,
+   "repost": 3,
+   "bookmark": 4,
+   "view": 3195
   }
  },
  {
@@ -67,6 +273,22 @@
    "repost": 0,
    "bookmark": 2,
    "view": 74
+  }
+ },
+ {
+  "id": "2117023700134625661",
+  "handle": "kgsi",
+  "name": "こぎそ",
+  "avatar": "https://pbs.twimg.com/profile_images/2106765574747623424/YKS7OaPc_400x400.jpg",
+  "theme": "PdM",
+  "text": "ソロデザイナーが、FigmaからClaude Codeでの実装モックに移った記録👀\n\ndesign/ ブランチでモックアップを作り、PMに確認してもらう流れ。AIに渡す文脈を「常駐させる」「取りに行かせる」「その場で渡す」の三層に分けている。\n\nFigmaを離れてClaude CodeでUIデザインをするようになった話｜Hikari\nhttps://note.com/hgffdgn654/n/n92467b83a1c1",
+  "media": [],
+  "created_at": "2026-11-01T22:39:17.000Z",
+  "metrics": {
+   "like": 111,
+   "repost": 9,
+   "bookmark": 109,
+   "view": 7348
   }
  },
  {
@@ -195,6 +417,22 @@
    "repost": 1,
    "bookmark": 1,
    "view": 1613
+  }
+ },
+ {
+  "id": "2117002335629320597",
+  "handle": "News_Challenger",
+  "name": "報道勇者 NewsChallenger.com / 示現舎 / 日本姓氏語源辞典",
+  "avatar": "https://pbs.twimg.com/profile_images/1748313600354324480/CGWlYHis_400x400.jpg",
+  "theme": "行政DX",
+  "text": "【浜松市】業務システム標準化で運用費がなんと年12億円増　効率化のはずが自治体の負担に\nhttps://jigensha.info/2026/11/02/hyojunka-hamamatsu/\n\n標準化問題が今、各地の自治体を悩ませているのをご存知だろうか。住民記録や税などの情報システムを国の仕様にそろえ、行政の効率化を目指す取り組みだ。\n\nしかし、既に共同運用を進めていた地域でも費用増が生じ、浜松市では年間運用費が9.1億円から21.1億円へ膨らむ。取材に回答した同市は、移行期限を優先したことによる課題も説明した。\n\n何が負担を押し上げているのか検証してみた。",
+  "media": [],
+  "created_at": "2026-11-01T21:14:23.000Z",
+  "metrics": {
+   "like": 17,
+   "repost": 6,
+   "bookmark": 1,
+   "view": 804
   }
  },
  {

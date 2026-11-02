@@ -1,5 +1,37 @@
 [
  {
+  "id": "2117045493134213588",
+  "handle": "kobaka7",
+  "name": "こばかな",
+  "avatar": "https://pbs.twimg.com/profile_images/956867108020744193/wbXnVRKn_400x400.jpg",
+  "theme": "PdM",
+  "text": "良記事すぎた。素直にUIありきのツールを作っていたら使いこなすのむずい問題が発生したので、MCPの開発することで突破したFDE事例。\n\nNOT A HOTEL ARCHITECTS で目指す AI ネイティブなプロジェクト管理の実現｜uji @uji_rb https://note.com/ujiii/n/n1fb584ebd0f5?sub_rt=share_pw",
+  "media": [],
+  "created_at": "2026-11-02T00:05:53.000Z",
+  "metrics": {
+   "like": 1,
+   "repost": 0,
+   "bookmark": 0,
+   "view": 231
+  }
+ },
+ {
+  "id": "2117029450659590355",
+  "handle": "Kazzn_blog",
+  "name": "KAZZN",
+  "avatar": "https://pbs.twimg.com/profile_images/1560587873958895617/w9a0BcLs_400x400.jpg",
+  "theme": "日本株・高配当株",
+  "text": "先週に、上場来高値を更新した銘柄✨\n\n🟢網屋(4258)\n🟢SBS HD(2384)\n🟢コナミG(9766)\n🟢加藤産業(9869)\n🟢良品計画(7453)\n🟢泉州電業(9824)\n🟢住友倉庫(9303)\n🟢大同信号(6743)\n🟢マックス(6454)\n🟢大塚商会(4768)\n🟢竹内製作所(6432)\n🟢ブシロード(7803)\n🟢日本調理機(2961)\n🟢かどや製油(2612)\n🟢鶴見製作所(6351)\n🟢センコーGHD(9069)\n🟢バンドー化学(5195)\n🟢日本特殊塗料(4619)\n🟢信越ポリマー(7970)\n🟢セグエグループ(3968)\n🟢サカタインクス(4633)\n🟢立花エレテック(8159)\n🟢建設技術研究所(9621)\n🟢テクマトリックス(3762)\n🟢セイコーエプソン(6724)\n🟢セキュアヴェイル(3042)\n🟢サイバートラスト(4498)\n🟢オンコリスバイオファーマ(4588)\n🟢ビジネスブレイン太田昭和(9658)\n🟢メディパルホールディングス(7459)\n🟢ダイワボウホールディングス(3107)\n🟢日本マクドナルドホールディングス(2702)",
+  "media": [],
+  "created_at": "2026-11-01T23:02:08.000Z",
+  "metrics": {
+   "like": 69,
+   "repost": 7,
+   "bookmark": 1,
+   "view": 5485
+  }
+ },
+ {
   "id": "2117028355854012785",
   "handle": "lennysan",
   "name": "Lenny Rachitsky",
@@ -22,6 +54,59 @@
   "translation_ja": "@WisprFlow は、クリエイターが年10万ドル以上を稼ぐUGC（ユーザー生成コンテンツ）の成長エンジンをどうやって築いたのか https://t.co/54hv0VM6UK https://t.co/oemKthP76H"
  },
  {
+  "id": "2117025364312801282",
+  "handle": "Ma_san229",
+  "name": "Manome@ AI Agent 駆動開発",
+  "avatar": "https://pbs.twimg.com/profile_images/2005959657136050176/BkEnn2e7_400x400.jpg",
+  "theme": "AI",
+  "text": "Agent Skillsを作って育てる流れが、ゆずたそさんの記事にまとまっていました。\n\n暗黙知と判断基準を書き出す\n↓\n答えが1つに決まる処理はプログラムに、AIは判断だけ\n↓\n社外に出るものは人の承認を挟む\n↓\n文脈を知らない別のAIに手順書だけ渡して試運転\n↓\n失敗したら背景つきで手順に足す\n\n始めるなら、今週のTODOから時間×頻度が大きい作業を1つだけ、だそうです。\n\nリプ欄に日本語まとめ👇\n\nhttps://techblog.kazaneya.com/20261030-agent-skills/",
+  "media": [],
+  "created_at": "2026-11-01T22:45:53.000Z",
+  "metrics": {
+   "like": 2,
+   "repost": 0,
+   "bookmark": 2,
+   "view": 74
+  }
+ },
+ {
+  "id": "2117021365253685320",
+  "handle": "Haruki_Sonehara",
+  "name": "Haruki Sonehara / 🇺🇸シリコンバレーのプロダクト戦略 & 組織アドバイザー",
+  "avatar": "https://pbs.twimg.com/profile_images/1170937949061410816/0HlOljs2_400x400.jpg",
+  "theme": "AI",
+  "text": "MetaのAIエージェント「Muse」が日本上陸。\n\n40日で1000万DLと話題だが、水面下ではAmazonや大手銀行が必死でアクセスを遮断し始めている。\n\n理由は単純で、エージェントが広告も、レジ前のついで買いも、アップセルも全部スキップして最安値で決済してしまうから。\n\n人間を寄り道させて儲けていた既存ECやサービスのビジネスモデルに、破壊の序章が訪れた。\n\nこの辺りビジネスインサイダーさん（@BIJapan）の番組で、\n\n・Amazonやメガバンクが恐れる「入り口の喪失」\n・40日で1000万DLされたのに、14日後に継続率が23%に急落した「信用の壁」\n・不動産AI「EliseAI」が方言（訛り）を変えて成約率を10%跳ね上げた事例\n・エージェント時代に「消える仕事」と「新しく勝てる人」\n\nなどなど、ガッツリ対談してきました。\n\nエージェントがビジネスをどう塗り替えるのか、ぜひチェックしてみてください👇",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWC035BbkAAPS-W.jpg"
+   }
+  ],
+  "created_at": "2026-11-01T22:30:00.000Z",
+  "metrics": {
+   "like": 2,
+   "repost": 0,
+   "bookmark": 2,
+   "view": 680
+  }
+ },
+ {
+  "id": "2117015989120639468",
+  "handle": "financial1111",
+  "name": "配当太郎",
+  "avatar": "https://pbs.twimg.com/profile_images/1566658926397247488/n8g7rtj7_400x400.jpg",
+  "theme": "日本株・高配当株",
+  "text": "今日は総合商社、住友商事の決算発表日だー！！2Q業績内容はもちろんのこと、通期予想はどうなるのか、業績上方修正や追加株主還元はあるのか、楽しみに待とう！！",
+  "media": [],
+  "created_at": "2026-11-01T22:08:38.000Z",
+  "metrics": {
+   "like": 231,
+   "repost": 2,
+   "bookmark": 3,
+   "view": 17158
+  }
+ },
+ {
   "id": "2117015945571127405",
   "handle": "takutama_005",
   "name": "たくたま🌝高配当株",
@@ -35,6 +120,22 @@
    "repost": 0,
    "bookmark": 0,
    "view": 16
+  }
+ },
+ {
+  "id": "2117015576325374312",
+  "handle": "JoE_HiRose",
+  "name": "Joe Hirose | ログラス | 日本HRBP協会 | Product People",
+  "avatar": "https://pbs.twimg.com/profile_images/1564410311804784640/hCPOG4_u_400x400.jpg",
+  "theme": "PdM",
+  "text": "AI時代、エンジニアの仕事は「作ること」からどこまで広がるのか。\n\nログラス共同創業者の坂本（@http204）とVPoT川村（@k0j1iii）が、FDEのリアルを語っています。\n\n顧客の課題発見から、AIを活用した実装、業務変革、さらには事業開発まで。\n\nFDEは、エンジニアリング × PdM × BizDevが交差する、個人的にも非常に面白い職種だと思っています。\n\n働き方や技術的な難しさ、キャリアの可能性まで。ぜひ！\n\nhttps://www.youtube.com/watch?v=nchcrwtCtrs",
+  "media": [],
+  "created_at": "2026-11-01T22:07:00.000Z",
+  "metrics": {
+   "like": 3,
+   "repost": 0,
+   "bookmark": 1,
+   "view": 325
   }
  },
  {

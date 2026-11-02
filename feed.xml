@@ -6,7 +6,105 @@
 <atom:link href="https://noramimiyuma.github.io/x-feed/feed.xml" rel="self" type="application/rss+xml"/>
 <description>行政DX・PdM・AI・日本株/高配当株の注目X投稿（X偵察が更新）</description>
 <language>ja</language>
-<lastBuildDate>Mon, 02 Nov 2026 16:03:05 +0900</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 17:08:50 +0900</lastBuildDate>
+<item>
+<title>miyatti | 生成AIエバンジェリスト / CPO (@miyatti)</title>
+<link>https://x.com/miyatti/status/2117157231947137494</link>
+<guid isPermaLink="true">https://x.com/miyatti/status/2117157231947137494</guid>
+<category>AI</category>
+<dc:creator>miyatti | 生成AIエバンジェリスト / CPO</dc:creator>
+<pubDate>Mon, 02 Nov 2026 08:08:45 +0000</pubDate>
+<xf:postedAt>2026-11-02T16:29:53+09:00</xf:postedAt>
+<xf:addedAt>2026-11-02T17:08:45.497524+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1992649414536765440/CIbawGhH_400x400.jpg" width="48" height="48" alt="miyatti | 生成AIエバンジェリスト / CPO"/> <b>miyatti | 生成AIエバンジェリスト / CPO</b> @miyatti</p><p>ほぼ自分用のメモの図解なのだけど、現時点でのGrokBot/Muse/Dotsなどパーソナルエージェント系の仕組みの図解。Grok Botを第一秘書にして、Museを第二秘書、Dotsは補欠wその先に常駐MacのClaude CodeとCodexがいる、という構成です。秘書は複数いるけど、部下と台帳は共通。<br/>---<br/>普段のざっくりした相談は秘書へ。何をやるかはっきりしている仕事や、前にやっていたことの続きは、自分でClaude Codeに直接頼むこともある。秘書が自分で片づける仕事もあれば、部下に実作業をお願いする仕事もある。毎回同じ経路を通すというより、頼みごとに応じて使い分ける感じです。<br/>---<br/>ここで大事なのが、共通の台帳（タスク/プロジェクトリスト）。私は自作のAI-PLCという仕組みに、お願いした案件の経緯や決めたこと、成果、残っている作業を残す。これを人間も、各種秘書エージェント、現場スレッドがみる。どの秘書に頼んでも、前の話を最初から説明し直さなくていい状態にしてます。いったん完了するまではFlow（下書き・作業中）フォルダに配置。これはMacのローカルにしか存在させない。バックアップはTimemachineでNASに。<br/>---<br/>そのプロジェクトが完了したら、頼んだタスクの生成物、成果物は、定期的にStock情報としてまとめさせるようにしていて、それをプライベートのやつだったらプライベートのレポジトリ、仕事のやつだったら社員メンバーがみえる社内Githubのレポジトリに案件ごとにModuleわけて置くように（これは今改善中）。</p><p><img src="https://pbs.twimg.com/media/HWGl1ejagAAtNWD.jpg" alt="画像"/></p><p>いいね 14・リポスト 1・ブックマーク 17・表示 725</p><p>投稿 2026-11-02 16:29（日本時間）・<a href="https://x.com/miyatti/status/2117157231947137494">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[ほぼ自分用のメモの図解なのだけど、現時点でのGrokBot/Muse/Dotsなどパーソナルエージェント系の仕組みの図解。Grok Botを第一秘書にして、Museを第二秘書、Dotsは補欠wその先に常駐MacのClaude CodeとCodexがいる、という構成です。秘書は複数いるけど、部下と台帳は共通。
+---
+普段のざっくりした相談は秘書へ。何をやるかはっきりしている仕事や、前にやっていたことの続きは、自分でClaude Codeに直接頼むこともある。秘書が自分で片づける仕事もあれば、部下に実作業をお願いする仕事もある。毎回同じ経路を通すというより、頼みごとに応じて使い分ける感じです。
+---
+ここで大事なのが、共通の台帳（タスク/プロジェクトリスト）。私は自作のAI-PLCという仕組みに、お願いした案件の経緯や決めたこと、成果、残っている作業を残す。これを人間も、各種秘書エージェント、現場スレッドがみる。どの秘書に頼んでも、前の話を最初から説明し直さなくていい状態にしてます。いったん完了するまではFlow（下書き・作業中）フォルダに配置。これはMacのローカルにしか存在させない。バックアップはTimemachineでNASに。
+---
+そのプロジェクトが完了したら、頼んだタスクの生成物、成果物は、定期的にStock情報としてまとめさせるようにしていて、それをプライベートのやつだったらプライベートのレポジトリ、仕事のやつだったら社員メンバーがみえる社内Githubのレポジトリに案件ごとにModuleわけて置くように（これは今改善中）。]]></xf:original>
+</item>
+<item>
+<title>配当太郎 (@financial1111)</title>
+<link>https://x.com/financial1111/status/2117106118690586843</link>
+<guid isPermaLink="true">https://x.com/financial1111/status/2117106118690586843</guid>
+<category>日本株・高配当株</category>
+<dc:creator>配当太郎</dc:creator>
+<pubDate>Mon, 02 Nov 2026 08:08:45 +0000</pubDate>
+<xf:postedAt>2026-11-02T13:06:47+09:00</xf:postedAt>
+<xf:addedAt>2026-11-02T17:08:45.497524+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1566658926397247488/n8g7rtj7_400x400.jpg" width="48" height="48" alt="配当太郎"/> <b>配当太郎</b> @financial1111</p><p>住友商事、業績上方修正と増配キターー！<br/>業績見通しを6,300億円から6,700億円へ。バッファ考慮前で7,000億円。そして一株配は40円から44円に増配。たった4円と思うかもしれないけれど、増配率20%だ！<br/>やったね！やったね！！やったね！！！</p><p><img src="https://pbs.twimg.com/media/HWF4yzFacAASBsH.jpg" alt="画像"/></p><p>いいね 623・リポスト 13・ブックマーク 17・表示 33,356</p><p>投稿 2026-11-02 13:06（日本時間）・<a href="https://x.com/financial1111/status/2117106118690586843">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[住友商事、業績上方修正と増配キターー！
+業績見通しを6,300億円から6,700億円へ。バッファ考慮前で7,000億円。そして一株配は40円から44円に増配。たった4円と思うかもしれないけれど、増配率20%だ！
+やったね！やったね！！やったね！！！]]></xf:original>
+</item>
+<item>
+<title>nobuo | 鈴木伸緒 (@nobgraphica)</title>
+<link>https://x.com/nobgraphica/status/2117094103691489311</link>
+<guid isPermaLink="true">https://x.com/nobgraphica/status/2117094103691489311</guid>
+<category>行政DX</category>
+<dc:creator>nobuo | 鈴木伸緒</dc:creator>
+<pubDate>Mon, 02 Nov 2026 08:08:45 +0000</pubDate>
+<xf:postedAt>2026-11-02T12:19:02+09:00</xf:postedAt>
+<xf:addedAt>2026-11-02T17:08:45.497524+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1665321754527666177/lxJ7zC1-_400x400.jpg" width="48" height="48" alt="nobuo | 鈴木伸緒"/> <b>nobuo | 鈴木伸緒</b> @nobgraphica</p><p>【11/16（月） 19:00 - オンライン】CPOと現場のPdMによる行政AX/DXについての採用イベントを開催します！<br/>PdMはもちろん、デザイナーの方にとっても具体的にプロジェクトがどのように進んでいるのかについて把握しやすい機会です。<br/>興味あるデザイナーの方もぜひご参加ください！<br/><a href="https://digital-recruit-gov.note.jp/n/n919ed6ab6680">https://digital-recruit-gov.note.jp/n/n919ed6ab6680</a></p><p>いいね 0・リポスト 0・ブックマーク 0・表示 352</p><p>投稿 2026-11-02 12:19（日本時間）・<a href="https://x.com/nobgraphica/status/2117094103691489311">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[【11/16（月） 19:00 - オンライン】CPOと現場のPdMによる行政AX/DXについての採用イベントを開催します！
+PdMはもちろん、デザイナーの方にとっても具体的にプロジェクトがどのように進んでいるのかについて把握しやすい機会です。
+興味あるデザイナーの方もぜひご参加ください！
+https://digital-recruit-gov.note.jp/n/n919ed6ab6680]]></xf:original>
+</item>
+<item>
+<title>ヴィズマーラ恵子🇮🇹 (@VISMARA_KEIKO)</title>
+<link>https://x.com/VISMARA_KEIKO/status/2117023880791359930</link>
+<guid isPermaLink="true">https://x.com/VISMARA_KEIKO/status/2117023880791359930</guid>
+<category>行政DX</category>
+<dc:creator>ヴィズマーラ恵子🇮🇹</dc:creator>
+<pubDate>Mon, 02 Nov 2026 08:08:45 +0000</pubDate>
+<xf:postedAt>2026-11-02T07:40:00+09:00</xf:postedAt>
+<xf:addedAt>2026-11-02T17:08:45.497524+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/2067568146978897920/WiKGgzTx_400x400.jpg" width="48" height="48" alt="ヴィズマーラ恵子🇮🇹"/> <b>ヴィズマーラ恵子🇮🇹</b> @VISMARA_KEIKO</p><p>スウェーデン政府がChatGPTとClaudeを業務用PCから遮断した。<br/><br/>ただし、生成AIの全面禁止ではない。ブラウザー版への直接アクセスを止め、政府が承認した環境に利用を限定した措置だ。<br/><br/>この判断の背景には、行政機関が扱う機密情報と外部AIサービスのデータ管理をめぐる問題がある。</p><p>いいね 8・リポスト 2・ブックマーク 0・表示 1,692</p><p>投稿 2026-11-02 07:40（日本時間）・<a href="https://x.com/VISMARA_KEIKO/status/2117023880791359930">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[スウェーデン政府がChatGPTとClaudeを業務用PCから遮断した。
+
+ただし、生成AIの全面禁止ではない。ブラウザー版への直接アクセスを止め、政府が承認した環境に利用を限定した措置だ。
+
+この判断の背景には、行政機関が扱う機密情報と外部AIサービスのデータ管理をめぐる問題がある。]]></xf:original>
+</item>
+<item>
+<title>うみゆき@AI研究 (@umiyuki_ai)</title>
+<link>https://x.com/umiyuki_ai/status/2117008030453919817</link>
+<guid isPermaLink="true">https://x.com/umiyuki_ai/status/2117008030453919817</guid>
+<category>AI</category>
+<dc:creator>うみゆき@AI研究</dc:creator>
+<pubDate>Mon, 02 Nov 2026 08:08:45 +0000</pubDate>
+<xf:postedAt>2026-11-02T06:37:01+09:00</xf:postedAt>
+<xf:addedAt>2026-11-02T17:08:45.497524+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1581572203660787712/SAdL4WOj_400x400.jpg" width="48" height="48" alt="うみゆき@AI研究"/> <b>うみゆき@AI研究</b> @umiyuki_ai</p><p>うわっ！良くない意味ですごい！内閣府のパブリックコメントに大量爆撃されたアンチAIコメントに対して知財戦略会議では真摯に受け止めるどころか「そういう人たちは5年後クリエイターではないので気にしなくて良いと思います」って言ってみんな同意しちゃって実質嘲笑されて終わった。「新しいテクノロジー（AI）に興味ない人はクリエイターじゃない」との事。こ、これが国家の答えか…</p><p>いいね 799・リポスト 327・ブックマーク 126・表示 58,460</p><p>投稿 2026-11-02 06:37（日本時間）・<a href="https://x.com/umiyuki_ai/status/2117008030453919817">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[うわっ！良くない意味ですごい！内閣府のパブリックコメントに大量爆撃されたアンチAIコメントに対して知財戦略会議では真摯に受け止めるどころか「そういう人たちは5年後クリエイターではないので気にしなくて良いと思います」って言ってみんな同意しちゃって実質嘲笑されて終わった。「新しいテクノロジー（AI）に興味ない人はクリエイターじゃない」との事。こ、これが国家の答えか…]]></xf:original>
+</item>
+<item>
+<title>石崎ひでゆき市川市議会議員 (@h_ishizaki)</title>
+<link>https://x.com/h_ishizaki/status/2116831590802485670</link>
+<guid isPermaLink="true">https://x.com/h_ishizaki/status/2116831590802485670</guid>
+<category>行政DX</category>
+<dc:creator>石崎ひでゆき市川市議会議員</dc:creator>
+<pubDate>Mon, 02 Nov 2026 08:08:45 +0000</pubDate>
+<xf:postedAt>2026-11-01T18:55:54+09:00</xf:postedAt>
+<xf:addedAt>2026-11-02T17:08:45.497524+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/2057295886443806720/5JIIY0Pd_400x400.jpg" width="48" height="48" alt="石崎ひでゆき市川市議会議員"/> <b>石崎ひでゆき市川市議会議員</b> @h_ishizaki</p><p>【市川市にCIO補佐官は必要か？】<br/><br/>行政DXとは、単にシステムを導入することではありません。<br/>生成AIの活用、業務の効率化、システム投資の適正化など、市役所全体を見渡して改革を進めるには、専門的な知見が必要です。<br/>その役割を担うのが「CIO補佐官」です。<br/>もちろん、外部人材の招聘には費用がかかります。<br/>しかし、職員の業務負担を減らし、行政コストを削減し、市民サービスを向上できるのであれば、将来の行政運営を支える投資になり得ます。<br/>大切なのは、費用に見合う成果を出せる仕組みをつくること。<br/>田中市長も6月の所信表明で、CIO補佐官の招聘を検討すると表明しています。<br/>12月議会では、その具体化に向けた考えを確認したいと思います。<br/><br/>#市川市 #CIO補佐官 #市川はもっとよくなる</p><p>いいね 8・リポスト 2・ブックマーク 0・表示 405</p><p>投稿 2026-11-01 18:55（日本時間）・<a href="https://x.com/h_ishizaki/status/2116831590802485670">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[【市川市にCIO補佐官は必要か？】
+
+行政DXとは、単にシステムを導入することではありません。
+生成AIの活用、業務の効率化、システム投資の適正化など、市役所全体を見渡して改革を進めるには、専門的な知見が必要です。
+その役割を担うのが「CIO補佐官」です。
+もちろん、外部人材の招聘には費用がかかります。
+しかし、職員の業務負担を減らし、行政コストを削減し、市民サービスを向上できるのであれば、将来の行政運営を支える投資になり得ます。
+大切なのは、費用に見合う成果を出せる仕組みをつくること。
+田中市長も6月の所信表明で、CIO補佐官の招聘を検討すると表明しています。
+12月議会では、その具体化に向けた考えを確認したいと思います。
+
+#市川市 #CIO補佐官 #市川はもっとよくなる]]></xf:original>
+</item>
 <item>
 <title>れな|ママ投資家×元先生👩‍🏫 (@kabu_mama_rena)</title>
 <link>https://x.com/kabu_mama_rena/status/2117148195277119944</link>

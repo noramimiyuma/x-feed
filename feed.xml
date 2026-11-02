@@ -6,7 +6,195 @@
 <atom:link href="https://noramimiyuma.github.io/x-feed/feed.xml" rel="self" type="application/rss+xml"/>
 <description>行政DX・PdM・AI・日本株/高配当株の注目X投稿（X偵察が更新）</description>
 <language>ja</language>
-<lastBuildDate>Mon, 02 Nov 2026 18:01:37 +0900</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 20:05:33 +0900</lastBuildDate>
+<item>
+<title>横山信弘｜組織で「絶対達成」する (@nyattx)</title>
+<link>https://x.com/nyattx/status/2117187459696214080</link>
+<guid isPermaLink="true">https://x.com/nyattx/status/2117187459696214080</guid>
+<category>PdM</category>
+<dc:creator>横山信弘｜組織で「絶対達成」する</dc:creator>
+<pubDate>Mon, 02 Nov 2026 11:05:28 +0000</pubDate>
+<xf:postedAt>2026-11-02T18:30:00+09:00</xf:postedAt>
+<xf:addedAt>2026-11-02T20:05:28.797007+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1187708714184130560/J9f3NUuT_400x400.jpg" width="48" height="48" alt="横山信弘｜組織で「絶対達成」する"/> <b>横山信弘｜組織で「絶対達成」する</b> @nyattx</p><p>アイデアが出ない会議は「質問の切り口」が足りない（以下解説⤵）</p><p><img src="https://pbs.twimg.com/media/HVIIV37bgAABJTj.jpg" alt="画像"/></p><p>いいね 27・リポスト 0・ブックマーク 24・表示 1,276</p><p>投稿 2026-11-02 18:30（日本時間）・<a href="https://x.com/nyattx/status/2117187459696214080">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[アイデアが出ない会議は「質問の切り口」が足りない（以下解説⤵）]]></xf:original>
+</item>
+<item>
+<title>kaito (@cu30rry_)</title>
+<link>https://x.com/cu30rry_/status/2117178398921662949</link>
+<guid isPermaLink="true">https://x.com/cu30rry_/status/2117178398921662949</guid>
+<category>AI</category>
+<dc:creator>kaito</dc:creator>
+<pubDate>Mon, 02 Nov 2026 11:05:28 +0000</pubDate>
+<xf:postedAt>2026-11-02T17:54:00+09:00</xf:postedAt>
+<xf:addedAt>2026-11-02T20:05:28.797007+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/2101959420439834625/ucyJOshP_400x400.jpg" width="48" height="48" alt="kaito"/> <b>kaito</b> @cu30rry_</p><p>Devin は 12/1 まで SWE-2 が無料（Devin 自体の課金は必要）なので、これを機会に、Grok Bot を Outer Loop・Devin を Inner Loop にして使ってみてほしい<br/><br/>Devin の Cloud Agents は DX 高いし、気が利くよ<br/>それに、Devin は 唯一 ADEで macOS・WIndows ネイティブアプリをクラウドで開発できるから、Cursor の UX・DX の良さを考慮しても同じくらい優れている ADE と言える<br/><br/>pstack ないけど検証どうするのか？<br/>Grok Bot に pstack 持たせて質の高い依頼分を作り、実際の検証は e2e の /create-verification-skill とテストコードを使えば良い<br/><br/>ちなみに、以前紹介したが、Devin（by @rblalock）という Grok Bot テンプレートもいるので、これを使えば、すぐに Outer Loop 組めるよ<br/><br/>Botから依頼したり進捗を見たりといった開発に必要な説明が既に組み込まれている<br/><br/><a href="https://x.ai/bot/uxUj0_7KnMFi7zxHr64WQ">https://x.ai/bot/uxUj0_7KnMFi7zxHr64WQ</a></p><p>いいね 11・リポスト 1・ブックマーク 11・表示 1,587</p><p>投稿 2026-11-02 17:54（日本時間）・<a href="https://x.com/cu30rry_/status/2117178398921662949">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[Devin は 12/1 まで SWE-2 が無料（Devin 自体の課金は必要）なので、これを機会に、Grok Bot を Outer Loop・Devin を Inner Loop にして使ってみてほしい
+
+Devin の Cloud Agents は DX 高いし、気が利くよ
+それに、Devin は 唯一 ADEで macOS・WIndows ネイティブアプリをクラウドで開発できるから、Cursor の UX・DX の良さを考慮しても同じくらい優れている ADE と言える
+
+pstack ないけど検証どうするのか？
+Grok Bot に pstack 持たせて質の高い依頼分を作り、実際の検証は e2e の /create-verification-skill とテストコードを使えば良い
+
+ちなみに、以前紹介したが、Devin（by @rblalock）という Grok Bot テンプレートもいるので、これを使えば、すぐに Outer Loop 組めるよ
+
+Botから依頼したり進捗を見たりといった開発に必要な説明が既に組み込まれている
+
+https://x.ai/bot/uxUj0_7KnMFi7zxHr64WQ]]></xf:original>
+</item>
+<item>
+<title>議員のための議会対策通信｜小柳至 (@koyanagi_g)</title>
+<link>https://x.com/koyanagi_g/status/2117176193585954818</link>
+<guid isPermaLink="true">https://x.com/koyanagi_g/status/2117176193585954818</guid>
+<category>行政DX</category>
+<dc:creator>議員のための議会対策通信｜小柳至</dc:creator>
+<pubDate>Mon, 02 Nov 2026 11:05:28 +0000</pubDate>
+<xf:postedAt>2026-11-02T17:45:14+09:00</xf:postedAt>
+<xf:addedAt>2026-11-02T20:05:28.797007+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/2066492257554034688/FtaOQEDA_400x400.jpg" width="48" height="48" alt="議員のための議会対策通信｜小柳至"/> <b>議員のための議会対策通信｜小柳至</b> @koyanagi_g</p><p>【自治体のAIが表彰される】<br/>ジワジワと色んなAI活用事例が出てきていますね。<br/><br/>こういったアイデアこそどんどんパクって地域を良くする原動力にすると良いと思います。<br/><br/>「日本AI大賞2026」の<br/>ファイナリスト16組のうち<br/>自治体関係が4組。<br/><br/>・豊田市：水道使用量のAI解析で空き家予測<br/>・横須賀市：生成AIの全庁導入<br/>・宮城県：保育現場へのAI活用支援<br/>・都城市：自治体向け生成AIの開発と普及<br/><br/>活用例<br/>「本市の生成AI導入で、削減できた業務時間を具体的に示してください」<br/><br/>参考記事👇<br/><a href="https://www.digital-gyosei.com/post/2026-10-15-news-aiawards-finalists/">https://www.digital-gyosei.com/post/2026-10-15-news-aiawards-finalists/</a></p><p>いいね 10・リポスト 0・ブックマーク 1・表示 1,087</p><p>投稿 2026-11-02 17:45（日本時間）・<a href="https://x.com/koyanagi_g/status/2117176193585954818">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[【自治体のAIが表彰される】
+ジワジワと色んなAI活用事例が出てきていますね。
+
+こういったアイデアこそどんどんパクって地域を良くする原動力にすると良いと思います。
+
+「日本AI大賞2026」の
+ファイナリスト16組のうち
+自治体関係が4組。
+
+・豊田市：水道使用量のAI解析で空き家予測
+・横須賀市：生成AIの全庁導入
+・宮城県：保育現場へのAI活用支援
+・都城市：自治体向け生成AIの開発と普及
+
+活用例
+「本市の生成AI導入で、削減できた業務時間を具体的に示してください」
+
+参考記事👇
+https://www.digital-gyosei.com/post/2026-10-15-news-aiawards-finalists/]]></xf:original>
+</item>
+<item>
+<title>そらぶ🐶💓高配当株好き (@sorave55)</title>
+<link>https://x.com/sorave55/status/2117174313535017061</link>
+<guid isPermaLink="true">https://x.com/sorave55/status/2117174313535017061</guid>
+<category>日本株・高配当株</category>
+<dc:creator>そらぶ🐶💓高配当株好き</dc:creator>
+<pubDate>Mon, 02 Nov 2026 11:05:28 +0000</pubDate>
+<xf:postedAt>2026-11-02T17:37:46+09:00</xf:postedAt>
+<xf:addedAt>2026-11-02T20:05:28.797007+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/2109273488490110976/sj0VgkHS_400x400.jpg" width="48" height="48" alt="そらぶ🐶💓高配当株好き"/> <b>そらぶ🐶💓高配当株好き</b> @sorave55</p><p>三菱倉庫、今日1日で−14.00%…<br/><br/>中間決算は営業利益＋9.3%なのに、通期予想は175億円→155億円へ下方修正。<br/><br/>理由は、阪急阪神エクスプレス買収に伴う一時費用。<br/><br/>将来への投資でも、目先の減益には厳しいですね。<br/><br/>みなさんはこの決算発表、どう見ますか？</p><p><img src="https://pbs.twimg.com/media/HWG20HEawAAUtRU.jpg" alt="画像"/></p><p>いいね 58・リポスト 2・ブックマーク 5・表示 6,666</p><p>投稿 2026-11-02 17:37（日本時間）・<a href="https://x.com/sorave55/status/2117174313535017061">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[三菱倉庫、今日1日で−14.00%…
+
+中間決算は営業利益＋9.3%なのに、通期予想は175億円→155億円へ下方修正。
+
+理由は、阪急阪神エクスプレス買収に伴う一時費用。
+
+将来への投資でも、目先の減益には厳しいですね。
+
+みなさんはこの決算発表、どう見ますか？]]></xf:original>
+</item>
+<item>
+<title>こぎそ (@kgsi)</title>
+<link>https://x.com/kgsi/status/2117173856121377139</link>
+<guid isPermaLink="true">https://x.com/kgsi/status/2117173856121377139</guid>
+<category>AI</category>
+<dc:creator>こぎそ</dc:creator>
+<pubDate>Mon, 02 Nov 2026 11:05:28 +0000</pubDate>
+<xf:postedAt>2026-11-02T17:35:57+09:00</xf:postedAt>
+<xf:addedAt>2026-11-02T20:05:28.797007+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/2106765574747623424/YKS7OaPc_400x400.jpg" width="48" height="48" alt="こぎそ"/> <b>こぎそ</b> @kgsi</p><p>Figmaエージェントが10月6日に一般提供になって、AIクレジットを消費するようになった件を整理した記事👀<br/><br/>ProfessionalのFullシートは月3,000クレジットで、Figma Makeと同じ枠から引かれる…とか、消費目安もレポートされている。<br/><br/>Figma エージェントのデザインシステム整理、10月6日から有料の枠（AI クレジット）に。何に何クレジット、円でいくらか<br/><a href="https://note.com/s_kashiwakura/n/ncd8425705f7c">https://note.com/s_kashiwakura/n/ncd8425705f7c</a></p><p>いいね 6・リポスト 0・ブックマーク 11・表示 1,421</p><p>投稿 2026-11-02 17:35（日本時間）・<a href="https://x.com/kgsi/status/2117173856121377139">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[Figmaエージェントが10月6日に一般提供になって、AIクレジットを消費するようになった件を整理した記事👀
+
+ProfessionalのFullシートは月3,000クレジットで、Figma Makeと同じ枠から引かれる…とか、消費目安もレポートされている。
+
+Figma エージェントのデザインシステム整理、10月6日から有料の枠（AI クレジット）に。何に何クレジット、円でいくらか
+https://note.com/s_kashiwakura/n/ncd8425705f7c]]></xf:original>
+</item>
+<item>
+<title>長倉克枝 (@kaetn)</title>
+<link>https://x.com/kaetn/status/2117171024794202549</link>
+<guid isPermaLink="true">https://x.com/kaetn/status/2117171024794202549</guid>
+<category>行政DX</category>
+<dc:creator>長倉克枝</dc:creator>
+<pubDate>Mon, 02 Nov 2026 11:05:28 +0000</pubDate>
+<xf:postedAt>2026-11-02T17:24:42+09:00</xf:postedAt>
+<xf:addedAt>2026-11-02T20:05:28.797007+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/2102337964705796096/4Sxvu-0z_400x400.jpg" width="48" height="48" alt="長倉克枝"/> <b>長倉克枝</b> @kaetn</p><p>ガバクラ標準化で運用コスト増はそうなんだけど、その他もインフラコスト上がり過ぎていて、自治体にとっては国から運用経費補助出るので当面よしとする前者の課題がかすみつつあるような気がしてる</p><p>いいね 10・リポスト 1・ブックマーク 0・表示 419</p><p>投稿 2026-11-02 17:24（日本時間）・<a href="https://x.com/kaetn/status/2117171024794202549">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[ガバクラ標準化で運用コスト増はそうなんだけど、その他もインフラコスト上がり過ぎていて、自治体にとっては国から運用経費補助出るので当面よしとする前者の課題がかすみつつあるような気がしてる]]></xf:original>
+</item>
+<item>
+<title>くろねこ@高配当国内株式 (@ookabu100)</title>
+<link>https://x.com/ookabu100/status/2117124848153686480</link>
+<guid isPermaLink="true">https://x.com/ookabu100/status/2117124848153686480</guid>
+<category>日本株・高配当株</category>
+<dc:creator>くろねこ@高配当国内株式</dc:creator>
+<pubDate>Mon, 02 Nov 2026 11:05:28 +0000</pubDate>
+<xf:postedAt>2026-11-02T14:21:12+09:00</xf:postedAt>
+<xf:addedAt>2026-11-02T20:05:28.797007+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1687979444978536448/jjxdJaCN_400x400.jpg" width="48" height="48" alt="くろねこ@高配当国内株式"/> <b>くろねこ@高配当国内株式</b> @ookabu100</p><p>4362日本精化<br/>ずっと欲しかった銘柄ですが先週末の2Q決算いまいちで本日かなり下げてたのでin！2030年会社目標のDOE5%まで現状の配当金で届いておらず今後の増配は間違いないかと…さらに無借金の自己資本率80%超え😆おまけに長期保有で優待もある🐧</p><p><img src="https://pbs.twimg.com/media/HWGJ1CjbsAATvCO.jpg" alt="画像"/></p><p>いいね 33・リポスト 0・ブックマーク 10・表示 2,105</p><p>投稿 2026-11-02 14:21（日本時間）・<a href="https://x.com/ookabu100/status/2117124848153686480">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[4362日本精化
+ずっと欲しかった銘柄ですが先週末の2Q決算いまいちで本日かなり下げてたのでin！2030年会社目標のDOE5%まで現状の配当金で届いておらず今後の増配は間違いないかと…さらに無借金の自己資本率80%超え😆おまけに長期保有で優待もある🐧]]></xf:original>
+</item>
+<item>
+<title>ILIAS ISM (@illyism)</title>
+<link>https://x.com/illyism/status/2117103631564689691</link>
+<guid isPermaLink="true">https://x.com/illyism/status/2117103631564689691</guid>
+<category>AI</category>
+<dc:creator>ILIAS ISM</dc:creator>
+<pubDate>Mon, 02 Nov 2026 11:05:28 +0000</pubDate>
+<xf:postedAt>2026-11-02T12:56:54+09:00</xf:postedAt>
+<xf:addedAt>2026-11-02T20:05:28.797007+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/2094892545813745664/lfLLanT2_400x400.jpg" width="48" height="48" alt="ILIAS ISM"/> <b>ILIAS ISM</b> @illyism</p><p>did a little AI spring-cleaning on my MacBook this morning and freed up 13.8 GB of hidden agent junk 😅<br/><br/>turns out every coding agent (Claude Code, Codex, Cursor, Grok) quietly keeps gigabytes of old transcripts, SQLite logs, and dead OAuth tokens on your disk forever:<br/><br/>- 14,348 old Grok CLI session files (2.6 GB -&gt; 52 MB)<br/>- 4,944 Cursor agent transcripts (&gt;30 days old)<br/>- 409 Codex sessions + 896 MB SQLite history DB<br/>- 44 dead Keychain tokens &amp; old editor caches (Windsurf, Codeium, Insiders)<br/>- switched voice dictation to a local Parakeet model so audio stays on-device<br/><br/>if you want to clean yours up in 2 minutes, just paste this into Cursor / Claude Code:<br/><br/>"Audit my Mac for AI agent transcripts (Claude, Codex, Cursor, Grok), SQLite session logs, and leftover editor dotfolders older than 30 days. Show me the sizes first, delete everything &gt;30 days old, and add a daily 30-day auto-prune check."<br/><br/>honestly feels so nice having a clean machine again hehe</p><hr/><p><b>日本語訳</b></p><p>今朝、MacBookのAI大掃除をちょっとして、隠れていたエージェントのゴミを13.8GB解放した 😅<br/><br/>どのコーディングエージェント（Claude Code、Codex、Cursor、Grok）も、古いトランスクリプト、SQLiteのログ、失効したOAuthトークンを何ギガバイトもディスクに黙って永遠に残し続けていることがわかった:<br/><br/>- 古いGrok CLIのセッションファイル14,348個（2.6GB → 52MB）<br/>- Cursorエージェントのトランスクリプト4,944個（30日より古いもの）<br/>- Codexのセッション409個 + 896MBのSQLite履歴DB<br/>- 失効したキーチェーンのトークン44個と古いエディタのキャッシュ（Windsurf、Codeium、Insiders）<br/>- 音声入力をローカルのParakeetモデルに切り替えて、音声が端末の外に出ないようにした<br/><br/>自分のも2分で片付けたいなら、これをCursor / Claude Codeに貼り付けるだけ:<br/><br/>「私のMacで、AIエージェントのトランスクリプト（Claude、Codex、Cursor、Grok）、SQLiteのセッションログ、30日より古いエディタの残りのドットフォルダを監査して。まずサイズを見せて、30日より古いものは全部削除し、30日で自動削除する毎日のチェックを追加して。」<br/><br/>正直、またきれいなマシンになってすごく気持ちいい hehe</p><hr/><p>いいね 52・リポスト 3・ブックマーク 44・表示 6,302</p><p>投稿 2026-11-02 12:56（日本時間）・<a href="https://x.com/illyism/status/2117103631564689691">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[did a little AI spring-cleaning on my MacBook this morning and freed up 13.8 GB of hidden agent junk 😅
+
+turns out every coding agent (Claude Code, Codex, Cursor, Grok) quietly keeps gigabytes of old transcripts, SQLite logs, and dead OAuth tokens on your disk forever:
+
+- 14,348 old Grok CLI session files (2.6 GB -> 52 MB)
+- 4,944 Cursor agent transcripts (>30 days old)
+- 409 Codex sessions + 896 MB SQLite history DB
+- 44 dead Keychain tokens & old editor caches (Windsurf, Codeium, Insiders)
+- switched voice dictation to a local Parakeet model so audio stays on-device
+
+if you want to clean yours up in 2 minutes, just paste this into Cursor / Claude Code:
+
+"Audit my Mac for AI agent transcripts (Claude, Codex, Cursor, Grok), SQLite session logs, and leftover editor dotfolders older than 30 days. Show me the sizes first, delete everything >30 days old, and add a daily 30-day auto-prune check."
+
+honestly feels so nice having a clean machine again hehe]]></xf:original>
+<xf:translation xml:lang="ja"><![CDATA[今朝、MacBookのAI大掃除をちょっとして、隠れていたエージェントのゴミを13.8GB解放した 😅
+
+どのコーディングエージェント（Claude Code、Codex、Cursor、Grok）も、古いトランスクリプト、SQLiteのログ、失効したOAuthトークンを何ギガバイトもディスクに黙って永遠に残し続けていることがわかった:
+
+- 古いGrok CLIのセッションファイル14,348個（2.6GB → 52MB）
+- Cursorエージェントのトランスクリプト4,944個（30日より古いもの）
+- Codexのセッション409個 + 896MBのSQLite履歴DB
+- 失効したキーチェーンのトークン44個と古いエディタのキャッシュ（Windsurf、Codeium、Insiders）
+- 音声入力をローカルのParakeetモデルに切り替えて、音声が端末の外に出ないようにした
+
+自分のも2分で片付けたいなら、これをCursor / Claude Codeに貼り付けるだけ:
+
+「私のMacで、AIエージェントのトランスクリプト（Claude、Codex、Cursor、Grok）、SQLiteのセッションログ、30日より古いエディタの残りのドットフォルダを監査して。まずサイズを見せて、30日より古いものは全部削除し、30日で自動削除する毎日のチェックを追加して。」
+
+正直、またきれいなマシンになってすごく気持ちいい hehe]]></xf:translation>
+</item>
+<item>
+<title>呉縞 慶一 @ Modelist CEO (@K_Kureshima)</title>
+<link>https://x.com/K_Kureshima/status/2117024783972127126</link>
+<guid isPermaLink="true">https://x.com/K_Kureshima/status/2117024783972127126</guid>
+<category>AI</category>
+<dc:creator>呉縞 慶一 @ Modelist CEO</dc:creator>
+<pubDate>Mon, 02 Nov 2026 11:05:28 +0000</pubDate>
+<xf:postedAt>2026-11-02T07:43:35+09:00</xf:postedAt>
+<xf:addedAt>2026-11-02T20:05:28.797007+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/2056327044737519616/mBLQ-JIX_400x400.jpg" width="48" height="48" alt="呉縞 慶一 @ Modelist CEO"/> <b>呉縞 慶一 @ Modelist CEO</b> @K_Kureshima</p><p>コクヨさんがカスタムエージェント（従量課金）活用した開発体制を構築。<br/><br/>📌人の代わりができるか<br/>📌人が出来ない（できる人が少ない）業務ができるか<br/><br/>これ以外のどんなROAの訴求と合意があったのか気になりますね。<br/><br/>コクヨ、NotionとClaudeを連携し「AI駆動開発」を推進 <a href="https://prtimes.jp/main/html/rd/p/000000100.000088144.html">https://prtimes.jp/main/html/rd/p/000000100.000088144.html</a> @PRTIMES_JPより</p><p>いいね 17・リポスト 1・ブックマーク 6・表示 1,434</p><p>投稿 2026-11-02 07:43（日本時間）・<a href="https://x.com/K_Kureshima/status/2117024783972127126">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[コクヨさんがカスタムエージェント（従量課金）活用した開発体制を構築。
+
+📌人の代わりができるか
+📌人が出来ない（できる人が少ない）業務ができるか
+
+これ以外のどんなROAの訴求と合意があったのか気になりますね。
+
+コクヨ、NotionとClaudeを連携し「AI駆動開発」を推進 https://prtimes.jp/main/html/rd/p/000000100.000088144.html @PRTIMES_JPより]]></xf:original>
+</item>
 <item>
 <title>配当太郎 (@financial1111)</title>
 <link>https://x.com/financial1111/status/2117173981417796093</link>

@@ -1,5 +1,174 @@
 [
  {
+  "id": "2117187459696214080",
+  "handle": "nyattx",
+  "name": "横山信弘｜組織で「絶対達成」する",
+  "avatar": "https://pbs.twimg.com/profile_images/1187708714184130560/J9f3NUuT_400x400.jpg",
+  "theme": "PdM",
+  "text": "アイデアが出ない会議は「質問の切り口」が足りない（以下解説⤵）",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HVIIV37bgAABJTj.jpg"
+   }
+  ],
+  "created_at": "2026-11-02T09:30:00.000Z",
+  "metrics": {
+   "like": 27,
+   "repost": 0,
+   "bookmark": 24,
+   "view": 1276
+  },
+  "added_at": "2026-11-02T11:05:28.797007+00:00"
+ },
+ {
+  "id": "2117178398921662949",
+  "handle": "cu30rry_",
+  "name": "kaito",
+  "avatar": "https://pbs.twimg.com/profile_images/2101959420439834625/ucyJOshP_400x400.jpg",
+  "theme": "AI",
+  "text": "Devin は 12/1 まで SWE-2 が無料（Devin 自体の課金は必要）なので、これを機会に、Grok Bot を Outer Loop・Devin を Inner Loop にして使ってみてほしい\n\nDevin の Cloud Agents は DX 高いし、気が利くよ\nそれに、Devin は 唯一 ADEで macOS・WIndows ネイティブアプリをクラウドで開発できるから、Cursor の UX・DX の良さを考慮しても同じくらい優れている ADE と言える\n\npstack ないけど検証どうするのか？\nGrok Bot に pstack 持たせて質の高い依頼分を作り、実際の検証は e2e の /create-verification-skill とテストコードを使えば良い\n\nちなみに、以前紹介したが、Devin（by @rblalock）という Grok Bot テンプレートもいるので、これを使えば、すぐに Outer Loop 組めるよ\n\nBotから依頼したり進捗を見たりといった開発に必要な説明が既に組み込まれている\n\nhttps://x.ai/bot/uxUj0_7KnMFi7zxHr64WQ",
+  "media": [],
+  "created_at": "2026-11-02T08:54:00.000Z",
+  "metrics": {
+   "like": 11,
+   "repost": 1,
+   "bookmark": 11,
+   "view": 1587
+  },
+  "added_at": "2026-11-02T11:05:28.797007+00:00"
+ },
+ {
+  "id": "2117176193585954818",
+  "handle": "koyanagi_g",
+  "name": "議員のための議会対策通信｜小柳至",
+  "avatar": "https://pbs.twimg.com/profile_images/2066492257554034688/FtaOQEDA_400x400.jpg",
+  "theme": "行政DX",
+  "text": "【自治体のAIが表彰される】\nジワジワと色んなAI活用事例が出てきていますね。\n\nこういったアイデアこそどんどんパクって地域を良くする原動力にすると良いと思います。\n\n「日本AI大賞2026」の\nファイナリスト16組のうち\n自治体関係が4組。\n\n・豊田市：水道使用量のAI解析で空き家予測\n・横須賀市：生成AIの全庁導入\n・宮城県：保育現場へのAI活用支援\n・都城市：自治体向け生成AIの開発と普及\n\n活用例\n「本市の生成AI導入で、削減できた業務時間を具体的に示してください」\n\n参考記事👇\nhttps://www.digital-gyosei.com/post/2026-10-15-news-aiawards-finalists/",
+  "media": [],
+  "created_at": "2026-11-02T08:45:14.000Z",
+  "metrics": {
+   "like": 10,
+   "repost": 0,
+   "bookmark": 1,
+   "view": 1087
+  },
+  "added_at": "2026-11-02T11:05:28.797007+00:00"
+ },
+ {
+  "id": "2117174313535017061",
+  "handle": "sorave55",
+  "name": "そらぶ🐶💓高配当株好き",
+  "avatar": "https://pbs.twimg.com/profile_images/2109273488490110976/sj0VgkHS_400x400.jpg",
+  "theme": "日本株・高配当株",
+  "text": "三菱倉庫、今日1日で−14.00%…\n\n中間決算は営業利益＋9.3%なのに、通期予想は175億円→155億円へ下方修正。\n\n理由は、阪急阪神エクスプレス買収に伴う一時費用。\n\n将来への投資でも、目先の減益には厳しいですね。\n\nみなさんはこの決算発表、どう見ますか？",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWG20HEawAAUtRU.jpg"
+   }
+  ],
+  "created_at": "2026-11-02T08:37:46.000Z",
+  "metrics": {
+   "like": 58,
+   "repost": 2,
+   "bookmark": 5,
+   "view": 6666
+  },
+  "added_at": "2026-11-02T11:05:28.797007+00:00"
+ },
+ {
+  "id": "2117173856121377139",
+  "handle": "kgsi",
+  "name": "こぎそ",
+  "avatar": "https://pbs.twimg.com/profile_images/2106765574747623424/YKS7OaPc_400x400.jpg",
+  "theme": "AI",
+  "text": "Figmaエージェントが10月6日に一般提供になって、AIクレジットを消費するようになった件を整理した記事👀\n\nProfessionalのFullシートは月3,000クレジットで、Figma Makeと同じ枠から引かれる…とか、消費目安もレポートされている。\n\nFigma エージェントのデザインシステム整理、10月6日から有料の枠（AI クレジット）に。何に何クレジット、円でいくらか\nhttps://note.com/s_kashiwakura/n/ncd8425705f7c",
+  "media": [],
+  "created_at": "2026-11-02T08:35:57.000Z",
+  "metrics": {
+   "like": 6,
+   "repost": 0,
+   "bookmark": 11,
+   "view": 1421
+  },
+  "added_at": "2026-11-02T11:05:28.797007+00:00"
+ },
+ {
+  "id": "2117171024794202549",
+  "handle": "kaetn",
+  "name": "長倉克枝",
+  "avatar": "https://pbs.twimg.com/profile_images/2102337964705796096/4Sxvu-0z_400x400.jpg",
+  "theme": "行政DX",
+  "text": "ガバクラ標準化で運用コスト増はそうなんだけど、その他もインフラコスト上がり過ぎていて、自治体にとっては国から運用経費補助出るので当面よしとする前者の課題がかすみつつあるような気がしてる",
+  "media": [],
+  "created_at": "2026-11-02T08:24:42.000Z",
+  "metrics": {
+   "like": 10,
+   "repost": 1,
+   "bookmark": 0,
+   "view": 419
+  },
+  "added_at": "2026-11-02T11:05:28.797007+00:00"
+ },
+ {
+  "id": "2117124848153686480",
+  "handle": "ookabu100",
+  "name": "くろねこ@高配当国内株式",
+  "avatar": "https://pbs.twimg.com/profile_images/1687979444978536448/jjxdJaCN_400x400.jpg",
+  "theme": "日本株・高配当株",
+  "text": "4362日本精化\nずっと欲しかった銘柄ですが先週末の2Q決算いまいちで本日かなり下げてたのでin！2030年会社目標のDOE5%まで現状の配当金で届いておらず今後の増配は間違いないかと…さらに無借金の自己資本率80%超え😆おまけに長期保有で優待もある🐧",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWGJ1CjbsAATvCO.jpg"
+   }
+  ],
+  "created_at": "2026-11-02T05:21:12.000Z",
+  "metrics": {
+   "like": 33,
+   "repost": 0,
+   "bookmark": 10,
+   "view": 2105
+  },
+  "added_at": "2026-11-02T11:05:28.797007+00:00"
+ },
+ {
+  "id": "2117103631564689691",
+  "handle": "illyism",
+  "name": "ILIAS ISM",
+  "avatar": "https://pbs.twimg.com/profile_images/2094892545813745664/lfLLanT2_400x400.jpg",
+  "theme": "AI",
+  "text": "did a little AI spring-cleaning on my MacBook this morning and freed up 13.8 GB of hidden agent junk 😅\n\nturns out every coding agent (Claude Code, Codex, Cursor, Grok) quietly keeps gigabytes of old transcripts, SQLite logs, and dead OAuth tokens on your disk forever:\n\n- 14,348 old Grok CLI session files (2.6 GB -> 52 MB)\n- 4,944 Cursor agent transcripts (>30 days old)\n- 409 Codex sessions + 896 MB SQLite history DB\n- 44 dead Keychain tokens & old editor caches (Windsurf, Codeium, Insiders)\n- switched voice dictation to a local Parakeet model so audio stays on-device\n\nif you want to clean yours up in 2 minutes, just paste this into Cursor / Claude Code:\n\n\"Audit my Mac for AI agent transcripts (Claude, Codex, Cursor, Grok), SQLite session logs, and leftover editor dotfolders older than 30 days. Show me the sizes first, delete everything >30 days old, and add a daily 30-day auto-prune check.\"\n\nhonestly feels so nice having a clean machine again hehe",
+  "media": [],
+  "created_at": "2026-11-02T03:56:54.000Z",
+  "metrics": {
+   "like": 52,
+   "repost": 3,
+   "bookmark": 44,
+   "view": 6302
+  },
+  "translation_ja": "今朝、MacBookのAI大掃除をちょっとして、隠れていたエージェントのゴミを13.8GB解放した 😅\n\nどのコーディングエージェント（Claude Code、Codex、Cursor、Grok）も、古いトランスクリプト、SQLiteのログ、失効したOAuthトークンを何ギガバイトもディスクに黙って永遠に残し続けていることがわかった:\n\n- 古いGrok CLIのセッションファイル14,348個（2.6GB → 52MB）\n- Cursorエージェントのトランスクリプト4,944個（30日より古いもの）\n- Codexのセッション409個 + 896MBのSQLite履歴DB\n- 失効したキーチェーンのトークン44個と古いエディタのキャッシュ（Windsurf、Codeium、Insiders）\n- 音声入力をローカルのParakeetモデルに切り替えて、音声が端末の外に出ないようにした\n\n自分のも2分で片付けたいなら、これをCursor / Claude Codeに貼り付けるだけ:\n\n「私のMacで、AIエージェントのトランスクリプト（Claude、Codex、Cursor、Grok）、SQLiteのセッションログ、30日より古いエディタの残りのドットフォルダを監査して。まずサイズを見せて、30日より古いものは全部削除し、30日で自動削除する毎日のチェックを追加して。」\n\n正直、またきれいなマシンになってすごく気持ちいい hehe",
+  "added_at": "2026-11-02T11:05:28.797007+00:00"
+ },
+ {
+  "id": "2117024783972127126",
+  "handle": "K_Kureshima",
+  "name": "呉縞 慶一 @ Modelist CEO",
+  "avatar": "https://pbs.twimg.com/profile_images/2056327044737519616/mBLQ-JIX_400x400.jpg",
+  "theme": "AI",
+  "text": "コクヨさんがカスタムエージェント（従量課金）活用した開発体制を構築。\n\n📌人の代わりができるか\n📌人が出来ない（できる人が少ない）業務ができるか\n\nこれ以外のどんなROAの訴求と合意があったのか気になりますね。\n\nコクヨ、NotionとClaudeを連携し「AI駆動開発」を推進 https://prtimes.jp/main/html/rd/p/000000100.000088144.html @PRTIMES_JPより",
+  "media": [],
+  "created_at": "2026-11-01T22:43:35.000Z",
+  "metrics": {
+   "like": 17,
+   "repost": 1,
+   "bookmark": 6,
+   "view": 1434
+  },
+  "added_at": "2026-11-02T11:05:28.797007+00:00"
+ },
+ {
   "id": "2117173981417796093",
   "handle": "financial1111",
   "name": "配当太郎",

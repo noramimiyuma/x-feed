@@ -1,5 +1,182 @@
 [
  {
+  "id": "2117539400771117323",
+  "handle": "mameyama_kun",
+  "name": "豆山くん",
+  "avatar": "https://pbs.twimg.com/profile_images/2101186222861500416/Lxr9wnpe_400x400.png",
+  "theme": "日本株・高配当株",
+  "text": "日本特殊陶業（5334）が反発。\n\n・通期予想を上方修正。売上高8100億円（前期比10.8％増）、純利益1250億円（10.7％増）に増額。減益予想から一転、過去最高益更新の見通し。\n・年間配当を119円に増配。\n・海外投資家を中心に東芝の再上場に注目が集まる中、東芝株を保有する同社への関心が高まる。",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWMCgMVaUAATEIu.jpg"
+   }
+  ],
+  "created_at": "2026-11-03T08:48:29.000Z",
+  "metrics": {
+   "like": 95,
+   "repost": 5,
+   "bookmark": 7,
+   "view": 9339
+  },
+  "added_at": "2026-11-03T10:57:57.910284+00:00"
+ },
+ {
+  "id": "2117532632611488214",
+  "handle": "kenn",
+  "name": "Kenn Ejima",
+  "avatar": "https://pbs.twimg.com/profile_images/2101495370660655104/F8tzCryw_400x400.jpg",
+  "theme": "AI",
+  "text": "NNの重みを直接編集するリプログラミングの件\n\n再現試験により、この直近2ヶ月に登場したモデルでなければ実現できなかった、ということが示されて、本当にRSIのフェーズに入ったことを感じる…\n\n言語がどうこう、機械語がどうこうじゃない、重みを直接だよ？\n\n自己書き換えループという可能性が開かれると、NNの重みはコードなのかデータなのか、再びその問いに戻ってくるんだよな…",
+  "media": [],
+  "created_at": "2026-11-03T08:21:36.000Z",
+  "metrics": {
+   "like": 95,
+   "repost": 11,
+   "bookmark": 47,
+   "view": 6920
+  },
+  "added_at": "2026-11-03T10:57:57.910284+00:00"
+ },
+ {
+  "id": "2117528787017720229",
+  "handle": "Imngst21R0H0",
+  "name": "ちゃーん #原沢でもヤマナ禍",
+  "avatar": "https://pbs.twimg.com/profile_images/1525077216152805380/FQKbtmHD_400x400.jpg",
+  "theme": "行政DX",
+  "text": "【11/3祝日に記者発表する非常事態】\n横浜市電子申請・届出システム\n不正アクセスの影響\n82万人(人口376万人の約21%)個人情報の漏えい\n\n市長の定例会見は11/6(金)を予定しているようだが、明日の朝イチに何らかのアクションは起こせるのか？\n#原沢でもヤマナ禍\nhttps://www.city.yokohama.lg.jp/city-info/koho-kocho/press/somu/2026/1103denshishinsei.html",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWL5NMVbYAAOJhy.jpg"
+   }
+  ],
+  "created_at": "2026-11-03T08:06:19.000Z",
+  "metrics": {
+   "like": 62,
+   "repost": 45,
+   "bookmark": 20,
+   "view": 28302
+  },
+  "added_at": "2026-11-03T10:57:57.910284+00:00"
+ },
+ {
+  "id": "2117528052502778169",
+  "handle": "AkgTakeyoshi",
+  "name": "たけ＠株主優待&高配当株",
+  "avatar": "https://pbs.twimg.com/profile_images/1916367692271140864/DuPjbuYv_400x400.jpg",
+  "theme": "日本株・高配当株",
+  "text": "日本空調累進配当銘柄である日本空調サービスが7%下落は熱いですね‼️\n\n✅配当方針\n連結配当性向50%の累進配当、DOE7.5%を目標とした配当\n\n✅目安利回り\n現在株価：1408円\n現在利回り：4.05%\n利回り4.2%：1357円\n利回り4.4%：1295円\n利回り4.6%：1239円  https://twitter.com/sorave55/status/2117239803918053405",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWL4ijHawAAh719.jpg"
+   },
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWL4ijFaUAAJoBx.jpg"
+   }
+  ],
+  "created_at": "2026-11-03T08:03:24.000Z",
+  "metrics": {
+   "like": 61,
+   "repost": 2,
+   "bookmark": 34,
+   "view": 8507
+  },
+  "added_at": "2026-11-03T10:57:57.910284+00:00"
+ },
+ {
+  "id": "2117527613396877682",
+  "handle": "yousukezan",
+  "name": "yousukezan",
+  "avatar": "https://pbs.twimg.com/profile_images/1171815320434069504/Llnddol-_400x400.jpg",
+  "theme": "AI",
+  "text": "Anthropicは、Claude Coworkの仮想マシンでEDRセンサーを動かすベータ機能を公開した。従来の端末監視では見えなかったAIエージェントの内部活動を確認できる。WindowsとmacOSのTeam・Enterprise向けで、既存の監視基盤に報告する。\n\nCoworkは隔離されたVMでコードを実行するため、既存EDRでは見えなかった。新機能はVM起動時にセンサーをコピーし、署名を検証して導入する。\n\n対応先はCrowdStrike、Palo Alto Networks、SentinelOne、Taniumなど7社。Claude Desktop 4.4212.0以降が必要で、Windowsでは.msix版と仮想化が必要だ。\n\n対象は端末内のCowork VMのみで、クラウドセッションには導入できない。センサーはプロンプトやファイル、応答などを取得して外部に送信できる。Anthropicはそのデータを受信・管理しないという。\n\n管理設定を削除しても導入済みセンサーは消えない。ベータ期間中の追加利用料はないが、EDRベンダー側で料金が発生し得る。\nhttps://gbhackers.com/anthropic-enables-edr-security-monitoring-for-claude-cowork/",
+  "media": [],
+  "created_at": "2026-11-03T08:01:39.000Z",
+  "metrics": {
+   "like": 20,
+   "repost": 4,
+   "bookmark": 13,
+   "view": 1819
+  },
+  "added_at": "2026-11-03T10:57:57.910284+00:00"
+ },
+ {
+  "id": "2117525462947881377",
+  "handle": "Kazzn_blog",
+  "name": "KAZZN",
+  "avatar": "https://pbs.twimg.com/profile_images/1560587873958895617/w9a0BcLs_400x400.jpg",
+  "theme": "日本株・高配当株",
+  "text": "11月に配当権利のある高配当株✨\n\n※権利付き最終日は11月26日(木)です\n\n🟢ライク(2462)\n🟢川上塗料(4616)\n🟢トーセイ(8923)\n🟢丸八倉庫(9313)\n🟢アルテック(9972)\n🟢エスプール(2471)\n🟢川口化学工業(4361)\n🟢プロパテクノ(5527)\n🟢FPパートナー(7388)\n🟢ジャパニアス(9558)\n🟢テクノアルファ(3089)\n🟢ファーストブラザーズ(3454)\n🟢シーラホールディングス(8887)",
+  "media": [],
+  "created_at": "2026-11-03T07:53:06.000Z",
+  "metrics": {
+   "like": 73,
+   "repost": 4,
+   "bookmark": 5,
+   "view": 7573
+  },
+  "added_at": "2026-11-03T10:57:57.910284+00:00"
+ },
+ {
+  "id": "2117444559559106938",
+  "handle": "ukkaripon",
+  "name": "Yu Ukai",
+  "avatar": "https://pbs.twimg.com/profile_images/748201564167278592/pFG5HuPY_400x400.jpg",
+  "theme": "PdM",
+  "text": "来週、🇨🇭に移住してGoogleのチューリヒオフィスで、引き続き検索チームにて動画関連のプロダクトマネージャーをすることになりました。サッカーみながら、ヨーロッパ飛び回ります。遊びに来てください。",
+  "media": [],
+  "created_at": "2026-11-03T02:31:37.000Z",
+  "metrics": {
+   "like": 185,
+   "repost": 1,
+   "bookmark": 10,
+   "view": 7262
+  },
+  "added_at": "2026-11-03T10:57:57.910284+00:00"
+ },
+ {
+  "id": "2117230919375520136",
+  "handle": "nagasawatsubasa",
+  "name": "長沢 翼@LIFULL CTO & CAIO",
+  "avatar": "https://pbs.twimg.com/profile_images/1273993915515809792/uSx4uepf_400x400.jpg",
+  "theme": "AI",
+  "text": "既存のREST APIを改修せずにMCPサーバ化する、オリックスの検証事例。\n対象は文書管理SaaS「PATPOST」（約2300社が利用）。Amazon Bedrock AgentCore GatewayのOpenAPI TargetにOpenAPI定義を登録し、各エンドポイントをそのままMCPツールとして公開。認証はCognitoのOAuth 3LOを使う。InterceptorでJWTからユーザーIDを取り出し、RDSから引いたユーザーごとのAPIキーをヘッダに付けてバックエンドへ渡す。APIキーはLLMのコンテキストに渡らない。一覧→詳細のような往復はLambda Targetで1ツールにまとめ、トークン消費を削減。\n\nSaaSのMCP対応で、ユーザーごとの権限をどう引き継ぐかは悩みどころ。本体に手を入れない構成の参考になります。\n\nhttps://aws.amazon.com/jp/blogs/news/agentcore-gateway-patpost/\n\n#MCP #AWS #AIエージェント",
+  "media": [],
+  "created_at": "2026-11-02T12:22:42.000Z",
+  "metrics": {
+   "like": 7,
+   "repost": 0,
+   "bookmark": 4,
+   "view": 286
+  },
+  "added_at": "2026-11-03T10:57:57.910284+00:00"
+ },
+ {
+  "id": "2117223929635029502",
+  "handle": "kabunushi_rider",
+  "name": "カブ主優待ライダー",
+  "avatar": "https://pbs.twimg.com/profile_images/1212890182271135746/r5bL6GhT_400x400.jpg",
+  "theme": "日本株・高配当株",
+  "text": "SBI HDが本日増益増配を発表もまさかの下落！\n\nここのところ証券関連銘柄は株価を落としていたが本日増配発表も虚しくさらに株価を落としてしまった。厳しい展開ではあるが上期ベースでは業績は堅調でまたしっかりとした増配もあった。利回りは3.9%ほどとなり魅力的な数字である。そしてここは株主優待も魅力で一万円以上する健康食品がもらえる。安くなっているので気になる方は検討してみよう！\n\n✅配当利回りは3.9%ほど\n✅優待も1万超えで魅力的\n✅仮想通貨の場合は2000円分",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWHj8PbacAAkrmZ.jpg"
+   }
+  ],
+  "created_at": "2026-11-02T11:54:55.000Z",
+  "metrics": {
+   "like": 408,
+   "repost": 14,
+   "bookmark": 40,
+   "view": 42180
+  },
+  "added_at": "2026-11-03T10:57:57.910284+00:00"
+ },
+ {
   "id": "2117539643180958146",
   "handle": "ysw31120588",
   "name": "lapiew",

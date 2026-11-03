@@ -1,5 +1,227 @@
 [
  {
+  "id": "2117509127794766065",
+  "handle": "aaa_porio",
+  "name": "佐藤光＠株式投資",
+  "avatar": "https://pbs.twimg.com/profile_images/2117079696718622720/c6OhhCeM_400x400.jpg",
+  "theme": "日本株・高配当株",
+  "text": "NISAは初期設定に要注意。\n配当金の受取方法を「株式数比例配分方式」にしないと、課税される場合があります。\n投資歴27年でも、この設定ミスはよく見かけます。\n楽天証券・SBI証券の確認方法は…\n↓\n①楽天証券アプリにログイン\n②マイメニューを開く…",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWLiODqaMAAlBfp.jpg"
+   }
+  ],
+  "created_at": "2026-11-03T06:48:12.000Z",
+  "metrics": {
+   "like": 70,
+   "repost": 3,
+   "bookmark": 24,
+   "view": 155
+  },
+  "added_at": "2026-11-03T06:57:59.146146+00:00"
+ },
+ {
+  "id": "2117505257785966924",
+  "handle": "SOU_BTC",
+  "name": "SOU⚡️投資ニュース / 米国株・日本株・仮想通貨・AI",
+  "avatar": "https://pbs.twimg.com/profile_images/1765218233324597248/LRgSXGTP_400x400.png",
+  "theme": "行政DX",
+  "text": "【速報】🚨横浜市の行政システム、約82万件の情報漏洩か\n\n・住民票やマイナンバー関連のオンライン手続きで使用\n・登録された利用者名やメールアドレスなどが対象\n・現時点では漏洩の可能性として調査中",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWLjzoBaAAAcA_F.jpg"
+   }
+  ],
+  "created_at": "2026-11-03T06:32:49.000Z",
+  "metrics": {
+   "like": 39,
+   "repost": 26,
+   "bookmark": 4,
+   "view": 6650
+  },
+  "added_at": "2026-11-03T06:57:59.146146+00:00"
+ },
+ {
+  "id": "2117486612045246567",
+  "handle": "umiyuki_ai",
+  "name": "うみゆき@AI研究",
+  "avatar": "https://pbs.twimg.com/profile_images/1581572203660787712/SAdL4WOj_400x400.jpg",
+  "theme": "AI",
+  "text": "StrataでISTAのDSV4.1F1017-GSQ-RCO-Coderが使えるように！このモデルは本来552BパラのDSV4.1F1017を72GBまで1bit量子化相当に圧縮！メインメモリ64GBで動作するという！それでもベンチスコア（SWEとLiveCodeBench）の低下は最小限に抑えられてる。何故こんな事が可能なのか？トリックとしては実は中身のエキスパートを思い切って半分削除してる。これでサイズ半減。残りを2bit相当まで量子化。197BのEngramはそのまま。（EngramはSSDに置くからメモリ食わない）つまりコーディング能力を維持する事だけに全力で他の能力はすべて切り捨てた形。元のモデルのベンチスコア高いしコーディングに限ればQwen3.8FNより有能な可能性もありえるかも。DSV4.1FはKVキャッシュサイズがやたら小さいのでコンテキストサイズ稼げるというメリットもある",
+  "media": [],
+  "created_at": "2026-11-03T05:18:43.000Z",
+  "metrics": {
+   "like": 34,
+   "repost": 2,
+   "bookmark": 20,
+   "view": 3724
+  },
+  "added_at": "2026-11-03T06:57:59.146146+00:00"
+ },
+ {
+  "id": "2117464031569281118",
+  "handle": "nyataromapo",
+  "name": "配当リス",
+  "avatar": "https://pbs.twimg.com/profile_images/2014894656576954368/B2XSXnBg_400x400.jpg",
+  "theme": "日本株・高配当株",
+  "text": "🔥 NTT（9432）、自社株買いが止まらない！🐿️\n\nなんと10月だけで約273億円の自社株買いを実施！😳\n\n✅ 10月取得額：約273億円\n✅ 10月取得株数：約1億5,754万株\n✅ 累計取得額：約1,049億円\n✅ 自社株買い上限：2,000億円\n\nつまり、まだ約951億円の買付余力が残っている計算！💰\n\n配当金をもらいながら、自社株買いによる株主還元にも期待できるNTT。\n\n長期保有の株主としては心強いですね😊\n\n#NTT #9432 #高配当株 #日本株 #配当金 #新NISA #株式投資",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWK-UALbMAAb6ia.jpg"
+   }
+  ],
+  "created_at": "2026-11-03T03:49:00.000Z",
+  "metrics": {
+   "like": 19,
+   "repost": 0,
+   "bookmark": 0,
+   "view": 1117
+  },
+  "added_at": "2026-11-03T06:57:59.146146+00:00"
+ },
+ {
+  "id": "2117455391961534896",
+  "handle": "makemmd",
+  "name": "すずき",
+  "avatar": "https://pbs.twimg.com/profile_images/2112367678317064192/HbIwutcB_400x400.jpg",
+  "theme": "日本株・高配当株",
+  "text": "オリエンタルランド、ゲスト一人あたり単価脅威の2万円マジかの好調で上方修正。。19429円って凄まじいな。。\n\nゲストアトラクションショーや有料の課金パスが好調そう\n\nhttps://www.olc.co.jp/ja/ir/latest/main/01111111114/teaserItems2/0/linkList/03/link/sp2027-02.pdf",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWK2dGpaYAEnxrb.jpg"
+   },
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWK2dGsbgAAStOh.jpg"
+   }
+  ],
+  "created_at": "2026-11-03T03:14:40.000Z",
+  "metrics": {
+   "like": 23,
+   "repost": 2,
+   "bookmark": 0,
+   "view": 6521
+  },
+  "added_at": "2026-11-03T06:57:59.146146+00:00"
+ },
+ {
+  "id": "2117444048227123277",
+  "handle": "OpenAI",
+  "name": "OpenAI",
+  "avatar": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_400x400.jpg",
+  "theme": "AI",
+  "text": "As AI becomes more capable at finding vulnerabilities, defenders need to put it to work before attackers do.\n\nWe’re planning our next internal security sprint at OpenAI and partnering with Cathedral Systems, whose researchers will use our models alongside our teams to challenge our defenses. They’ll bring differentiated expertise and approaches to our ongoing work to find and fix weaknesses with AI.\n\nWe’re also raising bug bounty rewards, including more than quadrupling rewards for critical findings. Exceptional findings will be eligible for up to $172,000, including bonuses.\n\nWe’ll keep advancing our models, using them to strengthen our own systems, and expanding access for trusted defenders.\n\nhttps://openai.com/index/preparing-our-next-security-sprint-to-harden-openai/",
+  "media": [],
+  "created_at": "2026-11-03T02:29:35.000Z",
+  "metrics": {
+   "like": 2095,
+   "repost": 204,
+   "bookmark": 413,
+   "view": 360579
+  },
+  "translation_ja": "AI が脆弱性を見つける能力を高めるにつれ、攻撃者より先に防御側がそれを活用する必要があります。\n\nOpenAI は次の社内セキュリティスプリントを計画しており、Cathedral Systems と提携します。同社の研究者が、私たちのモデルを社内チームと併用しながら、私たちの防御に挑戦します。AI を使って弱点を見つけて修正する私たちの継続的な取り組みに、他にない専門性とアプローチをもたらしてくれます。\n\nあわせて、バグバウンティの報酬も引き上げます。重大な発見への報酬は4倍超になります。優れた発見には、ボーナスを含め最大172,000ドルが支払われます。\n\n私たちは、モデルを進化させ続け、自社システムの強化に活用し、信頼できる防御者へのアクセスを広げていきます。\n\nhttps://t.co/vcaoHROTt2",
+  "added_at": "2026-11-03T06:57:59.146146+00:00"
+ },
+ {
+  "id": "2117424542004203526",
+  "handle": "npaka123",
+  "name": "布留川英一 / Hidekazu Furukawa",
+  "avatar": "https://pbs.twimg.com/profile_images/1497823072560492545/PoUh9VNk_400x400.jpg",
+  "theme": "AI",
+  "text": "個人情報を扱う常駐型AIエージェント「Muse」のセキュリティの仕組み｜npaka @npaka123 https://note.com/npaka/n/ncccb2783a262?sub_rt=share_pw",
+  "media": [],
+  "created_at": "2026-11-03T01:12:05.000Z",
+  "metrics": {
+   "like": 164,
+   "repost": 29,
+   "bookmark": 148,
+   "view": 20830
+  },
+  "added_at": "2026-11-03T06:57:59.146146+00:00"
+ },
+ {
+  "id": "2117418155647684676",
+  "handle": "Ldataengineer",
+  "name": "Gul Saeed Khattak",
+  "avatar": "https://pbs.twimg.com/profile_images/2063281035014500352/3hpG3G0Q_400x400.jpg",
+  "theme": "AI",
+  "text": "NVIDIA Open-Sources Auto Ontology, a Semantic Layer for AI Agents\n\nYour boss asks the AI agent: \"What was revenue last quarter?\"\n\nIt answers in 3 seconds. Clean number. Nice chart.\n\nBut it used the wrong \"revenue\" column. 𝗡𝗼𝗯𝗼𝗱𝘆 𝗻𝗼𝘁𝗶𝗰𝗲𝘀.\n\nThat's the problem NVIDIA's new open-source library, Auto Ontology, goes after. Its README puts it plainly:\n\n\"…𝘢 𝘳𝘦𝘷𝘦𝘯𝘶𝘦 𝘮𝘦𝘵𝘳𝘪𝘤 𝘢𝘯𝘴𝘸𝘦𝘳𝘦𝘥 𝘧𝘢𝘴𝘵𝘦𝘳 𝘪𝘴 𝘸𝘰𝘳𝘵𝘩 𝘯𝘰𝘵𝘩𝘪𝘯𝘨 𝘪𝘧 𝘵𝘩𝘦 𝘯𝘶𝘮𝘣𝘦𝘳 𝘪𝘴 𝘸𝘳𝘰𝘯𝘨.\"\n\n𝗪𝗵𝗮𝘁 𝗶𝘁 𝗶𝘀:\n\nA \"context layer\" that sits between an AI agent and your database. It tells the agent where the data lives, what each field means, and whether to use it.\n\n𝗛𝗼𝘄 𝗶𝘁 𝘄𝗼𝗿𝗸𝘀, 𝘀𝘁𝗲𝗽 𝗯𝘆 𝘀𝘁𝗲𝗽:\n\n• 𝗗𝗶𝘀𝗰𝗼𝘃𝗲𝗿: it reads your database metadata and drafts an ontology, a map of business terms like \"active customer\"\n• 𝗚𝗿𝗼𝘂𝗻𝗱: agents use those terms instead of guessing from raw table names\n• 𝗩𝗮𝗹𝗶𝗱𝗮𝘁𝗲: it checks generated SQL against certified definitions\n• 𝗘𝘅𝗽𝗼𝘀𝗲: agents reach it through MCP, a CLI or an API\n• 𝗟𝗲𝗮𝗿𝗻: certified corrections go back into the map\n\n𝗙𝗼𝗿 𝘂𝘀𝗲𝗿𝘀:\n\nAsk a question, get 𝘁𝗵𝗲 𝗮𝗻𝘀𝘄𝗲𝗿, 𝘁𝗵𝗲 𝗦𝗤𝗟 𝗶𝘁 𝗿𝗮𝗻, 𝗮𝗻𝗱 𝘁𝗵𝗲 𝗿𝗼𝘄𝘀. You can check the work, not just trust it.\n\n𝗙𝗼𝗿 𝗯𝘂𝗶𝗹𝗱𝗲𝗿𝘀:\n\n• Apache 2.0, runs with Docker Compose or Helm\n• Works with Databricks, Postgres, Snowflake and DuckDB\n• Defaults to NVIDIA's Nemotron models, but 𝗮𝗻𝘆 𝗢𝗽𝗲𝗻𝗔𝗜-𝗰𝗼𝗺𝗽𝗮𝘁𝗶𝗯𝗹𝗲 𝗲𝗻𝗱𝗽𝗼𝗶𝗻𝘁 𝘄𝗼𝗿𝗸𝘀\n• The MCP server has 𝟵 𝗿𝗲𝗮𝗱-𝗼𝗻𝗹𝘆 𝘁𝗼𝗼𝗹𝘀. There is deliberately no tool to browse raw tables, so agents must go through the business terms\n\n𝗜𝘁 𝗯𝘂𝗶𝗹𝗱𝘀 𝗼𝗻 𝗲𝗮𝗿𝗹𝗶𝗲𝗿 𝘄𝗼𝗿𝗸:\n\n• Cube and dbt MetricFlow: semantic layers you write by hand in code\n• Wren AI: an open semantic layer for AI agents, with a context layer built partly by agents\n• Snowflake's Semantic View Autopilot: also drafts semantic models with AI, but only for Snowflake\n\nWhat's different here: 𝗼𝗽𝗲𝗻 𝘀𝗼𝘂𝗿𝗰𝗲, 𝘄𝗼𝗿𝗸𝘀 𝗮𝗰𝗿𝗼𝘀𝘀 𝗳𝗼𝘂𝗿 𝗱𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀, 𝗮𝗻𝗱 𝗯𝘂𝗶𝗹𝘁 𝗳𝗼𝗿 𝗮𝗴𝗲𝗻𝘁𝘀 𝘁𝗵𝗿𝗼𝘂𝗴𝗵 𝗠𝗖𝗣.\n\n𝗧𝗵𝗲 𝗵𝗼𝗻𝗲𝘀𝘁 𝗽𝗮𝗿𝘁:\n\n• 𝗧𝗵𝗲 \"𝟵𝟬% 𝗳𝗮𝘀𝘁𝗲𝗿\" 𝗰𝗹𝗮𝗶𝗺 𝗶𝘀 𝗡𝗩𝗜𝗗𝗜𝗔'𝘀 𝗼𝘄𝗻 𝘁𝗲𝘀𝘁𝗶𝗻𝗴, with no baseline published\n• 𝗡𝗼 𝗮𝗰𝗰𝘂𝗿𝗮𝗰𝘆 𝘀𝗰𝗼𝗿𝗲𝘀 𝗮𝗿𝗲 𝗽𝘂𝗯𝗹𝗶𝘀𝗵𝗲𝗱. NVIDIA ships an eval harness (BIRD, 1,534 questions) but no results\n• That harness was tested with 𝗖𝗹𝗮𝘂𝗱𝗲 𝗢𝗽𝘂𝘀 𝟰.𝟴, 𝗻𝗼𝘁 𝗡𝗲𝗺𝗼𝘁𝗿𝗼𝗻\n• 𝗪𝗶𝘁𝗵𝗼𝘂𝘁 𝗛𝗮𝘀𝗵𝗶𝗖𝗼𝗿𝗽 𝗩𝗮𝘂𝗹𝘁, 𝗱𝗮𝘁𝗮𝗯𝗮𝘀𝗲 𝗽𝗮𝘀𝘀𝘄𝗼𝗿𝗱𝘀 𝗮𝗿𝗲 𝘀𝘁𝗼𝗿𝗲𝗱 𝘂𝗻𝗲𝗻𝗰𝗿𝘆𝗽𝘁𝗲𝗱 in Postgres (per the README)\n• It's young: 𝗮𝗯𝗼𝘂𝘁 𝟳𝟱𝟬 𝗚𝗶𝘁𝗛𝘂𝗯 𝘀𝘁𝗮𝗿𝘀, and NVIDIA isn't accepting outside contributions\n\n𝗧𝗵𝗲 𝗯𝗶𝗴𝗴𝗲𝗿 𝗽𝗼𝗶𝗻𝘁: the hard part of AI analytics isn't writing SQL. 𝗜𝘁'𝘀 𝗮𝗴𝗿𝗲𝗲𝗶𝗻𝗴 𝗼𝗻 𝘄𝗵𝗮𝘁 𝘁𝗵𝗲 𝘄𝗼𝗿𝗱𝘀 𝗺𝗲𝗮𝗻.\nGitHub: https://github.com/NVIDIA/auto-ontology\nLinks in reply 👇",
+  "media": [],
+  "created_at": "2026-11-03T00:46:42.000Z",
+  "metrics": {
+   "like": 780,
+   "repost": 78,
+   "bookmark": 1517,
+   "view": 55629
+  },
+  "translation_ja": "NVIDIA が AI エージェント向けセマンティックレイヤー「Auto Ontology」をオープンソース化\n\n上司が AI エージェントに「先四半期の売上は？」と聞く。\n\n3秒で答えが返る。きれいな数字。きれいなグラフ。\n\nでも使われたのは間違った「売上」列だった。誰も気づかない。\n\nNVIDIA の新しいオープンソースライブラリ Auto Ontology が狙うのはこの問題だ。README にははっきりこう書かれている：\n\n「…速く返ってきた売上の答えは、その数字が間違っていれば何の価値もない。」\n\n何であるか：\n\nAI エージェントとデータベースの間に入る「コンテキストレイヤー」。データがどこにあり、各フィールドが何を意味し、使ってよいかどうかをエージェントに伝える。\n\n仕組み（ステップごと）：\n\n• 発見（Discover）：データベースのメタデータを読み、「アクティブ顧客」のようなビジネス用語の地図（オントロジー）を下書きする\n• 接地（Ground）：エージェントは生のテーブル名から推測せず、その用語を使う\n• 検証（Validate）：生成された SQL を認定済みの定義と照合する\n• 公開（Expose）：エージェントは MCP、CLI、API 経由でアクセスする\n• 学習（Learn）：認定された修正が地図に反映される\n\nユーザー向け：\n\n質問すると、答え、実行した SQL、取得した行が返る。ただ信じるのではなく、作業内容を確認できる。\n\n構築者向け：\n\n• Apache 2.0。Docker Compose または Helm で動く\n• Databricks、Postgres、Snowflake、DuckDB に対応\n• 既定では NVIDIA の Nemotron モデルを使うが、OpenAI 互換のエンドポイントなら何でも動く\n• MCP サーバーには読み取り専用ツールが9つある。生のテーブルを閲覧するツールは意図的に無く、エージェントは必ずビジネス用語を通すことになる\n\n先行する取り組みの上に成り立っている：\n\n• Cube と dbt MetricFlow：コードで手書きするセマンティックレイヤー\n• Wren AI：エージェントのためのオープンなセマンティックレイヤー。コンテキストレイヤーの一部をエージェントが作る\n• Snowflake の Semantic View Autopilot：同じく AI でセマンティックモデルを下書きするが、Snowflake 限定\n\nここでの違い：オープンソースで、4つのデータベースで動き、MCP を通じてエージェント向けに作られている点。\n\n正直なところ：\n\n• 「90% 高速化」という主張は NVIDIA 自身のテストによるもので、比較対象（ベースライン）は公開されていない\n• 精度スコアは公開されていない。NVIDIA は評価ハーネス（BIRD、1,534問）を同梱しているが、結果は無い\n• そのハーネスは Nemotron ではなく Claude Opus 4.8 でテストされた\n• HashiCorp Vault が無い場合、データベースのパスワードは Postgres に暗号化されずに保存される（README による）\n• まだ若い：GitHub スターは約750で、NVIDIA は外部からの貢献を受け付けていない\n\nより大きなポイント：AI による分析で難しいのは SQL を書くことではない。言葉の意味について合意することだ。\nGitHub: https://t.co/yzFZkacXNy\nリンクは返信に👇",
+  "added_at": "2026-11-03T06:57:59.146146+00:00"
+ },
+ {
+  "id": "2117397844860576061",
+  "handle": "sorave55",
+  "name": "そらぶ🐶💓高配当株好き",
+  "avatar": "https://pbs.twimg.com/profile_images/2109273488490110976/sj0VgkHS_400x400.jpg",
+  "theme": "日本株・高配当株",
+  "text": "同じ会社を売買して、この明暗..\n\n阪急阪神エクスプレスを\n買った三菱倉庫 → -14.00%\n売った阪急阪神HD → +4.38%\n\n買い物した側が売られて、\n売った側が買われる株式市場。\n\n三菱倉庫\nそんなにダメな買い物だったの？",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWIHR86bYAAIONJ.jpg"
+   },
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWIHR8taAAAf-fE.jpg"
+   }
+  ],
+  "created_at": "2026-11-02T23:26:00.000Z",
+  "metrics": {
+   "like": 55,
+   "repost": 0,
+   "bookmark": 1,
+   "view": 6633
+  },
+  "added_at": "2026-11-03T06:57:59.146146+00:00"
+ },
+ {
+  "id": "2117156821261820037",
+  "handle": "aitarimise",
+  "name": "藍田りみせ⚔株クエスト",
+  "avatar": "https://pbs.twimg.com/profile_images/2116635607950864384/756zChNB_400x400.jpg",
+  "theme": "日本株・高配当株",
+  "text": "大引け後の気になるニュース👀💭✨\n住友関連が多めです♪\n\n✅ 住友商事（8053）\n通期利益を上方修正し増配\n概要：純利益予想を6,300億円から6,700億円へ\n重要：年間配当を40円から44円へ\n影響：業績と還元の両面で好材料\n注目：上期利益は前年同期比15.5％増\n\n✅ 住友化学（4005）\n通期利益を上方修正し増配\n概要：純利益予想を700億円から900億円へ\n重要：年間配当を16円から17円へ\n影響：利益回復と還元強化\n注目：上期純利益は前年同期比2.1倍\n\n✅ 日本軽金属HD（5703）\n業績上方修正と自社株買い\n概要：営業利益予想を330億円から370億円へ\n重要：上限60万株または15億円を取得\n影響：業績改善と株主還元が材料\n注目：取得期間は11月4日から\n\n✅ 住友ファーマ（4506）\n4期ぶりの復配を受け株価が一時10％高\n概要：年間15円の配当を発表済み\n重要：通期利益予想も上方修正\n影響：復配を好感する買い\n注目：11月2日の株価反応",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWGm5-Ja8AAXoFw.jpg"
+   },
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWGm5-CaoAEvQOd.jpg"
+   },
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWGm5-BakAEoqiy.jpg"
+   },
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWGm59zaYAEbu58.jpg"
+   }
+  ],
+  "created_at": "2026-11-02T07:28:15.000Z",
+  "metrics": {
+   "like": 44,
+   "repost": 0,
+   "bookmark": 1,
+   "view": 1095
+  },
+  "added_at": "2026-11-03T06:57:59.146146+00:00"
+ },
+ {
   "id": "2117444204943323325",
   "handle": "shimotsuke_np",
   "name": "下野新聞",
@@ -194,12 +416,12 @@
   "media": [],
   "created_at": "2026-11-03T02:04:00.000Z",
   "metrics": {
-   "like": 1836,
-   "repost": 70,
-   "bookmark": 875,
-   "view": 60455
+   "like": 4844,
+   "repost": 162,
+   "bookmark": 2581,
+   "view": 229306
   },
-  "translation_ja": "ホットテイクかもしれないけど、敵対的レビュー(adversarial review)はほとんどトークンの無駄だと今は考えている。そのトークンは、実証的な検証と形式検証を組み合わせることに使うほうがはるかにいい。pstackを更新して interrogate スキルの使用を減らしたし、最終的には完全に削除するかもしれない。\n\n抽象的なコードレビューにはほとんど価値を感じていない。エージェントは些末な指摘や YAGNI(今は不要な機能)の話に迷い込みがちだ。",
+  "translation_ja": "ホットテイクかもしれないけど、敵対的レビュー（adversarial review）は今では、ほぼトークンの無駄だと思っている。そのトークンは、実際に動かして確かめる検証（empirical）と形式検証を組み合わせることに使うほうがずっといい。pstack では interrogate スキルの使用を減らすよう更新したし、最終的には完全に外すかもしれない\n\n抽象的なコードレビューにはほとんど価値を感じていない。エージェントは細かい指摘や YAGNI（今は不要な機能）の議論で迷子になりがちだ",
   "added_at": "2026-11-03T02:59:04.391543+00:00"
  },
  {

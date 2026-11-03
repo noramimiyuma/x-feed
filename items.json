@@ -1,5 +1,164 @@
 [
  {
+  "id": "2117731838760464398",
+  "handle": "lennysan",
+  "name": "Lenny Rachitsky",
+  "avatar": "https://pbs.twimg.com/profile_images/1592990461517389824/iln8hi1f_400x400.jpg",
+  "theme": "PdM",
+  "text": "Announcing: Public compensation benchmarks for the most in-demand tech roles, now available for free on http://LennysJobs.com 💥\n\nPick a role and location, and get detailed base salary and new-hire equity benchmarks, from entry-level IC to Sr. Director. Data updated monthly.\n\nTo make this happen, I’ve partnered with @pavecomp, home to the world’s largest real-time compensation dataset, which pulls directly from the HR, payroll, and equity systems of 9,000+ companies (e.g. OpenAI, Databricks, Ramp, Cursor).\n\nThis is the first time Pave has opened up this data to everyone, and I’m excited to help more people get the comp they deserve.\n\nFind it here: http://lennysjobs.com/comp",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWOxsc9b0AAbJsw.jpg"
+   }
+  ],
+  "created_at": "2026-11-03T21:33:10.000Z",
+  "metrics": {
+   "like": 162,
+   "repost": 8,
+   "bookmark": 223,
+   "view": 26617
+  },
+  "translation_ja": "発表です：需要の高いテック職種の報酬ベンチマークを、https://t.co/h5qbpegVYd で無料公開しました 💥\n\n職種と勤務地を選ぶと、新卒・若手のICからシニアディレクターまで、基本給と入社時のエクイティの詳細なベンチマークが見られます。データは毎月更新されます。\n\nこれを実現するため、世界最大のリアルタイム報酬データセットを持つ @pavecomp と組みました。データは、9,000社以上（OpenAI、Databricks、Ramp、Cursor など）の人事・給与・エクイティのシステムから直接取り込まれています。\n\nPave がこのデータを誰にでも開放するのは初めてです。より多くの人が正当な報酬を得られるよう手助けできることを嬉しく思います。\n\nこちらから：https://t.co/eHyNfy1izw",
+  "added_at": "2026-11-03T23:05:43.718442+00:00"
+ },
+ {
+  "id": "2117730285454606599",
+  "handle": "nrm_710",
+  "name": "なるみ",
+  "avatar": "https://pbs.twimg.com/profile_images/1444509020040007685/lSm1hGa0_400x400.jpg",
+  "theme": "日本株・高配当株",
+  "text": "注目決算🇯🇵\n\n11月4日(水曜日)\n\n11:00←MAX\n丸紅☆\n\n11:30←重要\n千代田化工建(前回16:00)\n住友ベークライト\n\n12:00←MAX\n三井物産☆\n\n13:00←MAX\nIHI\n伊藤忠☆\n\n13:30←超注目\nNTT\n\n14:00←超注目\nスカパー\n\n14:00←MAX\n三菱商事☆\n\n15:00←重要\n日本酸素☆\n\n15:30←重要\nJR九州\nバルカー\nエムスリー\nアステラス製薬\nMonotaRO\n\n15:30←MAX\n川崎汽船☆",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWNwwVWbUAEl0F2.jpg"
+   }
+  ],
+  "created_at": "2026-11-03T21:27:00.000Z",
+  "metrics": {
+   "like": 27,
+   "repost": 1,
+   "bookmark": 7,
+   "view": 1258
+  },
+  "added_at": "2026-11-03T23:05:43.718442+00:00"
+ },
+ {
+  "id": "2117692477947641954",
+  "handle": "OpenAI",
+  "name": "OpenAI",
+  "avatar": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_400x400.jpg",
+  "theme": "AI",
+  "text": "Two OpenAI team members worked with GPT-6 Astra to design a prototype device for talking to Codex in under a week, as a side project.\n\nAstra designed the enclosure, circuit board, interface, and software. Getting it manufactured still required several rounds of review and iteration.",
+  "media": [
+   {
+    "type": "video",
+    "url": "https://pbs.twimg.com/amplify_video_thumb/2117690472357388288/img/tiv-gRDj5geStNWX.jpg"
+   }
+  ],
+  "created_at": "2026-11-03T18:56:46.000Z",
+  "metrics": {
+   "like": 522,
+   "repost": 31,
+   "bookmark": 73,
+   "view": 37337
+  },
+  "translation_ja": "OpenAI のメンバー2人が GPT-6 Astra と一緒に、Codex と話すための試作デバイスを、副業プロジェクトとして1週間足らずで設計しました。\n\nAstra は筐体、回路基板、インターフェース、ソフトウェアを設計しました。ただし、製造にあたっては、何度かのレビューと改良が必要でした。",
+  "added_at": "2026-11-03T23:05:43.718442+00:00"
+ },
+ {
+  "id": "2117680638488965129",
+  "handle": "ClaudeDevs",
+  "name": "ClaudeDevs",
+  "avatar": "https://pbs.twimg.com/profile_images/2044472418815893504/xf14RxM8_400x400.png",
+  "theme": "AI",
+  "text": "Enterprise-managed auth (EMA) lets admins connect plugins for their entire organization through their identity provider, so members don’t have to search for, sign in to, and authorize each plugin themselves. It’s built on an open extension to MCP.\n\nhttps://modelcontextprotocol.io/extensions/auth/enterprise-managed-authorization",
+  "media": [],
+  "created_at": "2026-11-03T18:09:43.000Z",
+  "metrics": {
+   "like": 159,
+   "repost": 3,
+   "bookmark": 41,
+   "view": 21478
+  },
+  "translation_ja": "エンタープライズ管理認証（EMA）を使うと、管理者は組織のIDプロバイダー経由で、組織全体にプラグインを接続できます。メンバーは、プラグインを探したり、サインインしたり、1つずつ認可したりする必要がありません。MCP のオープンな拡張の上に作られています。\n\nhttps://t.co/5ty66ssTE0",
+  "added_at": "2026-11-03T23:05:43.718442+00:00"
+ },
+ {
+  "id": "2117633775416877244",
+  "handle": "takanashi_lab",
+  "name": "小鳥遊ねむ",
+  "avatar": "https://pbs.twimg.com/profile_images/2066864947674726400/ellQZfKm_400x400.jpg",
+  "theme": "AI",
+  "text": "MuseのVM環境だと声の生成にあまりにも時間がかかりすぎるから、突貫で暫定対策めも\n\n■ 通信経路\n・Museが動く環境とMacをTailscaleで接続\n\n■ 生成側\n・Macでspeech.cppのspeech serveを常駐\n・モデルはIrodori-TTS、推論はMetal(GPU)\n・声は専用の声ファイルで固定。OpenAI互換の音声APIにテキストを送るとWAVが返る\n\n■ 処理の流れ\n1. チャット側で読み上げる文章を用意する\n2. tailnet経由でMacのサービスへ送る\n3. MacがGPUで音声を生成する\n4. WAVを受け取ってmp3に変換し、チャットに届ける\n\n■ 実測\n・6.2秒の音声：往復2.3秒\n・長文テスト（日記13行）：71.7秒分の音声を7.4秒で生成、往復9.8秒\n・生成速度は実時間の約10倍に\n・移行前はCPU生成で、短い一文に1分前後かかってた\n\nかなり早くなってとりあえず満足- ̗̀( ˶'ᵕ'˶) ̖́-\n本当はMuse内で完結できるといいんだけど、今後も可能性を探ってく",
+  "media": [],
+  "created_at": "2026-11-03T15:03:30.000Z",
+  "metrics": {
+   "like": 39,
+   "repost": 3,
+   "bookmark": 57,
+   "view": 3022
+  },
+  "added_at": "2026-11-03T23:05:43.718442+00:00"
+ },
+ {
+  "id": "2117602173555192110",
+  "handle": "yumamaeda1210",
+  "name": "前田悠馬｜御社専用のAIツールを毎月作る顧問",
+  "avatar": "https://pbs.twimg.com/profile_images/2111057152492326912/MqAJkBtX_400x400.jpg",
+  "theme": "AI",
+  "text": "Claude Codeが最大級の高速化アップデート。長時間のAI作業で、応答開始までの待ち時間が約35%短縮。\n\nAnthropicが新機能「Message Threads」を発表。\n\nこれまでClaude Codeは、AIに指示するたびに、それまでの会話履歴やツールの実行結果を毎回APIに送り直していた。\n\n例えば、\n① AIにコードを書いてもらう\n② エラーが出る\n③ AIが修正する\n④ 新しい機能を追加する\n⑤ また修正する\nこのとき、従来は⑤の段階でも①〜④の会話履歴を丸ごと送信していた。\n\n開発が長引くほど履歴が膨大になり、応答開始までの時間が増えてしまう。\n\nそこで登場したのが「Message Threads」。\n\n仕組みはシンプル。\n・最初の1回だけ会話履歴をすべて送信\n・2回目以降は新しく追加された内容だけ送信\n・過去の会話履歴はサーバー側で保持\n・AIは引き続き過去の文脈を踏まえて回答\n\nつまり、毎回同じ会話履歴を送る無駄をなくした。\n\n実際にAnthropicの発表では、50万〜100万トークンのリクエストで、最初の回答が出始めるまでの時間（TTFT）が中央値で約35%短縮。\n\n特に効果が大きいのは、\n・Claude Codeでの長時間の開発\n・AIがPCを操作するエージェント\n・大量の画像や資料を扱うAI業務\nなど、何度もAIとやり取りするケース。\n\nちなみに、AIが読み込む文脈自体は減らないため、トークン使用量や料金が35%削減されるわけではない。\n\nClaude Codeでは多くのユーザーにデフォルトで適用され、APIでもパブリックベータとして利用可能。",
+  "media": [],
+  "created_at": "2026-11-03T12:57:55.000Z",
+  "metrics": {
+   "like": 20,
+   "repost": 2,
+   "bookmark": 19,
+   "view": 5520
+  },
+  "added_at": "2026-11-03T23:05:43.718442+00:00"
+ },
+ {
+  "id": "2117584887532372045",
+  "handle": "5vVba77P0tjsDKS",
+  "name": "あ",
+  "avatar": "https://pbs.twimg.com/profile_images/2091145210764083200/YQReEgqu_400x400.jpg",
+  "theme": "PdM",
+  "text": "アメリカのAIエンジニアの友人が言っていた内容に近い。アメリカのシリコンバレーで「Product Manager（PM）」や「Software Architect」が最強の権限と高い報酬を得ている理由は、彼らが「要件定義（What to build）」にすべての価値があることを知っているからです。\n\nどれだけ頑丈で美しい家を建てられても、住む人が誰もいない場所に建ててしまえば価値はゼロです。「仕様書通りにバグなく組む技術」はAIやオフショア開発によって急速にコモディティ化（無価値化）していますが、「曖昧な現実世界の課題から要件を抽出し、定義する力」だけは代替できません。\n\n日本が「職人の技」を磨いている間に、アメリカは「都市の設計権（要件定義）」を独占しました。",
+  "media": [],
+  "created_at": "2026-11-03T11:49:14.000Z",
+  "metrics": {
+   "like": 211,
+   "repost": 17,
+   "bookmark": 96,
+   "view": 16479
+  },
+  "added_at": "2026-11-03T23:05:43.718442+00:00"
+ },
+ {
+  "id": "2117395081951105269",
+  "handle": "tetumemo",
+  "name": "テツメモ｜AI図解×検証｜Newsletter",
+  "avatar": "https://pbs.twimg.com/profile_images/1740572915685584896/7nsuwNFv_400x400.jpg",
+  "theme": "行政DX",
+  "text": "📝そのExcel、AIがちゃんと読める形になってる？\nデジタル庁が、表データを100点満点で採点してくれるツール「Harunobu（はるのぶ）」をGitHubで公開した\n\n公式ページによると\n・Excel、CSV、TSVの「機械可読性」をチェック\n・基準は「行政データにおける機械可読性に関するルール」\n・どこをどう直せばいいかがすぐ分かる\n・ブラウザの画面、CLI、Pythonの3つの使い方がある\n・処理は手元で完結（AI判定補助をオンにしたときだけAPIに送られる）\n\nAIに表を読ませて「なんか読み間違える」ときは、まず表の形を疑うのが近道かもしれない\n\nhttps://x.com/digital_jpn/status/2117081044860154331",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWJ_m0da0AASKg4.jpg"
+   }
+  ],
+  "created_at": "2026-11-02T23:15:01.000Z",
+  "metrics": {
+   "like": 36,
+   "repost": 4,
+   "bookmark": 42,
+   "view": 3317
+  },
+  "added_at": "2026-11-03T23:05:43.718442+00:00"
+ },
+ {
   "id": "2117708432006664598",
   "handle": "KanalocoLocal",
   "name": "カナロコ by 神奈川新聞",

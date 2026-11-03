@@ -1,5 +1,260 @@
 [
  {
+  "id": "2117438721356419179",
+  "handle": "PassionateHachi",
+  "name": "はち🐝 Newbee 代表",
+  "avatar": "https://pbs.twimg.com/profile_images/1891291189158227969/eJRddkDe_400x400.jpg",
+  "theme": "PdM",
+  "text": "昨日みやっちさんと話してて、AI競争も一般的なプロダクトマネジメントの戦いになったと整理できた。\n\nDots、Grok bot、Muse。\n\nその差はオンボーディング設計やUGCの産み方、紹介したくなる仕組みなど、典型的なグロースハックができているかどうかがPLGの勝ち筋に効くオーソドックスな戦い。 https://twitter.com/miyatti/status/2117434078085656898",
+  "media": [],
+  "created_at": "2026-11-03T02:08:25.000Z",
+  "metrics": {
+   "like": 3,
+   "repost": 2,
+   "bookmark": 1,
+   "view": 337
+  },
+  "added_at": "2026-11-03T02:59:04.391543+00:00"
+ },
+ {
+  "id": "2117437607940681849",
+  "handle": "poteto",
+  "name": "lauren",
+  "avatar": "https://pbs.twimg.com/profile_images/2093473719830315008/oo09g1Ov_400x400.jpg",
+  "theme": "AI",
+  "text": "maybe a hot take but i now consider adversarial reviews mostly a waste of tokens. far better to use those tokens on empirical combined with formal verification. i have updated pstack to use the interrogate skill less, and eventually i think i may remove it altogether\n\ni have found very little value with code review in the abstract, agents tend to just get lost in the nitpicks and yagnis",
+  "media": [],
+  "created_at": "2026-11-03T02:04:00.000Z",
+  "metrics": {
+   "like": 1836,
+   "repost": 70,
+   "bookmark": 875,
+   "view": 60455
+  },
+  "translation_ja": "ホットテイクかもしれないけど、敵対的レビュー(adversarial review)はほとんどトークンの無駄だと今は考えている。そのトークンは、実証的な検証と形式検証を組み合わせることに使うほうがはるかにいい。pstackを更新して interrogate スキルの使用を減らしたし、最終的には完全に削除するかもしれない。\n\n抽象的なコードレビューにはほとんど価値を感じていない。エージェントは些末な指摘や YAGNI(今は不要な機能)の話に迷い込みがちだ。",
+  "added_at": "2026-11-03T02:59:04.391543+00:00"
+ },
+ {
+  "id": "2117437270764736741",
+  "handle": "masahirochaen",
+  "name": "チャエン | デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》",
+  "avatar": "https://pbs.twimg.com/profile_images/1689665533929725953/fClFlzLd_400x400.jpg",
+  "theme": "AI",
+  "text": "ChatGPTのUIが最高すぎて、語学学習が捗る。\n\n中国出張中、中国語の学習に使ってるけど、もはや専属の語学講師。\n\n特にすごいのが、\n\n・日本語をネイティブが使う自然な中国語に翻訳\n・中国語、ピンイン、日本語訳をセットで表示\n・単語ごとに意味や声調、発音のコツを解説\n・タップすると詳しい解説が展開\n・AI専門用語などをカテゴリ別に絞り込み\n・文法や語順を色分け＆図解で可視化\n・カジュアル〜ビジネスまで3パターンの言い換え\n・ワンタップで中国語をコピー\n・最後に選択式クイズで理解度をチェック\n\n単なる翻訳ツールじゃなくて、インタラクティブな語学教材をその場で生成できるのがすごい。\n\nしかも、これ全部プロンプト1つで実現。\nニーズあれば英語版作ります！！\n\n使ったプロンプトは次の投稿に貼っておきます👇",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWKl-DkaQAAYKJg.jpg"
+   },
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWKl-Dia4AAGA8W.jpg"
+   },
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWKl-DsbkAA4eth.jpg"
+   },
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWKl-DbaIAA_Fzf.jpg"
+   }
+  ],
+  "created_at": "2026-11-03T02:02:40.000Z",
+  "metrics": {
+   "like": 30,
+   "repost": 3,
+   "bookmark": 30,
+   "view": 6423
+  },
+  "added_at": "2026-11-03T02:59:04.391543+00:00"
+ },
+ {
+  "id": "2117433764616057254",
+  "handle": "sakamoto_582",
+  "name": "サカモト@エンジニアキャリア論",
+  "avatar": "https://pbs.twimg.com/profile_images/1617195321356079104/2gj08RyW_400x400.jpg",
+  "theme": "AI",
+  "text": "過去問でハーネス設計改善すればISUCONの未知の問題で人が介在しなくとも優勝できる。こういう時代になったわけで、我々エンジニアはどこに価値を置くか考えなければならないですね。\n\nhttps://zenn.dev/luvtechno/articles/isucon2026-competition-day",
+  "media": [],
+  "created_at": "2026-11-03T01:48:44.000Z",
+  "metrics": {
+   "like": 23,
+   "repost": 1,
+   "bookmark": 10,
+   "view": 1631
+  },
+  "added_at": "2026-11-03T02:59:04.391543+00:00"
+ },
+ {
+  "id": "2117431013454602249",
+  "handle": "gorisan_it",
+  "name": "井上ひろき(ITゴリさん)@墨田区議会議員",
+  "avatar": "https://pbs.twimg.com/profile_images/1637339682894942210/qxkpgqEg_400x400.jpg",
+  "theme": "行政DX",
+  "text": "【🦍墨田区　予算の見える化❗️】\n\n「すみだのお金は、どこから来てどこへ行くの？」\nを作ってみました！\n\n・今年度予算\n・昨年度決算\n・行政評価\nなどの資料から各事業の金額と概要を掲載しています。\n\n今後は\n・議会質疑\n・検索\nなどの機能も追加していこうと考えています🙇\n\nご意見くださいませ☺️\n\nページはこちら👇️\nhttps://sumida-yosan.gorisan.info/\n\n#墨田区 #ごりさん活動報告 #井上ひろき #データ可視化 #オープンデータ",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWKf-tkbAAEZx2G.jpg"
+   },
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWKgKAubEAAmK2b.jpg"
+   }
+  ],
+  "created_at": "2026-11-03T01:37:48.000Z",
+  "metrics": {
+   "like": 6,
+   "repost": 0,
+   "bookmark": 1,
+   "view": 193
+  },
+  "added_at": "2026-11-03T02:59:04.391543+00:00"
+ },
+ {
+  "id": "2117430100295913551",
+  "handle": "ctgptlb",
+  "name": "AGIラボ",
+  "avatar": "https://pbs.twimg.com/profile_images/1671845985574875137/W689Frac_400x400.jpg",
+  "theme": "AI",
+  "text": "【速報】ChatGPT、12月からチャットとCodexの利用枠を共通化\n\nOpenAIがヘルプ記事で予告\n\n・対象：Plus／Pro／Business\n・Instant以外のチャットも同じ枠を消費\n・トークンで計測。高度なモデル・複雑な作業ほど多く減る\n・プランごとの量と開始日は未公表\n\n今との違いはリプで↓",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWKfcWXaAAAsYLb.jpg"
+   }
+  ],
+  "created_at": "2026-11-03T01:34:10.000Z",
+  "metrics": {
+   "like": 20,
+   "repost": 1,
+   "bookmark": 9,
+   "view": 5970
+  },
+  "added_at": "2026-11-03T02:59:04.391543+00:00"
+ },
+ {
+  "id": "2117413468181864655",
+  "handle": "fukkyy",
+  "name": "福島良典 | LayerX",
+  "avatar": "https://pbs.twimg.com/profile_images/479435326083964928/CPcSdHAV_400x400.png",
+  "theme": "AI",
+  "text": "トークンマキシングをできない会社は、これからどんどん厳しくなるという判断。マキシングの鍵はトークノミクスであり、そこをこの半年間準備してきた。マキシングの時代",
+  "media": [],
+  "created_at": "2026-11-03T00:28:05.000Z",
+  "metrics": {
+   "like": 92,
+   "repost": 3,
+   "bookmark": 37,
+   "view": 8002
+  },
+  "added_at": "2026-11-03T02:59:04.391543+00:00"
+ },
+ {
+  "id": "2117391931319935125",
+  "handle": "Kazzn_blog",
+  "name": "KAZZN",
+  "avatar": "https://pbs.twimg.com/profile_images/1560587873958895617/w9a0BcLs_400x400.jpg",
+  "theme": "日本株・高配当株",
+  "text": "水木曜に決算の銘柄✨\n\n・11月4日(水)\n🟢IHI(7013)\n🟢NTT(9432)\n🟢丸紅(8002)\n🟢JR九州(9142)\n🟢三菱商事(8058)\n🟢三井物産(8031)\n🟢バルカー(7995)\n🟢日本電技(1723)\n🟢カナデン(8081)\n🟢東京精密(7729)\n🟢川崎汽船(9107)\n🟢横河電機(6841)\n🟢伊藤忠商事(8001)\n🟢伊藤米久HD(2296)\n🟢リコーリース(8566)\n🟢アステラス製薬(4503)\n🟢住友ベークライト(4203)\n🟢AREホールディングス(5857)\n\n・11月4日(木)\n🟢UBE(4208)\n🟢AGC(5201)\n🟢花王(4452)\n🟢任天堂(7974)\n🟢東ソー(4042)\n🟢旭化成(3407)\n🟢ローム(6963)\n🟢日東紡(3110)\n🟢SANKYO(6417)\n🟢日本製鉄(5401)\n🟢太陽誘電(6976)\n🟢住友林業(1911)\n🟢タムロン(7740)\n🟢稲畑産業(8098)\n🟢リンナイ(5947)\n🟢日本郵船(9101)\n🟢レンゴー(3941)\n🟢安田倉庫(9324)\n🟢荏原実業(6328)\n🟢JR西日本(9021)\n🟢エディオン(2730)\n🟢沖電気工業(6703)\n🟢LINEヤフー(4689)\n🟢トヨタ自動車(7203)\n🟢ダイキン工業(6367)\n🟢三菱ケミカルG(4188)\n🟢セイコーエプソン(6724)",
+  "media": [],
+  "created_at": "2026-11-02T23:02:30.000Z",
+  "metrics": {
+   "like": 109,
+   "repost": 6,
+   "bookmark": 13,
+   "view": 8596
+  },
+  "added_at": "2026-11-03T02:59:04.391543+00:00"
+ },
+ {
+  "id": "2117391553987809441",
+  "handle": "MacopeninSUTABA",
+  "name": "かずなり | 生成AI活用術",
+  "avatar": "https://pbs.twimg.com/profile_images/1871687946988060673/xDsh_ngS_400x400.jpg",
+  "theme": "PdM",
+  "text": "東京大学が無料公開している『事業とエンジニアリングを繋ぐ力学』の資料が有益。\n\n「事業構築の思考法」「精緻な仮説検証のプロセス」「エンジニアリング組織の構造」「KPIの設計手法」など、ビジネスと開発を繋ぐノウハウが凝縮されている。\n\nこちら👉\nhttps://speakerdeck.com/i35_267/shi-ye-toenziniaringuwoxi-guli-xue",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HV_18NIbQAAqS0U.png"
+   }
+  ],
+  "created_at": "2026-11-02T23:01:00.000Z",
+  "metrics": {
+   "like": 5,
+   "repost": 0,
+   "bookmark": 3,
+   "view": 1205
+  },
+  "added_at": "2026-11-03T02:59:04.391543+00:00"
+ },
+ {
+  "id": "2117368655881404734",
+  "handle": "stock_panda22",
+  "name": "パンダ@高配当株を図解分析",
+  "avatar": "https://pbs.twimg.com/profile_images/2102740844524797952/Us3IvvIw_400x400.jpg",
+  "theme": "日本株・高配当株",
+  "text": "『主力銘柄大公開!!』\n私の高配当株PFを支える超優良高配当株を評価額TOP10までご紹介\n\n連続増配年数・株主還元方針もまとめたのでぜひ画像を拡大して読んでみてください。評価額TOP10なだけあって購入時から大きく株価を伸ばした（配当利回りが低下した）銘柄もチラホラあります。最近買い増しした記憶があるのは「積水ハウス」「全国保証」の2社のみ。\n\n皆さんのポートフォリオにも入っている銘柄があればぜひ教えてください。勝手に仲間認定します！",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWIPUGnacAAtKRX.jpg"
+   }
+  ],
+  "created_at": "2026-11-02T21:30:01.000Z",
+  "metrics": {
+   "like": 57,
+   "repost": 1,
+   "bookmark": 8,
+   "view": 2783
+  },
+  "added_at": "2026-11-03T02:59:04.391543+00:00"
+ },
+ {
+  "id": "2117205829791424926",
+  "handle": "cu30rry_",
+  "name": "kaito",
+  "avatar": "https://pbs.twimg.com/profile_images/2101959420439834625/ucyJOshP_400x400.jpg",
+  "theme": "AI",
+  "text": "pstack の フローをまとめたポストだが、私はここに pstack 完全ガイドや @mattpocockuk との対談で得た学びでアレンジしているし、pstack の更新に合わせて、フローを加えたりしている！\n\nここでは、それを紹介しようと思う\n\n- 新機能・要件を出す際のアイデアはユーザーの使い方・チュートリアルから考え /grill-with-docs で RGDD\n- 開発入る際は /poteto-mode or /in-your-own-words\n- /create-verification-skill ⋯ pstack のものではなく e2e のものを使う（Feature Map に『Charters』という節が加えられ、探索テストのためのテスト目的・範囲・方針を加えてくれる）\n- e2e テストと検証Skillを併用\n- 日次で /maintain-verification-skill \n- /create-fromal-verification-skill を何回か使用し、影響度・重要度が高いモデルは形式検証\n- /statechart で TLA+ で本当にモデルに不具合がないかを探索させ、実際にレビューする\n- /maintain-formal-verification-skill\n- /thermos でコードレビュー\n- /correct + /retro で過去からの学びを仕組み化\n\nこれをやると、かなり品質の高い開発が上流からできる\nモデルは grok-4.7 xhigh〜mid を使っている\n\nそれでも品質はかなり高いぞ",
+  "media": [],
+  "created_at": "2026-11-02T10:43:00.000Z",
+  "metrics": {
+   "like": 184,
+   "repost": 8,
+   "bookmark": 334,
+   "view": 12147
+  },
+  "added_at": "2026-11-03T02:59:04.391543+00:00"
+ },
+ {
+  "id": "2117157987576127665",
+  "handle": "nrm_710",
+  "name": "なるみ",
+  "avatar": "https://pbs.twimg.com/profile_images/1444509020040007685/lSm1hGa0_400x400.jpg",
+  "theme": "日本株・高配当株",
+  "text": "商船三井、本気で増配予想してみた😳🫢\n\n今回の通期業績の大幅上方修正を受け、増配・自社株買いを予想してみました\n\n【2027年3月期 通期業績予想の上方修正】\n\n最終利益：2,400億円 → 3,000億円（＋25.0%）\nEPS：698.27円 → 872.68円\n\n【株主還元方針】\n\n配当性向：30%\n総還元性向：40%程度\n2026年度から累進配当を導入\n市況上振れによる超過利益は機動的な自社株買いに活用\n\n【年間配当の増配予想】\n\n現在：205円\n予想：265円\n増配額：＋60円（＋29.3%）\n誤差は10円以内と予想\n\nEPS872.68円 × 配当性向30% ＝ 261.80円\n\n配当性向30%を適用すると、年間配当の理論値は約262円\n\n【自社株買い予想】\n\n最終利益3,000億円 × 総還元性向40% ＝ 1,200億円\n\n配当総額：3,000億円 × 30% ＝ 900億円\n\n1,200億円 − 900億円 ＝ 300億円\n\n自社株買いの理論値は約300億円！\n\n【まとめ】\n\n商船三井は8月にも業績予想を上方修正したものの、増配や自社株買いは発表しておらず、今回の上方修正で通期最終利益予想は3,000億円まで拡大！\n\n8月の未還元分も考慮すると、年間配当205円→260円（＋55円）への増配と、約300億円の自社株買いを予想！\n\nただし、配当性向30%・総還元性向40%は会社の株主還元方針に基づく私の勝手な予想なのでハズレてもお許しくだされ〜",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWGn95rakAECMXa.jpg"
+   },
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWGn95raUAAWrHs.jpg"
+   }
+  ],
+  "created_at": "2026-11-02T07:32:53.000Z",
+  "metrics": {
+   "like": 44,
+   "repost": 0,
+   "bookmark": 2,
+   "view": 2417
+  },
+  "added_at": "2026-11-03T02:59:04.391543+00:00"
+ },
+ {
   "id": "2117413953118548267",
   "handle": "tadakabu",
   "name": "ただかぶ",

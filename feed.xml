@@ -6,7 +6,332 @@
 <atom:link href="https://noramimiyuma.github.io/x-feed/feed.xml" rel="self" type="application/rss+xml"/>
 <description>行政DX・PdM・AI・日本株/高配当株の注目X投稿（X偵察が更新）</description>
 <language>ja</language>
-<lastBuildDate>Tue, 03 Nov 2026 10:02:19 +0900</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 11:59:09 +0900</lastBuildDate>
+<item>
+<title>はち🐝 Newbee 代表 (@PassionateHachi)</title>
+<link>https://x.com/PassionateHachi/status/2117438721356419179</link>
+<guid isPermaLink="true">https://x.com/PassionateHachi/status/2117438721356419179</guid>
+<category>PdM</category>
+<dc:creator>はち🐝 Newbee 代表</dc:creator>
+<pubDate>Tue, 03 Nov 2026 02:59:04 +0000</pubDate>
+<xf:postedAt>2026-11-03T11:08:25+09:00</xf:postedAt>
+<xf:addedAt>2026-11-03T11:59:04.391543+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1891291189158227969/eJRddkDe_400x400.jpg" width="48" height="48" alt="はち🐝 Newbee 代表"/> <b>はち🐝 Newbee 代表</b> @PassionateHachi</p><p>昨日みやっちさんと話してて、AI競争も一般的なプロダクトマネジメントの戦いになったと整理できた。<br/><br/>Dots、Grok bot、Muse。<br/><br/>その差はオンボーディング設計やUGCの産み方、紹介したくなる仕組みなど、典型的なグロースハックができているかどうかがPLGの勝ち筋に効くオーソドックスな戦い。 <a href="https://twitter.com/miyatti/status/2117434078085656898">https://twitter.com/miyatti/status/2117434078085656898</a></p><p>いいね 3・リポスト 2・ブックマーク 1・表示 337</p><p>投稿 2026-11-03 11:08（日本時間）・<a href="https://x.com/PassionateHachi/status/2117438721356419179">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[昨日みやっちさんと話してて、AI競争も一般的なプロダクトマネジメントの戦いになったと整理できた。
+
+Dots、Grok bot、Muse。
+
+その差はオンボーディング設計やUGCの産み方、紹介したくなる仕組みなど、典型的なグロースハックができているかどうかがPLGの勝ち筋に効くオーソドックスな戦い。 https://twitter.com/miyatti/status/2117434078085656898]]></xf:original>
+</item>
+<item>
+<title>lauren (@poteto)</title>
+<link>https://x.com/poteto/status/2117437607940681849</link>
+<guid isPermaLink="true">https://x.com/poteto/status/2117437607940681849</guid>
+<category>AI</category>
+<dc:creator>lauren</dc:creator>
+<pubDate>Tue, 03 Nov 2026 02:59:04 +0000</pubDate>
+<xf:postedAt>2026-11-03T11:04:00+09:00</xf:postedAt>
+<xf:addedAt>2026-11-03T11:59:04.391543+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/2093473719830315008/oo09g1Ov_400x400.jpg" width="48" height="48" alt="lauren"/> <b>lauren</b> @poteto</p><p>maybe a hot take but i now consider adversarial reviews mostly a waste of tokens. far better to use those tokens on empirical combined with formal verification. i have updated pstack to use the interrogate skill less, and eventually i think i may remove it altogether<br/><br/>i have found very little value with code review in the abstract, agents tend to just get lost in the nitpicks and yagnis</p><hr/><p><b>日本語訳</b></p><p>ホットテイクかもしれないけど、敵対的レビュー(adversarial review)はほとんどトークンの無駄だと今は考えている。そのトークンは、実証的な検証と形式検証を組み合わせることに使うほうがはるかにいい。pstackを更新して interrogate スキルの使用を減らしたし、最終的には完全に削除するかもしれない。<br/><br/>抽象的なコードレビューにはほとんど価値を感じていない。エージェントは些末な指摘や YAGNI(今は不要な機能)の話に迷い込みがちだ。</p><hr/><p>いいね 1,836・リポスト 70・ブックマーク 875・表示 60,455</p><p>投稿 2026-11-03 11:04（日本時間）・<a href="https://x.com/poteto/status/2117437607940681849">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[maybe a hot take but i now consider adversarial reviews mostly a waste of tokens. far better to use those tokens on empirical combined with formal verification. i have updated pstack to use the interrogate skill less, and eventually i think i may remove it altogether
+
+i have found very little value with code review in the abstract, agents tend to just get lost in the nitpicks and yagnis]]></xf:original>
+<xf:translation xml:lang="ja"><![CDATA[ホットテイクかもしれないけど、敵対的レビュー(adversarial review)はほとんどトークンの無駄だと今は考えている。そのトークンは、実証的な検証と形式検証を組み合わせることに使うほうがはるかにいい。pstackを更新して interrogate スキルの使用を減らしたし、最終的には完全に削除するかもしれない。
+
+抽象的なコードレビューにはほとんど価値を感じていない。エージェントは些末な指摘や YAGNI(今は不要な機能)の話に迷い込みがちだ。]]></xf:translation>
+</item>
+<item>
+<title>チャエン | デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》 (@masahirochaen)</title>
+<link>https://x.com/masahirochaen/status/2117437270764736741</link>
+<guid isPermaLink="true">https://x.com/masahirochaen/status/2117437270764736741</guid>
+<category>AI</category>
+<dc:creator>チャエン | デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》</dc:creator>
+<pubDate>Tue, 03 Nov 2026 02:59:04 +0000</pubDate>
+<xf:postedAt>2026-11-03T11:02:40+09:00</xf:postedAt>
+<xf:addedAt>2026-11-03T11:59:04.391543+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1689665533929725953/fClFlzLd_400x400.jpg" width="48" height="48" alt="チャエン | デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》"/> <b>チャエン | デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》</b> @masahirochaen</p><p>ChatGPTのUIが最高すぎて、語学学習が捗る。<br/><br/>中国出張中、中国語の学習に使ってるけど、もはや専属の語学講師。<br/><br/>特にすごいのが、<br/><br/>・日本語をネイティブが使う自然な中国語に翻訳<br/>・中国語、ピンイン、日本語訳をセットで表示<br/>・単語ごとに意味や声調、発音のコツを解説<br/>・タップすると詳しい解説が展開<br/>・AI専門用語などをカテゴリ別に絞り込み<br/>・文法や語順を色分け＆図解で可視化<br/>・カジュアル〜ビジネスまで3パターンの言い換え<br/>・ワンタップで中国語をコピー<br/>・最後に選択式クイズで理解度をチェック<br/><br/>単なる翻訳ツールじゃなくて、インタラクティブな語学教材をその場で生成できるのがすごい。<br/><br/>しかも、これ全部プロンプト1つで実現。<br/>ニーズあれば英語版作ります！！<br/><br/>使ったプロンプトは次の投稿に貼っておきます👇</p><p><img src="https://pbs.twimg.com/media/HWKl-DkaQAAYKJg.jpg" alt="画像"/></p><p><img src="https://pbs.twimg.com/media/HWKl-Dia4AAGA8W.jpg" alt="画像"/></p><p><img src="https://pbs.twimg.com/media/HWKl-DsbkAA4eth.jpg" alt="画像"/></p><p><img src="https://pbs.twimg.com/media/HWKl-DbaIAA_Fzf.jpg" alt="画像"/></p><p>いいね 30・リポスト 3・ブックマーク 30・表示 6,423</p><p>投稿 2026-11-03 11:02（日本時間）・<a href="https://x.com/masahirochaen/status/2117437270764736741">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[ChatGPTのUIが最高すぎて、語学学習が捗る。
+
+中国出張中、中国語の学習に使ってるけど、もはや専属の語学講師。
+
+特にすごいのが、
+
+・日本語をネイティブが使う自然な中国語に翻訳
+・中国語、ピンイン、日本語訳をセットで表示
+・単語ごとに意味や声調、発音のコツを解説
+・タップすると詳しい解説が展開
+・AI専門用語などをカテゴリ別に絞り込み
+・文法や語順を色分け＆図解で可視化
+・カジュアル〜ビジネスまで3パターンの言い換え
+・ワンタップで中国語をコピー
+・最後に選択式クイズで理解度をチェック
+
+単なる翻訳ツールじゃなくて、インタラクティブな語学教材をその場で生成できるのがすごい。
+
+しかも、これ全部プロンプト1つで実現。
+ニーズあれば英語版作ります！！
+
+使ったプロンプトは次の投稿に貼っておきます👇]]></xf:original>
+</item>
+<item>
+<title>サカモト@エンジニアキャリア論 (@sakamoto_582)</title>
+<link>https://x.com/sakamoto_582/status/2117433764616057254</link>
+<guid isPermaLink="true">https://x.com/sakamoto_582/status/2117433764616057254</guid>
+<category>AI</category>
+<dc:creator>サカモト@エンジニアキャリア論</dc:creator>
+<pubDate>Tue, 03 Nov 2026 02:59:04 +0000</pubDate>
+<xf:postedAt>2026-11-03T10:48:44+09:00</xf:postedAt>
+<xf:addedAt>2026-11-03T11:59:04.391543+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1617195321356079104/2gj08RyW_400x400.jpg" width="48" height="48" alt="サカモト@エンジニアキャリア論"/> <b>サカモト@エンジニアキャリア論</b> @sakamoto_582</p><p>過去問でハーネス設計改善すればISUCONの未知の問題で人が介在しなくとも優勝できる。こういう時代になったわけで、我々エンジニアはどこに価値を置くか考えなければならないですね。<br/><br/><a href="https://zenn.dev/luvtechno/articles/isucon2026-competition-day">https://zenn.dev/luvtechno/articles/isucon2026-competition-day</a></p><p>いいね 23・リポスト 1・ブックマーク 10・表示 1,631</p><p>投稿 2026-11-03 10:48（日本時間）・<a href="https://x.com/sakamoto_582/status/2117433764616057254">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[過去問でハーネス設計改善すればISUCONの未知の問題で人が介在しなくとも優勝できる。こういう時代になったわけで、我々エンジニアはどこに価値を置くか考えなければならないですね。
+
+https://zenn.dev/luvtechno/articles/isucon2026-competition-day]]></xf:original>
+</item>
+<item>
+<title>井上ひろき(ITゴリさん)@墨田区議会議員 (@gorisan_it)</title>
+<link>https://x.com/gorisan_it/status/2117431013454602249</link>
+<guid isPermaLink="true">https://x.com/gorisan_it/status/2117431013454602249</guid>
+<category>行政DX</category>
+<dc:creator>井上ひろき(ITゴリさん)@墨田区議会議員</dc:creator>
+<pubDate>Tue, 03 Nov 2026 02:59:04 +0000</pubDate>
+<xf:postedAt>2026-11-03T10:37:48+09:00</xf:postedAt>
+<xf:addedAt>2026-11-03T11:59:04.391543+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1637339682894942210/qxkpgqEg_400x400.jpg" width="48" height="48" alt="井上ひろき(ITゴリさん)@墨田区議会議員"/> <b>井上ひろき(ITゴリさん)@墨田区議会議員</b> @gorisan_it</p><p>【🦍墨田区　予算の見える化❗️】<br/><br/>「すみだのお金は、どこから来てどこへ行くの？」<br/>を作ってみました！<br/><br/>・今年度予算<br/>・昨年度決算<br/>・行政評価<br/>などの資料から各事業の金額と概要を掲載しています。<br/><br/>今後は<br/>・議会質疑<br/>・検索<br/>などの機能も追加していこうと考えています🙇<br/><br/>ご意見くださいませ☺️<br/><br/>ページはこちら👇️<br/><a href="https://sumida-yosan.gorisan.info/">https://sumida-yosan.gorisan.info/</a><br/><br/>#墨田区 #ごりさん活動報告 #井上ひろき #データ可視化 #オープンデータ</p><p><img src="https://pbs.twimg.com/media/HWKf-tkbAAEZx2G.jpg" alt="画像"/></p><p><img src="https://pbs.twimg.com/media/HWKgKAubEAAmK2b.jpg" alt="画像"/></p><p>いいね 6・リポスト 0・ブックマーク 1・表示 193</p><p>投稿 2026-11-03 10:37（日本時間）・<a href="https://x.com/gorisan_it/status/2117431013454602249">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[【🦍墨田区　予算の見える化❗️】
+
+「すみだのお金は、どこから来てどこへ行くの？」
+を作ってみました！
+
+・今年度予算
+・昨年度決算
+・行政評価
+などの資料から各事業の金額と概要を掲載しています。
+
+今後は
+・議会質疑
+・検索
+などの機能も追加していこうと考えています🙇
+
+ご意見くださいませ☺️
+
+ページはこちら👇️
+https://sumida-yosan.gorisan.info/
+
+#墨田区 #ごりさん活動報告 #井上ひろき #データ可視化 #オープンデータ]]></xf:original>
+</item>
+<item>
+<title>AGIラボ (@ctgptlb)</title>
+<link>https://x.com/ctgptlb/status/2117430100295913551</link>
+<guid isPermaLink="true">https://x.com/ctgptlb/status/2117430100295913551</guid>
+<category>AI</category>
+<dc:creator>AGIラボ</dc:creator>
+<pubDate>Tue, 03 Nov 2026 02:59:04 +0000</pubDate>
+<xf:postedAt>2026-11-03T10:34:10+09:00</xf:postedAt>
+<xf:addedAt>2026-11-03T11:59:04.391543+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1671845985574875137/W689Frac_400x400.jpg" width="48" height="48" alt="AGIラボ"/> <b>AGIラボ</b> @ctgptlb</p><p>【速報】ChatGPT、12月からチャットとCodexの利用枠を共通化<br/><br/>OpenAIがヘルプ記事で予告<br/><br/>・対象：Plus／Pro／Business<br/>・Instant以外のチャットも同じ枠を消費<br/>・トークンで計測。高度なモデル・複雑な作業ほど多く減る<br/>・プランごとの量と開始日は未公表<br/><br/>今との違いはリプで↓</p><p><img src="https://pbs.twimg.com/media/HWKfcWXaAAAsYLb.jpg" alt="画像"/></p><p>いいね 20・リポスト 1・ブックマーク 9・表示 5,970</p><p>投稿 2026-11-03 10:34（日本時間）・<a href="https://x.com/ctgptlb/status/2117430100295913551">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[【速報】ChatGPT、12月からチャットとCodexの利用枠を共通化
+
+OpenAIがヘルプ記事で予告
+
+・対象：Plus／Pro／Business
+・Instant以外のチャットも同じ枠を消費
+・トークンで計測。高度なモデル・複雑な作業ほど多く減る
+・プランごとの量と開始日は未公表
+
+今との違いはリプで↓]]></xf:original>
+</item>
+<item>
+<title>福島良典 | LayerX (@fukkyy)</title>
+<link>https://x.com/fukkyy/status/2117413468181864655</link>
+<guid isPermaLink="true">https://x.com/fukkyy/status/2117413468181864655</guid>
+<category>AI</category>
+<dc:creator>福島良典 | LayerX</dc:creator>
+<pubDate>Tue, 03 Nov 2026 02:59:04 +0000</pubDate>
+<xf:postedAt>2026-11-03T09:28:05+09:00</xf:postedAt>
+<xf:addedAt>2026-11-03T11:59:04.391543+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/479435326083964928/CPcSdHAV_400x400.png" width="48" height="48" alt="福島良典 | LayerX"/> <b>福島良典 | LayerX</b> @fukkyy</p><p>トークンマキシングをできない会社は、これからどんどん厳しくなるという判断。マキシングの鍵はトークノミクスであり、そこをこの半年間準備してきた。マキシングの時代</p><p>いいね 92・リポスト 3・ブックマーク 37・表示 8,002</p><p>投稿 2026-11-03 09:28（日本時間）・<a href="https://x.com/fukkyy/status/2117413468181864655">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[トークンマキシングをできない会社は、これからどんどん厳しくなるという判断。マキシングの鍵はトークノミクスであり、そこをこの半年間準備してきた。マキシングの時代]]></xf:original>
+</item>
+<item>
+<title>KAZZN (@Kazzn_blog)</title>
+<link>https://x.com/Kazzn_blog/status/2117391931319935125</link>
+<guid isPermaLink="true">https://x.com/Kazzn_blog/status/2117391931319935125</guid>
+<category>日本株・高配当株</category>
+<dc:creator>KAZZN</dc:creator>
+<pubDate>Tue, 03 Nov 2026 02:59:04 +0000</pubDate>
+<xf:postedAt>2026-11-03T08:02:30+09:00</xf:postedAt>
+<xf:addedAt>2026-11-03T11:59:04.391543+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1560587873958895617/w9a0BcLs_400x400.jpg" width="48" height="48" alt="KAZZN"/> <b>KAZZN</b> @Kazzn_blog</p><p>水木曜に決算の銘柄✨<br/><br/>・11月4日(水)<br/>🟢IHI(7013)<br/>🟢NTT(9432)<br/>🟢丸紅(8002)<br/>🟢JR九州(9142)<br/>🟢三菱商事(8058)<br/>🟢三井物産(8031)<br/>🟢バルカー(7995)<br/>🟢日本電技(1723)<br/>🟢カナデン(8081)<br/>🟢東京精密(7729)<br/>🟢川崎汽船(9107)<br/>🟢横河電機(6841)<br/>🟢伊藤忠商事(8001)<br/>🟢伊藤米久HD(2296)<br/>🟢リコーリース(8566)<br/>🟢アステラス製薬(4503)<br/>🟢住友ベークライト(4203)<br/>🟢AREホールディングス(5857)<br/><br/>・11月4日(木)<br/>🟢UBE(4208)<br/>🟢AGC(5201)<br/>🟢花王(4452)<br/>🟢任天堂(7974)<br/>🟢東ソー(4042)<br/>🟢旭化成(3407)<br/>🟢ローム(6963)<br/>🟢日東紡(3110)<br/>🟢SANKYO(6417)<br/>🟢日本製鉄(5401)<br/>🟢太陽誘電(6976)<br/>🟢住友林業(1911)<br/>🟢タムロン(7740)<br/>🟢稲畑産業(8098)<br/>🟢リンナイ(5947)<br/>🟢日本郵船(9101)<br/>🟢レンゴー(3941)<br/>🟢安田倉庫(9324)<br/>🟢荏原実業(6328)<br/>🟢JR西日本(9021)<br/>🟢エディオン(2730)<br/>🟢沖電気工業(6703)<br/>🟢LINEヤフー(4689)<br/>🟢トヨタ自動車(7203)<br/>🟢ダイキン工業(6367)<br/>🟢三菱ケミカルG(4188)<br/>🟢セイコーエプソン(6724)</p><p>いいね 109・リポスト 6・ブックマーク 13・表示 8,596</p><p>投稿 2026-11-03 08:02（日本時間）・<a href="https://x.com/Kazzn_blog/status/2117391931319935125">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[水木曜に決算の銘柄✨
+
+・11月4日(水)
+🟢IHI(7013)
+🟢NTT(9432)
+🟢丸紅(8002)
+🟢JR九州(9142)
+🟢三菱商事(8058)
+🟢三井物産(8031)
+🟢バルカー(7995)
+🟢日本電技(1723)
+🟢カナデン(8081)
+🟢東京精密(7729)
+🟢川崎汽船(9107)
+🟢横河電機(6841)
+🟢伊藤忠商事(8001)
+🟢伊藤米久HD(2296)
+🟢リコーリース(8566)
+🟢アステラス製薬(4503)
+🟢住友ベークライト(4203)
+🟢AREホールディングス(5857)
+
+・11月4日(木)
+🟢UBE(4208)
+🟢AGC(5201)
+🟢花王(4452)
+🟢任天堂(7974)
+🟢東ソー(4042)
+🟢旭化成(3407)
+🟢ローム(6963)
+🟢日東紡(3110)
+🟢SANKYO(6417)
+🟢日本製鉄(5401)
+🟢太陽誘電(6976)
+🟢住友林業(1911)
+🟢タムロン(7740)
+🟢稲畑産業(8098)
+🟢リンナイ(5947)
+🟢日本郵船(9101)
+🟢レンゴー(3941)
+🟢安田倉庫(9324)
+🟢荏原実業(6328)
+🟢JR西日本(9021)
+🟢エディオン(2730)
+🟢沖電気工業(6703)
+🟢LINEヤフー(4689)
+🟢トヨタ自動車(7203)
+🟢ダイキン工業(6367)
+🟢三菱ケミカルG(4188)
+🟢セイコーエプソン(6724)]]></xf:original>
+</item>
+<item>
+<title>かずなり | 生成AI活用術 (@MacopeninSUTABA)</title>
+<link>https://x.com/MacopeninSUTABA/status/2117391553987809441</link>
+<guid isPermaLink="true">https://x.com/MacopeninSUTABA/status/2117391553987809441</guid>
+<category>PdM</category>
+<dc:creator>かずなり | 生成AI活用術</dc:creator>
+<pubDate>Tue, 03 Nov 2026 02:59:04 +0000</pubDate>
+<xf:postedAt>2026-11-03T08:01:00+09:00</xf:postedAt>
+<xf:addedAt>2026-11-03T11:59:04.391543+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1871687946988060673/xDsh_ngS_400x400.jpg" width="48" height="48" alt="かずなり | 生成AI活用術"/> <b>かずなり | 生成AI活用術</b> @MacopeninSUTABA</p><p>東京大学が無料公開している『事業とエンジニアリングを繋ぐ力学』の資料が有益。<br/><br/>「事業構築の思考法」「精緻な仮説検証のプロセス」「エンジニアリング組織の構造」「KPIの設計手法」など、ビジネスと開発を繋ぐノウハウが凝縮されている。<br/><br/>こちら👉<br/><a href="https://speakerdeck.com/i35_267/shi-ye-toenziniaringuwoxi-guli-xue">https://speakerdeck.com/i35_267/shi-ye-toenziniaringuwoxi-guli-xue</a></p><p><img src="https://pbs.twimg.com/media/HV_18NIbQAAqS0U.png" alt="画像"/></p><p>いいね 5・リポスト 0・ブックマーク 3・表示 1,205</p><p>投稿 2026-11-03 08:01（日本時間）・<a href="https://x.com/MacopeninSUTABA/status/2117391553987809441">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[東京大学が無料公開している『事業とエンジニアリングを繋ぐ力学』の資料が有益。
+
+「事業構築の思考法」「精緻な仮説検証のプロセス」「エンジニアリング組織の構造」「KPIの設計手法」など、ビジネスと開発を繋ぐノウハウが凝縮されている。
+
+こちら👉
+https://speakerdeck.com/i35_267/shi-ye-toenziniaringuwoxi-guli-xue]]></xf:original>
+</item>
+<item>
+<title>パンダ@高配当株を図解分析 (@stock_panda22)</title>
+<link>https://x.com/stock_panda22/status/2117368655881404734</link>
+<guid isPermaLink="true">https://x.com/stock_panda22/status/2117368655881404734</guid>
+<category>日本株・高配当株</category>
+<dc:creator>パンダ@高配当株を図解分析</dc:creator>
+<pubDate>Tue, 03 Nov 2026 02:59:04 +0000</pubDate>
+<xf:postedAt>2026-11-03T06:30:01+09:00</xf:postedAt>
+<xf:addedAt>2026-11-03T11:59:04.391543+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/2102740844524797952/Us3IvvIw_400x400.jpg" width="48" height="48" alt="パンダ@高配当株を図解分析"/> <b>パンダ@高配当株を図解分析</b> @stock_panda22</p><p>『主力銘柄大公開!!』<br/>私の高配当株PFを支える超優良高配当株を評価額TOP10までご紹介<br/><br/>連続増配年数・株主還元方針もまとめたのでぜひ画像を拡大して読んでみてください。評価額TOP10なだけあって購入時から大きく株価を伸ばした（配当利回りが低下した）銘柄もチラホラあります。最近買い増しした記憶があるのは「積水ハウス」「全国保証」の2社のみ。<br/><br/>皆さんのポートフォリオにも入っている銘柄があればぜひ教えてください。勝手に仲間認定します！</p><p><img src="https://pbs.twimg.com/media/HWIPUGnacAAtKRX.jpg" alt="画像"/></p><p>いいね 57・リポスト 1・ブックマーク 8・表示 2,783</p><p>投稿 2026-11-03 06:30（日本時間）・<a href="https://x.com/stock_panda22/status/2117368655881404734">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[『主力銘柄大公開!!』
+私の高配当株PFを支える超優良高配当株を評価額TOP10までご紹介
+
+連続増配年数・株主還元方針もまとめたのでぜひ画像を拡大して読んでみてください。評価額TOP10なだけあって購入時から大きく株価を伸ばした（配当利回りが低下した）銘柄もチラホラあります。最近買い増しした記憶があるのは「積水ハウス」「全国保証」の2社のみ。
+
+皆さんのポートフォリオにも入っている銘柄があればぜひ教えてください。勝手に仲間認定します！]]></xf:original>
+</item>
+<item>
+<title>kaito (@cu30rry_)</title>
+<link>https://x.com/cu30rry_/status/2117205829791424926</link>
+<guid isPermaLink="true">https://x.com/cu30rry_/status/2117205829791424926</guid>
+<category>AI</category>
+<dc:creator>kaito</dc:creator>
+<pubDate>Tue, 03 Nov 2026 02:59:04 +0000</pubDate>
+<xf:postedAt>2026-11-02T19:43:00+09:00</xf:postedAt>
+<xf:addedAt>2026-11-03T11:59:04.391543+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/2101959420439834625/ucyJOshP_400x400.jpg" width="48" height="48" alt="kaito"/> <b>kaito</b> @cu30rry_</p><p>pstack の フローをまとめたポストだが、私はここに pstack 完全ガイドや @mattpocockuk との対談で得た学びでアレンジしているし、pstack の更新に合わせて、フローを加えたりしている！<br/><br/>ここでは、それを紹介しようと思う<br/><br/>- 新機能・要件を出す際のアイデアはユーザーの使い方・チュートリアルから考え /grill-with-docs で RGDD<br/>- 開発入る際は /poteto-mode or /in-your-own-words<br/>- /create-verification-skill ⋯ pstack のものではなく e2e のものを使う（Feature Map に『Charters』という節が加えられ、探索テストのためのテスト目的・範囲・方針を加えてくれる）<br/>- e2e テストと検証Skillを併用<br/>- 日次で /maintain-verification-skill <br/>- /create-fromal-verification-skill を何回か使用し、影響度・重要度が高いモデルは形式検証<br/>- /statechart で TLA+ で本当にモデルに不具合がないかを探索させ、実際にレビューする<br/>- /maintain-formal-verification-skill<br/>- /thermos でコードレビュー<br/>- /correct + /retro で過去からの学びを仕組み化<br/><br/>これをやると、かなり品質の高い開発が上流からできる<br/>モデルは grok-4.7 xhigh〜mid を使っている<br/><br/>それでも品質はかなり高いぞ</p><p>いいね 184・リポスト 8・ブックマーク 334・表示 12,147</p><p>投稿 2026-11-02 19:43（日本時間）・<a href="https://x.com/cu30rry_/status/2117205829791424926">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[pstack の フローをまとめたポストだが、私はここに pstack 完全ガイドや @mattpocockuk との対談で得た学びでアレンジしているし、pstack の更新に合わせて、フローを加えたりしている！
+
+ここでは、それを紹介しようと思う
+
+- 新機能・要件を出す際のアイデアはユーザーの使い方・チュートリアルから考え /grill-with-docs で RGDD
+- 開発入る際は /poteto-mode or /in-your-own-words
+- /create-verification-skill ⋯ pstack のものではなく e2e のものを使う（Feature Map に『Charters』という節が加えられ、探索テストのためのテスト目的・範囲・方針を加えてくれる）
+- e2e テストと検証Skillを併用
+- 日次で /maintain-verification-skill 
+- /create-fromal-verification-skill を何回か使用し、影響度・重要度が高いモデルは形式検証
+- /statechart で TLA+ で本当にモデルに不具合がないかを探索させ、実際にレビューする
+- /maintain-formal-verification-skill
+- /thermos でコードレビュー
+- /correct + /retro で過去からの学びを仕組み化
+
+これをやると、かなり品質の高い開発が上流からできる
+モデルは grok-4.7 xhigh〜mid を使っている
+
+それでも品質はかなり高いぞ]]></xf:original>
+</item>
+<item>
+<title>なるみ (@nrm_710)</title>
+<link>https://x.com/nrm_710/status/2117157987576127665</link>
+<guid isPermaLink="true">https://x.com/nrm_710/status/2117157987576127665</guid>
+<category>日本株・高配当株</category>
+<dc:creator>なるみ</dc:creator>
+<pubDate>Tue, 03 Nov 2026 02:59:04 +0000</pubDate>
+<xf:postedAt>2026-11-02T16:32:53+09:00</xf:postedAt>
+<xf:addedAt>2026-11-03T11:59:04.391543+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1444509020040007685/lSm1hGa0_400x400.jpg" width="48" height="48" alt="なるみ"/> <b>なるみ</b> @nrm_710</p><p>商船三井、本気で増配予想してみた😳🫢<br/><br/>今回の通期業績の大幅上方修正を受け、増配・自社株買いを予想してみました<br/><br/>【2027年3月期 通期業績予想の上方修正】<br/><br/>最終利益：2,400億円 → 3,000億円（＋25.0%）<br/>EPS：698.27円 → 872.68円<br/><br/>【株主還元方針】<br/><br/>配当性向：30%<br/>総還元性向：40%程度<br/>2026年度から累進配当を導入<br/>市況上振れによる超過利益は機動的な自社株買いに活用<br/><br/>【年間配当の増配予想】<br/><br/>現在：205円<br/>予想：265円<br/>増配額：＋60円（＋29.3%）<br/>誤差は10円以内と予想<br/><br/>EPS872.68円 × 配当性向30% ＝ 261.80円<br/><br/>配当性向30%を適用すると、年間配当の理論値は約262円<br/><br/>【自社株買い予想】<br/><br/>最終利益3,000億円 × 総還元性向40% ＝ 1,200億円<br/><br/>配当総額：3,000億円 × 30% ＝ 900億円<br/><br/>1,200億円 − 900億円 ＝ 300億円<br/><br/>自社株買いの理論値は約300億円！<br/><br/>【まとめ】<br/><br/>商船三井は8月にも業績予想を上方修正したものの、増配や自社株買いは発表しておらず、今回の上方修正で通期最終利益予想は3,000億円まで拡大！<br/><br/>8月の未還元分も考慮すると、年間配当205円→260円（＋55円）への増配と、約300億円の自社株買いを予想！<br/><br/>ただし、配当性向30%・総還元性向40%は会社の株主還元方針に基づく私の勝手な予想なのでハズレてもお許しくだされ〜</p><p><img src="https://pbs.twimg.com/media/HWGn95rakAECMXa.jpg" alt="画像"/></p><p><img src="https://pbs.twimg.com/media/HWGn95raUAAWrHs.jpg" alt="画像"/></p><p>いいね 44・リポスト 0・ブックマーク 2・表示 2,417</p><p>投稿 2026-11-02 16:32（日本時間）・<a href="https://x.com/nrm_710/status/2117157987576127665">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[商船三井、本気で増配予想してみた😳🫢
+
+今回の通期業績の大幅上方修正を受け、増配・自社株買いを予想してみました
+
+【2027年3月期 通期業績予想の上方修正】
+
+最終利益：2,400億円 → 3,000億円（＋25.0%）
+EPS：698.27円 → 872.68円
+
+【株主還元方針】
+
+配当性向：30%
+総還元性向：40%程度
+2026年度から累進配当を導入
+市況上振れによる超過利益は機動的な自社株買いに活用
+
+【年間配当の増配予想】
+
+現在：205円
+予想：265円
+増配額：＋60円（＋29.3%）
+誤差は10円以内と予想
+
+EPS872.68円 × 配当性向30% ＝ 261.80円
+
+配当性向30%を適用すると、年間配当の理論値は約262円
+
+【自社株買い予想】
+
+最終利益3,000億円 × 総還元性向40% ＝ 1,200億円
+
+配当総額：3,000億円 × 30% ＝ 900億円
+
+1,200億円 − 900億円 ＝ 300億円
+
+自社株買いの理論値は約300億円！
+
+【まとめ】
+
+商船三井は8月にも業績予想を上方修正したものの、増配や自社株買いは発表しておらず、今回の上方修正で通期最終利益予想は3,000億円まで拡大！
+
+8月の未還元分も考慮すると、年間配当205円→260円（＋55円）への増配と、約300億円の自社株買いを予想！
+
+ただし、配当性向30%・総還元性向40%は会社の株主還元方針に基づく私の勝手な予想なのでハズレてもお許しくだされ〜]]></xf:original>
+</item>
 <item>
 <title>ただかぶ (@tadakabu)</title>
 <link>https://x.com/tadakabu/status/2117413953118548267</link>

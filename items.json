@@ -1,5 +1,156 @@
 [
  {
+  "id": "2117708432006664598",
+  "handle": "KanalocoLocal",
+  "name": "カナロコ by 神奈川新聞",
+  "avatar": "https://pbs.twimg.com/profile_images/1236668058845843456/hEGQpswk_400x400.png",
+  "theme": "行政DX",
+  "text": "横浜市、オンライン申請システムに不正アクセス　登録者名など情報漏えいか\nhttps://www.kanaloco.jp/news/government/article-1317685.html\n横浜市は3日、行政手続きをオンラインで受け付ける「市電子申請・届出システム」に登録された利用者の個人情報が漏えいした可能性があると発表した。\n #不正アクセス #横浜市",
+  "media": [],
+  "created_at": "2026-11-03T20:00:09.000Z",
+  "metrics": {
+   "like": 9,
+   "repost": 10,
+   "bookmark": 0,
+   "view": 1316
+  },
+  "added_at": "2026-11-03T20:59:38.133747+00:00"
+ },
+ {
+  "id": "2117692475775258785",
+  "handle": "OpenAI",
+  "name": "OpenAI",
+  "avatar": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_400x400.jpg",
+  "theme": "AI",
+  "text": "ChatGPT and Codex are helping engineers build for the physical world.\n\nWe’re sharing our progress across mechanical design, electrical engineering, and simulation—from helping our hardware teams iterate faster to testing new workflows with industry collaborators.",
+  "media": [
+   {
+    "type": "video",
+    "url": "https://pbs.twimg.com/media/HWOOL0QWwAA5B61.jpg"
+   }
+  ],
+  "created_at": "2026-11-03T18:56:45.000Z",
+  "metrics": {
+   "like": 2787,
+   "repost": 196,
+   "bookmark": 737,
+   "view": 242812
+  },
+  "translation_ja": "ChatGPT と Codex が、エンジニアの「物理世界のものづくり」を支援しています。\n\n機械設計、電気設計、シミュレーションの各分野での進捗を共有します。社内のハードウェアチームが試行を速く回せるようにする取り組みから、業界のパートナーと新しいワークフローを試す取り組みまで含みます。",
+  "added_at": "2026-11-03T20:59:38.133747+00:00"
+ },
+ {
+  "id": "2117680635561312732",
+  "handle": "ClaudeDevs",
+  "name": "ClaudeDevs",
+  "avatar": "https://pbs.twimg.com/profile_images/2044472418815893504/xf14RxM8_400x400.png",
+  "theme": "AI",
+  "text": "Users can now auto-connect plugins when they log in to Claude, with MCP servers that accept Claude as a trusted issuer.\n\nIf you’re building plugins for Claude, add support so users get started faster and stay connected without re-authorizing.",
+  "media": [
+   {
+    "type": "video",
+    "url": "https://pbs.twimg.com/amplify_video_thumb/2117680108706140161/img/W7IjAqq94Q6lFVOo.jpg"
+   }
+  ],
+  "created_at": "2026-11-03T18:09:42.000Z",
+  "metrics": {
+   "like": 3057,
+   "repost": 126,
+   "bookmark": 1365,
+   "view": 245275
+  },
+  "translation_ja": "Claude にログインしたときに、プラグインを自動で接続できるようになりました。対象は、Claude を信頼できる発行者（trusted issuer）として受け入れる MCP サーバーです。\n\nClaude 向けのプラグインを作っている方は、この仕組みに対応しておくと、ユーザーがより早く使い始められ、再認可なしで接続したままにできます。",
+  "added_at": "2026-11-03T20:59:38.133747+00:00"
+ },
+ {
+  "id": "2117670658113155075",
+  "handle": "ClaudeDevs",
+  "name": "ClaudeDevs",
+  "avatar": "https://pbs.twimg.com/profile_images/2044472418815893504/xf14RxM8_400x400.png",
+  "theme": "AI",
+  "text": "October was a big month for Claude Code 🍁\n\nWe shipped mods, made the desktop app better at running lots of sessions side by side, gave you more insight into where your usage goes, and plenty more. Here's a recap!",
+  "media": [
+   {
+    "type": "video",
+    "url": "https://pbs.twimg.com/amplify_video_thumb/2117670650877972481/img/CNDYQvwU0yAKCNRX.jpg"
+   }
+  ],
+  "created_at": "2026-11-03T17:30:03.000Z",
+  "metrics": {
+   "like": 5281,
+   "repost": 141,
+   "bookmark": 710,
+   "view": 216803
+  },
+  "translation_ja": "10月は Claude Code にとって大きな月でした 🍁\n\nmods を公開し、デスクトップアプリで複数セッションを並べて動かしやすくし、利用量がどこに使われているかをより詳しく見られるようにしました。ほかにも多数あります。まとめはこちらです！",
+  "added_at": "2026-11-03T20:59:38.133747+00:00"
+ },
+ {
+  "id": "2117645829964272055",
+  "handle": "masahirochaen",
+  "name": "チャエン | デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》",
+  "avatar": "https://pbs.twimg.com/profile_images/1689665533929725953/fClFlzLd_400x400.jpg",
+  "theme": "AI",
+  "text": "【速報】AIが別のAIの中身を直接書き換えて、数学の正答率を約6倍に。\n\nMITの研究で、GPT-6 Astraが小型AIのQwenを追加学習なしで修正。AIの中身は「重み」という8億個のつまみのような数字で、普通は人が読めません。\n\n・原因: 同じ思考を繰り返すクセ\n・修正: 全体の0.016%だけ\n・数学: 7.9%→48.1%\n・指示の遵守: 21%→62.3%\n\n新しい能力を足したというより、詰まりを取って本来の力を出した形です。別モデルのGemmaは伸びていません。\n\nそれでも、AIがAIを読んで直せるのは衝撃的。開発の常識が変わりそうです。AIモデル開発者もAIに置き換えられてしまうのか、、、",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWNjqJxaYAA0tMF.jpg"
+   },
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWNjqStawAA_1xg.jpg"
+   }
+  ],
+  "created_at": "2026-11-03T15:51:24.000Z",
+  "metrics": {
+   "like": 35,
+   "repost": 2,
+   "bookmark": 8,
+   "view": 4969
+  },
+  "added_at": "2026-11-03T20:59:38.133747+00:00"
+ },
+ {
+  "id": "2117609218673090886",
+  "handle": "npaka123",
+  "name": "布留川英一 / Hidekazu Furukawa",
+  "avatar": "https://pbs.twimg.com/profile_images/1497823072560492545/PoUh9VNk_400x400.jpg",
+  "theme": "AI",
+  "text": "Weight-Space Programming の概要 - GPT-6 Astraがニューラルネットワークの重みを直接解析・編集・生成｜npaka @npaka123 https://note.com/npaka/n/n270373a5a637?sub_rt=share_pw",
+  "media": [],
+  "created_at": "2026-11-03T13:25:55.000Z",
+  "metrics": {
+   "like": 56,
+   "repost": 12,
+   "bookmark": 40,
+   "view": 4896
+  },
+  "added_at": "2026-11-03T20:59:38.133747+00:00"
+ },
+ {
+  "id": "2117580048609984710",
+  "handle": "sorave55",
+  "name": "そらぶ🐶💓高配当株好き",
+  "avatar": "https://pbs.twimg.com/profile_images/2109273488490110976/sj0VgkHS_400x400.jpg",
+  "theme": "日本株・高配当株",
+  "text": "キオクシアだけかと思ったら、\n銀行株もセール会場でした。\n\n昨日、大きく値下がりした銀行株を\n配当利回りとともにまとめました。\n\n正直、預金の金利より\n株の利回りに目がいっちゃいます。\n\nみなさんの気になる銀行株は？\n\n1位：プロクレアHD -9.46% (2.58%)\n2位：愛媛銀行 -8.93% (1.72%)\n3位：四国銀行 -7.65% (2.38%)\n4位：富山第一銀行 -7.13% (2.62%)\n5位：福井銀行 -6.53% (2.23%)\n6位：筑波銀行 -6.46% (0.80%)\n7位：北日本銀行 -6.25% (2.79%)\n8位：大分銀行 -6.20% (1.85%)\n9位：高知銀行 -6.03% (2.59%)\n10位：佐賀銀行 -5.85% (1.96%)\n11位：山形銀行 -5.73% (2.57%)\n12位：富山銀行 -5.69% (2.72%)\n13位：大光銀行 -5.51% (3.68%)\n14位：琉球銀行 -5.30% (3.68%)\n15位：福島銀行 -5.23% (1.53%)\n16位：秋田銀行 -5.01% (2.74%)\n17位：百十四銀行 -5.01% (3.32%)\n18位：じもとHD -5.00% (0.94%)\n19位：十六FG -4.97% (2.52%)\n20位：大東銀行 -4.94% (3.58%)\n21位：CCIグループ -4.87% (3.26%)\n22位：岩手銀行 -4.66% (2.78%)\n23位：東京きらぼしFG -4.61% (2.13%)\n24位：宮崎銀行 -4.54% (2.38%)\n25位：フィデアHD -4.54% (3.02%)\n26位：大垣共立銀行 -4.37% (2.02%)\n27位：鳥取銀行 -4.33% (2.97%)\n28位：栃木銀行 -4.31% (3.30%)\n29位：あいちFG -4.29% (1.82%)\n30位：池田泉州HD -4.26% (3.14%)\n31位：三十三FG -4.10% (2.77%)\n32位：おきなわFG -4.03% (2.90%)\n33位：Jトラスト -4.03% (2.30%)\n34位：京葉銀行 -3.98% (2.74%)\n35位：阿波銀行 -3.97% (2.20%)\n36位：東邦銀行 -3.92% (2.79%)\n37位：トマト銀行 -3.85% (2.86%)\n38位：南都銀行 -3.75% (3.26%)\n39位：東北銀行 -3.72% (3.57%)\n40位：百五銀行 -3.67% (2.04%)\n41位：清水銀行 -3.45% (2.56%)\n42位：武蔵野銀行 -3.38% (3.26%)\n43位：楽天銀行 -3.07% (0.00%)\n44位：めぶきFG -3.06% (3.02%)\n45位：トモニHD -3.05% (2.95%)\n46位：第四北越FG -2.96% (3.48%)\n47位：七十七銀行 -2.86% (2.97%)\n48位：いよぎんHD -2.82% (2.49%)\n49位：群馬銀行 -2.69% (2.76%)\n50位：山梨中央銀行 -2.69% (2.58%)",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWKYuQYbkAA2O_F.jpg"
+   }
+  ],
+  "created_at": "2026-11-03T11:30:00.000Z",
+  "metrics": {
+   "like": 106,
+   "repost": 4,
+   "bookmark": 21,
+   "view": 11240
+  },
+  "added_at": "2026-11-03T20:59:38.133747+00:00"
+ },
+ {
   "id": "2117569671117656186",
   "handle": "sakuraline",
   "name": "井上さくら（横浜市議・無所属・鶴見区選出）",

@@ -6,7 +6,257 @@
 <atom:link href="https://noramimiyuma.github.io/x-feed/feed.xml" rel="self" type="application/rss+xml"/>
 <description>行政DX・PdM・AI・日本株/高配当株の注目X投稿（X偵察が更新）</description>
 <language>ja</language>
-<lastBuildDate>Wed, 04 Nov 2026 22:08:52 +0900</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 00:07:31 +0900</lastBuildDate>
+<item>
+<title>Kenn Ejima (@kenn)</title>
+<link>https://x.com/kenn/status/2117980756761047366</link>
+<guid isPermaLink="true">https://x.com/kenn/status/2117980756761047366</guid>
+<category>AI</category>
+<dc:creator>Kenn Ejima</dc:creator>
+<pubDate>Wed, 04 Nov 2026 15:07:26 +0000</pubDate>
+<xf:postedAt>2026-11-04T23:02:17+09:00</xf:postedAt>
+<xf:addedAt>2026-11-05T00:07:26.648392+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/2101495370660655104/F8tzCryw_400x400.jpg" width="48" height="48" alt="Kenn Ejima"/> <b>Kenn Ejima</b> @kenn</p><p>久々に有望なRAGのアプローチ<br/><br/>検索部分にDBを使わず<br/>階層化したツリーをJevなどの<br/>Decisionモデルで下っていき<br/>文書を見つけるという発想<br/><br/>ベクターDBやBM25の索引が不要<br/>という圧倒的なアドバンテージ<br/><br/>汎用化の面で難しいのは<br/>文書の分類が事前にわからない時<br/>階層化のルールが決まらない事<br/><br/>ただこれもLunaのように<br/>コンテキスト窓が大きいモデルなら<br/>階層を浅くすることができて<br/>分類ミスによる偽陰性のリスクも<br/>減らせそう<br/><br/>これは遊び甲斐があるな…</p><p>いいね 82・リポスト 6・ブックマーク 86・表示 4,980</p><p>投稿 2026-11-04 23:02（日本時間）・<a href="https://x.com/kenn/status/2117980756761047366">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[久々に有望なRAGのアプローチ
+
+検索部分にDBを使わず
+階層化したツリーをJevなどの
+Decisionモデルで下っていき
+文書を見つけるという発想
+
+ベクターDBやBM25の索引が不要
+という圧倒的なアドバンテージ
+
+汎用化の面で難しいのは
+文書の分類が事前にわからない時
+階層化のルールが決まらない事
+
+ただこれもLunaのように
+コンテキスト窓が大きいモデルなら
+階層を浅くすることができて
+分類ミスによる偽陰性のリスクも
+減らせそう
+
+これは遊び甲斐があるな…]]></xf:original>
+</item>
+<item>
+<title>shoyu ｜高配当×株主優待 (@kikko10k)</title>
+<link>https://x.com/kikko10k/status/2117974710520848799</link>
+<guid isPermaLink="true">https://x.com/kikko10k/status/2117974710520848799</guid>
+<category>日本株・高配当株</category>
+<dc:creator>shoyu ｜高配当×株主優待</dc:creator>
+<pubDate>Wed, 04 Nov 2026 15:07:26 +0000</pubDate>
+<xf:postedAt>2026-11-04T22:38:15+09:00</xf:postedAt>
+<xf:addedAt>2026-11-05T00:07:26.648392+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/2055984204161392640/v5-Wk7Hd_400x400.jpg" width="48" height="48" alt="shoyu ｜高配当×株主優待"/> <b>shoyu ｜高配当×株主優待</b> @kikko10k</p><p>配当利回り6.68%‼️‼️<br/>　　　　　　　年初来安値更新⤵︎⤵︎<br/><br/>◉LAホールディングス〈2986〉<br/>株価2605円（-35円）<br/><br/>⚪︎年初来安値を更新している主な理由は？<br/><br/>☑︎上期決算の見た目の大幅減益<br/>・売上前年比減＆営業益約50%減で進捗遅れが懸念<br/>☑︎下期（特に4Q）偏重への達成不確実性<br/>・物件引き渡し時期の偏りによるが市場は警戒<br/>☑︎不動産業界全体の金利上昇リスク<br/><br/>⚪︎株価下落の一方で株主還元姿勢は強力！<br/><br/>【配当方針】<br/>■ 目安：配当性向 40%<br/>■ 下限：DOE 6.0%（下値リスクを担保）<br/>■ 年2回配当（6月/12月）<br/><br/>【株主優待】<br/>🎁権利確定：12月末（年1回）<br/>🎁 対象：100株以上<br/>🎁 内容：デジタルギフト 500円分<br/>（PayPayマネーライト/QUOカードPay/Amazon/WAON POINT等に交換可）<br/><br/>【1株配当推移】<br/>・2020/12：43円<br/>・2021/12：132円 (+89)<br/>・2022/12：200円 (+68)<br/>・2023/12：211円 (+11)<br/>・2024/12：292円 (+81)<br/>・2025/12：338円 (+46)<br/><br/>下期偏重の懸念を払拭して通期計画を達成できるか、DOE 6%下限や高配当・優待が意識されて下げ止まるかが今後の注目ポイント👀<br/><br/>次回の決算は11月12日<br/><br/>※投資は自己責任でお願いいたします。</p><p><img src="https://pbs.twimg.com/media/HWSOxW4agAAYOmU.jpg" alt="画像"/></p><p>いいね 11・リポスト 1・ブックマーク 0・表示 531</p><p>投稿 2026-11-04 22:38（日本時間）・<a href="https://x.com/kikko10k/status/2117974710520848799">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[配当利回り6.68%‼️‼️
+　　　　　　　年初来安値更新⤵︎⤵︎
+
+◉LAホールディングス〈2986〉
+株価2605円（-35円）
+
+⚪︎年初来安値を更新している主な理由は？
+
+☑︎上期決算の見た目の大幅減益
+・売上前年比減＆営業益約50%減で進捗遅れが懸念
+☑︎下期（特に4Q）偏重への達成不確実性
+・物件引き渡し時期の偏りによるが市場は警戒
+☑︎不動産業界全体の金利上昇リスク
+
+⚪︎株価下落の一方で株主還元姿勢は強力！
+
+【配当方針】
+■ 目安：配当性向 40%
+■ 下限：DOE 6.0%（下値リスクを担保）
+■ 年2回配当（6月/12月）
+
+【株主優待】
+🎁権利確定：12月末（年1回）
+🎁 対象：100株以上
+🎁 内容：デジタルギフト 500円分
+（PayPayマネーライト/QUOカードPay/Amazon/WAON POINT等に交換可）
+
+【1株配当推移】
+・2020/12：43円
+・2021/12：132円 (+89)
+・2022/12：200円 (+68)
+・2023/12：211円 (+11)
+・2024/12：292円 (+81)
+・2025/12：338円 (+46)
+
+下期偏重の懸念を払拭して通期計画を達成できるか、DOE 6%下限や高配当・優待が意識されて下げ止まるかが今後の注目ポイント👀
+
+次回の決算は11月12日
+
+※投資は自己責任でお願いいたします。]]></xf:original>
+</item>
+<item>
+<title>配当太郎 (@financial1111)</title>
+<link>https://x.com/financial1111/status/2117971650671243582</link>
+<guid isPermaLink="true">https://x.com/financial1111/status/2117971650671243582</guid>
+<category>日本株・高配当株</category>
+<dc:creator>配当太郎</dc:creator>
+<pubDate>Wed, 04 Nov 2026 15:07:26 +0000</pubDate>
+<xf:postedAt>2026-11-04T22:26:06+09:00</xf:postedAt>
+<xf:addedAt>2026-11-05T00:07:26.648392+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1566658926397247488/n8g7rtj7_400x400.jpg" width="48" height="48" alt="配当太郎"/> <b>配当太郎</b> @financial1111</p><p>三菱商事が25年4月に発表した「経営戦略2027」の営業収益CF1.4兆円、純利益1.2兆円。当初3年後にこの数字、絶対無理でしょって誰もが思ったでしょう。それぐらいの数字だった。しかしながらマクロ環境の追い風があったとは言え、それをしっかり掴み、めでたく1年前倒しで達成の予想と相成りました。拍手！！！！！</p><p><img src="https://pbs.twimg.com/media/HWSLKQ2bMAAC-n_.jpg" alt="画像"/></p><p>いいね 338・リポスト 10・ブックマーク 12・表示 18,853</p><p>投稿 2026-11-04 22:26（日本時間）・<a href="https://x.com/financial1111/status/2117971650671243582">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[三菱商事が25年4月に発表した「経営戦略2027」の営業収益CF1.4兆円、純利益1.2兆円。当初3年後にこの数字、絶対無理でしょって誰もが思ったでしょう。それぐらいの数字だった。しかしながらマクロ環境の追い風があったとは言え、それをしっかり掴み、めでたく1年前倒しで達成の予想と相成りました。拍手！！！！！]]></xf:original>
+</item>
+<item>
+<title>Kenn Ejima (@kenn)</title>
+<link>https://x.com/kenn/status/2117955349399625938</link>
+<guid isPermaLink="true">https://x.com/kenn/status/2117955349399625938</guid>
+<category>AI</category>
+<dc:creator>Kenn Ejima</dc:creator>
+<pubDate>Wed, 04 Nov 2026 15:07:26 +0000</pubDate>
+<xf:postedAt>2026-11-04T21:21:19+09:00</xf:postedAt>
+<xf:addedAt>2026-11-05T00:07:26.648392+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/2101495370660655104/F8tzCryw_400x400.jpg" width="48" height="48" alt="Kenn Ejima"/> <b>Kenn Ejima</b> @kenn</p><p>一昔前はエンジニア採用の目安として<br/>OSSプロジェクトで何に取り組んでるか？<br/>を聞くというのがあったけど<br/><br/>今後は個人プロジェクトで何を作ってるか？<br/>というのになるだろうな<br/><br/>今このAIがある時代に何も作ってないのは<br/>自発性や創造性といった今後の社会に<br/>最も必要な要素を持ってませんと<br/>言ってるのに等しくなる<br/><br/>何でもいいから思いついたものを作りなよ</p><p>いいね 55・リポスト 5・ブックマーク 14・表示 4,675</p><p>投稿 2026-11-04 21:21（日本時間）・<a href="https://x.com/kenn/status/2117955349399625938">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[一昔前はエンジニア採用の目安として
+OSSプロジェクトで何に取り組んでるか？
+を聞くというのがあったけど
+
+今後は個人プロジェクトで何を作ってるか？
+というのになるだろうな
+
+今このAIがある時代に何も作ってないのは
+自発性や創造性といった今後の社会に
+最も必要な要素を持ってませんと
+言ってるのに等しくなる
+
+何でもいいから思いついたものを作りなよ]]></xf:original>
+</item>
+<item>
+<title>ただかぶ (@tadakabu)</title>
+<link>https://x.com/tadakabu/status/2117915708428558438</link>
+<guid isPermaLink="true">https://x.com/tadakabu/status/2117915708428558438</guid>
+<category>日本株・高配当株</category>
+<dc:creator>ただかぶ</dc:creator>
+<pubDate>Wed, 04 Nov 2026 15:07:26 +0000</pubDate>
+<xf:postedAt>2026-11-04T18:43:48+09:00</xf:postedAt>
+<xf:addedAt>2026-11-05T00:07:26.648392+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1537025824070975490/_Z5EHT35_400x400.jpg" width="48" height="48" alt="ただかぶ"/> <b>ただかぶ</b> @tadakabu</p><p>【歓喜】<br/>うおぉぉぉぉ！<br/>三菱商事から規格外の自社株買いきたぁぁぁ！！<br/>総額“1兆円”(発行済株式数の6%)！！！</p><p><img src="https://pbs.twimg.com/media/HWRZGbHa8AAQXq-.jpg" alt="画像"/></p><p>いいね 226・リポスト 2・ブックマーク 4・表示 9,369</p><p>投稿 2026-11-04 18:43（日本時間）・<a href="https://x.com/tadakabu/status/2117915708428558438">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[【歓喜】
+うおぉぉぉぉ！
+三菱商事から規格外の自社株買いきたぁぁぁ！！
+総額“1兆円”(発行済株式数の6%)！！！]]></xf:original>
+</item>
+<item>
+<title>Kosuke (@kosuke_agos)</title>
+<link>https://x.com/kosuke_agos/status/2117909777745678628</link>
+<guid isPermaLink="true">https://x.com/kosuke_agos/status/2117909777745678628</guid>
+<category>AI</category>
+<dc:creator>Kosuke</dc:creator>
+<pubDate>Wed, 04 Nov 2026 15:07:26 +0000</pubDate>
+<xf:postedAt>2026-11-04T18:20:14+09:00</xf:postedAt>
+<xf:addedAt>2026-11-05T00:07:26.648392+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1858051944801251328/9-YktFN8_400x400.jpg" width="48" height="48" alt="Kosuke"/> <b>Kosuke</b> @kosuke_agos</p><p>2027年のスタートアップのあり方は根本から変わります。<br/><br/>この変化に適応できなければAI時代に生き残ることは難しいです。<br/><br/>すべてのスタートアップが理解しておくべき、すでに起きている7つの変化をまとめました。<br/><br/>1/ スタートアップは少人数の役員とAIだけで動くようになる<br/>実務の90%以上をAIが担い、人間は方向性を決め、成果を判断するという役割になります。他人に指示を出すことが主な仕事である中間層は、ますます代替可能になります。必要なのは、事業や顧客を深く理解し、方向性を定め、成果が十分に良いかを判断できるハイコンテキストな人材です。それはつまり、役員レベルの仕事です。<br/><br/>実際にARR $25MのObsidianのチームは、たった7人のフルタイムメンバーと一匹の猫で構成されています。NoimosAIでも、開発からマーケティングまで、事業のあらゆる部分にAIエージェントを導入し、フルタイム4人でARR $1M超えを実現しました。<br/><br/>2/ 単純な手作業を繰り返すだけのマーケターは置き換えられる<br/>繰り返しの手作業の価値が下がる一方で、仕組みを構築できるマーケター（=マーケティングエンジニア）の価値は上がります。投稿や記事をすべて自分で書くのではなく、リサーチ、作成、配信、評価を行うAIエージェントのシステムを設計するようになります。<br/>Greg Isenberg氏は、最高のマーケティングエンジニアは年収100万ドル（約1.5億円）を稼ぐようになると予測しています。<br/><br/>NoimosAIの思想もこれに近く、SNSコンテンツ、SEOキーワードリサーチ、記事の作成・改善、広告クリエイティブ、Webサイト運用まで、全てAIエージェントが行う設計になっています。<br/><br/>3/ SaaSのマーケティングはECに近づく<br/>UGCクリエイターの活用、より多くのクリエイティブテスト、配信チャネルの多様化。SaaSはますますECのマーケティングに近づいてます。AI市場の競争が激しくなる中、良いプロダクトを作るだけでは不十分です。それを人々の目に触れさせることも同じくらい重要になります。<br/><br/>完璧なメッセージを予測しようとするのではなく、さまざまな切り口を試し、効果的なものを見つけて拡大していくのです。<br/><br/>4/ 従業員のコストは給与だけではなくなる<br/>従業員のコストには、その人が使うAIツールや推論の費用も含まれるようになります。給与やAI費用をそれぞれ単独で見るのではなく、人とAIにかけたコスト全体に対して、どれだけの成果を生み出したかを見る必要があります。<br/><br/>5/ PMFは一度達成しても、維持できるとは限らない<br/>これはもはやすでに常識になっています。AIによって顧客の期待や製品の使われ方が急速に変わるため、昨日まで市場に合っていたプロダクトが、突然選ばれなくなる可能性があります。AIの登場後急激にアクセスが減少したStack Overflowがいい例です。<br/><br/>スタートアップは、一度PMFを見つけるだけでなく、変化を先読みしながら作り変えていく必要があります。<br/><br/>6/ ソフトウェアは、顧客ごとに形を変えるようになる<br/>これまでは、顧客が共通のソフトウェアに合わせて業務を変えてきたました。これからは、ソフトウェアが顧客のデータや業務に合わせて変わるのが当たり前になり、顧客の期待も「自分で設定する製品」から「自分のために作られた製品」へ移ります。<br/><br/>7/ SaaSは機能へのアクセスではなく、成果を売るようになる<br/>Sierraの共同創業者Bret Taylor氏が言っていましたが、「顧客はソフトウェアではなく成果に対して支払うべき」というのが一般的になります。従来のSaaSは、人々が仕事をするためのツールを提供してきましたが、AIエージェントは、仕事そのものを行うようになっています。その変化が続くにつれ、顧客は機能へのアクセスではなく、結果に対して対価を支払うことを期待するようになるでしょう。<br/><br/>市場では「そのプロダクトは顧客に実際に成果をもたらすのか」という、より本質的なことが問われます。成果を出せるプロダクトが生き残るようになります。</p><p>いいね 94・リポスト 6・ブックマーク 85・表示 14,824</p><p>投稿 2026-11-04 18:20（日本時間）・<a href="https://x.com/kosuke_agos/status/2117909777745678628">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[2027年のスタートアップのあり方は根本から変わります。
+
+この変化に適応できなければAI時代に生き残ることは難しいです。
+
+すべてのスタートアップが理解しておくべき、すでに起きている7つの変化をまとめました。
+
+1/ スタートアップは少人数の役員とAIだけで動くようになる
+実務の90%以上をAIが担い、人間は方向性を決め、成果を判断するという役割になります。他人に指示を出すことが主な仕事である中間層は、ますます代替可能になります。必要なのは、事業や顧客を深く理解し、方向性を定め、成果が十分に良いかを判断できるハイコンテキストな人材です。それはつまり、役員レベルの仕事です。
+
+実際にARR $25MのObsidianのチームは、たった7人のフルタイムメンバーと一匹の猫で構成されています。NoimosAIでも、開発からマーケティングまで、事業のあらゆる部分にAIエージェントを導入し、フルタイム4人でARR $1M超えを実現しました。
+
+2/ 単純な手作業を繰り返すだけのマーケターは置き換えられる
+繰り返しの手作業の価値が下がる一方で、仕組みを構築できるマーケター（=マーケティングエンジニア）の価値は上がります。投稿や記事をすべて自分で書くのではなく、リサーチ、作成、配信、評価を行うAIエージェントのシステムを設計するようになります。
+Greg Isenberg氏は、最高のマーケティングエンジニアは年収100万ドル（約1.5億円）を稼ぐようになると予測しています。
+
+NoimosAIの思想もこれに近く、SNSコンテンツ、SEOキーワードリサーチ、記事の作成・改善、広告クリエイティブ、Webサイト運用まで、全てAIエージェントが行う設計になっています。
+
+3/ SaaSのマーケティングはECに近づく
+UGCクリエイターの活用、より多くのクリエイティブテスト、配信チャネルの多様化。SaaSはますますECのマーケティングに近づいてます。AI市場の競争が激しくなる中、良いプロダクトを作るだけでは不十分です。それを人々の目に触れさせることも同じくらい重要になります。
+
+完璧なメッセージを予測しようとするのではなく、さまざまな切り口を試し、効果的なものを見つけて拡大していくのです。
+
+4/ 従業員のコストは給与だけではなくなる
+従業員のコストには、その人が使うAIツールや推論の費用も含まれるようになります。給与やAI費用をそれぞれ単独で見るのではなく、人とAIにかけたコスト全体に対して、どれだけの成果を生み出したかを見る必要があります。
+
+5/ PMFは一度達成しても、維持できるとは限らない
+これはもはやすでに常識になっています。AIによって顧客の期待や製品の使われ方が急速に変わるため、昨日まで市場に合っていたプロダクトが、突然選ばれなくなる可能性があります。AIの登場後急激にアクセスが減少したStack Overflowがいい例です。
+
+スタートアップは、一度PMFを見つけるだけでなく、変化を先読みしながら作り変えていく必要があります。
+
+6/ ソフトウェアは、顧客ごとに形を変えるようになる
+これまでは、顧客が共通のソフトウェアに合わせて業務を変えてきたました。これからは、ソフトウェアが顧客のデータや業務に合わせて変わるのが当たり前になり、顧客の期待も「自分で設定する製品」から「自分のために作られた製品」へ移ります。
+
+7/ SaaSは機能へのアクセスではなく、成果を売るようになる
+Sierraの共同創業者Bret Taylor氏が言っていましたが、「顧客はソフトウェアではなく成果に対して支払うべき」というのが一般的になります。従来のSaaSは、人々が仕事をするためのツールを提供してきましたが、AIエージェントは、仕事そのものを行うようになっています。その変化が続くにつれ、顧客は機能へのアクセスではなく、結果に対して対価を支払うことを期待するようになるでしょう。
+
+市場では「そのプロダクトは顧客に実際に成果をもたらすのか」という、より本質的なことが問われます。成果を出せるプロダクトが生き残るようになります。]]></xf:original>
+</item>
+<item>
+<title>武藤かず子（チームみらい•衆議院議員） (@moo_mirai)</title>
+<link>https://x.com/moo_mirai/status/2117878054920102047</link>
+<guid isPermaLink="true">https://x.com/moo_mirai/status/2117878054920102047</guid>
+<category>行政DX</category>
+<dc:creator>武藤かず子（チームみらい•衆議院議員）</dc:creator>
+<pubDate>Wed, 04 Nov 2026 15:07:26 +0000</pubDate>
+<xf:postedAt>2026-11-04T16:14:11+09:00</xf:postedAt>
+<xf:addedAt>2026-11-05T00:07:26.648392+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/2058004062898167808/uGa02vdW_400x400.jpg" width="48" height="48" alt="武藤かず子（チームみらい•衆議院議員）"/> <b>武藤かず子（チームみらい•衆議院議員）</b> @moo_mirai</p><p>11月6日、地域活性化・こども政策・デジタル社会形成に関する特別委員会（通称：地こデジ特委）で大臣所信演説に対する質疑に立ちます。自治体システム標準化に伴う運用経費の増加と標準化の到達像、保育DXの効果の測り方、就業者負担軽減支援金の執行基盤について伺います。国会中継をご覧いただけると嬉しいです。質疑の時間が決まりましたら、改めてご案内します。</p><p><img src="https://pbs.twimg.com/media/HWQv3B9b0AEncOx.jpg" alt="画像"/></p><p><img src="https://pbs.twimg.com/media/HWQwH_Mb0AAP2uB.jpg" alt="画像"/></p><p>いいね 59・リポスト 9・ブックマーク 2・表示 896</p><p>投稿 2026-11-04 16:14（日本時間）・<a href="https://x.com/moo_mirai/status/2117878054920102047">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[11月6日、地域活性化・こども政策・デジタル社会形成に関する特別委員会（通称：地こデジ特委）で大臣所信演説に対する質疑に立ちます。自治体システム標準化に伴う運用経費の増加と標準化の到達像、保育DXの効果の測り方、就業者負担軽減支援金の執行基盤について伺います。国会中継をご覧いただけると嬉しいです。質疑の時間が決まりましたら、改めてご案内します。]]></xf:original>
+</item>
+<item>
+<title>ガバクラに強い松屋JK (@Seria_GovCloud)</title>
+<link>https://x.com/Seria_GovCloud/status/2117815597882896754</link>
+<guid isPermaLink="true">https://x.com/Seria_GovCloud/status/2117815597882896754</guid>
+<category>行政DX</category>
+<dc:creator>ガバクラに強い松屋JK</dc:creator>
+<pubDate>Wed, 04 Nov 2026 15:07:26 +0000</pubDate>
+<xf:postedAt>2026-11-04T12:06:00+09:00</xf:postedAt>
+<xf:addedAt>2026-11-05T00:07:26.648392+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/2105149827445321728/l08oC0-n_400x400.jpg" width="48" height="48" alt="ガバクラに強い松屋JK"/> <b>ガバクラに強い松屋JK</b> @Seria_GovCloud</p><p>後孔明ですけど、システム標準化は機能や帳票じゃなく、システム間移行要件の仕様を義務化すべきだったんですよね(´・ω・｀)<br/><br/>自治体システム移行で高額請求、ＩＴ大手の「手切れ金」との声も…公取委が実態調査へ : 読売新聞 <a href="https://www.yomiuri.co.jp/economy/20261103-GYT1T00297/">https://www.yomiuri.co.jp/economy/20261103-GYT1T00297/</a></p><p>いいね 42・リポスト 2・ブックマーク 3・表示 2,270</p><p>投稿 2026-11-04 12:06（日本時間）・<a href="https://x.com/Seria_GovCloud/status/2117815597882896754">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[後孔明ですけど、システム標準化は機能や帳票じゃなく、システム間移行要件の仕様を義務化すべきだったんですよね(´・ω・｀)
+
+自治体システム移行で高額請求、ＩＴ大手の「手切れ金」との声も…公取委が実態調査へ : 読売新聞 https://www.yomiuri.co.jp/economy/20261103-GYT1T00297/]]></xf:original>
+</item>
+<item>
+<title>まんまる (@marubatu0401)</title>
+<link>https://x.com/marubatu0401/status/2117814340376011243</link>
+<guid isPermaLink="true">https://x.com/marubatu0401/status/2117814340376011243</guid>
+<category>日本株・高配当株</category>
+<dc:creator>まんまる</dc:creator>
+<pubDate>Wed, 04 Nov 2026 15:07:26 +0000</pubDate>
+<xf:postedAt>2026-11-04T12:01:00+09:00</xf:postedAt>
+<xf:addedAt>2026-11-05T00:07:26.648392+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1876650111411093504/_gc5e0fp_400x400.jpg" width="48" height="48" alt="まんまる"/> <b>まんまる</b> @marubatu0401</p><p>三菱UFJ（8306）　VS　三井住友FG（8316）<br/><br/>日銀利上げで両行とも最高益更新中。<br/>・UFJ：規模大・海外収益が強い<br/>・住友：国内基盤と成長率が強い<br/>まだまだ利上げは続きそう。<br/><br/>株主優待<br/>・ UFJは優待なし（配当と自社株買いに集中）。<br/>・住友は優待開始。100株＋1年保有でVポイント5,000円相当、定期金利上乗せもあり。ただしOlive契約と預金残高条件つき。<br/>三井住友NLカードの利用で愛着買いも。<br/><br/>今は両者とも大きく上昇済みなので、急いで追わず下落時に買うのもあり。押したところを拾う方が、配当利回りも取りやすい。</p><p>いいね 60・リポスト 3・ブックマーク 5・表示 15,263</p><p>投稿 2026-11-04 12:01（日本時間）・<a href="https://x.com/marubatu0401/status/2117814340376011243">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[三菱UFJ（8306）　VS　三井住友FG（8316）
+
+日銀利上げで両行とも最高益更新中。
+・UFJ：規模大・海外収益が強い
+・住友：国内基盤と成長率が強い
+まだまだ利上げは続きそう。
+
+株主優待
+・ UFJは優待なし（配当と自社株買いに集中）。
+・住友は優待開始。100株＋1年保有でVポイント5,000円相当、定期金利上乗せもあり。ただしOlive契約と預金残高条件つき。
+三井住友NLカードの利用で愛着買いも。
+
+今は両者とも大きく上昇済みなので、急いで追わず下落時に買うのもあり。押したところを拾う方が、配当利回りも取りやすい。]]></xf:original>
+</item>
+<item>
+<title>Shun Yamamoto⏸️ (@Yamamoto_NeuroX)</title>
+<link>https://x.com/Yamamoto_NeuroX/status/2117771974273638516</link>
+<guid isPermaLink="true">https://x.com/Yamamoto_NeuroX/status/2117771974273638516</guid>
+<category>AI</category>
+<dc:creator>Shun Yamamoto⏸️</dc:creator>
+<pubDate>Wed, 04 Nov 2026 15:07:26 +0000</pubDate>
+<xf:postedAt>2026-11-04T09:12:39+09:00</xf:postedAt>
+<xf:addedAt>2026-11-05T00:07:26.648392+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/2012906831559950336/NSJHxvAt_400x400.jpg" width="48" height="48" alt="Shun Yamamoto⏸️"/> <b>Shun Yamamoto⏸️</b> @Yamamoto_NeuroX</p><p>Cat wuもやめるのか…<br/><br/>claude codeに関わってきた人材が次々にanthropicを退職。<br/><br/>IPOを控える時期での重なる退社は、会社の方向性が変化し人材移動が活発化している状況を示唆<br/><br/>これは、ある意味AIでCodingが解かれ、会社としてバリューを生むものが創薬、科学研究などに移行しているのか。 <a href="https://twitter.com/_catwu/status/2117731934340337676">https://twitter.com/_catwu/status/2117731934340337676</a></p><p>いいね 51・リポスト 8・ブックマーク 19・表示 11,710</p><p>投稿 2026-11-04 09:12（日本時間）・<a href="https://x.com/Yamamoto_NeuroX/status/2117771974273638516">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[Cat wuもやめるのか…
+
+claude codeに関わってきた人材が次々にanthropicを退職。
+
+IPOを控える時期での重なる退社は、会社の方向性が変化し人材移動が活発化している状況を示唆
+
+これは、ある意味AIでCodingが解かれ、会社としてバリューを生むものが創薬、科学研究などに移行しているのか。 https://twitter.com/_catwu/status/2117731934340337676]]></xf:original>
+</item>
 <item>
 <title>みのさん@高配当×株主優待 (@minosann0304)</title>
 <link>https://x.com/minosann0304/status/2117965093036011782</link>

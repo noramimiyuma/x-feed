@@ -1,5 +1,158 @@
 [
  {
+  "id": "2117814090806489511",
+  "handle": "digital_jpn",
+  "name": "デジタル庁",
+  "avatar": "https://pbs.twimg.com/profile_images/1432867630298419206/Uez_q2Zx_400x400.png",
+  "theme": "行政DX",
+  "text": "マイナポータルでの自治体等への手続の画面・機能を順次刷新📢\n\nマイナンバーカードでのログインが必須となり、より安全に。\n氏名・住所などの自動入力や、申請後の修正・再提出もオンラインで完結できます✅\n\n📝主な変更点や手続の流れなど↓\nhttps://digital-gov.note.jp/n/n2a0689cfbcdd",
+  "media": [],
+  "created_at": "2026-11-04T03:00:00.000Z",
+  "metrics": {
+   "like": 0,
+   "repost": 0,
+   "bookmark": 0,
+   "view": 582
+  },
+  "added_at": "2026-11-04T03:04:20.277819+00:00"
+ },
+ {
+  "id": "2117808743153045868",
+  "handle": "golden_cat_31",
+  "name": "金猫の穴（投資・NISAで資産形成）",
+  "avatar": "https://pbs.twimg.com/profile_images/1845653367739305984/IkbuKfQN_400x400.jpg",
+  "theme": "日本株・高配当株",
+  "text": "📢11/4 (水) 日経平均 前場【速報】\n\n🟥前場引け、60,835円🤢🤢\n   （前営業日比、−2,246円‼️)\n\n🟥ドル円、157.6円\n   （昼 11 時30分頃）\n\n●前引けの日経平均は、3日続落。\n東証プライムの値上がり銘柄数は413、値下がりは1103、変わらずは30と、値下がり銘柄数が値上がり銘柄数を大幅に上回った。\n\n●⤵️マイナス寄与度はアドテストがトップ。以下、ＳＢＧ、東エレク、キオクシア、京セラと並んだ。\n\n●⤴️プラス寄与度トップはファストリ。次いでコナミＧバンナムＨＤ、任天堂、ヤマトＨＤと続いた。\n\n●業種別では33業種中5業種が値上がり。\n\n1位は空運で、以下、不動産、陸運、その他製品が続いた。\n値下がり上位には非鉄金属、石油・石炭、鉱業が並んだ。\n\n👉️【株探ニュース】\n📍日経平均4日前引け＝3日続落、2246円安の6万835円  https://share.google/y3NUMPtcn11IdyC2R\n\n#日経平均 #ドル円",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWP3z_-akAA9Drp.jpg"
+   },
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWP30Z7b0AACSRa.jpg"
+   },
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWP302vasAASX46.jpg"
+   }
+  ],
+  "created_at": "2026-11-04T02:38:46.000Z",
+  "metrics": {
+   "like": 31,
+   "repost": 0,
+   "bookmark": 0,
+   "view": 765
+  },
+  "added_at": "2026-11-04T03:04:20.277819+00:00"
+ },
+ {
+  "id": "2117799646986981645",
+  "handle": "pomemaru5109",
+  "name": "ポメまる@配当投資",
+  "avatar": "https://pbs.twimg.com/profile_images/1918305470395359232/ngB57lqb_400x400.jpg",
+  "theme": "日本株・高配当株",
+  "text": "8002　丸紅、中間決算🐾\n\n✅2Q累計の最終利益は前年同期比10.6%増の3380億円\n✅通期の同利益を5800億円→6300億円に8.6%上方修正\n✅今期の年間配当を115円→125円に増額修正\n\n丸紅、上方修正&amp;増配だよ🤗🤗🤗",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWPvjaCbsAAVt_B.jpg"
+   }
+  ],
+  "created_at": "2026-11-04T02:02:37.000Z",
+  "metrics": {
+   "like": 301,
+   "repost": 17,
+   "bookmark": 3,
+   "view": 16405
+  },
+  "added_at": "2026-11-04T03:04:20.277819+00:00"
+ },
+ {
+  "id": "2117794005165748448",
+  "handle": "sama",
+  "name": "Sam Altman",
+  "avatar": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_400x400.jpg",
+  "theme": "AI",
+  "text": "People should always be in control of the future.\n\nOpenAI is against the notion that it would be acceptable for people to be relegated to a role of doing things that “AI systems think makes sense to reward in humans”.\n\nPeople should not cede control of the future to superintelligence, and that requirement should ultimately constrain AI progress.",
+  "media": [],
+  "created_at": "2026-11-04T01:40:12.000Z",
+  "metrics": {
+   "like": 4082,
+   "repost": 231,
+   "bookmark": 520,
+   "view": 417489
+  },
+  "translation_ja": "人々は常に未来をコントロールできる状態であるべきです。\n\nOpenAIは、人間が「AIシステムが人間に報いるのが理にかなっていると考えること」をする役割に追いやられてもよい、という考え方に反対します。\n\n人々は超知能に未来の主導権を明け渡すべきではなく、その要件は最終的にAIの進歩を制約するものであるべきです。",
+  "added_at": "2026-11-04T03:04:20.277819+00:00"
+ },
+ {
+  "id": "2117788922172305838",
+  "handle": "kabkab_20",
+  "name": "かぶろぐ@資産１億達成",
+  "avatar": "https://pbs.twimg.com/profile_images/2088042010611691520/bkbnV8UZ_400x400.jpg",
+  "theme": "日本株・高配当株",
+  "text": "🚨【最強ETF爆誕！？本日11月4日、注目の新ETFが上場🔥】\n\n高配当株好きの皆さん、これは要チェック！！💰\n\nなんと、「累進高配当」に特化したETF が東証に新登場します！！\n\nその名も…\n\n🔥 iFreeETF 日本株累進高配当戦略（665A） 🔥\n\nこれ、個人的にかなり気になる商品です👀\n\n💰 どんなETFなの？\n\n✅ 累進配当を続けてきた企業や、累進配当方針を掲げる企業が対象\n\n✅ 国内上場の時価総額上位約1,000銘柄から候補を選定\n\n✅ 企業規模などで4グループに分け、各グループから予想配当利回り上位15銘柄を選ぶ設計\n\n✅ 合計約60銘柄を組み入れる仕組み\n\nつまり、「配当利回り」だけでなく「配当を維持・増配していく姿勢」にも注目する戦略！ 💪📈\n\n📌 気になる基本情報\n\n・銘柄コード：665A\n・上場日：2026年11月4日\n・運用会社：大和アセットマネジメント\n・売買単位：1口\n・信託報酬：年率0.4125％以内（税込）\n・分配金支払基準日：年2回（4月・10月）\n\n個別株で累進高配当株を探すのも楽しいですが、こうしたETFでまとめて投資できるのは魅力的ですね！\n\nただし、高配当だから必ず儲かるわけではありません。 株価下落のリスクもありますし、過去のシミュレーションが将来の成績を保証するわけでもありません。\n\nそれでも、長期で配当を積み上げたい投資家としては、注目しておきたい新商品です🔥\n\n皆さんはこのETF、買ってみたいですか？🤔\n\n① 買ってみたい！\n② 組入銘柄を確認してから判断\n③ 個別株で十分！\n④ まずは様子見\n\n高配当株好きの皆さん、ぜひ意見を聞かせてください！！💰📈",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWM3ObpbYAA4QcD.jpg"
+   },
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWM3ObuaMAAiifw.jpg"
+   }
+  ],
+  "created_at": "2026-11-04T01:20:00.000Z",
+  "metrics": {
+   "like": 10,
+   "repost": 0,
+   "bookmark": 1,
+   "view": 510
+  },
+  "added_at": "2026-11-04T03:04:20.277819+00:00"
+ },
+ {
+  "id": "2117754948557677041",
+  "handle": "dayjournal_nori",
+  "name": "Yasunori Kirimoto",
+  "avatar": "https://pbs.twimg.com/profile_images/1996851988978716672/RBU9OzUw_400x400.jpg",
+  "theme": "AI",
+  "text": "QGISをチャットで操作できるプラグイン「Mapsuke」🗺️\n自然言語で指示するとAIエージェントがPythonコードを生成しQGIS上で実行。データ取得から分析・地図作成まで進められます。Claude CodeやCodexを直接呼び出す仕組みでMCPサーバーは不要。\nhttps://plugins.qgis.org/plugins/mapsuke/\n\n#QGIS #foss4g",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWL8SLGaUAAWK6v.jpg"
+   }
+  ],
+  "created_at": "2026-11-03T23:05:00.000Z",
+  "metrics": {
+   "like": 18,
+   "repost": 5,
+   "bookmark": 11,
+   "view": 787
+  },
+  "added_at": "2026-11-04T03:04:20.277819+00:00"
+ },
+ {
+  "id": "2117731934340337676",
+  "handle": "_catwu",
+  "name": "cat",
+  "avatar": "https://pbs.twimg.com/profile_images/1645578728532246528/Llilll47_400x400.jpg",
+  "theme": "PdM",
+  "text": "Friday was my last day at Anthropic.\n\nTwo years ago, when Claude Code was a small internal tool, I asked it to build an RL env. I steered it for tens of hours but never manually wrote a line of code. It worked, I was hooked, and I joined the team.\n\nWhen we first launched, most people approved every permission prompt by hand and mostly used Claude to answer questions and write tests. \n\nToday, the default is trusting Claude's judgment to auto-approve. Claude does large migrations and builds new products. \n\nHelping build Claude Code into an industry-defining product has been the journey of a lifetime. \n\nThank you to the incredible team behind Claude Code, Cowork, and Tag. These products are the sum of thousands of great ideas from you. I'll miss working with you all.\n\nThank you to our users for embracing a new way of working. Your constant feedback shaped so much of what we shipped and your stories made the work so meaningful.\n\nExcited to see what you all make next!",
+  "media": [],
+  "created_at": "2026-11-03T21:33:33.000Z",
+  "metrics": {
+   "like": 7327,
+   "repost": 179,
+   "bookmark": 1102,
+   "view": 961986
+  },
+  "translation_ja": "金曜日が、Anthropicでの最後の勤務日でした。\n\n2年前、Claude Codeがまだ社内の小さなツールだった頃、私はこれにRL環境（強化学習の環境）を作らせました。数十時間にわたって舵取りをしましたが、自分では1行もコードを書いていません。それでうまく動き、私は夢中になって、チームに加わりました。\n\n最初にローンチした頃は、ほとんどの人が許可の確認を1つずつ手動で承認し、Claudeは主に質問への回答やテストの作成に使われていました。\n\n今では、Claudeの判断を信頼して自動承認するのが標準になっています。Claudeは大規模なマイグレーションをこなし、新しいプロダクトを作っています。\n\nClaude Codeを業界を代表するプロダクトへと育てる手伝いができたことは、一生に一度の旅でした。\n\nClaude Code、Cowork、Tagを支えてくれた素晴らしいチームの皆さん、ありがとう。これらのプロダクトは、皆さんの何千ものアイデアの積み重ねです。一緒に働けなくなるのが寂しいです。\n\n新しい働き方を受け入れてくれたユーザーの皆さんにも感謝します。絶え間ないフィードバックが私たちの出荷したものの多くを形づくり、皆さんの体験談がこの仕事をとても意味のあるものにしてくれました。\n\nこれから皆さんが何を作るのか、楽しみにしています！",
+  "added_at": "2026-11-04T03:04:20.277819+00:00"
+ },
+ {
   "id": "2117766895105630345",
   "handle": "sakamoto_582",
   "name": "サカモト@エンジニアキャリア論",

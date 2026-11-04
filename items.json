@@ -1,5 +1,143 @@
 [
  {
+  "id": "2117766895105630345",
+  "handle": "sakamoto_582",
+  "name": "サカモト@エンジニアキャリア論",
+  "avatar": "https://pbs.twimg.com/profile_images/1617195321356079104/2gj08RyW_400x400.jpg",
+  "theme": "AI",
+  "text": "AIコーディングで抽象度の高いアプリケーションを一気に作った後、中身の仕様理解に時間がかかるのが悩みだったけど、Playwrightで実際に操作してユースケースごとのデモ動画まで作ってもらうようにしたら、理解がめちゃくちゃ捗る。そのまま関係者へのデモにも使えるしいいわ",
+  "media": [],
+  "created_at": "2026-11-03T23:52:28.000Z",
+  "metrics": {
+   "like": 13,
+   "repost": 0,
+   "bookmark": 12,
+   "view": 788
+  },
+  "added_at": "2026-11-04T00:59:25.436433+00:00"
+ },
+ {
+  "id": "2117749972980715547",
+  "handle": "tsueeemura",
+  "name": "tsuemura",
+  "avatar": "https://pbs.twimg.com/profile_images/1722964011455823872/zCpchVAf_400x400.jpg",
+  "theme": "PdM",
+  "text": "エンジニアリング、プロダクトマネジメント、サポート、セールス、マーケティングなどなどはみんな本質的にはプロダクト職なので分ける必要が無く、分けることで分断を生んでしまうのを見てきたりしたので、どうしたら専門性を保ちつつ過度な分業を防げるのかな〜なんてことを考えていた",
+  "media": [],
+  "created_at": "2026-11-03T22:45:14.000Z",
+  "metrics": {
+   "like": 8,
+   "repost": 0,
+   "bookmark": 0,
+   "view": 304
+  },
+  "added_at": "2026-11-04T00:59:25.436433+00:00"
+ },
+ {
+  "id": "2117743120238657679",
+  "handle": "jnakajima1982",
+  "name": "中島淳之介｜自治体×AI・クラウドのnice2have代表",
+  "avatar": "https://pbs.twimg.com/profile_images/792884720136630272/oxylQfum_400x400.jpg",
+  "theme": "行政DX",
+  "text": "10月19日、東京都が都内の区市町村職員向けに主催したAI駆動開発ワークショップで講師を務めました。東京都様に許可をいただき、その活動レポートを、nice2haveのコラムに掲載しています。\n\n前半の座学では、自治体のAI活用の現状、AIの3つの種類（対話型・エージェント型・AI駆動開発）、源内やDifyとの使い分け、リスクと利用ルールを順にお話ししました。後半はClaude Codeで「自分の困りごと」のツールと業務のツールを作り、AWSのS3に公開して、スマートフォンから開くところまで進めています。\n\nショーケースに登録されたツールは20件を超えました。予算の予実を計算するツール、問い合わせ対応のナレッジDB、補助金の申請アプリと説明動画などです。東京都が実施したアンケートでは、満足度が5点満点中4.78点でした。「コードを書く力よりも、困りごとを言葉にする力が大事だと感じた」という感想が、特に印象に残っています。\n\n当日のスライドと写真を交えて、どんな順で何を扱ったのかをまとめました。AI駆動開発の研修を検討されている方の参考になれば幸いです。 \n\nhttps://nice2h.com/columns/tokyo-ai-driven-development-workshop\n\n#自治体DX #AI駆動開発 #ClaudeCode #AWS",
+  "media": [],
+  "created_at": "2026-11-03T22:18:00.000Z",
+  "metrics": {
+   "like": 19,
+   "repost": 5,
+   "bookmark": 10,
+   "view": 825
+  },
+  "added_at": "2026-11-04T00:59:25.436433+00:00"
+ },
+ {
+  "id": "2117721820426355145",
+  "handle": "lennysan",
+  "name": "Lenny Rachitsky",
+  "avatar": "https://pbs.twimg.com/profile_images/1592990461517389824/iln8hi1f_400x400.jpg",
+  "theme": "AI",
+  "text": "Was chatting with an experienced architect last night. She said that what used to take them 1.5 years of work (turning architectural designs into construction-ready drawings), now takes them *8 minutes* with AI.",
+  "media": [],
+  "created_at": "2026-11-03T20:53:22.000Z",
+  "metrics": {
+   "like": 2049,
+   "repost": 95,
+   "bookmark": 407,
+   "view": 114463
+  },
+  "translation_ja": "昨夜、経験豊富な建築家と話していました。彼女によると、建築設計図を施工用の図面に落とし込む作業は、以前は1年半かかっていたのが、AIを使うと今では*8分*で終わるそうです。",
+  "added_at": "2026-11-04T00:59:25.436433+00:00"
+ },
+ {
+  "id": "2117708845200060645",
+  "handle": "Yomiuri_Online",
+  "name": "読売新聞オンライン",
+  "avatar": "https://pbs.twimg.com/profile_images/2080136340981829632/-WfkcPCd_400x400.jpg",
+  "theme": "行政DX",
+  "text": "自治体システム移行で高額請求、ＩＴ大手の「手切れ金」との声も…公取委が実態調査へ\nhttps://www.yomiuri.co.jp/economy/20261103-GYT1T00297/\n#経済",
+  "media": [],
+  "created_at": "2026-11-03T20:01:48.000Z",
+  "metrics": {
+   "like": 37,
+   "repost": 40,
+   "bookmark": 14,
+   "view": 16393
+  },
+  "added_at": "2026-11-04T00:59:25.436433+00:00"
+ },
+ {
+  "id": "2117567349687828557",
+  "handle": "kotukotu0519",
+  "name": "コツコツくん| 配当優待積み立て日記",
+  "avatar": "https://pbs.twimg.com/profile_images/2102766172827787266/51CESlNK_400x400.jpg",
+  "theme": "日本株・高配当株",
+  "text": "🔥【明日11/4(水)は注目決算ラッシュ！】\n\n大型株が続々決算発表！\n特に注目したい3銘柄をピックアップ📊\n\n✅ ① IHI（7013）13:00\n・1Q営業利益732億円（前年比約3.5倍）\n・通期純利益予想1,720億円に上方修正済み\n・航空エンジン・防衛事業の成長に期待！\n👉 さらなる上方修正はあるか？\n\n✅ ② 三菱商事（8058）14:00\n・1Q純利益2,985億円（前年比47%増）\n・通期純利益予想1兆1,000億円\n・年間配当125円予想、累進配当方針\n👉 増配や追加自社株買いに期待！\n\n✅ ③ NTT（9432）13:30\n・1Q営業利益4,251億円（前年比200億円増）\n・年間配当5.4円、16期連続増配予定\n・最大2,000億円の自社株買いを決議済み\n👉 ドコモの収益改善と株主還元に注目！\n\n🔥 3社とも場中に決算発表予定！\n\n皆さんはどの銘柄の決算に注目していますか？👀\n\n#日本株 #決算発表 #高配当株 #株式投資",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWMcR8gaYAADm52.jpg"
+   },
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWMcR8raEAEkAnM.jpg"
+   },
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWMcR8saEAAFKQh.jpg"
+   }
+  ],
+  "created_at": "2026-11-03T10:39:33.000Z",
+  "metrics": {
+   "like": 21,
+   "repost": 0,
+   "bookmark": 6,
+   "view": 5716
+  },
+  "added_at": "2026-11-04T00:59:25.436433+00:00"
+ },
+ {
+  "id": "2117431107427938609",
+  "handle": "kibinago7777",
+  "name": "きびなご＠株主優待と高配当株を買い続ける",
+  "avatar": "https://pbs.twimg.com/profile_images/378800000806646013/adcacf8b46097423ff48310bd3fd3ad7_400x400.jpeg",
+  "theme": "日本株・高配当株",
+  "text": "◆野村不動産（3231）\n・分譲マンションと不動産投信が強み\n\n◆2027年3月期２Ｑ決算\n・中間期は減収・減益も・・・\n・通期予想は上方修正で、増収・増益の発表です\n\n◆株主還元\n・配当利回りは約５％です\n・14年連続増配中\n・現在600株保有ですが、追加投資は、下半期の業績を見極めたい気もします",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWKgSMvaAAAq5JH.jpg"
+   }
+  ],
+  "created_at": "2026-11-03T01:38:10.000Z",
+  "metrics": {
+   "like": 24,
+   "repost": 0,
+   "bookmark": 0,
+   "view": 3678
+  },
+  "added_at": "2026-11-04T00:59:25.436433+00:00"
+ },
+ {
   "id": "2117731838760464398",
   "handle": "lennysan",
   "name": "Lenny Rachitsky",

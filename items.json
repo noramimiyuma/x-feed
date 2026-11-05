@@ -1,5 +1,191 @@
 [
  {
+  "id": "2118137916002304401",
+  "handle": "npaka123",
+  "name": "布留川英一 / Hidekazu Furukawa",
+  "avatar": "https://pbs.twimg.com/profile_images/1497823072560492545/PoUh9VNk_400x400.jpg",
+  "theme": "AI",
+  "text": "GPT-Image-2.6の概要 - ChatGPTがアニメーションGIF生成に対応｜npaka @npaka123 https://note.com/npaka/n/n7e86091b23c3?sub_rt=share_pw",
+  "media": [],
+  "created_at": "2026-11-05T00:26:46.000Z",
+  "metrics": {
+   "like": 11,
+   "repost": 6,
+   "bookmark": 1,
+   "view": 1019
+  },
+  "added_at": "2026-11-05T01:02:49.630873+00:00"
+ },
+ {
+  "id": "2118137612577968402",
+  "handle": "_catwu",
+  "name": "cat",
+  "avatar": "https://pbs.twimg.com/profile_images/1645578728532246528/Llilll47_400x400.jpg",
+  "theme": "PdM",
+  "text": "Some news: I’m joining OpenAI to lead product management for Core Products!\n\nI have a lot of respect for OpenAI for showing the world that scaling works, for bringing AI to over a billion people, and for believing great products are core to the mission.\n\nI’m excited to work with @thsottiaux, an incredible PM team, and everyone across OpenAI. Together, we’ll build agents that have your back and your team’s, and keep you in control, so you get more time for the people and work you love.\n\nLots to learn, and lots to build. Please keep your feedback coming!",
+  "media": [],
+  "created_at": "2026-11-05T00:25:34.000Z",
+  "metrics": {
+   "like": 2648,
+   "repost": 130,
+   "bookmark": 227,
+   "view": 189938
+  },
+  "translation_ja": "お知らせです。OpenAI に入社し、Core Products のプロダクトマネジメントを率いることになりました。\n\nスケーリングが機能することを世界に示し、AI を10億人以上に届け、優れたプロダクトこそがミッションの中核だと信じている OpenAI を、私は深く尊敬しています。\n\n@thsottiaux、素晴らしい PM チーム、そして OpenAI 全体の皆さんと働けることにわくわくしています。私たちは、あなたとあなたのチームの味方になり、主導権をあなたの手元に残すエージェントをつくります。大切な人や仕事に使える時間が増えるように。\n\n学ぶことも、つくるものもたくさんあります。これからもフィードバックをお寄せください。",
+  "added_at": "2026-11-05T01:02:49.630873+00:00"
+ },
+ {
+  "id": "2118135175494431004",
+  "handle": "pomemaru5109",
+  "name": "ポメまる@配当投資",
+  "avatar": "https://pbs.twimg.com/profile_images/1918305470395359232/ngB57lqb_400x400.jpg",
+  "theme": "日本株・高配当株",
+  "text": "東京海上、JT、伊藤忠、アステラス製薬など上場来高値更新👏\n\n東京海上は節目の600円を突破。\n\n今日はバリュー株つよつよマンだね😳😳",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWUgt0NakAAPPzv.jpg"
+   }
+  ],
+  "created_at": "2026-11-05T00:15:53.000Z",
+  "metrics": {
+   "like": 154,
+   "repost": 5,
+   "bookmark": 1,
+   "view": 6769
+  },
+  "added_at": "2026-11-05T01:02:49.630873+00:00"
+ },
+ {
+  "id": "2118124944928432327",
+  "handle": "OpenAI",
+  "name": "OpenAI",
+  "avatar": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_400x400.jpg",
+  "theme": "AI",
+  "text": "Images, upgraded—introducing ChatGPT Images 2.6.\n\nNow with GIFs and reference images.\n\nPlus, two new models are coming to the API with 50% faster image generation.",
+  "media": [
+   {
+    "type": "video",
+    "url": "https://pbs.twimg.com/amplify_video_thumb/2118124891572748288/img/ZSIlzNmSPQEK0Sfd.jpg"
+   }
+  ],
+  "created_at": "2026-11-04T23:35:14.000Z",
+  "metrics": {
+   "like": 7136,
+   "repost": 639,
+   "bookmark": 1365,
+   "view": 378036
+  },
+  "translation_ja": "画像生成が進化しました。ChatGPT Images 2.6 を発表します。\n\nGIF と参照画像に対応しました。\n\nさらに、画像生成が50%高速になる新モデル2種を API 向けに近日提供します。",
+  "added_at": "2026-11-05T01:02:49.630873+00:00"
+ },
+ {
+  "id": "2118119451401048497",
+  "handle": "OpenAI",
+  "name": "OpenAI",
+  "avatar": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_400x400.jpg",
+  "theme": "AI",
+  "text": "Our security researchers built an autonomous cyber vulnerability discovery, exploitation, and patching pipeline.\n\nIn a single run with an upcoming cyber model, it validated and generated patches for 948 local privilege escalation vulnerabilities in the Linux kernel at a total API cost of $1.2 million.",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWUQl7QbwAAkznq.png"
+   }
+  ],
+  "created_at": "2026-11-04T23:13:24.000Z",
+  "metrics": {
+   "like": 2990,
+   "repost": 304,
+   "bookmark": 883,
+   "view": 249668
+  },
+  "translation_ja": "当社のセキュリティ研究者が、脆弱性の発見・悪用・修正までを自律的に行うサイバー向けパイプラインを構築しました。\n\n近日公開予定のサイバー特化モデルによる1回の実行で、Linux カーネルのローカル権限昇格の脆弱性948件を検証し、修正パッチを生成しました。API 費用の合計は120万ドルです。",
+  "added_at": "2026-11-05T01:02:49.630873+00:00"
+ },
+ {
+  "id": "2118116453455200527",
+  "handle": "financial1111",
+  "name": "配当太郎",
+  "avatar": "https://pbs.twimg.com/profile_images/1566658926397247488/n8g7rtj7_400x400.jpg",
+  "theme": "日本株・高配当株",
+  "text": "三菱商事の株主還元、自社株買い2年連続の1兆円！！一晩経っても興奮さめやらず。\nそりゃそうでしょう。\nこんな株主還元、惚れてまうやろーー！！",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWUPr77a0AAbVIj.jpg"
+   }
+  ],
+  "created_at": "2026-11-04T23:01:29.000Z",
+  "metrics": {
+   "like": 471,
+   "repost": 10,
+   "bookmark": 8,
+   "view": 19857
+  },
+  "added_at": "2026-11-05T01:02:49.630873+00:00"
+ },
+ {
+  "id": "2117975084640116974",
+  "handle": "NORI_KOBEINV",
+  "name": "NORI@配当コンパウンド戦略",
+  "avatar": "https://pbs.twimg.com/profile_images/2058057842654171136/oj1S6pHP_400x400.jpg",
+  "theme": "日本株・高配当株",
+  "text": "11/2 AREHD(5857) 中間決算 \n増収増益、通期上方修正、増配、自社株買い\n\n125円→155円の増配後も配当性向36.6%と余力がある。EPSは成長、ROEは16.7％へ上昇見込みで稼ぐ力も問題なさそう。中期計画2030年のアップデートに期待。保有株式は恩株化済みのため、あと数年は放置かな😯",
+  "media": [],
+  "created_at": "2026-11-04T13:39:44.000Z",
+  "metrics": {
+   "like": 5,
+   "repost": 0,
+   "bookmark": 0,
+   "view": 74
+  },
+  "added_at": "2026-11-05T01:02:49.630873+00:00"
+ },
+ {
+  "id": "2117939177690116498",
+  "handle": "ninofku",
+  "name": "ほづみゆうき@データ分析に基づき、子どもにも大人にもやさしい中央区を作ります",
+  "avatar": "https://pbs.twimg.com/profile_images/1641214003967041542/Bw7Cqp8j_400x400.jpg",
+  "theme": "行政DX",
+  "text": "電子申請LoGoフォームで障害で利用できない状況です\n\n公式の情報はこちら。ポイントはこの辺りかと\n- 11/3 15時半からサービス停止\n- 不正アクセスやサイバー攻撃ではなく、情報漏洩の可能性もない\n- 明日11/5中には復旧見込み",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWRuEjHacAAvAPq.jpg"
+   }
+  ],
+  "created_at": "2026-11-04T11:17:04.000Z",
+  "metrics": {
+   "like": 6,
+   "repost": 0,
+   "bookmark": 0,
+   "view": 826
+  },
+  "added_at": "2026-11-05T01:02:49.630873+00:00"
+ },
+ {
+  "id": "2117848077428257255",
+  "handle": "kabkab_20",
+  "name": "かぶろぐ@資産１億達成",
+  "avatar": "https://pbs.twimg.com/profile_images/2088042010611691520/bkbnV8UZ_400x400.jpg",
+  "theme": "日本株・高配当株",
+  "text": "📱🔥【9432 NTT、決算発表！も、、、📉】\n\nNTTの2026年度第2四半期決算が発表！\n\n今回の決算は…\n増収・減益、でも通期予想は上方修正！ 👀\n\nさっそくポイントを整理します！📊\n\n✅ 2026年度 中間決算（4〜9月）\n\n📌 営業収益：7兆3,622億円（+8.7％）\n📌 営業利益：8,301億円（▲12.2％）\n📌 当社帰属中間利益：5,002億円（▲16.0％）\n📌 EBITDA：1兆6,557億円（▲4.9％）\n\n営業収益は過去最高を更新！👏\nただし、利益面は前年同期比で減少しています。\n\n🚀 注目！通期業績予想を上方修正！\n\n📈 営業収益：15兆800億円\n📈 営業利益：1兆7,300億円\n📈 当期利益：9,940億円\n\n当初予想から\n✅ 営業収益 +200億円\n✅ 営業利益 +200億円\n✅ 当期利益 +140億円\n\nドコモの好調な業績を反映した上方修正です！✨\n\n💰 株主還元もチェック！\n\n✅ 中間配当：2.7円\n✅ 年間配当予想：5.4円\n✅ 16期連続増配予定！\n✅ 自社株買い：上限2,000億円\n\nさらに10月末時点で、自己株式取得は1,049億円まで進んでいます！🔥\n\n💡 個人的に注目したいポイント\n\n今回の決算は、売上規模が拡大している一方で利益が減少している点が気になります。\n\nただ、ドコモの好調を背景に通期予想は上方修正！\n増配予定に加えて大規模な自社株買いも継続中です。\n\n長期保有目線では株主還元も魅力的ですね😊\n\n皆さんは今回のNTTの決算、どう評価しますか？🤔\n\n① 好決算！\n② まだ物足りない…\n③ 配当目的で長期保有！📱",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWQbmPsbkAEMMzk.jpg"
+   }
+  ],
+  "created_at": "2026-11-04T05:15:04.000Z",
+  "metrics": {
+   "like": 34,
+   "repost": 0,
+   "bookmark": 0,
+   "view": 5077
+  },
+  "added_at": "2026-11-05T01:02:49.630873+00:00"
+ },
+ {
   "id": "2118116079557857708",
   "handle": "wakawaka8084",
   "name": "PdMお坊さん",

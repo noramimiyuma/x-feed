@@ -1,5 +1,126 @@
 [
  {
+  "id": "2118475993820377214",
+  "handle": "toushi_kenshou",
+  "name": "ぽこたん@AI活用×投資家",
+  "avatar": "https://pbs.twimg.com/profile_images/1862614331969437697/hljSfpjB_400x400.jpg",
+  "theme": "日本株・高配当株",
+  "text": "長期業績の良い銘柄が\n安くなったら買いたい。\n10年以上の連続増収・増配銘柄",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWZWrcHagAEeGn4.jpg"
+   }
+  ],
+  "created_at": "2026-11-05T22:50:10.000Z",
+  "metrics": {
+   "like": 31,
+   "repost": 1,
+   "bookmark": 19,
+   "view": 11173
+  },
+  "added_at": "2026-11-06T00:15:28.013343+00:00"
+ },
+ {
+  "id": "2118460886608388391",
+  "handle": "ctgptlb",
+  "name": "AGIラボ",
+  "avatar": "https://pbs.twimg.com/profile_images/1671845985574875137/W689Frac_400x400.jpg",
+  "theme": "AI",
+  "text": "【速報】Google、動画生成モデル「Gemini Omni 1.2 Flash」を公開\n\n・API料金は720pで1秒$0.07（1.1より30%安い）\n・最長15秒（1.1は10秒）\n・作った動画を会話で修正\n・本日からAPIで一般提供。Geminiアプリは全Google AI加入者に順次（15秒はUltraのみ）\n\n料金と1.1からの移行はリプで↓",
+  "media": [
+   {
+    "type": "video",
+    "url": "https://pbs.twimg.com/ext_tw_video_thumb/2118460832875266048/pu/img/bWptRCOQoR3sXg1j.jpg"
+   }
+  ],
+  "created_at": "2026-11-05T21:50:09.000Z",
+  "metrics": {
+   "like": 54,
+   "repost": 8,
+   "bookmark": 20,
+   "view": 8327
+  },
+  "added_at": "2026-11-06T00:15:28.013343+00:00"
+ },
+ {
+  "id": "2118449489371607331",
+  "handle": "TaguchiRenta",
+  "name": "田口れん太　「カブ先生の銘柄選びの法則」",
+  "avatar": "https://pbs.twimg.com/profile_images/1926383769209962497/pbChJ6j4_400x400.jpg",
+  "theme": "日本株・高配当株",
+  "text": "おー。\n株主還元の具体化。\nトヨタ。\nいいね。\n\n今後５年間で株主還元に11兆円－14兆円を配分。\n自社株買いを毎年1兆円って前提を置いて、今後の配当金の推移をチャットGPT君に作ってもらうと添付。\n14兆円シナリオだと1株配当金は31年3月期に204円。\nお～。トヨタいいじゃん。\n\nそしてもっと増配余地。\nこの株主還元方針だとROEはぜんぜん増えない。\nこちらも添付。\n利益一定だとすると（それも考えにくいけど）、5年後のROEは9％。\nROE20％目標に程遠く。\n\n決算説明会や株主総会で5年連続で指摘が入りそうな計画で、上振れ余地のある計画だと考えておこう。\n\nトヨタ、｢稼ぐ仕組み｣の変革課題に－大規模還元表明もROE20%なお遠く https://www.bloomberg.com/jp/news/articles/2026-11-05/TNST0UKK3NY800?utm_source=website&utm_medium=share&utm_campaign=twitter",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWY9BmpbAAACSBG.png"
+   },
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWY-N7bbQAAfHN2.png"
+   }
+  ],
+  "created_at": "2026-11-05T21:04:51.000Z",
+  "metrics": {
+   "like": 46,
+   "repost": 1,
+   "bookmark": 6,
+   "view": 6691
+  },
+  "added_at": "2026-11-06T00:15:28.013343+00:00"
+ },
+ {
+  "id": "2118272833403150366",
+  "handle": "okazakityo",
+  "name": "Okazaki Kota | FAKE",
+  "avatar": "https://pbs.twimg.com/profile_images/1262005286207799300/QNghxf8x_400x400.jpg",
+  "theme": "AI",
+  "text": "PwCコンサルティング、AI駆動開発の実装・定着化実績を基にオファリングを体系化し本格展開\n\nAIガバナンスとAI駆動開発を起点にIT部門変革を推進し、多業種・領域のシステム開発で最大70％の工数削減を実証\n\nhttps://www.pwc.com/jp/ja/press-room/2026/ai-driven-development-transformation.html #FDE",
+  "media": [],
+  "created_at": "2026-11-05T09:22:53.000Z",
+  "metrics": {
+   "like": 92,
+   "repost": 9,
+   "bookmark": 40,
+   "view": 8570
+  },
+  "added_at": "2026-11-06T00:15:28.013343+00:00"
+ },
+ {
+  "id": "2118224602849796317",
+  "handle": "Seria_GovCloud",
+  "name": "ガバクラに強い松屋JK",
+  "avatar": "https://pbs.twimg.com/profile_images/2105149827445321728/l08oC0-n_400x400.jpg",
+  "theme": "行政DX",
+  "text": "うおおおお(´・ω・｀)\n\n浦安市が「さくらのクラウド」採用、ガバメントクラウド移行で自治体初 https://xtech.nikkei.com/atcl/nxt/column/18/00001/12156/?n_cid=nbpnxt_twbn",
+  "media": [],
+  "created_at": "2026-11-05T06:11:14.000Z",
+  "metrics": {
+   "like": 117,
+   "repost": 15,
+   "bookmark": 14,
+   "view": 12225
+  },
+  "added_at": "2026-11-06T00:15:28.013343+00:00"
+ },
+ {
+  "id": "2118157237965434924",
+  "handle": "mshrnakagawa",
+  "name": "中川雅博 / Masahiro Nakagawa @ TBS CROSS DIG",
+  "avatar": "https://pbs.twimg.com/profile_images/1913450018666889217/SGsuv4mU_400x400.jpg",
+  "theme": "PdM",
+  "text": "【AnthropicからOpenAIに電撃移籍】今年6月、元Claude Codeプロダクト責任者のキャット・ウーさん @_catwu に取材しました。インタビューをこの機会にぜひご覧ください！テック業界のスター人材ながら、謙虚で飾らない方でした。「睡眠は大事」と話した最後の雑談もぜひ。\nhttps://youtu.be/t6Zmu-pBZlE",
+  "media": [],
+  "created_at": "2026-11-05T01:43:33.000Z",
+  "metrics": {
+   "like": 264,
+   "repost": 29,
+   "bookmark": 127,
+   "view": 27410
+  },
+  "added_at": "2026-11-06T00:15:28.013343+00:00"
+ },
+ {
   "id": "2118390190246879554",
   "handle": "OpenAI",
   "name": "OpenAI",
@@ -7847,121 +7968,6 @@
    "repost": 28,
    "bookmark": 168,
    "view": 100439
-  }
- },
- {
-  "id": "2116744111759954137",
-  "handle": "kosuke_n24",
-  "name": "Kosuke",
-  "avatar": "https://pbs.twimg.com/profile_images/2110670117029998592/z3Ho8RyJ_400x400.jpg",
-  "theme": "行政DX",
-  "text": "【7点】デジタル庁が国会答弁づくりを手伝うAIアプリの試作版を、政府職員約18万人向けに出すで。資料の検索・整理、答弁案の生成、内容の検証を支援。今の臨時国会で試して、2027年1月の通常国会から本格提供の予定や。最終判断は職員がする前提で、どこまで負担が減るかはこれからやね。\nhttps://k-tai.watch.impress.co.jp/docs/news/2152739.html\n#GrokBotまとめ #生成AI #AIによる仕事の変化 #行政DX",
-  "media": [],
-  "created_at": "2026-11-01T04:08:18.000Z",
-  "metrics": {
-   "like": 0,
-   "repost": 0,
-   "bookmark": 0,
-   "view": 22
-  }
- },
- {
-  "id": "2116731501803192669",
-  "handle": "Heian_Sento",
-  "name": "親魏倭王（元学芸員：考古学）の読書垢",
-  "avatar": "https://pbs.twimg.com/profile_images/2079412798250274816/5iglB0Pu_400x400.jpg",
-  "theme": "行政DX",
-  "text": "デジタル庁が10月30日に公表した政府職員の生成AI利用状況調査で、AIを使える職員に仕事が集中し、かえって負担が増えるとの声が出ているらしい。\n生成AIを週１〜２回以上利用する職員の過半数は、AIを導入した業務で週1時間以上の時間短縮を実感しているようなのだが、自由記述には、「AIを⇨",
-  "media": [],
-  "created_at": "2026-11-01T03:18:11.000Z",
-  "metrics": {
-   "like": 127,
-   "repost": 26,
-   "bookmark": 52,
-   "view": 64987
-  }
- },
- {
-  "id": "2116728185832218788",
-  "handle": "cu30rry_",
-  "name": "kaito",
-  "avatar": "https://pbs.twimg.com/profile_images/2101959420439834625/ucyJOshP_400x400.jpg",
-  "theme": "AI",
-  "text": "本日のGrok Bot 10選\n\n1. Dreamer by @nobsfud\n毎晩、ほかのボットたちの1日の仕事を振り返り、何度も直したことをルールや記憶として残してくれます\n\nボットが日ごとに賢くなっていきます\n\nhttps://x.ai/bot/8mdSbrNacoOI_0NLcM2Z3\n\n2. Nocturno by @mgonto\n毎晩、会議の録音・メール・カレンダー・Slack・WhatsApp・ほかのボットの会話を読んで、取引先や人の情報をまとめた自分用の wiki を更新し続けます\n\n誰と何を話したかを自分で記録しなくてすみます\n\nhttps://x.ai/bot/9KdogY5Io7cygdJOqyohA\n\n3. 旅行ポイント管理 by @0xAbhiP\n16 の航空会社やホテルの会員サイトにログインして、ポイント残高・ランク・失効日を1か所にまとめ、まだ入っていない会員登録もしてくれます\n\nポイントの失効や貯め損ねを防げます\n\nhttps://x.com/0xAbhiP/status/2116584919472435534\n\n4. Tripwire by @DabsMalone\nソフトや拡張機能、プラグインを入れる前に中身を調べて、危険かどうかを判定してくれます\n\n怪しいものをうっかり入れる心配が減ります\n\nhttps://x.ai/bot/iAG7_OVkp4aZ-incb3Pay\n\n5. Data Viz Bot by @ArthurMacwaters\nレポートや表のデータを、スマホでも見やすいグラフ1枚と分かりやすい見出しにしてくれます\n\n数字の多い資料もひと目で伝わります\n\nhttps://x.ai/bot/X1u9J-wW3i4eHLyixnLqM\n\n6. Site Signal by @MichaelGannotti\nWeb サイトを検索やAIでの見つかりやすさと使いやすさの面から調べ、大事な順に直し方を出してくれます\n\n承認すると修正も進めてくれるので、サイト改善が手軽になります\n\nhttps://x.ai/bot/qdDeWpXZufETBVcM06ysH\n\n7. Fine Print by @perpycode\n契約書や賃貸契約、請求書、利用規約を送ると、本当は何が書いてあるかと隠れた手数料や落とし穴を教えてくれます\n\nおかしな点があれば、抗議の手紙の下書きまで作ってくれます\n\nhttps://x.ai/bot/Yetb1ei_7VvPfWlYqYwAM\n\n8. WhatsApper by @mgonto\nWhatsApp のチャットやグループを読んで、あなたの口調で返事の下書きを作ってくれます\n\n送る前に文面を確認できるので、返事に追われる時間がぐっと減ります\n\nhttps://x.ai/bot/Lr1qQk4Csgtz127NJPpQ2\n\n9. Ballot-Peek by @harris_p10\nいくつか質問に答えると、投票所と開いている時間、期日前投票の場所、自分の投票用紙に載るすべての選挙と候補者の写真・主な政策（本人の言葉）を見せてくれます\n\n誰に投票すべきかは決して言わないので、自分で調べて選べます\n\nhttps://x.ai/bot/gC_aPgRPFB02hSSiwGcXC\n\n10. Quoted by @nick_tiedemann\n頼みたい作業を伝えると近くの業者を探し、見積もりの依頼文を作って、返事が来たら値段を比べてくれます\n\n何社にも電話する手間が省けます\n\nhttps://x.ai/bot/-CNClgV6z2LrwKCHFiNBe",
-  "media": [],
-  "created_at": "2026-11-01T03:05:01.000Z",
-  "metrics": {
-   "like": 142,
-   "repost": 9,
-   "bookmark": 329,
-   "view": 16495
-  }
- },
- {
-  "id": "2116726194880287075",
-  "handle": "masahirochaen",
-  "name": "チャエン | デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》",
-  "avatar": "https://pbs.twimg.com/profile_images/1689665533929725953/fClFlzLd_400x400.jpg",
-  "theme": "AI",
-  "text": "【新機能】Gemini Notebook（旧NotebookLM）で、数百冊の教科書を無料でソースに追加できるように。\n\n教科書を探してPDFを集める手間がなくなるので、資格試験や大学の勉強にかなり使えそう。\n\n・追加方法に「Textbooks」が新登場\n・S Chand、OpenStax、Open Textbook Libraryの3社分\n・分野／レベル／出版国で絞り込み\n・追加後はその教科書をもとに要約や質問ができる",
-  "media": [
-   {
-    "type": "video",
-    "url": "https://pbs.twimg.com/amplify_video_thumb/2116726171031494656/img/7VdJUU8VBOUmaWri.jpg"
-   }
-  ],
-  "created_at": "2026-11-01T02:57:06.000Z",
-  "metrics": {
-   "like": 300,
-   "repost": 33,
-   "bookmark": 231,
-   "view": 31542
-  }
- },
- {
-  "id": "2116726022393799096",
-  "handle": "seiichiro_matsu",
-  "name": "松本清一郎（日経CNBC）",
-  "avatar": "https://pbs.twimg.com/profile_images/1982700418846085120/FGYj17q7_400x400.jpg",
-  "theme": "日本株・高配当株",
-  "text": "キオクシアは「余剰キャッシュの100％を株主還元に充当」を今回、新たに発表した方針として決算説明資料で強調している\n\nだが、6月のインベスターデイ（投資家向け説明会）ですでに「例えば（キャッシュの）50％が成長投資に回った場合には50％を株主還元するということになります」と類似の説明をしている。今回の説明は新味がない\n\n480億円という配当も、分配可能額の制約があったのかもしれないが、予想以上に規模が小さくて逆に失望を招いてしまった\n\n株式分割前で90円だから、現在の株価では30円。配当利回りは0.2％だ。株価のボラティリティーを考えたら、ないも同然の配当だろう\n\n「余剰キャッシュ100％還元」の方針に基づいた追加の自社株買い＆配当の発表はいつか？\n\n普通に考えれば今期決算が確定する来年4～5月の本決算発表時になるのではないか。であれば、当面は株主還元に関する具体的なニュースは出てきそうにない\n\nそれまでは会社が決算説明会の質疑応答で示したように、Q4（1~3月期）のGB（ギガバイト）ベースの販売数量の大幅な伸びを期待するしかないようだ\n\nQ4のGB物量は伸びたが、ASP（平均販売価格）は下がったなんてことにならなければいいが･･･",
-  "media": [
-   {
-    "type": "photo",
-    "url": "https://pbs.twimg.com/media/HWAZWkfaIAAeWic.jpg"
-   }
-  ],
-  "created_at": "2026-11-01T02:56:25.000Z",
-  "metrics": {
-   "like": 120,
-   "repost": 7,
-   "bookmark": 21,
-   "view": 28978
-  }
- },
- {
-  "id": "2116714230028321034",
-  "handle": "shingo2000",
-  "name": "鈴木慎吾 / TSUMIKI INC.",
-  "avatar": "https://pbs.twimg.com/profile_images/1169768746254159872/pvvZ68Vd_400x400.jpg",
-  "theme": "AI",
-  "text": "Figmaエージェント + Figma Motionと、Figma Makeからモーション追加の比較。\nイラストなどビジュアル要素に動きを加える場合はエージェント＋Motionが良い。動画やアニメーションSVGで書き出せるので取り回しがしやすく、タイムラインから再編集できる。\n\nFigma Makeからモーション追加した場合は、<span>や<img>などのDOM要素にJS・CSSで動きが加わる。ボタンやグラフ、画面遷移などの演出に向いている。\n\n左：Figma Motion、右：Figma Make",
-  "media": [
-   {
-    "type": "video",
-    "url": "https://pbs.twimg.com/amplify_video_thumb/2116714166388137984/img/UNVw7uND5KBeWqsh.jpg"
-   },
-   {
-    "type": "video",
-    "url": "https://pbs.twimg.com/amplify_video_thumb/2116714182313959424/img/Sf3UE92bQwxig-49.jpg"
-   }
-  ],
-  "created_at": "2026-11-01T02:09:33.000Z",
-  "metrics": {
-   "like": 29,
-   "repost": 0,
-   "bookmark": 21,
-   "view": 1947
   }
  }
 ]

@@ -6,7 +6,170 @@
 <atom:link href="https://noramimiyuma.github.io/x-feed/feed.xml" rel="self" type="application/rss+xml"/>
 <description>行政DX・PdM・AI・日本株/高配当株の注目X投稿（X偵察が更新）</description>
 <language>ja</language>
-<lastBuildDate>Sat, 07 Nov 2026 00:23:15 +0900</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 06:17:16 +0900</lastBuildDate>
+<item>
+<title>ClaudeDevs (@ClaudeDevs)</title>
+<link>https://x.com/ClaudeDevs/status/2118795192090386454</link>
+<guid isPermaLink="true">https://x.com/ClaudeDevs/status/2118795192090386454</guid>
+<category>AI</category>
+<dc:creator>ClaudeDevs</dc:creator>
+<pubDate>Fri, 06 Nov 2026 21:17:12 +0000</pubDate>
+<xf:postedAt>2026-11-07T04:58:33+09:00</xf:postedAt>
+<xf:addedAt>2026-11-07T06:17:12.244926+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/2044472418815893504/xf14RxM8_400x400.png" width="48" height="48" alt="ClaudeDevs"/> <b>ClaudeDevs</b> @ClaudeDevs</p><p>We've made it easier to get your repo running in Claude Code cloud sessions on Pro, Max, and Ultra.<br/><br/>Claude figures out what dependencies, network access, and API keys it needs, then saves the environment for next time. API keys are saved securely, so Claude never sees them.</p><hr/><p><b>日本語訳</b></p><p>Pro・Max・Ultra の Claude Code クラウドセッションで、リポジトリを動かしやすくしました。<br/><br/>Claude が必要な依存関係・ネットワークアクセス・APIキーを把握し、次回のために環境を保存します。APIキーは安全に保存されるため、Claude がキーを見ることはありません。 <a href="https://t.co/C3anyUAidY">https://t.co/C3anyUAidY</a></p><hr/><p><a href="https://x.com/ClaudeDevs/status/2118795192090386454"><img src="https://pbs.twimg.com/amplify_video_thumb/2118794810983329792/img/dw_n0u2DijbOZmpL.jpg" alt="動画"/></a><br/>（動画はXで再生）</p><p>いいね 2,658・リポスト 92・ブックマーク 664・表示 115,691</p><p>投稿 2026-11-07 04:58（日本時間）・<a href="https://x.com/ClaudeDevs/status/2118795192090386454">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[We've made it easier to get your repo running in Claude Code cloud sessions on Pro, Max, and Ultra.
+
+Claude figures out what dependencies, network access, and API keys it needs, then saves the environment for next time. API keys are saved securely, so Claude never sees them.]]></xf:original>
+<xf:translation xml:lang="ja"><![CDATA[Pro・Max・Ultra の Claude Code クラウドセッションで、リポジトリを動かしやすくしました。
+
+Claude が必要な依存関係・ネットワークアクセス・APIキーを把握し、次回のために環境を保存します。APIキーは安全に保存されるため、Claude がキーを見ることはありません。 https://t.co/C3anyUAidY]]></xf:translation>
+</item>
+<item>
+<title>OpenAI (@OpenAI)</title>
+<link>https://x.com/OpenAI/status/2118782708767965238</link>
+<guid isPermaLink="true">https://x.com/OpenAI/status/2118782708767965238</guid>
+<category>AI</category>
+<dc:creator>OpenAI</dc:creator>
+<pubDate>Fri, 06 Nov 2026 21:17:12 +0000</pubDate>
+<xf:postedAt>2026-11-07T04:08:57+09:00</xf:postedAt>
+<xf:addedAt>2026-11-07T06:17:12.244926+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_400x400.jpg" width="48" height="48" alt="OpenAI"/> <b>OpenAI</b> @OpenAI</p><p>A new way to measure how AI agents handle the routine analyses of wet-lab science—BioBasicsBench.<br/><br/>Developed with Ligo, a biotech company focused on enzyme design, the benchmark draws on 100 tasks from real experiments to test whether agents can interpret raw lab data, identify errors, and recognize when the evidence doesn’t support a conclusion.<br/><br/>Accelerating biological research starts with getting the everyday work right. BioBasicsBench shows where models need to improve, and helps us track what those gains mean for scientific progress, biosafety, and biosecurity.<br/><br/><a href="https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/">https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/</a></p><hr/><p><b>日本語訳</b></p><p>ウェットラボ科学の日常的な分析を AI エージェントがどう扱うかを測る新しい方法——BioBasicsBench。<br/><br/>酵素設計に注力するバイオテック企業 Ligo と共同で開発したこのベンチマークは、実際の実験から得た 100 のタスクにもとづき、エージェントが生の実験データを解釈し、誤りを特定し、証拠が結論を支えない場合にそれを認識できるかを検証します。<br/><br/>生物学研究の加速は、日常業務を正しくこなすことから始まります。BioBasicsBench はモデルが改善すべき箇所を示し、その向上が科学の進展・バイオセーフティ・バイオセキュリティにとって何を意味するかを追跡するのに役立ちます。<br/><br/><a href="https://t.co/wN2xLk0YeW">https://t.co/wN2xLk0YeW</a></p><hr/><p><img src="https://pbs.twimg.com/media/HWdtpRua4AAuNL-.jpg" alt="画像"/></p><p>いいね 1,878・リポスト 120・ブックマーク 265・表示 252,504</p><p>投稿 2026-11-07 04:08（日本時間）・<a href="https://x.com/OpenAI/status/2118782708767965238">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[A new way to measure how AI agents handle the routine analyses of wet-lab science—BioBasicsBench.
+
+Developed with Ligo, a biotech company focused on enzyme design, the benchmark draws on 100 tasks from real experiments to test whether agents can interpret raw lab data, identify errors, and recognize when the evidence doesn’t support a conclusion.
+
+Accelerating biological research starts with getting the everyday work right. BioBasicsBench shows where models need to improve, and helps us track what those gains mean for scientific progress, biosafety, and biosecurity.
+
+https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/]]></xf:original>
+<xf:translation xml:lang="ja"><![CDATA[ウェットラボ科学の日常的な分析を AI エージェントがどう扱うかを測る新しい方法——BioBasicsBench。
+
+酵素設計に注力するバイオテック企業 Ligo と共同で開発したこのベンチマークは、実際の実験から得た 100 のタスクにもとづき、エージェントが生の実験データを解釈し、誤りを特定し、証拠が結論を支えない場合にそれを認識できるかを検証します。
+
+生物学研究の加速は、日常業務を正しくこなすことから始まります。BioBasicsBench はモデルが改善すべき箇所を示し、その向上が科学の進展・バイオセーフティ・バイオセキュリティにとって何を意味するかを追跡するのに役立ちます。
+
+https://t.co/wN2xLk0YeW]]></xf:translation>
+</item>
+<item>
+<title>二本松哲也 / Tetsuya Nihonmatsu (@t_nihonmatsu)</title>
+<link>https://x.com/t_nihonmatsu/status/2118728758387773483</link>
+<guid isPermaLink="true">https://x.com/t_nihonmatsu/status/2118728758387773483</guid>
+<category>行政DX</category>
+<dc:creator>二本松哲也 / Tetsuya Nihonmatsu</dc:creator>
+<pubDate>Fri, 06 Nov 2026 21:17:12 +0000</pubDate>
+<xf:postedAt>2026-11-07T00:34:34+09:00</xf:postedAt>
+<xf:addedAt>2026-11-07T06:17:12.244926+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1437738711756595200/xY4ZPYD6_400x400.jpg" width="48" height="48" alt="二本松哲也 / Tetsuya Nihonmatsu"/> <b>二本松哲也 / Tetsuya Nihonmatsu</b> @t_nihonmatsu</p><p>政府は11月6日、サイバー攻撃への対応を強化する緊急対策パッケージを発表しました。<br/>既存の体制と新たな体制を連携させ、予防・検知・対応・復旧・改善を一体的に機能<br/>被害企業を孤立させず、得られた教訓を社会全体の防御能力へ還元する仕組みを目指しています。<br/><br/>対策は次の4つの柱で構成されています。<br/>① AIも活用した基本的な対策の徹底<br/>② 情報収集・集約、捜査・分析体制の強化<br/>③ サイバー攻撃への対処の戦略的な実施<br/>④ 被害者支援・被害拡大防止策の強化<br/><br/>さらに、攻撃の状況や深刻度に応じた新たな対応体制も示されました。<br/><br/>アウトリーチ・チーム<br/>潜在的な被害のおそれがある組織への能動的な働きかけ。<br/><br/>官民サイバー救援隊<br/>特に支援が必要な被害組織へ官民の専門人材を派遣し、初動対応を支援。<br/><br/>ジョイント・レスポンス・チーム<br/>安全保障や社会経済に重大な影響を及ぼす事案に、関係省庁・警察・自衛隊等が連携して対応。<br/><br/>ファスト・フォレンジック・フォース<br/>警察によるログの保全や早期の原因究明など、捜査上の初動対応を強化。<br/><br/>サイバーセキュリティお助け隊サービス<br/>中小企業向けの支援を拡充し、初動対応から復旧・バックアップまでを支援。<br/><br/>今回の政策は、継続的に進化するサイバーレジリエンスの構築に向けた重要な一歩だと考えています。</p><p><img src="https://pbs.twimg.com/media/HWc7ipAbYAEIDfa.jpg" alt="画像"/></p><p>いいね 30・リポスト 10・ブックマーク 6・表示 1,230</p><p>投稿 2026-11-07 00:34（日本時間）・<a href="https://x.com/t_nihonmatsu/status/2118728758387773483">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[政府は11月6日、サイバー攻撃への対応を強化する緊急対策パッケージを発表しました。
+既存の体制と新たな体制を連携させ、予防・検知・対応・復旧・改善を一体的に機能
+被害企業を孤立させず、得られた教訓を社会全体の防御能力へ還元する仕組みを目指しています。
+
+対策は次の4つの柱で構成されています。
+① AIも活用した基本的な対策の徹底
+② 情報収集・集約、捜査・分析体制の強化
+③ サイバー攻撃への対処の戦略的な実施
+④ 被害者支援・被害拡大防止策の強化
+
+さらに、攻撃の状況や深刻度に応じた新たな対応体制も示されました。
+
+アウトリーチ・チーム
+潜在的な被害のおそれがある組織への能動的な働きかけ。
+
+官民サイバー救援隊
+特に支援が必要な被害組織へ官民の専門人材を派遣し、初動対応を支援。
+
+ジョイント・レスポンス・チーム
+安全保障や社会経済に重大な影響を及ぼす事案に、関係省庁・警察・自衛隊等が連携して対応。
+
+ファスト・フォレンジック・フォース
+警察によるログの保全や早期の原因究明など、捜査上の初動対応を強化。
+
+サイバーセキュリティお助け隊サービス
+中小企業向けの支援を拡充し、初動対応から復旧・バックアップまでを支援。
+
+今回の政策は、継続的に進化するサイバーレジリエンスの構築に向けた重要な一歩だと考えています。]]></xf:original>
+</item>
+<item>
+<title>松濤Vimmer (@shotovim)</title>
+<link>https://x.com/shotovim/status/2118629467015070076</link>
+<guid isPermaLink="true">https://x.com/shotovim/status/2118629467015070076</guid>
+<category>AI</category>
+<dc:creator>松濤Vimmer</dc:creator>
+<pubDate>Fri, 06 Nov 2026 21:17:12 +0000</pubDate>
+<xf:postedAt>2026-11-06T18:00:01+09:00</xf:postedAt>
+<xf:addedAt>2026-11-07T06:17:12.244926+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1846880148551045120/IkLrswuq_400x400.jpg" width="48" height="48" alt="松濤Vimmer"/> <b>松濤Vimmer</b> @shotovim</p><p>これめちゃくちゃ逆で、そんな消す作業とかしていても無駄なのでどんどん個人情報投入した方がいい。</p><p><img src="https://pbs.twimg.com/media/HWa1qyzbsAADTfh.jpg" alt="画像"/></p><p>いいね 88・リポスト 7・ブックマーク 32・表示 22,531</p><p>投稿 2026-11-06 18:00（日本時間）・<a href="https://x.com/shotovim/status/2118629467015070076">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[これめちゃくちゃ逆で、そんな消す作業とかしていても無駄なのでどんどん個人情報投入した方がいい。]]></xf:original>
+</item>
+<item>
+<title>ちゃわんご (@chawan_wabita)</title>
+<link>https://x.com/chawan_wabita/status/2118566361958175010</link>
+<guid isPermaLink="true">https://x.com/chawan_wabita/status/2118566361958175010</guid>
+<category>日本株・高配当株</category>
+<dc:creator>ちゃわんご</dc:creator>
+<pubDate>Fri, 06 Nov 2026 21:17:12 +0000</pubDate>
+<xf:postedAt>2026-11-06T13:49:16+09:00</xf:postedAt>
+<xf:addedAt>2026-11-07T06:17:12.244926+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1674738676247691265/0GoAaOdL_400x400.jpg" width="48" height="48" alt="ちゃわんご"/> <b>ちゃわんご</b> @chawan_wabita</p><p>三菱重工さん、自社株買いと上方修正するもタイミングが悪すぎてしまう<br/><br/>上方修正<br/>事業利益　+11.1%<br/>純利益　+15.8%<br/>自社株買い3.6%</p><p><img src="https://pbs.twimg.com/media/HWao378aUAAOlFN.jpg" alt="画像"/></p><p><img src="https://pbs.twimg.com/media/HWao38HbcAASNu0.jpg" alt="画像"/></p><p><img src="https://pbs.twimg.com/media/HWao377bEAAs6Za.jpg" alt="画像"/></p><p><img src="https://pbs.twimg.com/media/HWao37-bEAELtyA.jpg" alt="画像"/></p><p>いいね 762・リポスト 46・ブックマーク 41・表示 55,564</p><p>投稿 2026-11-06 13:49（日本時間）・<a href="https://x.com/chawan_wabita/status/2118566361958175010">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[三菱重工さん、自社株買いと上方修正するもタイミングが悪すぎてしまう
+
+上方修正
+事業利益　+11.1%
+純利益　+15.8%
+自社株買い3.6%]]></xf:original>
+</item>
+<item>
+<title>かずなり | 生成AI活用術 (@MacopeninSUTABA)</title>
+<link>https://x.com/MacopeninSUTABA/status/2118539618870345843</link>
+<guid isPermaLink="true">https://x.com/MacopeninSUTABA/status/2118539618870345843</guid>
+<category>PdM</category>
+<dc:creator>かずなり | 生成AI活用術</dc:creator>
+<pubDate>Fri, 06 Nov 2026 21:17:12 +0000</pubDate>
+<xf:postedAt>2026-11-06T12:03:00+09:00</xf:postedAt>
+<xf:addedAt>2026-11-07T06:17:12.244926+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1871687946988060673/xDsh_ngS_400x400.jpg" width="48" height="48" alt="かずなり | 生成AI活用術"/> <b>かずなり | 生成AI活用術</b> @MacopeninSUTABA</p><p>「3回つくってわかった、定期実行ジョブ基盤の本質」が有益。<br/><br/>定期実行ジョブ基盤を3回構築して見えてきた「本質」から、実際の設計における試行錯誤のプロセスを解説。現場でそのまま参考にできるシステム設計の知見が学べる。<br/><br/>こちら👉 <br/><a href="https://speakerdeck.com/takai/i-built-a-scheduled-job-platform-three-times-and-now-i-know-the-essential-truths">https://speakerdeck.com/takai/i-built-a-scheduled-job-platform-three-times-and-now-i-know-the-essential-truths</a></p><p><img src="https://pbs.twimg.com/media/HWANwCfaIAA65-u.jpg" alt="画像"/></p><p>いいね 41・リポスト 6・ブックマーク 13・表示 3,256</p><p>投稿 2026-11-06 12:03（日本時間）・<a href="https://x.com/MacopeninSUTABA/status/2118539618870345843">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[「3回つくってわかった、定期実行ジョブ基盤の本質」が有益。
+
+定期実行ジョブ基盤を3回構築して見えてきた「本質」から、実際の設計における試行錯誤のプロセスを解説。現場でそのまま参考にできるシステム設計の知見が学べる。
+
+こちら👉 
+https://speakerdeck.com/takai/i-built-a-scheduled-job-platform-three-times-and-now-i-know-the-essential-truths]]></xf:original>
+</item>
+<item>
+<title>配当金魚 ＠ DOE＆累進配当投資 (@may510654)</title>
+<link>https://x.com/may510654/status/2118535202192625749</link>
+<guid isPermaLink="true">https://x.com/may510654/status/2118535202192625749</guid>
+<category>日本株・高配当株</category>
+<dc:creator>配当金魚 ＠ DOE＆累進配当投資</dc:creator>
+<pubDate>Fri, 06 Nov 2026 21:17:12 +0000</pubDate>
+<xf:postedAt>2026-11-06T11:45:27+09:00</xf:postedAt>
+<xf:addedAt>2026-11-07T06:17:12.244926+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/2074404827715756032/bNxZmZ6k_400x400.jpg" width="48" height="48" alt="配当金魚 ＠ DOE＆累進配当投資"/> <b>配当金魚 ＠ DOE＆累進配当投資</b> @may510654</p><p>半導体関連はさすがに安く見えて購入。<br/>累進配当やDOE銘柄も中長期で仕込むチャンスだと思います。<br/><br/>最新版ではありませんが、参考までに。<br/><br/>■DOE採用銘柄リスト（2026/10/23）｜配当金魚 <a href="https://note.com/may510654/n/n6c97bcb360bc">https://note.com/may510654/n/n6c97bcb360bc</a><br/><br/>■累進配当銘柄リスト（2026/10/30）｜配当金魚 <a href="https://note.com/may510654/n/n1417768883dd">https://note.com/may510654/n/n1417768883dd</a></p><p>いいね 156・リポスト 6・ブックマーク 56・表示 13,415</p><p>投稿 2026-11-06 11:45（日本時間）・<a href="https://x.com/may510654/status/2118535202192625749">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[半導体関連はさすがに安く見えて購入。
+累進配当やDOE銘柄も中長期で仕込むチャンスだと思います。
+
+最新版ではありませんが、参考までに。
+
+■DOE採用銘柄リスト（2026/10/23）｜配当金魚 https://note.com/may510654/n/n6c97bcb360bc
+
+■累進配当銘柄リスト（2026/10/30）｜配当金魚 https://note.com/may510654/n/n1417768883dd]]></xf:original>
+</item>
+<item>
+<title>こぎそ (@kgsi)</title>
+<link>https://x.com/kgsi/status/2118494555746246691</link>
+<guid isPermaLink="true">https://x.com/kgsi/status/2118494555746246691</guid>
+<category>PdM</category>
+<dc:creator>こぎそ</dc:creator>
+<pubDate>Fri, 06 Nov 2026 21:17:12 +0000</pubDate>
+<xf:postedAt>2026-11-06T09:03:56+09:00</xf:postedAt>
+<xf:addedAt>2026-11-07T06:17:12.244926+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/2106765574747623424/YKS7OaPc_400x400.jpg" width="48" height="48" alt="こぎそ"/> <b>こぎそ</b> @kgsi</p><p>AIと社内システムのデザインガイドラインを作る、GENDAの実践記事👀<br/><br/>ガイドラインをつくる上で、根拠や客観に基づいたエビデンスを残すのは重要、AIで作るなら特に。<br/><br/>社内システムのデザインガイドラインを、根拠つきで AI と作る｜ytakagi（GENDA）<br/><a href="https://zenn.dev/genda_jp/articles/43f2c7a4088b2f">https://zenn.dev/genda_jp/articles/43f2c7a4088b2f</a></p><p>いいね 64・リポスト 4・ブックマーク 78・表示 3,065</p><p>投稿 2026-11-06 09:03（日本時間）・<a href="https://x.com/kgsi/status/2118494555746246691">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[AIと社内システムのデザインガイドラインを作る、GENDAの実践記事👀
+
+ガイドラインをつくる上で、根拠や客観に基づいたエビデンスを残すのは重要、AIで作るなら特に。
+
+社内システムのデザインガイドラインを、根拠つきで AI と作る｜ytakagi（GENDA）
+https://zenn.dev/genda_jp/articles/43f2c7a4088b2f]]></xf:original>
+</item>
 <item>
 <title>そらぶ🐶💓高配当株好き (@sorave55)</title>
 <link>https://x.com/sorave55/status/2118693633352237340</link>
@@ -10168,164 +10331,6 @@ Claude Code、Codex、Cursorなどとの連携が可能で、MCPにも対応。
 
 💬 株価動向
 私には好決算に見えますし、増配発表ですが、株価は2,840円（前日比 -26円 / -0.9%）と若干の下落で推移しています😭]]></xf:original>
-</item>
-<item>
-<title>Map (@_map_universe_)</title>
-<link>https://x.com/_map_universe_/status/2117063326228480403</link>
-<guid isPermaLink="true">https://x.com/_map_universe_/status/2117063326228480403</guid>
-<category>日本株・高配当株</category>
-<dc:creator>Map</dc:creator>
-<pubDate>Mon, 02 Nov 2026 01:16:44 +0000</pubDate>
-<xf:postedAt>2026-11-02T10:16:44+09:00</xf:postedAt>
-<xf:addedAt>2026-11-02T10:16:44+09:00</xf:addedAt>
-<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/2076110644471099392/pevRMoHH_400x400.jpg" width="48" height="48" alt="Map"/> <b>Map</b> @_map_universe_</p><p>今朝の株クラ話題銘柄<br/><br/>【日本株】<br/>・285A キオクシア — 金曜引け後の決算でPTS-12%前後、寄り前気配も-14%台で投げ売り報告が相次ぐ<br/>・6920 レーザーテック — 7-9月売上25%減で利益半減、PTSでもう一段安<br/>・8035 東京エレクトロン — 今期最高益見通しと1500億円の自社株買い、PTSで買い損ねた声も<br/>・6752 パナソニックHD — 今期最終を20%上方修正し最高益上乗せ、配当も増額<br/>・9984 ソフトバンクG — OpenAIの資金調達目標引き下げ報道で大幅続落<br/>・5334 日本特殊陶業 — 通期上方修正とDOE6%程度への還元方針変更で急騰<br/>・6196 ストライクG — 2期連続最高益と増配・自社株買いでストップ高<br/><br/>【米株】<br/>・$AMZN Amazon — 決算未達とAI投資によるフリーCF流出で時間外に一時急落、本日は-1.75%で引け<br/>・$GOOGL Alphabet — 決算未達で過去最大の下落、時価総額約5000億ドルが吹き飛ぶ<br/>・$INTC Intel — 決算後に約-29%の暴落、半導体全面安（SOX-7.2%）の震源に<br/>・$NVDA Nvidia — 半導体売りで-4%、「Nvidiaが決算を外せば世界が終わる」投稿が拡散<br/>・$AAPL / $PLTR — どちらも今週決算、Appleは時価総額首位奪還が目前と話題<br/>・$MRVL / $LITE — MarvellがLumentum買収へ最終調整と報道、LITE+12%・MRVL-10%</p><p>いいね 7・リポスト 0・ブックマーク 0・表示 1,876</p><p>投稿 2026-11-02 10:16（日本時間）・<a href="https://x.com/_map_universe_/status/2117063326228480403">Xで開く</a></p>]]></description>
-<xf:original><![CDATA[今朝の株クラ話題銘柄
-
-【日本株】
-・285A キオクシア — 金曜引け後の決算でPTS-12%前後、寄り前気配も-14%台で投げ売り報告が相次ぐ
-・6920 レーザーテック — 7-9月売上25%減で利益半減、PTSでもう一段安
-・8035 東京エレクトロン — 今期最高益見通しと1500億円の自社株買い、PTSで買い損ねた声も
-・6752 パナソニックHD — 今期最終を20%上方修正し最高益上乗せ、配当も増額
-・9984 ソフトバンクG — OpenAIの資金調達目標引き下げ報道で大幅続落
-・5334 日本特殊陶業 — 通期上方修正とDOE6%程度への還元方針変更で急騰
-・6196 ストライクG — 2期連続最高益と増配・自社株買いでストップ高
-
-【米株】
-・$AMZN Amazon — 決算未達とAI投資によるフリーCF流出で時間外に一時急落、本日は-1.75%で引け
-・$GOOGL Alphabet — 決算未達で過去最大の下落、時価総額約5000億ドルが吹き飛ぶ
-・$INTC Intel — 決算後に約-29%の暴落、半導体全面安（SOX-7.2%）の震源に
-・$NVDA Nvidia — 半導体売りで-4%、「Nvidiaが決算を外せば世界が終わる」投稿が拡散
-・$AAPL / $PLTR — どちらも今週決算、Appleは時価総額首位奪還が目前と話題
-・$MRVL / $LITE — MarvellがLumentum買収へ最終調整と報道、LITE+12%・MRVL-10%]]></xf:original>
-</item>
-<item>
-<title>横山信弘｜組織で「絶対達成」する (@nyattx)</title>
-<link>https://x.com/nyattx/status/2117060075865219219</link>
-<guid isPermaLink="true">https://x.com/nyattx/status/2117060075865219219</guid>
-<category>PdM</category>
-<dc:creator>横山信弘｜組織で「絶対達成」する</dc:creator>
-<pubDate>Mon, 02 Nov 2026 01:03:49 +0000</pubDate>
-<xf:postedAt>2026-11-02T10:03:49+09:00</xf:postedAt>
-<xf:addedAt>2026-11-02T10:03:49+09:00</xf:addedAt>
-<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1187708714184130560/J9f3NUuT_400x400.jpg" width="48" height="48" alt="横山信弘｜組織で「絶対達成」する"/> <b>横山信弘｜組織で「絶対達成」する</b> @nyattx</p><p>仮説検証サイクルを回すには、頭の中にフローチャートがあるといい（⤵） <a href="https://twitter.com/nyattx/status/2116455141746385014">https://twitter.com/nyattx/status/2116455141746385014</a></p><p>いいね 6・リポスト 2・ブックマーク 3・表示 438</p><p>投稿 2026-11-02 10:03（日本時間）・<a href="https://x.com/nyattx/status/2117060075865219219">Xで開く</a></p>]]></description>
-<xf:original><![CDATA[仮説検証サイクルを回すには、頭の中にフローチャートがあるといい（⤵） https://twitter.com/nyattx/status/2116455141746385014]]></xf:original>
-</item>
-<item>
-<title>岡　佳伸 (@okayokay0214)</title>
-<link>https://x.com/okayokay0214/status/2117048220484571627</link>
-<guid isPermaLink="true">https://x.com/okayokay0214/status/2117048220484571627</guid>
-<category>行政DX</category>
-<dc:creator>岡　佳伸</dc:creator>
-<pubDate>Mon, 02 Nov 2026 00:16:43 +0000</pubDate>
-<xf:postedAt>2026-11-02T09:16:43+09:00</xf:postedAt>
-<xf:addedAt>2026-11-02T09:16:43+09:00</xf:addedAt>
-<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1349590569706639360/IepgiWPD_400x400.jpg" width="48" height="48" alt="岡　佳伸"/> <b>岡　佳伸</b> @okayokay0214</p><p>電子申請時に私は社労夢からe-govにＧビズID経由で申請していたのですが、先週末からエラー＆返戻が多発していたんですよね(2026年10月28日現在）<br/>（自動的にエラー又は返戻になる、返戻時は返戻表の添付が無い）<br/>訳も分からず再認証繰返していたのですが、その対応で正しいとのことです<br/>#電子申請</p><p><img src="https://pbs.twimg.com/media/HWFClNGacAAeCsH.jpg" alt="画像"/></p><p>いいね 9・リポスト 0・ブックマーク 0・表示 882</p><p>投稿 2026-11-02 09:16（日本時間）・<a href="https://x.com/okayokay0214/status/2117048220484571627">Xで開く</a></p>]]></description>
-<xf:original><![CDATA[電子申請時に私は社労夢からe-govにＧビズID経由で申請していたのですが、先週末からエラー＆返戻が多発していたんですよね(2026年10月28日現在）
-（自動的にエラー又は返戻になる、返戻時は返戻表の添付が無い）
-訳も分からず再認証繰返していたのですが、その対応で正しいとのことです
-#電子申請]]></xf:original>
-</item>
-<item>
-<title>こばかな (@kobaka7)</title>
-<link>https://x.com/kobaka7/status/2117045493134213588</link>
-<guid isPermaLink="true">https://x.com/kobaka7/status/2117045493134213588</guid>
-<category>PdM</category>
-<dc:creator>こばかな</dc:creator>
-<pubDate>Mon, 02 Nov 2026 00:05:53 +0000</pubDate>
-<xf:postedAt>2026-11-02T09:05:53+09:00</xf:postedAt>
-<xf:addedAt>2026-11-02T09:05:53+09:00</xf:addedAt>
-<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/956867108020744193/wbXnVRKn_400x400.jpg" width="48" height="48" alt="こばかな"/> <b>こばかな</b> @kobaka7</p><p>良記事すぎた。素直にUIありきのツールを作っていたら使いこなすのむずい問題が発生したので、MCPの開発することで突破したFDE事例。<br/><br/>NOT A HOTEL ARCHITECTS で目指す AI ネイティブなプロジェクト管理の実現｜uji @uji_rb <a href="https://note.com/ujiii/n/n1fb584ebd0f5?sub_rt=share_pw">https://note.com/ujiii/n/n1fb584ebd0f5?sub_rt=share_pw</a></p><p>いいね 1・リポスト 0・ブックマーク 0・表示 231</p><p>投稿 2026-11-02 09:05（日本時間）・<a href="https://x.com/kobaka7/status/2117045493134213588">Xで開く</a></p>]]></description>
-<xf:original><![CDATA[良記事すぎた。素直にUIありきのツールを作っていたら使いこなすのむずい問題が発生したので、MCPの開発することで突破したFDE事例。
-
-NOT A HOTEL ARCHITECTS で目指す AI ネイティブなプロジェクト管理の実現｜uji @uji_rb https://note.com/ujiii/n/n1fb584ebd0f5?sub_rt=share_pw]]></xf:original>
-</item>
-<item>
-<title>うみゆき@AI研究 (@umiyuki_ai)</title>
-<link>https://x.com/umiyuki_ai/status/2117037334248280128</link>
-<guid isPermaLink="true">https://x.com/umiyuki_ai/status/2117037334248280128</guid>
-<category>AI</category>
-<dc:creator>うみゆき@AI研究</dc:creator>
-<pubDate>Sun, 01 Nov 2026 23:33:27 +0000</pubDate>
-<xf:postedAt>2026-11-02T08:33:27+09:00</xf:postedAt>
-<xf:addedAt>2026-11-02T08:33:27+09:00</xf:addedAt>
-<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1581572203660787712/SAdL4WOj_400x400.jpg" width="48" height="48" alt="うみゆき@AI研究"/> <b>うみゆき@AI研究</b> @umiyuki_ai</p><p>OpenAIからチャット使い放題死刑宣告のメールが来ました</p><p><img src="https://pbs.twimg.com/media/HWE6IdJaQAAYGki.png" alt="画像"/></p><p>いいね 63・リポスト 11・ブックマーク 4・表示 4,039</p><p>投稿 2026-11-02 08:33（日本時間）・<a href="https://x.com/umiyuki_ai/status/2117037334248280128">Xで開く</a></p>]]></description>
-<xf:original><![CDATA[OpenAIからチャット使い放題死刑宣告のメールが来ました]]></xf:original>
-</item>
-<item>
-<title>木内翔大＠SHIFT AI代表「日本をAI先進国に」𝕏 (@shota7180)</title>
-<link>https://x.com/shota7180/status/2117034230656184638</link>
-<guid isPermaLink="true">https://x.com/shota7180/status/2117034230656184638</guid>
-<category>AI</category>
-<dc:creator>木内翔大＠SHIFT AI代表「日本をAI先進国に」𝕏</dc:creator>
-<pubDate>Sun, 01 Nov 2026 23:21:07 +0000</pubDate>
-<xf:postedAt>2026-11-02T08:21:07+09:00</xf:postedAt>
-<xf:addedAt>2026-11-02T08:21:07+09:00</xf:addedAt>
-<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1734034566925725696/cI8GDs2U_400x400.jpg" width="48" height="48" alt="木内翔大＠SHIFT AI代表「日本をAI先進国に」𝕏"/> <b>木内翔大＠SHIFT AI代表「日本をAI先進国に」𝕏</b> @shota7180</p><p>TapNow、言葉だけで3DCGの世界を生成できる「CineMap」を公開中！<br/><br/>・テキストや音声指示で3D空間を構築<br/>・人物やオブジェクトを自由に配置<br/>・カメラ位置や動きを設定、撮影前にシミュレーション<br/><br/>頭の中で思い描いた世界を3D空間として再現。映像制作に大いに活用できそう。</p><p><a href="https://x.com/shota7180/status/2117034230656184638"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2116856760581472256/pu/img/plz_vxNWP1KyAZkh.jpg" alt="動画"/></a><br/>（動画はXで再生）</p><p>いいね 11・リポスト 3・ブックマーク 4・表示 3,195</p><p>投稿 2026-11-02 08:21（日本時間）・<a href="https://x.com/shota7180/status/2117034230656184638">Xで開く</a></p>]]></description>
-<xf:original><![CDATA[TapNow、言葉だけで3DCGの世界を生成できる「CineMap」を公開中！
-
-・テキストや音声指示で3D空間を構築
-・人物やオブジェクトを自由に配置
-・カメラ位置や動きを設定、撮影前にシミュレーション
-
-頭の中で思い描いた世界を3D空間として再現。映像制作に大いに活用できそう。]]></xf:original>
-</item>
-<item>
-<title>KAZZN (@Kazzn_blog)</title>
-<link>https://x.com/Kazzn_blog/status/2117029450659590355</link>
-<guid isPermaLink="true">https://x.com/Kazzn_blog/status/2117029450659590355</guid>
-<category>日本株・高配当株</category>
-<dc:creator>KAZZN</dc:creator>
-<pubDate>Sun, 01 Nov 2026 23:02:08 +0000</pubDate>
-<xf:postedAt>2026-11-02T08:02:08+09:00</xf:postedAt>
-<xf:addedAt>2026-11-02T08:02:08+09:00</xf:addedAt>
-<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1560587873958895617/w9a0BcLs_400x400.jpg" width="48" height="48" alt="KAZZN"/> <b>KAZZN</b> @Kazzn_blog</p><p>先週に、上場来高値を更新した銘柄✨<br/><br/>🟢網屋(4258)<br/>🟢SBS HD(2384)<br/>🟢コナミG(9766)<br/>🟢加藤産業(9869)<br/>🟢良品計画(7453)<br/>🟢泉州電業(9824)<br/>🟢住友倉庫(9303)<br/>🟢大同信号(6743)<br/>🟢マックス(6454)<br/>🟢大塚商会(4768)<br/>🟢竹内製作所(6432)<br/>🟢ブシロード(7803)<br/>🟢日本調理機(2961)<br/>🟢かどや製油(2612)<br/>🟢鶴見製作所(6351)<br/>🟢センコーGHD(9069)<br/>🟢バンドー化学(5195)<br/>🟢日本特殊塗料(4619)<br/>🟢信越ポリマー(7970)<br/>🟢セグエグループ(3968)<br/>🟢サカタインクス(4633)<br/>🟢立花エレテック(8159)<br/>🟢建設技術研究所(9621)<br/>🟢テクマトリックス(3762)<br/>🟢セイコーエプソン(6724)<br/>🟢セキュアヴェイル(3042)<br/>🟢サイバートラスト(4498)<br/>🟢オンコリスバイオファーマ(4588)<br/>🟢ビジネスブレイン太田昭和(9658)<br/>🟢メディパルホールディングス(7459)<br/>🟢ダイワボウホールディングス(3107)<br/>🟢日本マクドナルドホールディングス(2702)</p><p>いいね 69・リポスト 7・ブックマーク 1・表示 5,485</p><p>投稿 2026-11-02 08:02（日本時間）・<a href="https://x.com/Kazzn_blog/status/2117029450659590355">Xで開く</a></p>]]></description>
-<xf:original><![CDATA[先週に、上場来高値を更新した銘柄✨
-
-🟢網屋(4258)
-🟢SBS HD(2384)
-🟢コナミG(9766)
-🟢加藤産業(9869)
-🟢良品計画(7453)
-🟢泉州電業(9824)
-🟢住友倉庫(9303)
-🟢大同信号(6743)
-🟢マックス(6454)
-🟢大塚商会(4768)
-🟢竹内製作所(6432)
-🟢ブシロード(7803)
-🟢日本調理機(2961)
-🟢かどや製油(2612)
-🟢鶴見製作所(6351)
-🟢センコーGHD(9069)
-🟢バンドー化学(5195)
-🟢日本特殊塗料(4619)
-🟢信越ポリマー(7970)
-🟢セグエグループ(3968)
-🟢サカタインクス(4633)
-🟢立花エレテック(8159)
-🟢建設技術研究所(9621)
-🟢テクマトリックス(3762)
-🟢セイコーエプソン(6724)
-🟢セキュアヴェイル(3042)
-🟢サイバートラスト(4498)
-🟢オンコリスバイオファーマ(4588)
-🟢ビジネスブレイン太田昭和(9658)
-🟢メディパルホールディングス(7459)
-🟢ダイワボウホールディングス(3107)
-🟢日本マクドナルドホールディングス(2702)]]></xf:original>
-</item>
-<item>
-<title>Lenny Rachitsky (@lennysan)</title>
-<link>https://x.com/lennysan/status/2117028355854012785</link>
-<guid isPermaLink="true">https://x.com/lennysan/status/2117028355854012785</guid>
-<category>PdM</category>
-<dc:creator>Lenny Rachitsky</dc:creator>
-<pubDate>Sun, 01 Nov 2026 22:57:47 +0000</pubDate>
-<xf:postedAt>2026-11-02T07:57:47+09:00</xf:postedAt>
-<xf:addedAt>2026-11-02T07:57:47+09:00</xf:addedAt>
-<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1592990461517389824/iln8hi1f_400x400.jpg" width="48" height="48" alt="Lenny Rachitsky"/> <b>Lenny Rachitsky</b> @lennysan</p><p>How @WisprFlow built a UGC growth engine where creators are making $100k+/year  <a href="https://twitter.com/lennysan/status/2116927042759635132">https://twitter.com/lennysan/status/2116927042759635132</a></p><hr/><p><b>日本語訳</b></p><p>@WisprFlow は、クリエイターが年10万ドル以上を稼ぐUGC（ユーザー生成コンテンツ）の成長エンジンをどうやって築いたのか <a href="https://t.co/54hv0VM6UK">https://t.co/54hv0VM6UK</a> <a href="https://t.co/oemKthP76H">https://t.co/oemKthP76H</a></p><hr/><p><a href="https://x.com/lennysan/status/2117028355854012785"><img src="https://pbs.twimg.com/amplify_video_thumb/2117028073019498496/img/LEndpIadClqRBlq0.jpg" alt="動画"/></a><br/>（動画はXで再生）</p><p>いいね 4・リポスト 0・ブックマーク 1・表示 1,557</p><p>投稿 2026-11-02 07:57（日本時間）・<a href="https://x.com/lennysan/status/2117028355854012785">Xで開く</a></p>]]></description>
-<xf:original><![CDATA[How @WisprFlow built a UGC growth engine where creators are making $100k+/year  https://twitter.com/lennysan/status/2116927042759635132]]></xf:original>
-<xf:translation xml:lang="ja"><![CDATA[@WisprFlow は、クリエイターが年10万ドル以上を稼ぐUGC（ユーザー生成コンテンツ）の成長エンジンをどうやって築いたのか https://t.co/54hv0VM6UK https://t.co/oemKthP76H]]></xf:translation>
 </item>
 </channel>
 </rss>

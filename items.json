@@ -1,5 +1,243 @@
 [
  {
+  "id": "2118657117800587631",
+  "handle": "mariosakata",
+  "name": "sakata",
+  "avatar": "https://pbs.twimg.com/profile_images/2112163220442251264/oc0eZTce_400x400.jpg",
+  "theme": "PdM",
+  "text": "UXリサーチの知見を、組織全体で蓄積・活用するためのフレームワーク「The Frame」。\n\n調査レポートを保存するだけでなく、そこから得られたユーザー理解を「検証可能な主張」として整理し、根拠や確信度、情報の鮮度まで管理する。こういう考え方があるんだ。\nhttps://www.thevoiceofuser.com/the-frame-how-to-build-a-knowledge-layer-for-what-your-company-knows-about-its-users/",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWb7a2WbUAE4QwT.jpg"
+   },
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWb7a2Vb0AAJH-5.jpg"
+   }
+  ],
+  "created_at": "2026-11-06T10:49:54.000Z",
+  "metrics": {
+   "like": 4,
+   "repost": 0,
+   "bookmark": 6,
+   "view": 186
+  },
+  "added_at": "2026-11-06T12:16:04.713091+00:00"
+ },
+ {
+  "id": "2118656699792019743",
+  "handle": "DrKarte",
+  "name": "Dr.パパ",
+  "avatar": "https://pbs.twimg.com/profile_images/1859950950385164288/ajETCJGg_400x400.jpg",
+  "theme": "行政DX",
+  "text": "こういうの増えるやろな…じわじわと…\n\n町田の一部で119が通じない\nNTT東「ひかり電話の故障です」\nこれが本当にただの故障でも、話は変わらん\n\n今回はただの故障かもしれんが…\n\nハイブリッド攻撃の怖さは\n「攻撃」と「故障」が最後まで区別つかんことにある\n→欧州はもう海底ケーブル切られても「事故かも」で止まっとる\n→日本は119が止まっても「故障かも」で止まる\n\nで、消防庁の公式回答が「消防署に走れ」なんよな…",
+  "media": [],
+  "created_at": "2026-11-06T10:48:14.000Z",
+  "metrics": {
+   "like": 122,
+   "repost": 34,
+   "bookmark": 18,
+   "view": 4962
+  },
+  "added_at": "2026-11-06T12:16:04.713091+00:00"
+ },
+ {
+  "id": "2118640856068653197",
+  "handle": "24_9424",
+  "name": "24万株(まんかぶ)",
+  "avatar": "https://pbs.twimg.com/profile_images/2106558662173212672/BiEgWfaV_400x400.jpg",
+  "theme": "日本株・高配当株",
+  "text": "鳥羽洋行(自己資本比率74%)、新たな還元方針DOE 2% &amp; 配当性向50%以上。純資産貯まって仕方ない😒 https://twitter.com/24_9424/status/2086253271237501155",
+  "media": [],
+  "created_at": "2026-11-06T09:45:17.000Z",
+  "metrics": {
+   "like": 7,
+   "repost": 0,
+   "bookmark": 3,
+   "view": 3326
+  },
+  "added_at": "2026-11-06T12:16:04.713091+00:00"
+ },
+ {
+  "id": "2118637013696196637",
+  "handle": "nyattx",
+  "name": "横山信弘｜組織で「絶対達成」する",
+  "avatar": "https://pbs.twimg.com/profile_images/1187708714184130560/J9f3NUuT_400x400.jpg",
+  "theme": "PdM",
+  "text": "話がかみ合わない人は「具体と抽象」を行き来できていない（以下解説⤵）",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HVIJuuIbgAAEwId.jpg"
+   }
+  ],
+  "created_at": "2026-11-06T09:30:01.000Z",
+  "metrics": {
+   "like": 24,
+   "repost": 3,
+   "bookmark": 15,
+   "view": 1715
+  },
+  "added_at": "2026-11-06T12:16:04.713091+00:00"
+ },
+ {
+  "id": "2118631143105085788",
+  "handle": "cu30rry_",
+  "name": "kaito",
+  "avatar": "https://pbs.twimg.com/profile_images/2101959420439834625/ucyJOshP_400x400.jpg",
+  "theme": "AI",
+  "text": "/statechart は pstack でかなり使うし、形式検証が主流となる未来においては、もっと使うことになるので、今のうちに絶対マスターしてください！\n\n前提として形式検証を使用すれば、仕様をモデル化した範囲のみバグフリーで、仕様に合致していることを保証してくれます\n\nただし、その仕様は人間の意図から生まれます\nそして、仕様（システムにおける法）が正しいと判断できるのもまた人間だけです\n\nそのために、/statechart があります\n\n仕様を決め、pstack でコード化したのち、/statechart で存在する全てのケースを図にするのが /statechart です\n\nテストでは洗い出せない暗黙の状態も含む全てを図にするのです\n\nそうすることで、レビューの対象を絞り込み、質の高いレビューを行うことができます\n\nまた、モデル検査器が、性質が守られないケースを洗い出せば、検証コード（E2E テストコード・スクリプトなど）を各必要もなくなり、より人間側のレビューの質を挙げてくれます\n\n繰り返しになりますが、仕様は人が望むものから来るので数学では正しさを証明できず、判断するのは人だけです\n\nここの判断の質、言い換えれば、「モデル検査器がシステムのe2eをどの程度理解しているか」と「エージェントの成果物」のレビューに時間をより多く割くことができます\n\n/statechart は自分の意図と違う状態遷移を先に指摘することができる素晴らしい Skill です\n\n具体的には /statechart を使うことで以下の恩恵を得ることができます\n\n・キャンセルやタイムアウトなど、見落としやすい遷移が見える\n・レビューは「意図と目標に合っているか」に絞れる\n・モデル検査の前に、仕様そのものを人が判断できる形になる",
+  "media": [],
+  "created_at": "2026-11-06T09:06:41.000Z",
+  "metrics": {
+   "like": 22,
+   "repost": 0,
+   "bookmark": 38,
+   "view": 1923
+  },
+  "added_at": "2026-11-06T12:16:04.713091+00:00"
+ },
+ {
+  "id": "2118619192702427600",
+  "handle": "keitowebai",
+  "name": "KEITO💻AIディレクター",
+  "avatar": "https://pbs.twimg.com/profile_images/1675439080082128898/-eYNf8PE_400x400.jpg",
+  "theme": "AI",
+  "text": "Antigravity経由でスプシいじらせたら普通に使えるもの出てきて安心した！Geminiでは不安だったw  https://twitter.com/keitowebai/status/2118314304852414655",
+  "media": [
+   {
+    "type": "video",
+    "url": "https://pbs.twimg.com/amplify_video_thumb/2118618851734925312/img/EFeQxi3SSg-nP74S.jpg"
+   }
+  ],
+  "created_at": "2026-11-06T08:19:12.000Z",
+  "metrics": {
+   "like": 49,
+   "repost": 4,
+   "bookmark": 22,
+   "view": 4896
+  },
+  "added_at": "2026-11-06T12:16:04.713091+00:00"
+ },
+ {
+  "id": "2118593971949912407",
+  "handle": "BE9zoj",
+  "name": "コツコツわんこ投資マン",
+  "avatar": "https://pbs.twimg.com/profile_images/2034219418012758017/PGhnV7Ir_400x400.jpg",
+  "theme": "日本株・高配当株",
+  "text": "🚨みずほリース、6円増配きた！！🎉\n\n三菱HCキャピタルに隠れがちだけど、ここも負けてない！\n\nなんと 21期連続増配！ 🔥\n\n長年にわたって増配を続けているのは本当にすごい。\n\n暴落相場では株価の下落ばかり気になるけど、個人的にはこういう株主還元に積極的な企業にも注目したい。\n\n📌 暴落時にチェックしたいポイント\n✅ 連続増配の実績\n✅ 配当方針\n✅ 利益やキャッシュフローの成長\n✅ 無理のない配当性向\n\n株価が下がっても、企業の稼ぐ力や株主還元まで悪化したとは限らない。\n\nこういう企業を暴落時にコツコツ拾っていきたい🐾",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWbB_AWbUAAEjq7.jpg"
+   }
+  ],
+  "created_at": "2026-11-06T06:38:59.000Z",
+  "metrics": {
+   "like": 39,
+   "repost": 4,
+   "bookmark": 1,
+   "view": 2491
+  },
+  "added_at": "2026-11-06T12:16:04.713091+00:00"
+ },
+ {
+  "id": "2118536721373749531",
+  "handle": "tanzyto40",
+  "name": "Tanzyyy",
+  "avatar": "https://pbs.twimg.com/profile_images/2091496385740984321/Ys51n4q3_400x400.jpg",
+  "theme": "PdM",
+  "text": "とても面白い議題であり、私も一応は『プロ』なので意見を述べます🐾\n\nまず、きしださんのご意見はごもっともです。また、関連の議論もお見受けしましたが、要件定義の責任はあくまで発注側（クライアント）にあると考えていましたが、多くの場合はクライアントはITに明るくないため、受注側の技術サイドで要件定義の支援を行い、要件定義書をしっかり作成するのがベストプラクティスになることが多いのであって、クライアントが情シスを保有し、自力で作成することができるのであれば、その限りではないのかと思います。\n\nなお、私もガイドラインなどは読んだことも探したこともありませんでしたが、軽くAIに調査させたところ、IPAやデジタル庁も公開はしているようで、時代の流れによる見直しもありそうですし、以下のIPAの情報は古すぎますが、大筋として責任の所在は変わっていないと思いました。\n\nhttps://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/ae9a37b7/20250619_resources_standard_guidelines_guideline_05.pdf\n\nhttps://www.ipa.go.jp/archive/publish/qv6pgp0000000zef-att/000005141.pdf\n\nhttps://www.ipa.go.jp/archive/publish/qv6pgp0000000wrt-att/000079352.pdf",
+  "media": [],
+  "created_at": "2026-11-06T02:51:29.000Z",
+  "metrics": {
+   "like": 41,
+   "repost": 6,
+   "bookmark": 38,
+   "view": 6691
+  },
+  "added_at": "2026-11-06T12:16:04.713091+00:00"
+ },
+ {
+  "id": "2118523008969048380",
+  "handle": "nbykos",
+  "name": "NOBU",
+  "avatar": "https://pbs.twimg.com/profile_images/1520708069570715650/3zfSWDuB_400x400.jpg",
+  "theme": "AI",
+  "text": "Claude CodeやCodexを使っているなら、映像制作ツールの「Tesseract」はかなりおすすめです。\n\n敬遠しがちなAfter Effectsの細かいコンポジット作業を、AIエージェントに丸投げできるお気に入りのツールです。そこに今回、本格的な「3D機能」が入りました。\n\n個人的に一番面白いのは、3Dモーショングラフィックスやオープニングアニメが「Blenderなし」で作れる点です。\n\n引用元の『ゲーム・オブ・スローンズ』風のオープニング映像も、エージェントとの対話だけで作られています。\n\nできるようになったこと：\n• 光の反射・屈折・柔らかい影を計算するパストレーシング\n• 3Dを使ったモーショングラフィックスやオープニング制作\n• 2Dやテキストと同じプロジェクトへの正確な3D合成\n• プレビズ段階からのライティング確認とMP4書き出し\n\nなぜ添付動画のような質感が出せるのか。\n\nブラウザのリアルタイム描画ではなく、Tesseract自体で光学計算する「プリレンダー形式」だからです。ガラスの屈折や液面、金属の反射までプロ品質で出力できます。\n\nBlenderも、Three.jsの環境構築もいらない。\n\n複雑なモデリングをしない限りBlenderは不要です。Three.jsのように2D合成や動画書き出しの環境を自前で組む手間もありません。\n\n手元のAIエージェントから、高品質な3Dレンダリングをすぐ手軽に試せます。\n\nさあ始めよう👇",
+  "media": [
+   {
+    "type": "video",
+    "url": "https://pbs.twimg.com/amplify_video_thumb/2118515941776748544/img/2KCFfrXoVdMt8sbR.jpg"
+   }
+  ],
+  "created_at": "2026-11-06T01:57:00.000Z",
+  "metrics": {
+   "like": 386,
+   "repost": 30,
+   "bookmark": 441,
+   "view": 18632
+  },
+  "added_at": "2026-11-06T12:16:04.713091+00:00"
+ },
+ {
+  "id": "2118517004269404410",
+  "handle": "okazakityo",
+  "name": "Okazaki Kota | FAKE",
+  "avatar": "https://pbs.twimg.com/profile_images/1262005286207799300/QNghxf8x_400x400.jpg",
+  "theme": "AI",
+  "text": "日立が「Physical AI FDE」という役割を明示した。\n\n工場や鉄道では、AI単体が賢くても、既存設備や安全条件へつながらないと動かせない。日立は、現場ごとに設備とAIの接続を設計し、そこで得た知見を共通基盤HMAXへ戻す専門チームを置く。\n\n顧客案件を個別開発で終わらせず、次の案件で使える資産へ戻す。日本企業のFDEがPhysical AIで具体化し始めている。ただし実稼働数と成果は未公表。\n\n日立とNVIDIA、フィジカルAIの統合制御による、現場全体の自律化とHMAXの進化に向けて協業\nhttps://www.hitachi.com/ja-jp/press/articles/2026/07/0716/ #FDE",
+  "media": [],
+  "created_at": "2026-11-06T01:33:08.000Z",
+  "metrics": {
+   "like": 76,
+   "repost": 4,
+   "bookmark": 23,
+   "view": 4976
+  },
+  "added_at": "2026-11-06T12:16:04.713091+00:00"
+ },
+ {
+  "id": "2118489462363795702",
+  "handle": "kumehaya",
+  "name": "HayatoKumemura（久米村隼人） | DATAFLUCT（データフラクト）代表取締役CEO",
+  "avatar": "https://pbs.twimg.com/profile_images/2015960842861248512/PIZk3gd9_400x400.jpg",
+  "theme": "PdM",
+  "text": "デデデータ!! 第266回「PMFごっこは、いますぐやめろ。」\nアンケートやペルソナの高反応だけで、PMFを判断する危険を話す回だ。\n\n安くなるのに、なぜ切り替えない？\n「なくなったら困る」が40%を超えるか。それがPMFの目安だ。\n\nぜひ聞いてほしい。\n#デデデータ",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWZiyigbAAEoC6Q.jpg"
+   }
+  ],
+  "created_at": "2026-11-05T23:43:42.000Z",
+  "metrics": {
+   "like": 7,
+   "repost": 0,
+   "bookmark": 0,
+   "view": 223
+  },
+  "added_at": "2026-11-06T12:16:04.713091+00:00"
+ },
+ {
+  "id": "2118488665420960092",
+  "handle": "enochan",
+  "name": "榎本大貴｜LITALICOで障害福祉xAIやってます",
+  "avatar": "https://pbs.twimg.com/profile_images/982412778710298624/4kss2Uf9_400x400.jpg",
+  "theme": "行政DX",
+  "text": "https://digital-gov.note.jp/n/n69962e2eb3fc\n\nデジタル庁が、職員向け生成AI「源内」のアクセシビリティの取組をnoteにまとめてた。生成AIのUIならではの「待ち」と「途中経過」をスクリーンリーダーでどう伝えるかが、設計の理由まで具体的に書いてあって、国内の公的な事例としてかなり参考になる。\n\n・AIの回答は、開始と完了を確実に伝えたうえで、流れてくる文章を逐次読み上げずにまとめて読む\n・長い待ち時間は一定の間隔で知らせる。当初5秒だったのを、フィードバックを受けて8秒にした\n・画面の変化は、まず予期しない変化を起こさない、次に近くへフォーカスを移す、離れた変化だけライブリージョンで伝える、という順で考える\n・視覚障害の当事者を含む専門家が、機能を足すたびにスクリーンリーダーやキーボードだけの操作で確かめている\n・得た知見をルールファイルにまとめて、AIでコードを書くときにも読ませている\n\n一方で、チェックに入っている当事者として書かれているのは視覚障害の人で、ほかの障害でどこまで確かめたかはまだ見えない。生成AIのUIはどこもまだ手探りだからこそ、いろんな障害の当事者と一緒に見ていきたい。",
+  "media": [],
+  "created_at": "2026-11-05T23:40:32.000Z",
+  "metrics": {
+   "like": 14,
+   "repost": 2,
+   "bookmark": 13,
+   "view": 1266
+  },
+  "added_at": "2026-11-06T12:16:04.713091+00:00"
+ },
+ {
   "id": "2118629675455148402",
   "handle": "sorave55",
   "name": "そらぶ🐶💓高配当株好き",
@@ -7810,225 +8048,6 @@
    "repost": 0,
    "bookmark": 7,
    "view": 1210
-  }
- },
- {
-  "id": "2116989604104392969",
-  "handle": "elonmusk",
-  "name": "Elon Musk",
-  "avatar": "https://pbs.twimg.com/profile_images/2103567689515954176/aR-Kjpp4_400x400.jpg",
-  "theme": "AI",
-  "text": "Grok @Bot will research gifts that your friends and family would love and buy them https://twitter.com/venturetwins/status/2116643253726683590",
-  "media": [],
-  "created_at": "2026-11-01T20:23:48.000Z",
-  "metrics": {
-   "like": 1599,
-   "repost": 202,
-   "bookmark": 78,
-   "view": 669567
-  },
-  "translation_ja": "Grok @Bot が、友人や家族が喜びそうなプレゼントを調べて買ってくれます https://twitter.com/venturetwins/status/2116643253726683590"
- },
- {
-  "id": "2116985676659052871",
-  "handle": "pygmy_hem",
-  "name": "ヘム / 「小型割安株」&「増配」&「暴落時買い向かい」投資",
-  "avatar": "https://pbs.twimg.com/profile_images/1906920378750160896/_PZ-2Nq9_400x400.jpg",
-  "theme": "日本株・高配当株",
-  "text": "🅾️ 「ヘムなりに上手く立ち回っているつもりですが、なかなか市場に勝てませんね…🥺」というお話\n\nあれこれ頑張ってるんですけどね。実は今年、個々の投資判断はそれなりに当たっていて、自分では「なかなか上手く立ち回ってるぞ」と思っているんです。\n\nところが、蓋を開けてみると……\n市場には全然勝てておりませぬ。ｵﾊｽﾞｶｼｲ...🫣\n\nということで、10月末時点の運用成績でございます。\n\n🗓️ 月次（2026年10月）\n\n🍀ヘムの全PF　▲2.86%\n🍀TOPIX　▲3.49%\n🍀日経平均　▲5.19%\n🍀オルカン　▲1.39%\n\n🗓️ 年次（2026年 1～10月）\n\n🍀ヘムの全PF　＋12.7%😨（※）\n🍀TOPIX　＋16.3%\n🍀日経平均　＋25.7%\n🍀オルカン　＋11.2%\n\n※TOPIX除外濃厚銘柄の入れ替えに伴う税負担を除けば、＋14%程度だと思われます。\n\n🅾️ 寸評\n\n☆小型バリュー株全般が対TOPIXで不調。\n日経平均には歯が立たず💦\n\n☆TOPIX除外濃厚銘柄の入れ替えは上手くいき、運用成績にプラス寄与。ただし、銘柄入れ替えに伴う税負担はマイナス要因。\n\n☆「超主力（秘密銘柄）」「自治体サイバー対策強化恩恵PF」「プログラミング選定銘柄PF」は好調。\n\n☆インカムの伸び（増配率）は過去最高レベル\n\n☆「長期国債」（JGB2056）も好調。\n\n個々の打ち手は上手くいき、\nあれこれ動いたことが功を奏しているものの、\nそれでもTOPIXに3.6ポイント劣後😰\n\n全体では、なかなか市場に勝てません。\nｶﾞｯｸﾘ...\n\n地銀を除く小型バリュー株全般が、\nよほど悪いのかなという気がしております。\n\nまあ、こういう年もありまする😮‍💨\n精進、精進。\n早く銘柄スカウター治ってくれ～🙏\n\n✧ ٩( ๑•̀o•́๑ )وｴｲｴｲｵｰ!!",
-  "media": [],
-  "created_at": "2026-11-01T20:08:11.000Z",
-  "metrics": {
-   "like": 125,
-   "repost": 0,
-   "bookmark": 11,
-   "view": 7819
-  }
- },
- {
-  "id": "2116976820708855888",
-  "handle": "yu_mo_1212",
-  "name": "パンちゃん投資団",
-  "avatar": "https://pbs.twimg.com/profile_images/2024258066989142017/yoBRmeeq_400x400.jpg",
-  "theme": "日本株・高配当株",
-  "text": "iFreeETF 日本株累進高配当戦略（665A）\n\n新しい高配当ETFを徹底調査です。\n名前が長い！！\n動画でパンダが言えるのか？注目です✨\n\n大和アセットマネジメントが設定する、新しい日本株ETFです。\n\nこのETFは、単に配当利回りが高い企業を選ぶのではなく、増配または配当維持を続けてきた企業に注目しています。\n\n最大の特徴は「累進配当」\n累進配当とは、配当金を減らさず、増配または配当維持を目指す配当方針のこと。\n\n公表されている運用ルールでは、10年以上にわたり増配・配当維持を続けてきた企業などを対象に、今期も累進配当の継続が見込まれる銘柄を選定します。\n\nさらに、大型株だけでなく、中小型株も投資対象に含まれるのが特徴です。\n\nただし、実際の分配金や運用成果が保証されているわけではありません。\n\nもっと詳しく調べなくては！\n……と思ったらまさかのメンテナンス中😱\n\n大和アセットマネジメントの公式サイトでは、2026年10月30日時点で、メンテナンスのためサービスをすべて停止しているとの案内が出ていました。\n\n停止想定期間は未定。\n\nメンテナンスが終わったら、さらに詳しく調べようかと思います😊\n\n新しいETFは、どんな銘柄で構成されるのか？配当利回りや運用ルールは？\n\n気になる情報を、引き続きチェックしていきます！\n\n📌 保存して、資産づくりの参考にしてください😊\n\n🐼 フォローすると、初心者向けの投資図解を定期的にお届けします！\n\n※可愛いキャラクターは横浜ザイバツさんからお借りしています。\nいつも素敵なイラストをありがとうございます！🐼\nザイバツさんのキャラクターを世界へ✨\n\n#日本株 #高配当株 #ETF",
-  "media": [
-   {
-    "type": "video",
-    "url": "https://pbs.twimg.com/amplify_video_thumb/2116906583066308608/img/Pt68IK8UdCAtLryW.jpg"
-   },
-   {
-    "type": "photo",
-    "url": "https://pbs.twimg.com/media/HWDDUkibwAAi9jW.jpg"
-   }
-  ],
-  "created_at": "2026-11-01T19:33:00.000Z",
-  "metrics": {
-   "like": 30,
-   "repost": 1,
-   "bookmark": 0,
-   "view": 473
-  }
- },
- {
-  "id": "2116964854053601586",
-  "handle": "lennysan",
-  "name": "Lenny Rachitsky",
-  "avatar": "https://pbs.twimg.com/profile_images/1592990461517389824/iln8hi1f_400x400.jpg",
-  "theme": "PdM",
-  "text": "\"The best marketers are allergic to AI.\"  https://twitter.com/lennysan/status/2116927042759635132",
-  "media": [
-   {
-    "type": "video",
-    "url": "https://pbs.twimg.com/amplify_video_thumb/2116964540957204481/img/PlR1iFB36pUwDZg_.jpg"
-   }
-  ],
-  "created_at": "2026-11-01T18:45:27.000Z",
-  "metrics": {
-   "like": 37,
-   "repost": 0,
-   "bookmark": 19,
-   "view": 6322
-  },
-  "translation_ja": "「最高のマーケターは AI にアレルギーがある」  https://twitter.com/lennysan/status/2116927042759635132"
- },
- {
-  "id": "2116957367669788747",
-  "handle": "vegetanpul",
-  "name": "ハニプリ〜7/20 PRISMMOON",
-  "avatar": "https://pbs.twimg.com/profile_images/988035196636180480/QrV1laiS_400x400.jpg",
-  "theme": "行政DX",
-  "text": "氏名に「外字」使用の市民400人、マイナンバーカードの電子証明書が失効　群馬・太田市\n\n⬆\n電子証明書が失効するとe-Taxやネットでの口座開設出来ないね。\n\n通常は再発行約2ヶ月かかるんだっけ？\n\n#マイナ保険証紐付け解除\n#マイナンバーカード返納　\n\n#ナンマイダーカード\n\nhttps://www.jomo-news.co.jp/articles/-/1055522",
-  "media": [],
-  "created_at": "2026-11-01T18:15:42.000Z",
-  "metrics": {
-   "like": 2,
-   "repost": 1,
-   "bookmark": 0,
-   "view": 114
-  }
- },
- {
-  "id": "2116940800374526423",
-  "handle": "Katakata",
-  "name": "Sho katayama",
-  "avatar": "https://pbs.twimg.com/profile_images/1128627556893093889/uZ13i_7w_400x400.jpg",
-  "theme": "行政DX",
-  "text": "この会社、ISMS27001取ってて、マイナカード利用した公的個人認証サービスもやってるんですね。何処か第三者機関に問題無い事を証明してもらいたいところ。\nGMO子会社4.5万人情報漏洩　ID管理サービス、設定ミスで9年間外部から閲覧可能に https://www.sankei.com/article/20261101-4W3P5JXGRBJDVJ2EYD46QZ5OHE/ @Sankei_newsより",
-  "media": [],
-  "created_at": "2026-11-01T17:09:52.000Z",
-  "metrics": {
-   "like": 0,
-   "repost": 0,
-   "bookmark": 0,
-   "view": 49
-  }
- },
- {
-  "id": "2116927042759635132",
-  "handle": "lennysan",
-  "name": "Lenny Rachitsky",
-  "avatar": "https://pbs.twimg.com/profile_images/1592990461517389824/iln8hi1f_400x400.jpg",
-  "theme": "PdM",
-  "text": "Hector Serrano (@hectorserrranoo) runs what may be the most innovative paid growth program in Silicon Valley.\n\nHe joined @WisprFlow at 19, days after quitting D1 soccer. After making every ad himself for 1.5 years, he took the playbook the best e-com brands have used for years and made it work for B2B SaaS: creators make the ads, get paid a cut of the ad spend, and the best of them earn $100K+ a year.\n\nOver the past year, Wispr Flow grew revenue 30x+ and recently raised at a $2B valuation.\n\nHector shares his full playbook.\n\nWe cover:\n01:17 What Hector does at Wispr Flow\n03:10 The number-one growth lever\n04:25 When to start investing in paid ads\n08:27 The paid-UGC strategy and how it developed\n13:44 How creator compensation works: percent of ad spend vs. GMV\n20:07 The profile of a great modern marketing hire\n25:03 The importance of young talent\n28:22 Hector’s journey from D1 soccer to Wispr Flow\n31:03 Step-by-step: How to build a paid-UGC group from zero\n43:03 Reaching out to creators\n45:37 Building culture inside your creator group\n48:31 The role of the media buyer alongside the creative lead\n50:05 Team size and structure\n53:44 Why UGC works even in technical and enterprise SaaS\n56:15 Advice for people embarking on the creator path\n59:50 Common mistakes to avoid\n01:02:21 The sports approach to hiring\n01:03:52 Why the best marketers are allergic to AI output\n01:08:07 Founder-led content\n01:16:01 Why YouTube packaging matters more than production quality\n01:20:06 Lightning round and final thoughts\n\nAlso available on YouTube: https://www.youtube.com/watch?v=KzS5Qs7vSMg",
-  "media": [
-   {
-    "type": "video",
-    "url": "https://pbs.twimg.com/amplify_video_thumb/2116910575678894081/img/95j2YgJY5739WbLk.jpg"
-   }
-  ],
-  "created_at": "2026-11-01T16:15:12.000Z",
-  "metrics": {
-   "like": 220,
-   "repost": 13,
-   "bookmark": 376,
-   "view": 43359
-  },
-  "translation_ja": "Hector Serrano（@hectorserrranoo）は、シリコンバレーで最も革新的かもしれない有料グロース施策を率いています。\n\n彼はD1（大学1部リーグ）のサッカーを辞めた数日後、19歳で @WisprFlow に入社しました。1年半にわたって広告をすべて自分で作った後、優れたEC ブランドが何年も使ってきた手法を B2B SaaS で機能させました。クリエイターが広告を作り、広告費の一定割合を報酬として受け取る仕組みで、トップクラスのクリエイターは年10万ドル以上を稼いでいます。\n\nこの1年で Wispr Flow の売上は30倍以上に伸び、最近20億ドルの評価額で資金調達しました。\n\nHector がその全手法を語ります。\n\n内容:\n01:17 Hector の Wispr Flow での仕事\n03:10 最大のグロースレバー\n04:25 有料広告に投資し始めるタイミング\n08:27 有料UGC戦略とその発展\n13:44 クリエイター報酬の仕組み：広告費の割合か GMV か\n20:07 優れた現代のマーケティング人材像\n25:03 若い人材の重要性\n28:22 D1サッカーから Wispr Flow までの道のり\n31:03 ステップごとに：有料UGCチームをゼロから作る方法\n43:03 クリエイターへのアプローチ\n45:37 クリエイターグループ内の文化づくり\n48:31 クリエイティブリードと並ぶメディアバイヤーの役割\n50:05 チームの規模と構成\n53:44 技術系・エンタープライズ SaaS でも UGC が効く理由\n56:15 クリエイターの道に進む人へのアドバイス\n59:50 避けるべきよくある失敗\n01:02:21 スポーツ流の採用\n01:03:52 最高のマーケターが AI の出力を嫌う理由\n01:08:07 創業者主導のコンテンツ\n01:16:01 YouTube では制作品質よりパッケージングが大事な理由\n01:20:06 ライトニングラウンドとまとめ\n\nYouTube でも公開中: https://www.youtube.com/watch?v=KzS5Qs7vSMg"
- },
- {
-  "id": "2116920663919546789",
-  "handle": "kenn",
-  "name": "Kenn Ejima",
-  "avatar": "https://pbs.twimg.com/profile_images/2101495370660655104/F8tzCryw_400x400.jpg",
-  "theme": "AI",
-  "text": "シリコンバレーで年収7500万円稼いでいた\nAdobeのFireflyの開発者でもあった\n業歴28年で著書も3冊あるAIエンジニアが\n\nそのAIのせいで3年前に仕事を失って今では\nホームレスとなり車中生活を強いられている\nという記事が話題になっている\n\nそんなに稼いでるのに運用してなかったの？\nとか色々つっこまれながらも\nきちんと次の記事で回答している\n\n遠くない未来に世界中へやってくる\nニューエコノミクスの現実を学べるので\n一読おすすめです",
-  "media": [],
-  "created_at": "2026-11-01T15:49:51.000Z",
-  "metrics": {
-   "like": 760,
-   "repost": 172,
-   "bookmark": 574,
-   "view": 103784
-  }
- },
- {
-  "id": "2116919289739665849",
-  "handle": "maru2rich",
-  "name": "狂熱の株おじさん",
-  "avatar": "https://pbs.twimg.com/profile_images/2107674365559222272/g7cFWZm__400x400.jpg",
-  "theme": "日本株・高配当株",
-  "text": "悪いことは言わない！！！\n週明け11月2日（月）、日本株は日経平均だけで判断してはいけませんぞ。\n10月30日（金）。\n日経平均は1,369円安。\n終値は63,290円。\nTOPIXも0.95％下落。\nところが、東証プライムでは、\n値上がり807銘柄。\n値下がり714銘柄。\n売買代金は約8.47兆円。\nここに重要なヒントがあります。\n指数は大きく下落したのに、値上がりした銘柄の方が多かった。\nアドバンテスト、東京エレクトロン、ソフトバンクG、イビデンなど、大型AI・半導体株への売りが指数を押し下げた一方、内需株や業績改善銘柄には買いが入っていたんですな。\n実際、金曜日にはハリマ化成、メタウォーター、コナミ、ジャノメなどが上昇。\nさらに企業業績にも変化が出ています。\n四電工は経常利益予想を16％上方修正×16円増配。\nきんでんは経常利益予想を9％上方修正。\nTDKは純利益予想を24％上方修正×10円増配。\nパナソニックHDも純利益予想を20％上方修正×16円増配。\n一方、キオクシアは上期純利益が前年同期比37倍。\n好業績の企業が増える一方、株価への織り込み方には大きな差があります。\n今の相場で見るべきなのは、単なる人気ではない。\n業績、資金の流れ、株価の評価ですぞ。\n【11月2日（月）優先監視したい日本株16銘柄】🔥\n① ハリマ化成（4410）\n業績上方修正×最高益予想。急騰後の需給に注目。\n② メタウォーター（9551）\n水インフラ×業績・配当上方修正。\n③ コナミグループ（9766）\n業績・配当上方修正。上昇の継続性を確認。\n④ ジャノメ（6445）\n増配×自社株買い。株主還元への評価に注目。\n⑤ 三和HD（5929）\n増配×自社株買い。株価の値持ちを監視。\n⑥ タカラトミー（7867）\n業績予想上方修正。IP事業の成長性に注目。\n⑦ 西部ガスHD（9536）\n営業利益予想上方修正。内需インフラ関連。\n⑧ オリエンタルランド（4661）\n業績上方修正×増配。内需株への資金流入を確認。\n⑨ 第一三共（4568）\n医薬品×新薬開発。大型株の資金移動に注目。\n⑩ 四電工（1939）\n経常利益16％上方修正×16円増配。\n⑪ きんでん（1944）\n経常利益9％上方修正×最高益予想。\n⑫ TDK（6762）\n純利益24％上方修正×10円増配。\n⑬ パナソニックHD（6752）\n純利益20％上方修正×16円増配。\n⑭ 東京エレクトロン（8035）\n通期経常利益87％増予想。半導体株の反発力に注目。\n⑮ アドバンテスト（6857）\n指数下落への影響が大きかった主力株。売り一巡を確認。\n⑯ キオクシアHD（285A）\n上期純利益37倍。AIメモリー需要と市場評価が焦点。\nただし、16銘柄すべてを買う必要はありません。\nわしが特に優先して比較したいのは、\nメタウォーター。\nコナミグループ。\n四電工。\nTDK。\n東京エレクトロン。\nこの5銘柄です。\n業績改善株と半導体主力株を比較し、次の資金の方向を見極めたいからですな。\nわしが確認するのは4つ。\n① 売上高の成長が、営業利益の増加につながっているか。\n② 受注高と実際の売上計上に大きなズレはないか。\n③ 売上総利益率の改善に持続性があるか。\n④ 通期業績予想に、さらなる上方修正の余地があるか。\nこの条件が揃わなければ、無理に買わない。\n昔のわしは、急騰している株を見つけると、理由を深く調べずに買っていました。\nしかし、何度も失敗して気づいたんです。\n本当に見るべきなのは、株価の勢いだけではない。\n業績の改善。\n資金の継続的な流入。\n市場の期待と実際の企業価値。\nこの3つです。\n40代・50代の皆さん。\n老後の大切なお金を、一時の急騰に賭けてはいけませんぞ。\n一度の大勝ちより、長く市場に残ることの方が大切です。\n11月2日は日銀の展望レポート公表や国内企業の決算発表も予定されています。\n翌3日は文化の日で東京市場は休場。\nだからこそ、週明けの値動きを慎重に見極めたい。\n今回の16銘柄について、業績・出来高・チャートの確認ポイントを無料資料に整理しています。\n買いを検討する条件や、見送るべき値動きもまとめていますので、詳しくはプロフィールの固定投稿を確認してくだされ。\n月曜日の朝9時。\n買いボタンを押す前に、この投稿をもう一度見てほしい。\n月曜日の引け後、16銘柄の答え合わせをしましょう。\n上がった銘柄も、下がった銘柄も振り返る。\n毎朝7時、日本株の情報を発信。\n記録は消しません。\n週明けに後悔したくない人は、今のうちに保存とフォローを。\nそして、最後にひとつ。\n半導体株に再び資金が戻るのか。\nそれとも、業績改善が進む内需・インフラ株が新しい主役になるのか。\nわしが本当に注目しているのは、まだ多くの投資家が気づいていない、その次の銘柄ですぞ。💹",
-  "media": [
-   {
-    "type": "video",
-    "url": "https://pbs.twimg.com/amplify_video_thumb/2116919250178957312/img/a6AEvhbfXzAV1MHl.jpg"
-   }
-  ],
-  "created_at": "2026-11-01T15:44:23.000Z",
-  "metrics": {
-   "like": 69,
-   "repost": 11,
-   "bookmark": 15,
-   "view": 4127
-  }
- },
- {
-  "id": "2116906256468197815",
-  "handle": "kanti990",
-  "name": "かんち＠高配当株優待株投資",
-  "avatar": "https://pbs.twimg.com/profile_images/1613852211666391042/UhIYVl2-_400x400.jpg",
-  "theme": "日本株・高配当株",
-  "text": "国民年金3割減で怒っている人沢山いるけど、\nその後は更に減りますよ。\n\n年金賦課方式だと少子化が進めば進む程減る設計です。\n\n一層の事制度が腐っているので廃止して\n年金分株の指数を非課税で積み立てる制度に直した方が良いです。\n\n年金の制度は複雑すぎます。\nそして積み立て方式の10分の1も貰えないなんてどれだけ非効率なのか。\n\n年金全て廃止して年金NISAとかの制度を作った方が良いです。",
-  "media": [],
-  "created_at": "2026-11-01T14:52:36.000Z",
-  "metrics": {
-   "like": 556,
-   "repost": 41,
-   "bookmark": 30,
-   "view": 47086
-  }
- },
- {
-  "id": "2116904319434019119",
-  "handle": "techtalkjp",
-  "name": "coji 溝口浩二",
-  "avatar": "https://pbs.twimg.com/profile_images/2104824598185594880/MAHVbrBJ_400x400.jpg",
-  "theme": "行政DX",
-  "text": "デジタル庁のデザインシステムが偉大すぎて毎回感謝の念があふれてしまう。\n\nAIつかってHTMLで社内レポートつくるときに「デジタル庁のデザインシステムを参考にして」と一言いれるだけで、段違いに読みやすいレポートが一発で出るのです。\n\n本当にすごいことです。",
-  "media": [],
-  "created_at": "2026-11-01T14:44:54.000Z",
-  "metrics": {
-   "like": 661,
-   "repost": 35,
-   "bookmark": 549,
-   "view": 33724
-  }
- },
- {
-  "id": "2116885230183391330",
-  "handle": "jomo_news",
-  "name": "上毛新聞",
-  "avatar": "https://pbs.twimg.com/profile_images/876737128150966273/UZsw-Y1E_400x400.jpg",
-  "theme": "行政DX",
-  "text": "【読まれています】\n氏名に「外字」使用の市民400人、マイナンバーカードの電子証明書が失効　群馬・太田市\n\n#上毛新聞\nhttps://www.jomo-news.co.jp/articles/-/1055522",
-  "media": [],
-  "created_at": "2026-11-01T13:29:03.000Z",
-  "metrics": {
-   "like": 10,
-   "repost": 3,
-   "bookmark": 1,
-   "view": 2014
   }
  }
 ]

@@ -1,5 +1,185 @@
 [
  {
+  "id": "2118795192090386454",
+  "handle": "ClaudeDevs",
+  "name": "ClaudeDevs",
+  "avatar": "https://pbs.twimg.com/profile_images/2044472418815893504/xf14RxM8_400x400.png",
+  "theme": "AI",
+  "text": "We've made it easier to get your repo running in Claude Code cloud sessions on Pro, Max, and Ultra.\n\nClaude figures out what dependencies, network access, and API keys it needs, then saves the environment for next time. API keys are saved securely, so Claude never sees them.",
+  "media": [
+   {
+    "type": "video",
+    "url": "https://pbs.twimg.com/amplify_video_thumb/2118794810983329792/img/dw_n0u2DijbOZmpL.jpg"
+   }
+  ],
+  "created_at": "2026-11-06T19:58:33.000Z",
+  "metrics": {
+   "like": 2658,
+   "repost": 92,
+   "bookmark": 664,
+   "view": 115691
+  },
+  "translation_ja": "Pro・Max・Ultra の Claude Code クラウドセッションで、リポジトリを動かしやすくしました。\n\nClaude が必要な依存関係・ネットワークアクセス・APIキーを把握し、次回のために環境を保存します。APIキーは安全に保存されるため、Claude がキーを見ることはありません。 https://t.co/C3anyUAidY",
+  "added_at": "2026-11-06T21:17:12.244926+00:00"
+ },
+ {
+  "id": "2118782708767965238",
+  "handle": "OpenAI",
+  "name": "OpenAI",
+  "avatar": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_400x400.jpg",
+  "theme": "AI",
+  "text": "A new way to measure how AI agents handle the routine analyses of wet-lab science—BioBasicsBench.\n\nDeveloped with Ligo, a biotech company focused on enzyme design, the benchmark draws on 100 tasks from real experiments to test whether agents can interpret raw lab data, identify errors, and recognize when the evidence doesn’t support a conclusion.\n\nAccelerating biological research starts with getting the everyday work right. BioBasicsBench shows where models need to improve, and helps us track what those gains mean for scientific progress, biosafety, and biosecurity.\n\nhttps://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWdtpRua4AAuNL-.jpg"
+   }
+  ],
+  "created_at": "2026-11-06T19:08:57.000Z",
+  "metrics": {
+   "like": 1878,
+   "repost": 120,
+   "bookmark": 265,
+   "view": 252504
+  },
+  "translation_ja": "ウェットラボ科学の日常的な分析を AI エージェントがどう扱うかを測る新しい方法——BioBasicsBench。\n\n酵素設計に注力するバイオテック企業 Ligo と共同で開発したこのベンチマークは、実際の実験から得た 100 のタスクにもとづき、エージェントが生の実験データを解釈し、誤りを特定し、証拠が結論を支えない場合にそれを認識できるかを検証します。\n\n生物学研究の加速は、日常業務を正しくこなすことから始まります。BioBasicsBench はモデルが改善すべき箇所を示し、その向上が科学の進展・バイオセーフティ・バイオセキュリティにとって何を意味するかを追跡するのに役立ちます。\n\nhttps://t.co/wN2xLk0YeW",
+  "added_at": "2026-11-06T21:17:12.244926+00:00"
+ },
+ {
+  "id": "2118728758387773483",
+  "handle": "t_nihonmatsu",
+  "name": "二本松哲也 / Tetsuya Nihonmatsu",
+  "avatar": "https://pbs.twimg.com/profile_images/1437738711756595200/xY4ZPYD6_400x400.jpg",
+  "theme": "行政DX",
+  "text": "政府は11月6日、サイバー攻撃への対応を強化する緊急対策パッケージを発表しました。\n既存の体制と新たな体制を連携させ、予防・検知・対応・復旧・改善を一体的に機能\n被害企業を孤立させず、得られた教訓を社会全体の防御能力へ還元する仕組みを目指しています。\n\n対策は次の4つの柱で構成されています。\n① AIも活用した基本的な対策の徹底\n② 情報収集・集約、捜査・分析体制の強化\n③ サイバー攻撃への対処の戦略的な実施\n④ 被害者支援・被害拡大防止策の強化\n\nさらに、攻撃の状況や深刻度に応じた新たな対応体制も示されました。\n\nアウトリーチ・チーム\n潜在的な被害のおそれがある組織への能動的な働きかけ。\n\n官民サイバー救援隊\n特に支援が必要な被害組織へ官民の専門人材を派遣し、初動対応を支援。\n\nジョイント・レスポンス・チーム\n安全保障や社会経済に重大な影響を及ぼす事案に、関係省庁・警察・自衛隊等が連携して対応。\n\nファスト・フォレンジック・フォース\n警察によるログの保全や早期の原因究明など、捜査上の初動対応を強化。\n\nサイバーセキュリティお助け隊サービス\n中小企業向けの支援を拡充し、初動対応から復旧・バックアップまでを支援。\n\n今回の政策は、継続的に進化するサイバーレジリエンスの構築に向けた重要な一歩だと考えています。",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWc7ipAbYAEIDfa.jpg"
+   }
+  ],
+  "created_at": "2026-11-06T15:34:34.000Z",
+  "metrics": {
+   "like": 30,
+   "repost": 10,
+   "bookmark": 6,
+   "view": 1230
+  },
+  "added_at": "2026-11-06T21:17:12.244926+00:00"
+ },
+ {
+  "id": "2118629467015070076",
+  "handle": "shotovim",
+  "name": "松濤Vimmer",
+  "avatar": "https://pbs.twimg.com/profile_images/1846880148551045120/IkLrswuq_400x400.jpg",
+  "theme": "AI",
+  "text": "これめちゃくちゃ逆で、そんな消す作業とかしていても無駄なのでどんどん個人情報投入した方がいい。",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWa1qyzbsAADTfh.jpg"
+   }
+  ],
+  "created_at": "2026-11-06T09:00:01.000Z",
+  "metrics": {
+   "like": 88,
+   "repost": 7,
+   "bookmark": 32,
+   "view": 22531
+  },
+  "added_at": "2026-11-06T21:17:12.244926+00:00"
+ },
+ {
+  "id": "2118566361958175010",
+  "handle": "chawan_wabita",
+  "name": "ちゃわんご",
+  "avatar": "https://pbs.twimg.com/profile_images/1674738676247691265/0GoAaOdL_400x400.jpg",
+  "theme": "日本株・高配当株",
+  "text": "三菱重工さん、自社株買いと上方修正するもタイミングが悪すぎてしまう\n\n上方修正\n事業利益　+11.1%\n純利益　+15.8%\n自社株買い3.6%",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWao378aUAAOlFN.jpg"
+   },
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWao38HbcAASNu0.jpg"
+   },
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWao377bEAAs6Za.jpg"
+   },
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWao37-bEAELtyA.jpg"
+   }
+  ],
+  "created_at": "2026-11-06T04:49:16.000Z",
+  "metrics": {
+   "like": 762,
+   "repost": 46,
+   "bookmark": 41,
+   "view": 55564
+  },
+  "added_at": "2026-11-06T21:17:12.244926+00:00"
+ },
+ {
+  "id": "2118539618870345843",
+  "handle": "MacopeninSUTABA",
+  "name": "かずなり | 生成AI活用術",
+  "avatar": "https://pbs.twimg.com/profile_images/1871687946988060673/xDsh_ngS_400x400.jpg",
+  "theme": "PdM",
+  "text": "「3回つくってわかった、定期実行ジョブ基盤の本質」が有益。\n\n定期実行ジョブ基盤を3回構築して見えてきた「本質」から、実際の設計における試行錯誤のプロセスを解説。現場でそのまま参考にできるシステム設計の知見が学べる。\n\nこちら👉 \nhttps://speakerdeck.com/takai/i-built-a-scheduled-job-platform-three-times-and-now-i-know-the-essential-truths",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWANwCfaIAA65-u.jpg"
+   }
+  ],
+  "created_at": "2026-11-06T03:03:00.000Z",
+  "metrics": {
+   "like": 41,
+   "repost": 6,
+   "bookmark": 13,
+   "view": 3256
+  },
+  "added_at": "2026-11-06T21:17:12.244926+00:00"
+ },
+ {
+  "id": "2118535202192625749",
+  "handle": "may510654",
+  "name": "配当金魚 ＠ DOE＆累進配当投資",
+  "avatar": "https://pbs.twimg.com/profile_images/2074404827715756032/bNxZmZ6k_400x400.jpg",
+  "theme": "日本株・高配当株",
+  "text": "半導体関連はさすがに安く見えて購入。\n累進配当やDOE銘柄も中長期で仕込むチャンスだと思います。\n\n最新版ではありませんが、参考までに。\n\n■DOE採用銘柄リスト（2026/10/23）｜配当金魚 https://note.com/may510654/n/n6c97bcb360bc\n\n■累進配当銘柄リスト（2026/10/30）｜配当金魚 https://note.com/may510654/n/n1417768883dd",
+  "media": [],
+  "created_at": "2026-11-06T02:45:27.000Z",
+  "metrics": {
+   "like": 156,
+   "repost": 6,
+   "bookmark": 56,
+   "view": 13415
+  },
+  "added_at": "2026-11-06T21:17:12.244926+00:00"
+ },
+ {
+  "id": "2118494555746246691",
+  "handle": "kgsi",
+  "name": "こぎそ",
+  "avatar": "https://pbs.twimg.com/profile_images/2106765574747623424/YKS7OaPc_400x400.jpg",
+  "theme": "PdM",
+  "text": "AIと社内システムのデザインガイドラインを作る、GENDAの実践記事👀\n\nガイドラインをつくる上で、根拠や客観に基づいたエビデンスを残すのは重要、AIで作るなら特に。\n\n社内システムのデザインガイドラインを、根拠つきで AI と作る｜ytakagi（GENDA）\nhttps://zenn.dev/genda_jp/articles/43f2c7a4088b2f",
+  "media": [],
+  "created_at": "2026-11-06T00:03:56.000Z",
+  "metrics": {
+   "like": 64,
+   "repost": 4,
+   "bookmark": 78,
+   "view": 3065
+  },
+  "added_at": "2026-11-06T21:17:12.244926+00:00"
+ },
+ {
   "id": "2118693633352237340",
   "handle": "sorave55",
   "name": "そらぶ🐶💓高配当株好き",
@@ -7920,154 +8100,5 @@
    "bookmark": 3,
    "view": 6189
   }
- },
- {
-  "id": "2117063326228480403",
-  "handle": "_map_universe_",
-  "name": "Map",
-  "avatar": "https://pbs.twimg.com/profile_images/2076110644471099392/pevRMoHH_400x400.jpg",
-  "theme": "日本株・高配当株",
-  "text": "今朝の株クラ話題銘柄\n\n【日本株】\n・285A キオクシア — 金曜引け後の決算でPTS-12%前後、寄り前気配も-14%台で投げ売り報告が相次ぐ\n・6920 レーザーテック — 7-9月売上25%減で利益半減、PTSでもう一段安\n・8035 東京エレクトロン — 今期最高益見通しと1500億円の自社株買い、PTSで買い損ねた声も\n・6752 パナソニックHD — 今期最終を20%上方修正し最高益上乗せ、配当も増額\n・9984 ソフトバンクG — OpenAIの資金調達目標引き下げ報道で大幅続落\n・5334 日本特殊陶業 — 通期上方修正とDOE6%程度への還元方針変更で急騰\n・6196 ストライクG — 2期連続最高益と増配・自社株買いでストップ高\n\n【米株】\n・$AMZN Amazon — 決算未達とAI投資によるフリーCF流出で時間外に一時急落、本日は-1.75%で引け\n・$GOOGL Alphabet — 決算未達で過去最大の下落、時価総額約5000億ドルが吹き飛ぶ\n・$INTC Intel — 決算後に約-29%の暴落、半導体全面安（SOX-7.2%）の震源に\n・$NVDA Nvidia — 半導体売りで-4%、「Nvidiaが決算を外せば世界が終わる」投稿が拡散\n・$AAPL / $PLTR — どちらも今週決算、Appleは時価総額首位奪還が目前と話題\n・$MRVL / $LITE — MarvellがLumentum買収へ最終調整と報道、LITE+12%・MRVL-10%",
-  "media": [],
-  "created_at": "2026-11-02T01:16:44.000Z",
-  "metrics": {
-   "like": 7,
-   "repost": 0,
-   "bookmark": 0,
-   "view": 1876
-  }
- },
- {
-  "id": "2117060075865219219",
-  "handle": "nyattx",
-  "name": "横山信弘｜組織で「絶対達成」する",
-  "avatar": "https://pbs.twimg.com/profile_images/1187708714184130560/J9f3NUuT_400x400.jpg",
-  "theme": "PdM",
-  "text": "仮説検証サイクルを回すには、頭の中にフローチャートがあるといい（⤵） https://twitter.com/nyattx/status/2116455141746385014",
-  "media": [],
-  "created_at": "2026-11-02T01:03:49.000Z",
-  "metrics": {
-   "like": 6,
-   "repost": 2,
-   "bookmark": 3,
-   "view": 438
-  }
- },
- {
-  "id": "2117048220484571627",
-  "handle": "okayokay0214",
-  "name": "岡　佳伸",
-  "avatar": "https://pbs.twimg.com/profile_images/1349590569706639360/IepgiWPD_400x400.jpg",
-  "theme": "行政DX",
-  "text": "電子申請時に私は社労夢からe-govにＧビズID経由で申請していたのですが、先週末からエラー＆返戻が多発していたんですよね(2026年10月28日現在）\n（自動的にエラー又は返戻になる、返戻時は返戻表の添付が無い）\n訳も分からず再認証繰返していたのですが、その対応で正しいとのことです\n#電子申請",
-  "media": [
-   {
-    "type": "photo",
-    "url": "https://pbs.twimg.com/media/HWFClNGacAAeCsH.jpg"
-   }
-  ],
-  "created_at": "2026-11-02T00:16:43.000Z",
-  "metrics": {
-   "like": 9,
-   "repost": 0,
-   "bookmark": 0,
-   "view": 882
-  }
- },
- {
-  "id": "2117045493134213588",
-  "handle": "kobaka7",
-  "name": "こばかな",
-  "avatar": "https://pbs.twimg.com/profile_images/956867108020744193/wbXnVRKn_400x400.jpg",
-  "theme": "PdM",
-  "text": "良記事すぎた。素直にUIありきのツールを作っていたら使いこなすのむずい問題が発生したので、MCPの開発することで突破したFDE事例。\n\nNOT A HOTEL ARCHITECTS で目指す AI ネイティブなプロジェクト管理の実現｜uji @uji_rb https://note.com/ujiii/n/n1fb584ebd0f5?sub_rt=share_pw",
-  "media": [],
-  "created_at": "2026-11-02T00:05:53.000Z",
-  "metrics": {
-   "like": 1,
-   "repost": 0,
-   "bookmark": 0,
-   "view": 231
-  }
- },
- {
-  "id": "2117037334248280128",
-  "handle": "umiyuki_ai",
-  "name": "うみゆき@AI研究",
-  "avatar": "https://pbs.twimg.com/profile_images/1581572203660787712/SAdL4WOj_400x400.jpg",
-  "theme": "AI",
-  "text": "OpenAIからチャット使い放題死刑宣告のメールが来ました",
-  "media": [
-   {
-    "type": "photo",
-    "url": "https://pbs.twimg.com/media/HWE6IdJaQAAYGki.png"
-   }
-  ],
-  "created_at": "2026-11-01T23:33:27.000Z",
-  "metrics": {
-   "like": 63,
-   "repost": 11,
-   "bookmark": 4,
-   "view": 4039
-  }
- },
- {
-  "id": "2117034230656184638",
-  "handle": "shota7180",
-  "name": "木内翔大＠SHIFT AI代表「日本をAI先進国に」𝕏",
-  "avatar": "https://pbs.twimg.com/profile_images/1734034566925725696/cI8GDs2U_400x400.jpg",
-  "theme": "AI",
-  "text": "TapNow、言葉だけで3DCGの世界を生成できる「CineMap」を公開中！\n\n・テキストや音声指示で3D空間を構築\n・人物やオブジェクトを自由に配置\n・カメラ位置や動きを設定、撮影前にシミュレーション\n\n頭の中で思い描いた世界を3D空間として再現。映像制作に大いに活用できそう。",
-  "media": [
-   {
-    "type": "video",
-    "url": "https://pbs.twimg.com/ext_tw_video_thumb/2116856760581472256/pu/img/plz_vxNWP1KyAZkh.jpg"
-   }
-  ],
-  "created_at": "2026-11-01T23:21:07.000Z",
-  "metrics": {
-   "like": 11,
-   "repost": 3,
-   "bookmark": 4,
-   "view": 3195
-  }
- },
- {
-  "id": "2117029450659590355",
-  "handle": "Kazzn_blog",
-  "name": "KAZZN",
-  "avatar": "https://pbs.twimg.com/profile_images/1560587873958895617/w9a0BcLs_400x400.jpg",
-  "theme": "日本株・高配当株",
-  "text": "先週に、上場来高値を更新した銘柄✨\n\n🟢網屋(4258)\n🟢SBS HD(2384)\n🟢コナミG(9766)\n🟢加藤産業(9869)\n🟢良品計画(7453)\n🟢泉州電業(9824)\n🟢住友倉庫(9303)\n🟢大同信号(6743)\n🟢マックス(6454)\n🟢大塚商会(4768)\n🟢竹内製作所(6432)\n🟢ブシロード(7803)\n🟢日本調理機(2961)\n🟢かどや製油(2612)\n🟢鶴見製作所(6351)\n🟢センコーGHD(9069)\n🟢バンドー化学(5195)\n🟢日本特殊塗料(4619)\n🟢信越ポリマー(7970)\n🟢セグエグループ(3968)\n🟢サカタインクス(4633)\n🟢立花エレテック(8159)\n🟢建設技術研究所(9621)\n🟢テクマトリックス(3762)\n🟢セイコーエプソン(6724)\n🟢セキュアヴェイル(3042)\n🟢サイバートラスト(4498)\n🟢オンコリスバイオファーマ(4588)\n🟢ビジネスブレイン太田昭和(9658)\n🟢メディパルホールディングス(7459)\n🟢ダイワボウホールディングス(3107)\n🟢日本マクドナルドホールディングス(2702)",
-  "media": [],
-  "created_at": "2026-11-01T23:02:08.000Z",
-  "metrics": {
-   "like": 69,
-   "repost": 7,
-   "bookmark": 1,
-   "view": 5485
-  }
- },
- {
-  "id": "2117028355854012785",
-  "handle": "lennysan",
-  "name": "Lenny Rachitsky",
-  "avatar": "https://pbs.twimg.com/profile_images/1592990461517389824/iln8hi1f_400x400.jpg",
-  "theme": "PdM",
-  "text": "How @WisprFlow built a UGC growth engine where creators are making $100k+/year  https://twitter.com/lennysan/status/2116927042759635132",
-  "media": [
-   {
-    "type": "video",
-    "url": "https://pbs.twimg.com/amplify_video_thumb/2117028073019498496/img/LEndpIadClqRBlq0.jpg"
-   }
-  ],
-  "created_at": "2026-11-01T22:57:47.000Z",
-  "metrics": {
-   "like": 4,
-   "repost": 0,
-   "bookmark": 1,
-   "view": 1557
-  },
-  "translation_ja": "@WisprFlow は、クリエイターが年10万ドル以上を稼ぐUGC（ユーザー生成コンテンツ）の成長エンジンをどうやって築いたのか https://t.co/54hv0VM6UK https://t.co/oemKthP76H"
  }
 ]

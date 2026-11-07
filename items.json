@@ -1,5 +1,195 @@
 [
  {
+  "id": "2118870153702387930",
+  "handle": "miyatti",
+  "name": "miyatti | 生成AIエバンジェリスト / CPO",
+  "avatar": "https://pbs.twimg.com/profile_images/1992649414536765440/CIbawGhH_400x400.jpg",
+  "theme": "PdM",
+  "text": "正直まったくコンサルの流儀しらなかったのだけど、びっくりするぐらいBCG流でやってたわ。というか、いわゆるプロダクトマネージャーの方法論というか、LeanとかScrumとかってこっちよね。というか知らないだけでPDMの思想の背景にはBCG流があったりするんだろうか。 https://twitter.com/OL_mochinko/status/2118590663038288230",
+  "media": [],
+  "created_at": "2026-11-07T00:56:26.000Z",
+  "metrics": {
+   "like": 16,
+   "repost": 1,
+   "bookmark": 6,
+   "view": 889
+  },
+  "added_at": "2026-11-07T02:56:04.547701+00:00"
+ },
+ {
+  "id": "2118869962358145308",
+  "handle": "kabuasobi",
+  "name": "主婦投資家🥨",
+  "avatar": "https://pbs.twimg.com/profile_images/2116547488157220864/l4VEO9tr_400x400.jpg",
+  "theme": "日本株・高配当株",
+  "text": "セブン＆アイが成長投資を拡大📊\n\n2030年度までの成長・戦略投資を、従来の3.2兆円から3.5兆〜4兆円超に増額する方針。\n\n今回、株主還元で注目したいのがこちら👇\n\n・累進配当を継続\n・DOE4〜4.5％を目安に設定\n・自社株買い2兆円を含む総額2.8兆円の株主還元\n\nDOEとは、株主資本に対してどれくらい配当を出すかを示す指標です。\n\nちなみに、これまでのDOE実績は約2.7〜3.2％。\nそこから4〜4.5％を目安にするのは、かなり意欲的ですね☺️\n\n北米事業への成長投資を拡大しながら、株主還元にも力を入れる方針。\n\n今後の成長にも期待したいです！\nもちろん、私にとってはガチホ銘柄です🤗\n\n https://www.nikkei.com/article/DGXZQOUB060RA0W6A101C2000000/?n_cid=dsapp_share_ios",
+  "media": [],
+  "created_at": "2026-11-07T00:55:40.000Z",
+  "metrics": {
+   "like": 30,
+   "repost": 0,
+   "bookmark": 0,
+   "view": 553
+  },
+  "added_at": "2026-11-07T02:56:04.547701+00:00"
+ },
+ {
+  "id": "2118840896808722460",
+  "handle": "tetumemo",
+  "name": "テツメモ｜AI図解×検証｜Newsletter",
+  "avatar": "https://pbs.twimg.com/profile_images/1740572915685584896/7nsuwNFv_400x400.jpg",
+  "theme": "PdM",
+  "text": "📝元Anthropicの社員で、Claude CodeやClaude CoworkのプロダクトをリードしたCat WuさんがOpenAIのCore ProductsのPMをリードする、との発表\n\n本人投稿の範囲\n・OpenAIでCore Productsのプロダクトマネジメントをリードする\n・スケーリングの実証、10億人超へのAI提供、プロダクト重視への敬意、との一文\n・@thsottiaux やPMチーム、OpenAI全体との協業に言及\n・「agents that have your back」で制御を残す、時間を取り戻す、との方向性\n\nこれはなかなかアツい移動だ！\n\nhttps://x.com/_catwu/status/2118137612577968402",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWeikT3bUAARva4.jpg"
+   }
+  ],
+  "created_at": "2026-11-06T23:00:10.000Z",
+  "metrics": {
+   "like": 6,
+   "repost": 0,
+   "bookmark": 7,
+   "view": 1290
+  },
+  "added_at": "2026-11-07T02:56:04.547701+00:00"
+ },
+ {
+  "id": "2118826819248152601",
+  "handle": "tetsutalow",
+  "name": "上原 哲太郎/Tetsu. Uehara",
+  "avatar": "https://pbs.twimg.com/profile_images/1988567897636294656/a2m3DmRa_400x400.jpg",
+  "theme": "行政DX",
+  "text": "緊急対策パッケージ、事前に報じられた内容ではサイバー救援隊が目玉になってたけど、出てきたものを見るとAI使った脆弱性診断を網羅的にやろうってのが目玉で真っ当な感じ。ノウハウ共有で加速したいところ。 / https://htn.to/34Gs9dn7m2",
+  "media": [],
+  "created_at": "2026-11-06T22:04:14.000Z",
+  "metrics": {
+   "like": 75,
+   "repost": 24,
+   "bookmark": 27,
+   "view": 7789
+  },
+  "added_at": "2026-11-07T02:56:04.547701+00:00"
+ },
+ {
+  "id": "2118810654224310610",
+  "handle": "kobokuDXoji",
+  "name": "公僕DXおぢ",
+  "avatar": "https://pbs.twimg.com/profile_images/1920349182021206017/qAcWOYAz_400x400.jpg",
+  "theme": "行政DX",
+  "text": "デジタル庁が「自治体の事務の共同処理」に関するダッシュボードを更新しました。約5万件の事務について、どのような業務を自治体間で共同処理しているのか確認できます。人口減少が進む中、すべての自治体がすべての業務を自前で抱え続けるのは、だんだん難しくなっていくと思います。システムの共同利用だけでなく、業務そのものを共同化するという発想も重要。自治体DXというと、どうしても各自治体の業務効率化に目が向きがちですが、そもそも自治体ごとに同じ仕事をする必要があるのか。この視点はもっと議論されてもいい気がします。\nhttps://www.digital.go.jp/resources/govdashboard/wide-area-cooperation",
+  "media": [],
+  "created_at": "2026-11-06T21:00:00.000Z",
+  "metrics": {
+   "like": 23,
+   "repost": 1,
+   "bookmark": 7,
+   "view": 1761
+  },
+  "added_at": "2026-11-07T02:56:04.547701+00:00"
+ },
+ {
+  "id": "2118795218099253606",
+  "handle": "OpenAI",
+  "name": "OpenAI",
+  "avatar": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_400x400.jpg",
+  "theme": "AI",
+  "text": "We partnered with @fmf_org and its member firms on a new framework to help identify when bypassing an AI system's safeguards could enable serious cyber harm, and prioritize stronger protections.\n\n\"...This framework is an important step toward a common methodology for evaluating and comparing the severity of cyber jailbreaks, including the capabilities they unlock and how readily they can be used. Shared approaches like this can help the AI and security communities build a clearer evidence base and prioritize improvements to safeguards.\"  - OpenAI's Sasha Baker, Head of National Security Policy\n\nhttps://www.frontiermodelforum.org/updates/introducing-the-fmf-jailbreak-rating-framework-for-frontier-cyber-threats/",
+  "media": [],
+  "created_at": "2026-11-06T19:58:39.000Z",
+  "metrics": {
+   "like": 1088,
+   "repost": 79,
+   "bookmark": 144,
+   "view": 212753
+  },
+  "translation_ja": "@fmf_org およびその加盟企業と協力し、AIシステムの安全策を回避することが深刻なサイバー危害につながりうるケースを特定し、より強い保護を優先するための新しい枠組みをまとめました。\n\n「…この枠組みは、サイバージェイルブレイクの深刻度を評価・比較するための共通の方法論に向けた重要な一歩です。解放される能力や、それがどれだけ容易に悪用されうるかも含みます。こうした共有のアプローチは、AIとセキュリティのコミュニティがより明確なエビデンス基盤を築き、安全策の改善を優先するのに役立ちます。」—— OpenAI 国家安全保障政策責任者 Sasha Baker\n\nhttps://t.co/epOq98YPau",
+  "added_at": "2026-11-07T02:56:04.547701+00:00"
+ },
+ {
+  "id": "2118698081592250661",
+  "handle": "keitowebai",
+  "name": "KEITO💻AIディレクター",
+  "avatar": "https://pbs.twimg.com/profile_images/1675439080082128898/-eYNf8PE_400x400.jpg",
+  "theme": "AI",
+  "text": "トップがAIエージェントを学んで有能なSkillをセットアップしても、末端社員に届けるの難しすぎる。一人一人同じ学習をしてもらう？",
+  "media": [],
+  "created_at": "2026-11-06T13:32:40.000Z",
+  "metrics": {
+   "like": 36,
+   "repost": 0,
+   "bookmark": 4,
+   "view": 4778
+  },
+  "added_at": "2026-11-07T02:56:04.547701+00:00"
+ },
+ {
+  "id": "2118669856740651012",
+  "handle": "k2_naka",
+  "name": "K⁺oji Na⁺kamura",
+  "avatar": "https://pbs.twimg.com/profile_images/2059280192745689088/FeDg0zaI_400x400.jpg",
+  "theme": "行政DX",
+  "text": "（案）がとれた閣議決定版「サイバーセキュリティ緊急対策パッケージ」\nhttps://www.cas.go.jp/jp/seisaku/cybersecurity_kakuryokaigi/index.html#:~:text=%2D-,%E4%BC%9A%E8%AD%B0%E6%B1%BA%E5%AE%9A,-%EF%BC%88%E4%BB%A4%E5%92%8C%EF%BC%98%E5%B9%B4 https://twitter.com/k2_naka/status/2118639453451501920",
+  "media": [],
+  "created_at": "2026-11-06T11:40:31.000Z",
+  "metrics": {
+   "like": 32,
+   "repost": 12,
+   "bookmark": 16,
+   "view": 3767
+  },
+  "added_at": "2026-11-07T02:56:04.547701+00:00"
+ },
+ {
+  "id": "2118576009918476584",
+  "handle": "financial1111",
+  "name": "配当太郎",
+  "avatar": "https://pbs.twimg.com/profile_images/1566658926397247488/n8g7rtj7_400x400.jpg",
+  "theme": "日本株・高配当株",
+  "text": "ヤマハ発、モーター事業が堅調に推移。そしてまさかのこのタイミングで増配発表！60円(当初50円）に増配！！前期35円と不甲斐ない内容だったところから、復活！！",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWaxpu_aYAAsuFB.jpg"
+   },
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWaxpvBaAAA72zM.jpg"
+   }
+  ],
+  "created_at": "2026-11-06T05:27:36.000Z",
+  "metrics": {
+   "like": 690,
+   "repost": 14,
+   "bookmark": 21,
+   "view": 46966
+  },
+  "added_at": "2026-11-07T02:56:04.547701+00:00"
+ },
+ {
+  "id": "2118475704585351564",
+  "handle": "shota7180",
+  "name": "木内翔大＠SHIFT AI代表「日本をAI先進国に」𝕏",
+  "avatar": "https://pbs.twimg.com/profile_images/1734034566925725696/cI8GDs2U_400x400.jpg",
+  "theme": "AI",
+  "text": "Claude、個人向け財務管理機能「Personal Finance」を発表！\n\n銀行口座と連携することで、AIが残高や取引履歴を分析し、お金に関する質問に回答してくれます。\n\nアクセスは読み取り専用で、送金や投資などの操作はできません。\n\n米国の有料プラン向けにベータ版を提供中。",
+  "media": [
+   {
+    "type": "video",
+    "url": "https://pbs.twimg.com/media/HWYUk7ZWwAAcrVe.jpg"
+   }
+  ],
+  "created_at": "2026-11-05T22:49:02.000Z",
+  "metrics": {
+   "like": 25,
+   "repost": 4,
+   "bookmark": 10,
+   "view": 5180
+  },
+  "added_at": "2026-11-07T02:56:04.547701+00:00"
+ },
+ {
   "id": "2118795192090386454",
   "handle": "ClaudeDevs",
   "name": "ClaudeDevs",
@@ -7877,228 +8067,5 @@
    "view": 4143
   },
   "added_at": "2026-11-02T04:56:26.712662+00:00"
- },
- {
-  "id": "2117091670210777580",
-  "handle": "masahirochaen",
-  "name": "チャエン | デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》",
-  "avatar": "https://pbs.twimg.com/profile_images/1689665533929725953/fClFlzLd_400x400.jpg",
-  "theme": "AI",
-  "text": "アリババ系のロボット企業Robbyant（蚂蚁灵波）を上海で視察してきました。\n\nここはロボット本体もですが、「独自AIモデル」がかなり強い企業。\n\n・アント・グループ傘下、2024年設立\n・独自開発の基盤モデル「LingBot-VLA 2.0」を保有\n・6万時間の実データで学習、17社・20種類以上のロボットに対応\n・VLAだけでなく、世界モデルや空間認識モデルも自社開発\n・中国大手薬局チェーン「国大薬房」で薬のピッキングを実運用\n・自社ハードに閉じず、他社ロボットにもAIの「脳」を提供する戦略\n\n個人的には、ハードを売るだけでなく、複数メーカーのロボットを共通AIで動かす「一脳多機」の考え方が面白い。\n\n学習データの作り方から実装まで詳しく教えてもらい、アフターサポートもあるので安心感があります。\n\nデジライズでもまとまった台数の購入契約をしました。気になる方はお気軽にご相談ください！",
-  "media": [
-   {
-    "type": "video",
-    "url": "https://pbs.twimg.com/amplify_video_thumb/2117089032618569729/img/PHDcw0FpUb75eZ3Y.jpg"
-   },
-   {
-    "type": "video",
-    "url": "https://pbs.twimg.com/amplify_video_thumb/2117089035370000384/img/d-xkDDtte1Afor85.jpg"
-   },
-   {
-    "type": "video",
-    "url": "https://pbs.twimg.com/amplify_video_thumb/2117085863821914112/img/sUPPRxAw4-3_AKp9.jpg"
-   },
-   {
-    "type": "photo",
-    "url": "https://pbs.twimg.com/media/HWFNyk3boAAcr2l.jpg"
-   }
-  ],
-  "created_at": "2026-11-02T03:09:22.000Z",
-  "metrics": {
-   "like": 29,
-   "repost": 2,
-   "bookmark": 5,
-   "view": 6495
-  },
-  "added_at": "2026-11-02T04:56:26.712662+00:00"
- },
- {
-  "id": "2117089375142150232",
-  "handle": "shota7180",
-  "name": "木内翔大＠SHIFT AI代表「日本をAI先進国に」𝕏",
-  "avatar": "https://pbs.twimg.com/profile_images/1734034566925725696/cI8GDs2U_400x400.jpg",
-  "theme": "AI",
-  "text": "仕事や開発でAIを使い込むほど、利用制限による中断が作業の足かせになります。\n\nClaude Ultraでは、認証済みアカウントの「5時間制限」が撤廃。\n\nこれによって何が変わるのか、活用法と注意点を図解で整理しました↓  https://twitter.com/shota7180/status/2116669939444486383",
-  "media": [
-   {
-    "type": "photo",
-    "url": "https://pbs.twimg.com/media/HWFlwNubsAAPNj6.jpg"
-   }
-  ],
-  "created_at": "2026-11-02T03:00:15.000Z",
-  "metrics": {
-   "like": 12,
-   "repost": 3,
-   "bookmark": 3,
-   "view": 2273
-  },
-  "added_at": "2026-11-02T04:56:26.712662+00:00"
- },
- {
-  "id": "2117086053681275382",
-  "handle": "ryuzee",
-  "name": "Ryutaro YOSHIBA",
-  "avatar": "https://pbs.twimg.com/profile_images/57455340/672949_3845687997_400x400.jpg",
-  "theme": "PdM",
-  "text": "「CTO/EMも何かしら開発する」「AIに直接触れていかないとわからない」\n\nhttps://speakerdeck.com/konifar/ai-de-sentakushi-ga-hirogata-soshiki-sekkei-no-risou-to-genjitsu",
-  "media": [],
-  "created_at": "2026-11-02T02:47:03.000Z",
-  "metrics": {
-   "like": 14,
-   "repost": 0,
-   "bookmark": 10,
-   "view": 1204
-  },
-  "added_at": "2026-11-02T04:56:26.712662+00:00"
- },
- {
-  "id": "2117080263910203767",
-  "handle": "umiyuki_ai",
-  "name": "うみゆき@AI研究",
-  "avatar": "https://pbs.twimg.com/profile_images/1581572203660787712/SAdL4WOj_400x400.jpg",
-  "theme": "AI",
-  "text": "「なんか最近GrokBotの容量がすぐ尽きるぞ！」というツイに対してイーロンが「GrokBotは運用コストがメチャクチャかかって持続不可能でした」との事。うん、あのスペックのVM用意するだけで月数千円かかるよね。イーロンでさえ降参ならタダでバラ撒いてるMuseはどうなる！？ https://twitter.com/elonmusk/status/2116992258520064397",
-  "media": [],
-  "created_at": "2026-11-02T02:24:03.000Z",
-  "metrics": {
-   "like": 134,
-   "repost": 27,
-   "bookmark": 33,
-   "view": 10007
-  },
-  "added_at": "2026-11-02T04:56:26.712662+00:00"
- },
- {
-  "id": "2117017349819675061",
-  "handle": "sasakitoshinao",
-  "name": "佐々木俊尚",
-  "avatar": "https://pbs.twimg.com/profile_images/673006085192548353/h676ufd7_400x400.jpg",
-  "theme": "AI",
-  "text": "面白い。AIに目的を与えず、「好奇心旺盛で飽きっぽい」という性格の設定だけを与えて仮想空間の無人島に置き去りにしたところ「AIは自分から遊び始めた。ボウリングやバスケットボールを発明し、海に落として失ったリングを弔う記念碑を建て、ついには神殿まで作って儀式を行ったという。しかも遊んだAIは、遊ばなかったAIよりも賢くなっていたという」。AIも遊ぶんだな。↓",
-  "media": [
-   {
-    "type": "photo",
-    "url": "https://pbs.twimg.com/media/HWEoD6-XUAEticS.jpg"
-   }
-  ],
-  "created_at": "2026-11-01T22:14:03.000Z",
-  "metrics": {
-   "like": 175,
-   "repost": 27,
-   "bookmark": 32,
-   "view": 15354
-  },
-  "added_at": "2026-11-02T04:56:26.712662+00:00"
- },
- {
-  "id": "2117088940780036416",
-  "handle": "chawan_wabita",
-  "name": "ちゃわんご",
-  "avatar": "https://pbs.twimg.com/profile_images/1674738676247691265/0GoAaOdL_400x400.jpg",
-  "theme": "日本株・高配当株",
-  "text": "半導体さん、明暗が分かれ始める\n\n東京エレクトロン　＋5.1%\nアドバンテスト　＋2.3%\nレーザーテック　＋4.5%\n\nSCREEN　▲18.6%\nキオクシア　▲13.2%\nイビデン　▲4.1%",
-  "media": [
-   {
-    "type": "photo",
-    "url": "https://pbs.twimg.com/media/HWFpK5waAAAgSwn.jpg"
-   },
-   {
-    "type": "photo",
-    "url": "https://pbs.twimg.com/media/HWFpK5vboAEI3Zo.jpg"
-   },
-   {
-    "type": "photo",
-    "url": "https://pbs.twimg.com/media/HWFpK58bQAAWIVe.jpg"
-   },
-   {
-    "type": "photo",
-    "url": "https://pbs.twimg.com/media/HWFpK5uawAA-I6G.jpg"
-   }
-  ],
-  "created_at": "2026-11-02T02:58:31.000Z",
-  "metrics": {
-   "like": 11,
-   "repost": 3,
-   "bookmark": 1,
-   "view": 1639
-  }
- },
- {
-  "id": "2117081044860154331",
-  "handle": "digital_jpn",
-  "name": "デジタル庁",
-  "avatar": "https://pbs.twimg.com/profile_images/1432867630298419206/Uez_q2Zx_400x400.png",
-  "theme": "行政DX",
-  "text": "機械可読性チェックツール「Harunobu（はるのぶ）」公開✅\n\nExcelなどの表形式のデータが「コンピュータやAIにとって読みやすい形になっているか」を自動で点検し、100点満点で採点してくれるツールをGitHubで公開。データのどこをどう直せばよいかを迅速に把握できます。\nhttps://www.digital.go.jp/resources/machine-readability-rule/harunobu",
-  "media": [
-   {
-    "type": "photo",
-    "url": "https://pbs.twimg.com/media/HWFh0X8bAAE17dW.jpg"
-   }
-  ],
-  "created_at": "2026-11-02T02:27:09.000Z",
-  "metrics": {
-   "like": 14,
-   "repost": 2,
-   "bookmark": 8,
-   "view": 2032
-  }
- },
- {
-  "id": "2117079339812684211",
-  "handle": "kgsi",
-  "name": "こぎそ",
-  "avatar": "https://pbs.twimg.com/profile_images/2106765574747623424/YKS7OaPc_400x400.jpg",
-  "theme": "PdM",
-  "text": "AIで完成形まですぐ作れるようになった今、最初に何を見せるかを考えた記事📝\n\n「アウトプットの完成度と、合意の完成度は別」はその通りで、完成案をいきなり出すと、相手は好き嫌いでしか反応できなくなる。\n制作が速くなった分、合意フローは特に意図して組み立てる必要がある。受託の提案だとここが大事だと思う。\n\n完成形がすぐ作れる時代に、どこから見せるべきか｜ミテ @mite_pon \nhttps://note.com/miteo/n/n218625eae4c9",
-  "media": [],
-  "created_at": "2026-11-02T02:20:22.000Z",
-  "metrics": {
-   "like": 9,
-   "repost": 0,
-   "bookmark": 7,
-   "view": 788
-  }
- },
- {
-  "id": "2117072330656821641",
-  "handle": "yumamaeda1210",
-  "name": "前田悠馬｜御社専用のAIツールを毎月作る顧問",
-  "avatar": "https://pbs.twimg.com/profile_images/2111057152492326912/MqAJkBtX_400x400.jpg",
-  "theme": "AI",
-  "text": "Claude CodeやCodexでOffice資料を作るなら知っておきたい、AIエージェント向けのオープンソースツール「OfficeCLI」\n\nWord・Excel・PowerPointの作成だけでなく、既存ファイルの編集、データ集計、レイアウト確認までAIに任せられる。\n\nしかも、Microsoft Officeのインストール不要。\n\n何がすごいのかと言うと、\n■ ① Word・Excel・PowerPointをAIが直接編集\n例えば、AIにこんな指示ができる。\n・「この営業資料の売上数値を更新して」\n・「Excelの売上データを集計してグラフを作って」\n・「Wordの契約書から特定の条項を探して修正して」\n・「既存のPowerPointを使って来月の報告資料を作って」\nOfficeCLIは、AIがファイルの中身を読み取り、文章・セル・スライドなどを操作するためのツール。\nゼロから作るだけでなく、既存資料の修正にも使えるのがポイント。\n\n■ ② AIが資料を「目で見て」修正できる\nこれまでのAIによる資料作成では、内容が正しくても、\n・文字がスライドからはみ出す\n・図形が重なる\n・レイアウトが崩れる\nといった問題が起こりがちだった。\nOfficeCLIには、OfficeファイルをHTMLや画像として表示する機能がある。\nそのため、画像を認識できるAIなら、\n① 資料を作成する\n② 完成イメージを画像で確認する\n③ レイアウトの問題を見つける\n④ 修正して再確認する\nという流れを実行できる。\nつまり、AIが作って終わりではなく、自分の成果物を確認して改善する仕組みを作れる。\n\n■ ③ Excelの高度な処理にも対応\n単純なセル編集だけではない。\n・350種類以上のExcel関数\n・XLOOKUPなどの関数計算\n・ピボットテーブル\n・グラフ作成\n・条件付き書式\n・データの並び替え\nなどにも対応。\n例えば、毎月の売上Excelから集計表やグラフを作成し、報告資料に反映するといった業務自動化にも活用できる。\n\n■ ④ 大量の資料作成も自動化\nテンプレートにデータを流し込む機能もある。\n例えば、\n・顧客100社分の提案資料\n・毎月の営業報告書\n・取引先ごとの請求書\n・部署別の実績レポート\nなどを、共通のテンプレートから一括生成する仕組みを構築できる。\n毎回AIにゼロから作らせる必要がないため、レイアウトの統一や処理の効率化にもつながる。\n\n■ ⑤ Claude CodeやCodexなどと連携できる\nOfficeCLIは、AIエージェントから使うことを前提に設計されている。\nClaude Code、Codex、Cursorなどとの連携が可能で、MCPにも対応。\n\nさらに、AionUiというGUIアプリを使えば、自然言語でOffice資料を作成・編集することもできる。\nそして、OfficeCLI自体は無料のオープンソース。",
-  "media": [],
-  "created_at": "2026-11-02T01:52:31.000Z",
-  "metrics": {
-   "like": 3,
-   "repost": 0,
-   "bookmark": 2,
-   "view": 155
-  }
- },
- {
-  "id": "2117070827644662060",
-  "handle": "n__tysk",
-  "name": "億り猫レオ🐈🐾高配当投資",
-  "avatar": "https://pbs.twimg.com/profile_images/2116391297225494528/Xhlht0ME_400x400.jpg",
-  "theme": "日本株・高配当株",
-  "text": "【8473 SBI】2Q決算＆大幅増配発表📣\n\n大幅な増収増益の好決算と増配が発表されました！中間決算の時点ですでにEPS356.7円を稼ぎ出す力強い内容です✨\n  \n📊 決算ハイライト（27年3月期 2Q累計）\n・収益：1兆575億円（前年同期比+17.2%）\n・税引前利益：3,243億円（同+52.9%）\n・純利益：2,305億円（同+39.1%）\n・EPS：356.7円 （上期分のみ）\n\n💰 配当情報\n・期末配当予想：80円に決定！\n・年間配当予想：110円（+15円の増配）\n・予想配当利回り：約3.88%\n\n💬 株価動向\n私には好決算に見えますし、増配発表ですが、株価は2,840円（前日比 -26円 / -0.9%）と若干の下落で推移しています😭",
-  "media": [
-   {
-    "type": "photo",
-    "url": "https://pbs.twimg.com/media/HWFYskMasAA9J5U.jpg"
-   },
-   {
-    "type": "photo",
-    "url": "https://pbs.twimg.com/media/HWFYskLaUAA2ocJ.jpg"
-   }
-  ],
-  "created_at": "2026-11-02T01:46:33.000Z",
-  "metrics": {
-   "like": 43,
-   "repost": 2,
-   "bookmark": 3,
-   "view": 6189
-  }
  }
 ]

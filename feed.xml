@@ -6,7 +6,313 @@
 <atom:link href="https://noramimiyuma.github.io/x-feed/feed.xml" rel="self" type="application/rss+xml"/>
 <description>行政DX・PdM・AI・日本株/高配当株の注目X投稿（X偵察が更新）</description>
 <language>ja</language>
-<lastBuildDate>Sat, 07 Nov 2026 20:50:51 +0900</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2026 05:50:19 +0900</lastBuildDate>
+<item>
+<title>ちゃわんご (@chawan_wabita)</title>
+<link>https://x.com/chawan_wabita/status/2119072321214599405</link>
+<guid isPermaLink="true">https://x.com/chawan_wabita/status/2119072321214599405</guid>
+<category>日本株・高配当株</category>
+<dc:creator>ちゃわんご</dc:creator>
+<pubDate>Sat, 07 Nov 2026 20:50:15 +0000</pubDate>
+<xf:postedAt>2026-11-07T23:19:46+09:00</xf:postedAt>
+<xf:addedAt>2026-11-08T05:50:15.028697+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1674738676247691265/0GoAaOdL_400x400.jpg" width="48" height="48" alt="ちゃわんご"/> <b>ちゃわんご</b> @chawan_wabita</p><p>次のロシアの標的として総合商社のロシア権益も心配されてるがJTとは度合いが異なる<br/><br/>JT：事業会社のオーナー的立場、持ち分100％、経営支配を失う可能性<br/>三井・三菱：プロジェクトへの少数株主としての立場、持ち分10％～12.5％、配当停止や少額の減損の可能性<br/><br/>〇最も大きいのは利益への寄与度<br/>商社はロシア事業の利益を単独で開示してないが、全体に占める部分はわずか数％だと考えられる<br/><br/>さらに2022年にこのようなリスクに備えて事前に価値を引き下げてるため（画像）今後何かあったとしても数千億規模の減損は考えられない<br/><br/>間違ってたらごめん</p><p><img src="https://pbs.twimg.com/media/HWhy7Iva4AETFrQ.png" alt="画像"/></p><p>いいね 207・リポスト 25・ブックマーク 24・表示 24,152</p><p>投稿 2026-11-07 23:19（日本時間）・<a href="https://x.com/chawan_wabita/status/2119072321214599405">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[次のロシアの標的として総合商社のロシア権益も心配されてるがJTとは度合いが異なる
+
+JT：事業会社のオーナー的立場、持ち分100％、経営支配を失う可能性
+三井・三菱：プロジェクトへの少数株主としての立場、持ち分10％～12.5％、配当停止や少額の減損の可能性
+
+〇最も大きいのは利益への寄与度
+商社はロシア事業の利益を単独で開示してないが、全体に占める部分はわずか数％だと考えられる
+
+さらに2022年にこのようなリスクに備えて事前に価値を引き下げてるため（画像）今後何かあったとしても数千億規模の減損は考えられない
+
+間違ってたらごめん]]></xf:original>
+</item>
+<item>
+<title>kaito (@cu30rry_)</title>
+<link>https://x.com/cu30rry_/status/2119041676765274166</link>
+<guid isPermaLink="true">https://x.com/cu30rry_/status/2119041676765274166</guid>
+<category>AI</category>
+<dc:creator>kaito</dc:creator>
+<pubDate>Sat, 07 Nov 2026 20:50:15 +0000</pubDate>
+<xf:postedAt>2026-11-07T21:18:00+09:00</xf:postedAt>
+<xf:addedAt>2026-11-08T05:50:15.028697+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/2101959420439834625/ucyJOshP_400x400.jpg" width="48" height="48" alt="kaito"/> <b>kaito</b> @cu30rry_</p><p>「pstack はトークンを大量に使う」という意見があるが、長期的に見たとき、適切なことにトークンを費やすことは非効率なことだろうか？<br/><br/>適切なこととは、形式検証・Fuzzing・e2e 検証・コードベースのアーキテクチャなど、pstack がトークンを費やす部分だ<br/><br/>私は全く非効率なことだと思わない<br/>長期的に見て安上がりなのは、明らかに自動化まで持っていける pstack とその根底にある考え方だ<br/><br/>むしろ非効率なことは、適切な場所にトークンが投資されないことだったり、いつまでも自動化されないことではないだろうか？<br/><br/>たとえば、PRの自動マージができたのであれば、人間のレビューは不要となり、とんでもない速度でプロダクトを成長させることができる<br/><br/>一方、いつまでも自動化されなければ、そのプロダクトでは、マージに不必要な時間がかかることになるだろう<br/><br/>こういった環境には、エージェントによるレビュー・人間による設計とコードのレビューなどボトルネックが存在し続けることになる<br/>（しかも、人間のレビューでもエージェント使うので、そこでもトークン損失は起こる）<br/><br/>どちらが、トークン効率が良いかは議論するまでもないだろう<br/><br/>どう自動化したらよいかは pstack の考えを遵守すれば良い<br/><br/>1. コードベースを検証可能なツールをエージェントに渡す<br/>2. コードベースを整備する<br/>3. 決定論にできる部分は決定論に押し上げる<br/>4. 信頼できる成果物エージェントが出すことを確認する<br/>5. 自動化</p><p>いいね 55・リポスト 5・ブックマーク 38・表示 4,399</p><p>投稿 2026-11-07 21:18（日本時間）・<a href="https://x.com/cu30rry_/status/2119041676765274166">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[「pstack はトークンを大量に使う」という意見があるが、長期的に見たとき、適切なことにトークンを費やすことは非効率なことだろうか？
+
+適切なこととは、形式検証・Fuzzing・e2e 検証・コードベースのアーキテクチャなど、pstack がトークンを費やす部分だ
+
+私は全く非効率なことだと思わない
+長期的に見て安上がりなのは、明らかに自動化まで持っていける pstack とその根底にある考え方だ
+
+むしろ非効率なことは、適切な場所にトークンが投資されないことだったり、いつまでも自動化されないことではないだろうか？
+
+たとえば、PRの自動マージができたのであれば、人間のレビューは不要となり、とんでもない速度でプロダクトを成長させることができる
+
+一方、いつまでも自動化されなければ、そのプロダクトでは、マージに不必要な時間がかかることになるだろう
+
+こういった環境には、エージェントによるレビュー・人間による設計とコードのレビューなどボトルネックが存在し続けることになる
+（しかも、人間のレビューでもエージェント使うので、そこでもトークン損失は起こる）
+
+どちらが、トークン効率が良いかは議論するまでもないだろう
+
+どう自動化したらよいかは pstack の考えを遵守すれば良い
+
+1. コードベースを検証可能なツールをエージェントに渡す
+2. コードベースを整備する
+3. 決定論にできる部分は決定論に押し上げる
+4. 信頼できる成果物エージェントが出すことを確認する
+5. 自動化]]></xf:original>
+</item>
+<item>
+<title>藍田りみせ⚔株クエスト (@aitarimise)</title>
+<link>https://x.com/aitarimise/status/2119017396044500993</link>
+<guid isPermaLink="true">https://x.com/aitarimise/status/2119017396044500993</guid>
+<category>日本株・高配当株</category>
+<dc:creator>藍田りみせ⚔株クエスト</dc:creator>
+<pubDate>Sat, 07 Nov 2026 20:50:15 +0000</pubDate>
+<xf:postedAt>2026-11-07T19:41:31+09:00</xf:postedAt>
+<xf:addedAt>2026-11-08T05:50:15.028697+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/2118999405357592577/H_f4DnjL_400x400.jpg" width="48" height="48" alt="藍田りみせ⚔株クエスト"/> <b>藍田りみせ⚔株クエスト</b> @aitarimise</p><p>先週の増配・配当方針変更銘柄をまとめました📈<br/><br/>対象は2026/10/26〜10/30。<br/><br/>全部で34銘柄。<br/><br/>普通増配だけでなく、<br/>✅ 記念・特別配当<br/>✅ DOE変更<br/>✅ 累進配当導入<br/>✅ 初配<br/>も含めて整理しています。<br/><br/>10/30は特に多く、<br/>中電工、NGK、住友電工、パナソニックHD、日本特殊陶業、三和HDなどが一気に発表。<br/><br/>増配銘柄は「増配した」という事実だけでなく、<br/><br/>・利益成長が伴っているか<br/>・一時的な記念配当ではないか<br/>・配当方針そのものが強化されたか<br/><br/>ここまで見ると、かなり差が出ます。<br/><br/>この34銘柄の中から<br/>「利回り3％以上＋今期増益」でさらに絞ったランキングも作っています📊</p><p><img src="https://pbs.twimg.com/media/HWhDFW-bYAA-MJ7.jpg" alt="画像"/></p><p>いいね 19・リポスト 1・ブックマーク 2・表示 1,770</p><p>投稿 2026-11-07 19:41（日本時間）・<a href="https://x.com/aitarimise/status/2119017396044500993">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[先週の増配・配当方針変更銘柄をまとめました📈
+
+対象は2026/10/26〜10/30。
+
+全部で34銘柄。
+
+普通増配だけでなく、
+✅ 記念・特別配当
+✅ DOE変更
+✅ 累進配当導入
+✅ 初配
+も含めて整理しています。
+
+10/30は特に多く、
+中電工、NGK、住友電工、パナソニックHD、日本特殊陶業、三和HDなどが一気に発表。
+
+増配銘柄は「増配した」という事実だけでなく、
+
+・利益成長が伴っているか
+・一時的な記念配当ではないか
+・配当方針そのものが強化されたか
+
+ここまで見ると、かなり差が出ます。
+
+この34銘柄の中から
+「利回り3％以上＋今期増益」でさらに絞ったランキングも作っています📊]]></xf:original>
+</item>
+<item>
+<title>ゆたぽん@教員目線の教育と歴史 (@yutapon_edu)</title>
+<link>https://x.com/yutapon_edu/status/2119005689402327070</link>
+<guid isPermaLink="true">https://x.com/yutapon_edu/status/2119005689402327070</guid>
+<category>AI</category>
+<dc:creator>ゆたぽん@教員目線の教育と歴史</dc:creator>
+<pubDate>Sat, 07 Nov 2026 20:50:15 +0000</pubDate>
+<xf:postedAt>2026-11-07T18:55:00+09:00</xf:postedAt>
+<xf:addedAt>2026-11-08T05:50:15.028697+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/2076854879679823872/wDyb_3yN_400x400.jpg" width="48" height="48" alt="ゆたぽん@教員目線の教育と歴史"/> <b>ゆたぽん@教員目線の教育と歴史</b> @yutapon_edu</p><p>Googleが、小中高校生の学校用アカウントでAI機能を原則オフにする方針を発表しました。<br/><br/>対象には、<br/><br/>・Gemini<br/>・Gemini Notebook<br/>・Gemini in Classroom<br/>・Google検索<br/><br/>などが含まれます。<br/><br/>学校の管理者が明示的に有効化するまで、対象サービスを利用できない設定に変更する方針です。<br/><br/>興味深いのは、AIを全面的に禁止するのではなく、学校側に利用の判断を委ねることです。<br/><br/>ここで考えたいのは、生成AIの教育利用を誰が管理するのかという問題です。<br/><br/>AIを使うこと自体が悪いわけではありません。<br/><br/>しかし、児童生徒がどのような場面で利用し、回答をどのように検証するのか。<br/><br/>それを学校が設計できなければ、AIは単なる解答生成ツールになりかねません。<br/><br/>生成AIの導入で重要なのは、利用の有無よりも、学習効果を高めるための運用設計だと思います。</p><p>いいね 13・リポスト 1・ブックマーク 3・表示 3,378</p><p>投稿 2026-11-07 18:55（日本時間）・<a href="https://x.com/yutapon_edu/status/2119005689402327070">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[Googleが、小中高校生の学校用アカウントでAI機能を原則オフにする方針を発表しました。
+
+対象には、
+
+・Gemini
+・Gemini Notebook
+・Gemini in Classroom
+・Google検索
+
+などが含まれます。
+
+学校の管理者が明示的に有効化するまで、対象サービスを利用できない設定に変更する方針です。
+
+興味深いのは、AIを全面的に禁止するのではなく、学校側に利用の判断を委ねることです。
+
+ここで考えたいのは、生成AIの教育利用を誰が管理するのかという問題です。
+
+AIを使うこと自体が悪いわけではありません。
+
+しかし、児童生徒がどのような場面で利用し、回答をどのように検証するのか。
+
+それを学校が設計できなければ、AIは単なる解答生成ツールになりかねません。
+
+生成AIの導入で重要なのは、利用の有無よりも、学習効果を高めるための運用設計だと思います。]]></xf:original>
+</item>
+<item>
+<title>サカモト@エンジニアキャリア論 (@sakamoto_582)</title>
+<link>https://x.com/sakamoto_582/status/2119004147668435424</link>
+<guid isPermaLink="true">https://x.com/sakamoto_582/status/2119004147668435424</guid>
+<category>PdM</category>
+<dc:creator>サカモト@エンジニアキャリア論</dc:creator>
+<pubDate>Sat, 07 Nov 2026 20:50:15 +0000</pubDate>
+<xf:postedAt>2026-11-07T18:48:52+09:00</xf:postedAt>
+<xf:addedAt>2026-11-08T05:50:15.028697+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1617195321356079104/2gj08RyW_400x400.jpg" width="48" height="48" alt="サカモト@エンジニアキャリア論"/> <b>サカモト@エンジニアキャリア論</b> @sakamoto_582</p><p>自分の磨いてきた経験やスキルが無駄になっていくことに焦るエンジニアは多いと思います。<br/><br/>しかし、フロントエンドエンジニアなら、ユーザーに近い立場でUX等何をすればサービスが良くなるかを肌で感じてきたはず。<br/><br/>仕事の抽象度を上げて生き残っていきましょう。 <a href="https://twitter.com/ogata0510/status/2118940942392832043">https://twitter.com/ogata0510/status/2118940942392832043</a></p><p>いいね 77・リポスト 6・ブックマーク 23・表示 14,164</p><p>投稿 2026-11-07 18:48（日本時間）・<a href="https://x.com/sakamoto_582/status/2119004147668435424">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[自分の磨いてきた経験やスキルが無駄になっていくことに焦るエンジニアは多いと思います。
+
+しかし、フロントエンドエンジニアなら、ユーザーに近い立場でUX等何をすればサービスが良くなるかを肌で感じてきたはず。
+
+仕事の抽象度を上げて生き残っていきましょう。 https://twitter.com/ogata0510/status/2118940942392832043]]></xf:original>
+</item>
+<item>
+<title>KAZZN (@Kazzn_blog)</title>
+<link>https://x.com/Kazzn_blog/status/2118974322228580628</link>
+<guid isPermaLink="true">https://x.com/Kazzn_blog/status/2118974322228580628</guid>
+<category>日本株・高配当株</category>
+<dc:creator>KAZZN</dc:creator>
+<pubDate>Sat, 07 Nov 2026 20:50:15 +0000</pubDate>
+<xf:postedAt>2026-11-07T16:50:21+09:00</xf:postedAt>
+<xf:addedAt>2026-11-08T05:50:15.028697+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1560587873958895617/w9a0BcLs_400x400.jpg" width="48" height="48" alt="KAZZN"/> <b>KAZZN</b> @Kazzn_blog</p><p>日経平均銘柄の、高配当株の利回りとPBR✨<br/><br/>🟢王子HD(3861) 4.50％ 0.62倍<br/>🟢AGC(5201) 4.47％ 0.68倍<br/>🟢JT(2914) 4.34％ 2.70倍<br/>🟢積水ハウス(1928) 4.17％ 1.00倍<br/>🟢神戸製鋼所(5406) 4.16％ 0.61倍<br/>🟢双日(2768) 3.77％ 0.86倍<br/>🟢長谷工コーポレーション(1808) 3.73％ 1.25倍<br/>🟢日本電気硝子(5214) 3.52％ 0.68倍<br/>🟢クラレ(3405) 3.47％ 0.73倍<br/>🟢MS&amp;AD(8725) 3.45％ 1.04倍<br/>🟢INPEX(1605) 3.28％ 0.77倍<br/>🟢コマツ(6301) 3.28％ 1.48倍<br/>🟢アステラス製薬(4503) 3.24％ 2.24倍<br/>🟢大林組(1802) 3.20％ 1.62倍<br/>🟢三菱ケミカルG(4188) 3.19％ 0.75倍<br/>🟢武田薬品工業(4502) 3.11％ 1.41倍<br/>🟢ブリヂストン(5108) 3.05％ 1.34倍<br/>🟢アマダ(6113) 3.03％ 1.20倍<br/>🟢商船三井(9104) 2.93％ 0.94倍<br/>🟢ENEOS(5020) 2.90％ 0.83倍</p><p>いいね 248・リポスト 8・ブックマーク 52・表示 21,921</p><p>投稿 2026-11-07 16:50（日本時間）・<a href="https://x.com/Kazzn_blog/status/2118974322228580628">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[日経平均銘柄の、高配当株の利回りとPBR✨
+
+🟢王子HD(3861) 4.50％ 0.62倍
+🟢AGC(5201) 4.47％ 0.68倍
+🟢JT(2914) 4.34％ 2.70倍
+🟢積水ハウス(1928) 4.17％ 1.00倍
+🟢神戸製鋼所(5406) 4.16％ 0.61倍
+🟢双日(2768) 3.77％ 0.86倍
+🟢長谷工コーポレーション(1808) 3.73％ 1.25倍
+🟢日本電気硝子(5214) 3.52％ 0.68倍
+🟢クラレ(3405) 3.47％ 0.73倍
+🟢MS&AD(8725) 3.45％ 1.04倍
+🟢INPEX(1605) 3.28％ 0.77倍
+🟢コマツ(6301) 3.28％ 1.48倍
+🟢アステラス製薬(4503) 3.24％ 2.24倍
+🟢大林組(1802) 3.20％ 1.62倍
+🟢三菱ケミカルG(4188) 3.19％ 0.75倍
+🟢武田薬品工業(4502) 3.11％ 1.41倍
+🟢ブリヂストン(5108) 3.05％ 1.34倍
+🟢アマダ(6113) 3.03％ 1.20倍
+🟢商船三井(9104) 2.93％ 0.94倍
+🟢ENEOS(5020) 2.90％ 0.83倍]]></xf:original>
+</item>
+<item>
+<title>畑の支柱 (@tian485)</title>
+<link>https://x.com/tian485/status/2118960472930287807</link>
+<guid isPermaLink="true">https://x.com/tian485/status/2118960472930287807</guid>
+<category>行政DX</category>
+<dc:creator>畑の支柱</dc:creator>
+<pubDate>Sat, 07 Nov 2026 20:50:15 +0000</pubDate>
+<xf:postedAt>2026-11-07T15:55:19+09:00</xf:postedAt>
+<xf:addedAt>2026-11-08T05:50:15.028697+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/2089315403243884544/9qL6sYUO_400x400.jpg" width="48" height="48" alt="畑の支柱"/> <b>畑の支柱</b> @tian485</p><p>FinOps自体は価値ある取り組みだと思ってるんですが<br/>自治体システム標準化におけるFinOpsって<br/>コスト3倍を責められて捻り出したやつなので、生まれた瞬間から間違ってるんじゃないですかね <a href="https://twitter.com/fcy8uh/status/2118940761190543494">https://twitter.com/fcy8uh/status/2118940761190543494</a></p><p>いいね 22・リポスト 8・ブックマーク 1・表示 1,643</p><p>投稿 2026-11-07 15:55（日本時間）・<a href="https://x.com/tian485/status/2118960472930287807">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[FinOps自体は価値ある取り組みだと思ってるんですが
+自治体システム標準化におけるFinOpsって
+コスト3倍を責められて捻り出したやつなので、生まれた瞬間から間違ってるんじゃないですかね https://twitter.com/fcy8uh/status/2118940761190543494]]></xf:original>
+</item>
+<item>
+<title>中崎工房 | AIで1時間の仕事を5分で終わらせる人 (@nakazakifam)</title>
+<link>https://x.com/nakazakifam/status/2118935023931801651</link>
+<guid isPermaLink="true">https://x.com/nakazakifam/status/2118935023931801651</guid>
+<category>AI</category>
+<dc:creator>中崎工房 | AIで1時間の仕事を5分で終わらせる人</dc:creator>
+<pubDate>Sat, 07 Nov 2026 20:50:15 +0000</pubDate>
+<xf:postedAt>2026-11-07T14:14:12+09:00</xf:postedAt>
+<xf:addedAt>2026-11-08T05:50:15.028697+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1929258586087055360/-4MU8kL9_400x400.jpg" width="48" height="48" alt="中崎工房 | AIで1時間の仕事を5分で終わらせる人"/> <b>中崎工房 | AIで1時間の仕事を5分で終わらせる人</b> @nakazakifam</p><p>自作のネット不要・機内モードで動くリアルタイム翻訳アプリに、話題のPLaMo 3 Translate 0.8Bを導入したところ、ローカルのレベルを超えた爆速で精度もそこそこ、これはついに使えるレベルにきた気がします。<br/><br/>翻訳は1文あたり約2秒。多少の誤訳はあるけど、この速さなら普通に実用レベルだと思います。<br/>今までつかっていたGemma4は翻訳に時間がかかって追いつかなかったのですが、PLaMo 3 Translateは翻訳品質をそこそこのレベルで保ったまま、追いつけているのがわかります。<br/>動画はパソコンで再生した海外のvlog動画をスマホアプリで聴いて、リアルタイム翻訳している様子をスクリーンレコードしたものです。実際の画面です。速度はいじってません。<br/><br/>元動画: Paige Paul (CC BY)<br/><a href="https://www.youtube.com/watch?v=tQ0WvCfDgnI">https://www.youtube.com/watch?v=tQ0WvCfDgnI</a></p><p><a href="https://x.com/nakazakifam/status/2118935023931801651"><img src="https://pbs.twimg.com/amplify_video_thumb/2118932701004578816/img/DN-2OTJe9JSq6jol.jpg" alt="動画"/></a><br/>（動画はXで再生）</p><p>いいね 3・リポスト 0・ブックマーク 4・表示 320</p><p>投稿 2026-11-07 14:14（日本時間）・<a href="https://x.com/nakazakifam/status/2118935023931801651">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[自作のネット不要・機内モードで動くリアルタイム翻訳アプリに、話題のPLaMo 3 Translate 0.8Bを導入したところ、ローカルのレベルを超えた爆速で精度もそこそこ、これはついに使えるレベルにきた気がします。
+
+翻訳は1文あたり約2秒。多少の誤訳はあるけど、この速さなら普通に実用レベルだと思います。
+今までつかっていたGemma4は翻訳に時間がかかって追いつかなかったのですが、PLaMo 3 Translateは翻訳品質をそこそこのレベルで保ったまま、追いつけているのがわかります。
+動画はパソコンで再生した海外のvlog動画をスマホアプリで聴いて、リアルタイム翻訳している様子をスクリーンレコードしたものです。実際の画面です。速度はいじってません。
+
+元動画: Paige Paul (CC BY)
+https://www.youtube.com/watch?v=tQ0WvCfDgnI]]></xf:original>
+</item>
+<item>
+<title>Manabu Muta  牟田 学 (@mutamana)</title>
+<link>https://x.com/mutamana/status/2118934946597462188</link>
+<guid isPermaLink="true">https://x.com/mutamana/status/2118934946597462188</guid>
+<category>行政DX</category>
+<dc:creator>Manabu Muta  牟田 学</dc:creator>
+<pubDate>Sat, 07 Nov 2026 20:50:15 +0000</pubDate>
+<xf:postedAt>2026-11-07T14:13:53+09:00</xf:postedAt>
+<xf:addedAt>2026-11-08T05:50:15.028697+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1175549628/selfphoto_400x400.jpg" width="48" height="48" alt="Manabu Muta  牟田 学"/> <b>Manabu Muta  牟田 学</b> @mutamana</p><p>現状の自治体システム標準化は、<br/>•  仕様・画面・処理フローの共通化<br/>•  標準準拠パッケージへの移行率<br/>を主眼に置いて、データそのものの「意味的な相互運用性」や、ベンダー非依存でのデータ抽出・変換・検証の容易さが、十分に設計されていなかった可能性が高いです。</p><p>いいね 18・リポスト 1・ブックマーク 2・表示 3,431</p><p>投稿 2026-11-07 14:13（日本時間）・<a href="https://x.com/mutamana/status/2118934946597462188">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[現状の自治体システム標準化は、
+•  仕様・画面・処理フローの共通化
+•  標準準拠パッケージへの移行率
+を主眼に置いて、データそのものの「意味的な相互運用性」や、ベンダー非依存でのデータ抽出・変換・検証の容易さが、十分に設計されていなかった可能性が高いです。]]></xf:original>
+</item>
+<item>
+<title>みのさん@高配当×株主優待 (@minosann0304)</title>
+<link>https://x.com/minosann0304/status/2118901256899248557</link>
+<guid isPermaLink="true">https://x.com/minosann0304/status/2118901256899248557</guid>
+<category>日本株・高配当株</category>
+<dc:creator>みのさん@高配当×株主優待</dc:creator>
+<pubDate>Sat, 07 Nov 2026 20:50:15 +0000</pubDate>
+<xf:postedAt>2026-11-07T12:00:01+09:00</xf:postedAt>
+<xf:addedAt>2026-11-08T05:50:15.028697+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/2096944098305552384/VniV0b5A_400x400.jpg" width="48" height="48" alt="みのさん@高配当×株主優待"/> <b>みのさん@高配当×株主優待</b> @minosann0304</p><p>💰年間配当予想210円→238円へ<br/>※どちらも株式分割前換算<br/><br/>日本特殊陶業（5334）が10/30に、増配と配当方針の変更を発表しました👀<br/><br/>🌱新しい配当方針<br/>2027年3月期から2030年3月期まで<br/>DOE6％程度を目標に、安定的な配当を目指す方針へ変更<br/><br/>従来は「DOE4％程度を下限とする部分＋配当性向10％程度を目標とする部分」の組み合わせでした<br/><br/>📈年間配当予想は従来比28円増<br/>約13.3％の引き上げです<br/><br/>📝ここは確認<br/>10/1に1株→2株へ分割済み<br/>期末配当予想は、分割後の1株当たり59.50円です<br/><br/>また、DOE6％は配当利回り6％という意味ではありません<br/>自己資本を基準にした配当の指標です💡<br/><br/>増配額だけでなく「どんなルールで配当を決めるか」まで確認したいですね😊</p><p><img src="https://pbs.twimg.com/media/HWRhaMAbIAAp5Lf.jpg" alt="画像"/></p><p>いいね 17・リポスト 0・ブックマーク 2・表示 1,305</p><p>投稿 2026-11-07 12:00（日本時間）・<a href="https://x.com/minosann0304/status/2118901256899248557">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[💰年間配当予想210円→238円へ
+※どちらも株式分割前換算
+
+日本特殊陶業（5334）が10/30に、増配と配当方針の変更を発表しました👀
+
+🌱新しい配当方針
+2027年3月期から2030年3月期まで
+DOE6％程度を目標に、安定的な配当を目指す方針へ変更
+
+従来は「DOE4％程度を下限とする部分＋配当性向10％程度を目標とする部分」の組み合わせでした
+
+📈年間配当予想は従来比28円増
+約13.3％の引き上げです
+
+📝ここは確認
+10/1に1株→2株へ分割済み
+期末配当予想は、分割後の1株当たり59.50円です
+
+また、DOE6％は配当利回り6％という意味ではありません
+自己資本を基準にした配当の指標です💡
+
+増配額だけでなく「どんなルールで配当を決めるか」まで確認したいですね😊]]></xf:original>
+</item>
+<item>
+<title>きびなご＠株主優待と高配当株を買い続ける (@kibinago7777)</title>
+<link>https://x.com/kibinago7777/status/2118862708795969956</link>
+<guid isPermaLink="true">https://x.com/kibinago7777/status/2118862708795969956</guid>
+<category>日本株・高配当株</category>
+<dc:creator>きびなご＠株主優待と高配当株を買い続ける</dc:creator>
+<pubDate>Sat, 07 Nov 2026 20:50:15 +0000</pubDate>
+<xf:postedAt>2026-11-07T09:26:50+09:00</xf:postedAt>
+<xf:addedAt>2026-11-08T05:50:15.028697+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/378800000806646013/adcacf8b46097423ff48310bd3fd3ad7_400x400.jpeg" width="48" height="48" alt="きびなご＠株主優待と高配当株を買い続ける"/> <b>きびなご＠株主優待と高配当株を買い続ける</b> @kibinago7777</p><p>◆丸建リース（9763）<br/>・丸紅系の建設仮設材リース大手<br/><br/>◆2027年3月期２Ｑ決算<br/>・営業利益は増益も、一時利益の剝落により、純利益は減益です<br/><br/>◆株主還元<br/>・累進配当の導入を発表です<br/>・あわせて、配当金修正・３円の増配です<br/>・保有株は300株だけですが、900円の増収になります</p><p><img src="https://pbs.twimg.com/media/HWe2ZKgbAAAh695.jpg" alt="画像"/></p><p>いいね 12・リポスト 0・ブックマーク 1・表示 2,515</p><p>投稿 2026-11-07 09:26（日本時間）・<a href="https://x.com/kibinago7777/status/2118862708795969956">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[◆丸建リース（9763）
+・丸紅系の建設仮設材リース大手
+
+◆2027年3月期２Ｑ決算
+・営業利益は増益も、一時利益の剝落により、純利益は減益です
+
+◆株主還元
+・累進配当の導入を発表です
+・あわせて、配当金修正・３円の増配です
+・保有株は300株だけですが、900円の増収になります]]></xf:original>
+</item>
+<item>
+<title>Sean Goedecke (@sjgoedecke)</title>
+<link>https://x.com/sjgoedecke/status/2118839170718470280</link>
+<guid isPermaLink="true">https://x.com/sjgoedecke/status/2118839170718470280</guid>
+<category>PdM</category>
+<dc:creator>Sean Goedecke</dc:creator>
+<pubDate>Sat, 07 Nov 2026 20:50:15 +0000</pubDate>
+<xf:postedAt>2026-11-07T07:53:19+09:00</xf:postedAt>
+<xf:addedAt>2026-11-08T05:50:15.028697+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1866003359989436416/nCp1Mb0v_400x400.jpg" width="48" height="48" alt="Sean Goedecke"/> <b>Sean Goedecke</b> @sjgoedecke</p><p>I love working with designers, in part because (unlike managers and product managers) they’re culturally different from engineers. However, having more than one designer on a team is asking for trouble, and I have complicated negative thoughts about design systems.</p><hr/><p><b>日本語訳</b></p><p>デザイナーと一緒に働くのが大好きだ。理由のひとつは、（マネージャーやプロダクトマネージャーと違って）彼らがエンジニアとは文化的に異なる存在だからだ。とはいえ、1つのチームにデザイナーが2人以上いるのはトラブルのもとだし、デザインシステムについては複雑で否定的な思いを抱いている。 <a href="https://t.co/mCc9RfSQ7v">https://t.co/mCc9RfSQ7v</a></p><hr/><p><img src="https://pbs.twimg.com/media/HWeg_vPasAA4h7c.png" alt="画像"/></p><p><img src="https://pbs.twimg.com/media/HWeg_24asAA49py.png" alt="画像"/></p><p>いいね 32・リポスト 0・ブックマーク 16・表示 2,474</p><p>投稿 2026-11-07 07:53（日本時間）・<a href="https://x.com/sjgoedecke/status/2118839170718470280">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[I love working with designers, in part because (unlike managers and product managers) they’re culturally different from engineers. However, having more than one designer on a team is asking for trouble, and I have complicated negative thoughts about design systems.]]></xf:original>
+<xf:translation xml:lang="ja"><![CDATA[デザイナーと一緒に働くのが大好きだ。理由のひとつは、（マネージャーやプロダクトマネージャーと違って）彼らがエンジニアとは文化的に異なる存在だからだ。とはいえ、1つのチームにデザイナーが2人以上いるのはトラブルのもとだし、デザインシステムについては複雑で否定的な思いを抱いている。 https://t.co/mCc9RfSQ7v]]></xf:translation>
+</item>
+<item>
+<title>ウマたん(上野佑馬) | AI×個人開発 (@statistics1012)</title>
+<link>https://x.com/statistics1012/status/2118834813423825378</link>
+<guid isPermaLink="true">https://x.com/statistics1012/status/2118834813423825378</guid>
+<category>PdM</category>
+<dc:creator>ウマたん(上野佑馬) | AI×個人開発</dc:creator>
+<pubDate>Sat, 07 Nov 2026 20:50:15 +0000</pubDate>
+<xf:postedAt>2026-11-07T07:36:00+09:00</xf:postedAt>
+<xf:addedAt>2026-11-08T05:50:15.028697+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1271052037518573568/aQXx0CVf_400x400.jpg" width="48" height="48" alt="ウマたん(上野佑馬) | AI×個人開発"/> <b>ウマたん(上野佑馬) | AI×個人開発</b> @statistics1012</p><p>オンボーディングでユーザーに質問をしてパーソナライズするのは大前提で、いかにその過程を飽きさせずアプリの世界観に没入させて離脱率を減らすかが大事になっている。その点で言うと、やはり「Tolan（<a href="https://onbo-hub.com/apps/tolan）」というアプリのオンボーディングが圧倒的。こりゃマネできないわって感じ">https://onbo-hub.com/apps/tolan）」というアプリのオンボーディングが圧倒的。こりゃマネできないわって感じ</a></p><p><a href="https://x.com/statistics1012/status/2118834813423825378"><img src="https://pbs.twimg.com/amplify_video_thumb/2118047207769194496/img/ZWsRVCX1_TOvz2le.jpg" alt="動画"/></a><br/>（動画はXで再生）</p><p>いいね 23・リポスト 0・ブックマーク 18・表示 2,268</p><p>投稿 2026-11-07 07:36（日本時間）・<a href="https://x.com/statistics1012/status/2118834813423825378">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[オンボーディングでユーザーに質問をしてパーソナライズするのは大前提で、いかにその過程を飽きさせずアプリの世界観に没入させて離脱率を減らすかが大事になっている。その点で言うと、やはり「Tolan（https://onbo-hub.com/apps/tolan）」というアプリのオンボーディングが圧倒的。こりゃマネできないわって感じ]]></xf:original>
+</item>
 <item>
 <title>牛 (@ushida47)</title>
 <link>https://x.com/ushida47/status/2119027056495476762</link>
@@ -9911,306 +10217,6 @@ honestly feels so nice having a clean machine again hehe]]></xf:original>
 「私のMacで、AIエージェントのトランスクリプト（Claude、Codex、Cursor、Grok）、SQLiteのセッションログ、30日より古いエディタの残りのドットフォルダを監査して。まずサイズを見せて、30日より古いものは全部削除し、30日で自動削除する毎日のチェックを追加して。」
 
 正直、またきれいなマシンになってすごく気持ちいい hehe]]></xf:translation>
-</item>
-<item>
-<title>呉縞 慶一 @ Modelist CEO (@K_Kureshima)</title>
-<link>https://x.com/K_Kureshima/status/2117024783972127126</link>
-<guid isPermaLink="true">https://x.com/K_Kureshima/status/2117024783972127126</guid>
-<category>AI</category>
-<dc:creator>呉縞 慶一 @ Modelist CEO</dc:creator>
-<pubDate>Mon, 02 Nov 2026 11:05:28 +0000</pubDate>
-<xf:postedAt>2026-11-02T07:43:35+09:00</xf:postedAt>
-<xf:addedAt>2026-11-02T20:05:28.797007+09:00</xf:addedAt>
-<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/2056327044737519616/mBLQ-JIX_400x400.jpg" width="48" height="48" alt="呉縞 慶一 @ Modelist CEO"/> <b>呉縞 慶一 @ Modelist CEO</b> @K_Kureshima</p><p>コクヨさんがカスタムエージェント（従量課金）活用した開発体制を構築。<br/><br/>📌人の代わりができるか<br/>📌人が出来ない（できる人が少ない）業務ができるか<br/><br/>これ以外のどんなROAの訴求と合意があったのか気になりますね。<br/><br/>コクヨ、NotionとClaudeを連携し「AI駆動開発」を推進 <a href="https://prtimes.jp/main/html/rd/p/000000100.000088144.html">https://prtimes.jp/main/html/rd/p/000000100.000088144.html</a> @PRTIMES_JPより</p><p>いいね 17・リポスト 1・ブックマーク 6・表示 1,434</p><p>投稿 2026-11-02 07:43（日本時間）・<a href="https://x.com/K_Kureshima/status/2117024783972127126">Xで開く</a></p>]]></description>
-<xf:original><![CDATA[コクヨさんがカスタムエージェント（従量課金）活用した開発体制を構築。
-
-📌人の代わりができるか
-📌人が出来ない（できる人が少ない）業務ができるか
-
-これ以外のどんなROAの訴求と合意があったのか気になりますね。
-
-コクヨ、NotionとClaudeを連携し「AI駆動開発」を推進 https://prtimes.jp/main/html/rd/p/000000100.000088144.html @PRTIMES_JPより]]></xf:original>
-</item>
-<item>
-<title>配当太郎 (@financial1111)</title>
-<link>https://x.com/financial1111/status/2117173981417796093</link>
-<guid isPermaLink="true">https://x.com/financial1111/status/2117173981417796093</guid>
-<category>日本株・高配当株</category>
-<dc:creator>配当太郎</dc:creator>
-<pubDate>Mon, 02 Nov 2026 09:01:32 +0000</pubDate>
-<xf:postedAt>2026-11-02T17:36:27+09:00</xf:postedAt>
-<xf:addedAt>2026-11-02T18:01:32.889738+09:00</xf:addedAt>
-<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1566658926397247488/n8g7rtj7_400x400.jpg" width="48" height="48" alt="配当太郎"/> <b>配当太郎</b> @financial1111</p><p>日本郵船、今期一株配当330円に引き上げキターーーー！！！！<br/> <a href="https://www.nikkei.com/article/DGXZQOUB307QO0Q6A031C2000000/?n_cid=dsapp_share_ios">https://www.nikkei.com/article/DGXZQOUB307QO0Q6A031C2000000/?n_cid=dsapp_share_ios</a></p><p>いいね 91・リポスト 1・ブックマーク 4・表示 6,949</p><p>投稿 2026-11-02 17:36（日本時間）・<a href="https://x.com/financial1111/status/2117173981417796093">Xで開く</a></p>]]></description>
-<xf:original><![CDATA[日本郵船、今期一株配当330円に引き上げキターーーー！！！！
- https://www.nikkei.com/article/DGXZQOUB307QO0Q6A031C2000000/?n_cid=dsapp_share_ios]]></xf:original>
-</item>
-<item>
-<title>kaito (@cu30rry_)</title>
-<link>https://x.com/cu30rry_/status/2117167577776459917</link>
-<guid isPermaLink="true">https://x.com/cu30rry_/status/2117167577776459917</guid>
-<category>AI</category>
-<dc:creator>kaito</dc:creator>
-<pubDate>Mon, 02 Nov 2026 09:01:32 +0000</pubDate>
-<xf:postedAt>2026-11-02T17:11:00+09:00</xf:postedAt>
-<xf:addedAt>2026-11-02T18:01:32.889738+09:00</xf:addedAt>
-<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/2101959420439834625/ucyJOshP_400x400.jpg" width="48" height="48" alt="kaito"/> <b>kaito</b> @cu30rry_</p><p>これは、@poteto さんが共有したGrok Botのベストプラクティスだ！<br/><br/>私もいつもこの基準に従っているし、かなり pstack っぽいんだよね！<br/><br/>・dr eggbot を入れる<br/>・たくさんの Bot より 少数の優れた Bot を使う（管理しやすくするため）<br/>・Bot に質の高い仕事の進め方を教え、Skillを作る<br/>・Skill を作ることで、長時間のセッションでも一貫したタスクができる<br/>・コネクターを追加し、Vault を使用し、タスクを実行するための全ツールにアクセス権を与える<br/>・Bot に自分と自分の仕事（意図）について説明し、自動化のための手助けをどうしてくれるか尋ねる<br/>・Voice モード・文字起こしで使用する<br/>・Routine でスケジューリングする場合は、最も頻繁な感覚でも1時間が推奨、イベント購読では購読するイベントを絞る<br/>・Bot の仕事（ワークフロー）で決定論的な部分をコードにし、トークン効率を上げる（スクリプトやプライベートなGitHub リポジトリに保存する）<br/>・Team プランの場合、Team Botを共有し、ワークフローをメンバーに共有する<br/>・マネージャーのように考える（Bot に自分自身と同じか、それ以上の品質でタスクを実行するにはどうすればいいか？）</p><p>いいね 14・リポスト 1・ブックマーク 40・表示 1,681</p><p>投稿 2026-11-02 17:11（日本時間）・<a href="https://x.com/cu30rry_/status/2117167577776459917">Xで開く</a></p>]]></description>
-<xf:original><![CDATA[これは、@poteto さんが共有したGrok Botのベストプラクティスだ！
-
-私もいつもこの基準に従っているし、かなり pstack っぽいんだよね！
-
-・dr eggbot を入れる
-・たくさんの Bot より 少数の優れた Bot を使う（管理しやすくするため）
-・Bot に質の高い仕事の進め方を教え、Skillを作る
-・Skill を作ることで、長時間のセッションでも一貫したタスクができる
-・コネクターを追加し、Vault を使用し、タスクを実行するための全ツールにアクセス権を与える
-・Bot に自分と自分の仕事（意図）について説明し、自動化のための手助けをどうしてくれるか尋ねる
-・Voice モード・文字起こしで使用する
-・Routine でスケジューリングする場合は、最も頻繁な感覚でも1時間が推奨、イベント購読では購読するイベントを絞る
-・Bot の仕事（ワークフロー）で決定論的な部分をコードにし、トークン効率を上げる（スクリプトやプライベートなGitHub リポジトリに保存する）
-・Team プランの場合、Team Botを共有し、ワークフローをメンバーに共有する
-・マネージャーのように考える（Bot に自分自身と同じか、それ以上の品質でタスクを実行するにはどうすればいいか？）]]></xf:original>
-</item>
-<item>
-<title>KAZZN (@Kazzn_blog)</title>
-<link>https://x.com/Kazzn_blog/status/2117164224560672879</link>
-<guid isPermaLink="true">https://x.com/Kazzn_blog/status/2117164224560672879</guid>
-<category>日本株・高配当株</category>
-<dc:creator>KAZZN</dc:creator>
-<pubDate>Mon, 02 Nov 2026 09:01:32 +0000</pubDate>
-<xf:postedAt>2026-11-02T16:57:40+09:00</xf:postedAt>
-<xf:addedAt>2026-11-02T18:01:32.889738+09:00</xf:addedAt>
-<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1560587873958895617/w9a0BcLs_400x400.jpg" width="48" height="48" alt="KAZZN"/> <b>KAZZN</b> @Kazzn_blog</p><p>今日に、決算や上方修正をした銘柄✨<br/><br/>🟢住友商事(8053)<br/>増配：40円→44円<br/>第2Q決算:利益は、前期比15.5％増の3478億円に伸び、通期利益を6300億円→6700億円に6.3％の上方修正 利回り2.64％<br/><br/>🟢スズデン(7480)<br/>増配：176円→202円<br/>第2Q決算:利益は、前期比2.4倍の23.5億円に急拡大し、通期利益を42.6億円→50.3億円に18.1％の上方修正 利回り6.01％<br/><br/>🟢商船三井(9104)<br/>通期の利益を、2250億円→2950億円に31.1％の上方修正 利回り2.70％<br/><br/>🟢住友化学(4005)<br/>増配：16円→17円<br/>第2Q決算:利益は、前期比2.1倍の828億円に急拡大し、通期利益を700億円→900億円に28.6％の上方修正 利回り3.32％<br/><br/>🟢UBE(4208)<br/>通期の利益を、375億円→390億円に4.0％の上方修正 利回り4.92％<br/><br/>🟢大和工業(5444)<br/>増配：400円→420円<br/>第2Q決算:利益は、前期比65.0％増の460億円に拡大し、通期利益を870億円→955億円に9.8％の上方修正 利回り3.54％<br/><br/>🟢SBI HD(8473)<br/>増配：95円→110円<br/>第2Q決算:利益は、前期比39.1％増の2305億円に拡大した 利回り3.90％<br/><br/>🟢マクニカHD(3132)<br/>増配：80円→90円<br/>第2Q決算:利益は、前期比2.2倍の327億円に急拡大し、通期利益を470億円→660億円に40.4％の上方修正 利回り2.43％<br/><br/>🟢レンゴー(3941)<br/>第2四半期累計の利益を、240億円→342億円に42.8％の上方修正 利回り3.24％<br/><br/>🟢ほくほくFG(8377)<br/>増配：上期 75円→95円 / 下期 7.5円→9.5円<br/>通期の利益を、890億円→1085億円に21.9％の上方修正 利回り2.60％<br/><br/>🟢SBI新生銀行(8303)<br/>第2Q決算:利益は、前期比47.6％増の921億円に拡大した 利回り 未定<br/><br/>🟢京セラ(6971)<br/>第2Q決算:利益は、前期比32.2％増の734億円に拡大したが、通期計画の1600億円に対する進捗率は45.9％になり、5年平均の70.7％を下回 利回り1.71％<br/><br/>🟢マルサンアイ(2551)<br/>増配：前期 30円→40円 / 今期 40円を継続<br/>第4Q決算:今期の利益は、前期比0.7％増の8億6400万円になり、来期も前期比15.2％増の9億9500万円に伸びる見通し 利回り1.15％<br/><br/>🟢LITALICO(7366)<br/>増配：15円→20円<br/>第2Q決算:利益は、前期比47.3％増の18.2億円に拡大し、通期利益を従来予想の33億円→35億～39億円に上方修正 利回り1.04％</p><p>いいね 97・リポスト 3・ブックマーク 6・表示 12,584</p><p>投稿 2026-11-02 16:57（日本時間）・<a href="https://x.com/Kazzn_blog/status/2117164224560672879">Xで開く</a></p>]]></description>
-<xf:original><![CDATA[今日に、決算や上方修正をした銘柄✨
-
-🟢住友商事(8053)
-増配：40円→44円
-第2Q決算:利益は、前期比15.5％増の3478億円に伸び、通期利益を6300億円→6700億円に6.3％の上方修正 利回り2.64％
-
-🟢スズデン(7480)
-増配：176円→202円
-第2Q決算:利益は、前期比2.4倍の23.5億円に急拡大し、通期利益を42.6億円→50.3億円に18.1％の上方修正 利回り6.01％
-
-🟢商船三井(9104)
-通期の利益を、2250億円→2950億円に31.1％の上方修正 利回り2.70％
-
-🟢住友化学(4005)
-増配：16円→17円
-第2Q決算:利益は、前期比2.1倍の828億円に急拡大し、通期利益を700億円→900億円に28.6％の上方修正 利回り3.32％
-
-🟢UBE(4208)
-通期の利益を、375億円→390億円に4.0％の上方修正 利回り4.92％
-
-🟢大和工業(5444)
-増配：400円→420円
-第2Q決算:利益は、前期比65.0％増の460億円に拡大し、通期利益を870億円→955億円に9.8％の上方修正 利回り3.54％
-
-🟢SBI HD(8473)
-増配：95円→110円
-第2Q決算:利益は、前期比39.1％増の2305億円に拡大した 利回り3.90％
-
-🟢マクニカHD(3132)
-増配：80円→90円
-第2Q決算:利益は、前期比2.2倍の327億円に急拡大し、通期利益を470億円→660億円に40.4％の上方修正 利回り2.43％
-
-🟢レンゴー(3941)
-第2四半期累計の利益を、240億円→342億円に42.8％の上方修正 利回り3.24％
-
-🟢ほくほくFG(8377)
-増配：上期 75円→95円 / 下期 7.5円→9.5円
-通期の利益を、890億円→1085億円に21.9％の上方修正 利回り2.60％
-
-🟢SBI新生銀行(8303)
-第2Q決算:利益は、前期比47.6％増の921億円に拡大した 利回り 未定
-
-🟢京セラ(6971)
-第2Q決算:利益は、前期比32.2％増の734億円に拡大したが、通期計画の1600億円に対する進捗率は45.9％になり、5年平均の70.7％を下回 利回り1.71％
-
-🟢マルサンアイ(2551)
-増配：前期 30円→40円 / 今期 40円を継続
-第4Q決算:今期の利益は、前期比0.7％増の8億6400万円になり、来期も前期比15.2％増の9億9500万円に伸びる見通し 利回り1.15％
-
-🟢LITALICO(7366)
-増配：15円→20円
-第2Q決算:利益は、前期比47.3％増の18.2億円に拡大し、通期利益を従来予想の33億円→35億～39億円に上方修正 利回り1.04％]]></xf:original>
-</item>
-<item>
-<title>コツコツわんこ投資マン (@BE9zoj)</title>
-<link>https://x.com/BE9zoj/status/2117082153389523071</link>
-<guid isPermaLink="true">https://x.com/BE9zoj/status/2117082153389523071</guid>
-<category>日本株・高配当株</category>
-<dc:creator>コツコツわんこ投資マン</dc:creator>
-<pubDate>Mon, 02 Nov 2026 09:01:32 +0000</pubDate>
-<xf:postedAt>2026-11-02T11:31:33+09:00</xf:postedAt>
-<xf:addedAt>2026-11-02T18:01:32.889738+09:00</xf:addedAt>
-<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/2034219418012758017/PGhnV7Ir_400x400.jpg" width="48" height="48" alt="コツコツわんこ投資マン"/> <b>コツコツわんこ投資マン</b> @BE9zoj</p><p>📣 好決算＆大幅増配なのに、なぜ下がる！？<br/><br/>SBIホールディングス、増配ありがたい！😎<br/><br/>業績も好調で株主還元もしっかり。<br/>それなのに株価は下落…。<br/><br/>📊 株価：2,831円<br/>💰 年間配当：110円<br/>📈 配当利回り：3.88%<br/><br/>【100株保有の場合】<br/>・投資金額：283,100円<br/>・年間配当：11,000円<br/>・XRP：2,000円相当<br/>・優待利回り：約0.71%<br/><br/>🔥 総合利回り：約4.59%<br/><br/>さらに商品セットを選べば、通常価格換算で約12,528円相当の優待も！<br/><br/>株主還元はありがたいけど、僕は取得単価が高すぎて現在−5万円😂<br/><br/>それでも長期目線で保有。<br/>もうナンピンします😎<br/><br/>好決算・増配で下がったとき、皆さんは買い増しますか？</p><p><img src="https://pbs.twimg.com/media/HWFi_17bMAA0PgY.jpg" alt="画像"/></p><p><img src="https://pbs.twimg.com/media/HWFi_15bcAA8Fpl.jpg" alt="画像"/></p><p>いいね 65・リポスト 2・ブックマーク 4・表示 10,464</p><p>投稿 2026-11-02 11:31（日本時間）・<a href="https://x.com/BE9zoj/status/2117082153389523071">Xで開く</a></p>]]></description>
-<xf:original><![CDATA[📣 好決算＆大幅増配なのに、なぜ下がる！？
-
-SBIホールディングス、増配ありがたい！😎
-
-業績も好調で株主還元もしっかり。
-それなのに株価は下落…。
-
-📊 株価：2,831円
-💰 年間配当：110円
-📈 配当利回り：3.88%
-
-【100株保有の場合】
-・投資金額：283,100円
-・年間配当：11,000円
-・XRP：2,000円相当
-・優待利回り：約0.71%
-
-🔥 総合利回り：約4.59%
-
-さらに商品セットを選べば、通常価格換算で約12,528円相当の優待も！
-
-株主還元はありがたいけど、僕は取得単価が高すぎて現在−5万円😂
-
-それでも長期目線で保有。
-もうナンピンします😎
-
-好決算・増配で下がったとき、皆さんは買い増しますか？]]></xf:original>
-</item>
-<item>
-<title>ポテクマ🐻‍【高配当×優待株】 (@Potekumafireday)</title>
-<link>https://x.com/Potekumafireday/status/2116855272274534805</link>
-<guid isPermaLink="true">https://x.com/Potekumafireday/status/2116855272274534805</guid>
-<category>日本株・高配当株</category>
-<dc:creator>ポテクマ🐻‍【高配当×優待株】</dc:creator>
-<pubDate>Mon, 02 Nov 2026 09:01:32 +0000</pubDate>
-<xf:postedAt>2026-11-01T20:30:00+09:00</xf:postedAt>
-<xf:addedAt>2026-11-02T18:01:32.889738+09:00</xf:addedAt>
-<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/2062737257900187648/mRoQg094_400x400.jpg" width="48" height="48" alt="ポテクマ🐻‍【高配当×優待株】"/> <b>ポテクマ🐻‍【高配当×優待株】</b> @Potekumafireday</p><p>連続増配ランキングから 配当利回り3.5%以上で優待あり 該当は3銘柄だけでした✨<br/><br/>リコーリース(8566) 利回り4.06%<br/>連続増配26年 100株でカタログギフト2,000円相当<br/><br/>芙蓉総合リース(8424) 利回り4.03%<br/>連続増配21年 300株で3,000円相当<br/>(2年以上は5,000円)<br/><br/>サンドラッグ(9989) 利回り3.65%<br/>連続増配24年 100株で優待券2,000円分+PB商品引換券<br/><br/>あなたが気になるのはどれですか?</p><p><img src="https://pbs.twimg.com/media/HWAgz0LbsAE7ECQ.jpg" alt="画像"/></p><p>いいね 40・リポスト 2・ブックマーク 7・表示 3,071</p><p>投稿 2026-11-01 20:30（日本時間）・<a href="https://x.com/Potekumafireday/status/2116855272274534805">Xで開く</a></p>]]></description>
-<xf:original><![CDATA[連続増配ランキングから 配当利回り3.5%以上で優待あり 該当は3銘柄だけでした✨
-
-リコーリース(8566) 利回り4.06%
-連続増配26年 100株でカタログギフト2,000円相当
-
-芙蓉総合リース(8424) 利回り4.03%
-連続増配21年 300株で3,000円相当
-(2年以上は5,000円)
-
-サンドラッグ(9989) 利回り3.65%
-連続増配24年 100株で優待券2,000円分+PB商品引換券
-
-あなたが気になるのはどれですか?]]></xf:original>
-</item>
-<item>
-<title>ちいちゃん🌷 (@keito_no9)</title>
-<link>https://x.com/keito_no9/status/2116835660531380501</link>
-<guid isPermaLink="true">https://x.com/keito_no9/status/2116835660531380501</guid>
-<category>日本株・高配当株</category>
-<dc:creator>ちいちゃん🌷</dc:creator>
-<pubDate>Mon, 02 Nov 2026 09:01:32 +0000</pubDate>
-<xf:postedAt>2026-11-01T19:12:05+09:00</xf:postedAt>
-<xf:addedAt>2026-11-02T18:01:32.889738+09:00</xf:addedAt>
-<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1987608232396021760/rGAZu_nD_400x400.jpg" width="48" height="48" alt="ちいちゃん🌷"/> <b>ちいちゃん🌷</b> @keito_no9</p><p>ぶっちゃけ、三菱HCキャピタルってどう考えてもヤバすぎない！？！？<br/><br/>・100株が約13.1万円で買える手軽さ<br/>・27期連続増配を誇る最強の安心感<br/>・配当利回りは約3.9%で強すぎ！<br/>・年間配当は増配継続中予想の高配当<br/><br/>約13万円の資金の使い方として不安要素ある？</p><p>いいね 200・リポスト 2・ブックマーク 48・表示 29,233</p><p>投稿 2026-11-01 19:12（日本時間）・<a href="https://x.com/keito_no9/status/2116835660531380501">Xで開く</a></p>]]></description>
-<xf:original><![CDATA[ぶっちゃけ、三菱HCキャピタルってどう考えてもヤバすぎない！？！？
-
-・100株が約13.1万円で買える手軽さ
-・27期連続増配を誇る最強の安心感
-・配当利回りは約3.9%で強すぎ！
-・年間配当は増配継続中予想の高配当
-
-約13万円の資金の使い方として不安要素ある？]]></xf:original>
-</item>
-<item>
-<title>miyatti | 生成AIエバンジェリスト / CPO (@miyatti)</title>
-<link>https://x.com/miyatti/status/2117157231947137494</link>
-<guid isPermaLink="true">https://x.com/miyatti/status/2117157231947137494</guid>
-<category>AI</category>
-<dc:creator>miyatti | 生成AIエバンジェリスト / CPO</dc:creator>
-<pubDate>Mon, 02 Nov 2026 08:08:45 +0000</pubDate>
-<xf:postedAt>2026-11-02T16:29:53+09:00</xf:postedAt>
-<xf:addedAt>2026-11-02T17:08:45.497524+09:00</xf:addedAt>
-<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1992649414536765440/CIbawGhH_400x400.jpg" width="48" height="48" alt="miyatti | 生成AIエバンジェリスト / CPO"/> <b>miyatti | 生成AIエバンジェリスト / CPO</b> @miyatti</p><p>ほぼ自分用のメモの図解なのだけど、現時点でのGrokBot/Muse/Dotsなどパーソナルエージェント系の仕組みの図解。Grok Botを第一秘書にして、Museを第二秘書、Dotsは補欠wその先に常駐MacのClaude CodeとCodexがいる、という構成です。秘書は複数いるけど、部下と台帳は共通。<br/>---<br/>普段のざっくりした相談は秘書へ。何をやるかはっきりしている仕事や、前にやっていたことの続きは、自分でClaude Codeに直接頼むこともある。秘書が自分で片づける仕事もあれば、部下に実作業をお願いする仕事もある。毎回同じ経路を通すというより、頼みごとに応じて使い分ける感じです。<br/>---<br/>ここで大事なのが、共通の台帳（タスク/プロジェクトリスト）。私は自作のAI-PLCという仕組みに、お願いした案件の経緯や決めたこと、成果、残っている作業を残す。これを人間も、各種秘書エージェント、現場スレッドがみる。どの秘書に頼んでも、前の話を最初から説明し直さなくていい状態にしてます。いったん完了するまではFlow（下書き・作業中）フォルダに配置。これはMacのローカルにしか存在させない。バックアップはTimemachineでNASに。<br/>---<br/>そのプロジェクトが完了したら、頼んだタスクの生成物、成果物は、定期的にStock情報としてまとめさせるようにしていて、それをプライベートのやつだったらプライベートのレポジトリ、仕事のやつだったら社員メンバーがみえる社内Githubのレポジトリに案件ごとにModuleわけて置くように（これは今改善中）。</p><p><img src="https://pbs.twimg.com/media/HWGl1ejagAAtNWD.jpg" alt="画像"/></p><p>いいね 14・リポスト 1・ブックマーク 17・表示 725</p><p>投稿 2026-11-02 16:29（日本時間）・<a href="https://x.com/miyatti/status/2117157231947137494">Xで開く</a></p>]]></description>
-<xf:original><![CDATA[ほぼ自分用のメモの図解なのだけど、現時点でのGrokBot/Muse/Dotsなどパーソナルエージェント系の仕組みの図解。Grok Botを第一秘書にして、Museを第二秘書、Dotsは補欠wその先に常駐MacのClaude CodeとCodexがいる、という構成です。秘書は複数いるけど、部下と台帳は共通。
----
-普段のざっくりした相談は秘書へ。何をやるかはっきりしている仕事や、前にやっていたことの続きは、自分でClaude Codeに直接頼むこともある。秘書が自分で片づける仕事もあれば、部下に実作業をお願いする仕事もある。毎回同じ経路を通すというより、頼みごとに応じて使い分ける感じです。
----
-ここで大事なのが、共通の台帳（タスク/プロジェクトリスト）。私は自作のAI-PLCという仕組みに、お願いした案件の経緯や決めたこと、成果、残っている作業を残す。これを人間も、各種秘書エージェント、現場スレッドがみる。どの秘書に頼んでも、前の話を最初から説明し直さなくていい状態にしてます。いったん完了するまではFlow（下書き・作業中）フォルダに配置。これはMacのローカルにしか存在させない。バックアップはTimemachineでNASに。
----
-そのプロジェクトが完了したら、頼んだタスクの生成物、成果物は、定期的にStock情報としてまとめさせるようにしていて、それをプライベートのやつだったらプライベートのレポジトリ、仕事のやつだったら社員メンバーがみえる社内Githubのレポジトリに案件ごとにModuleわけて置くように（これは今改善中）。]]></xf:original>
-</item>
-<item>
-<title>配当太郎 (@financial1111)</title>
-<link>https://x.com/financial1111/status/2117106118690586843</link>
-<guid isPermaLink="true">https://x.com/financial1111/status/2117106118690586843</guid>
-<category>日本株・高配当株</category>
-<dc:creator>配当太郎</dc:creator>
-<pubDate>Mon, 02 Nov 2026 08:08:45 +0000</pubDate>
-<xf:postedAt>2026-11-02T13:06:47+09:00</xf:postedAt>
-<xf:addedAt>2026-11-02T17:08:45.497524+09:00</xf:addedAt>
-<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1566658926397247488/n8g7rtj7_400x400.jpg" width="48" height="48" alt="配当太郎"/> <b>配当太郎</b> @financial1111</p><p>住友商事、業績上方修正と増配キターー！<br/>業績見通しを6,300億円から6,700億円へ。バッファ考慮前で7,000億円。そして一株配は40円から44円に増配。たった4円と思うかもしれないけれど、増配率20%だ！<br/>やったね！やったね！！やったね！！！</p><p><img src="https://pbs.twimg.com/media/HWF4yzFacAASBsH.jpg" alt="画像"/></p><p>いいね 623・リポスト 13・ブックマーク 17・表示 33,356</p><p>投稿 2026-11-02 13:06（日本時間）・<a href="https://x.com/financial1111/status/2117106118690586843">Xで開く</a></p>]]></description>
-<xf:original><![CDATA[住友商事、業績上方修正と増配キターー！
-業績見通しを6,300億円から6,700億円へ。バッファ考慮前で7,000億円。そして一株配は40円から44円に増配。たった4円と思うかもしれないけれど、増配率20%だ！
-やったね！やったね！！やったね！！！]]></xf:original>
-</item>
-<item>
-<title>nobuo | 鈴木伸緒 (@nobgraphica)</title>
-<link>https://x.com/nobgraphica/status/2117094103691489311</link>
-<guid isPermaLink="true">https://x.com/nobgraphica/status/2117094103691489311</guid>
-<category>行政DX</category>
-<dc:creator>nobuo | 鈴木伸緒</dc:creator>
-<pubDate>Mon, 02 Nov 2026 08:08:45 +0000</pubDate>
-<xf:postedAt>2026-11-02T12:19:02+09:00</xf:postedAt>
-<xf:addedAt>2026-11-02T17:08:45.497524+09:00</xf:addedAt>
-<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1665321754527666177/lxJ7zC1-_400x400.jpg" width="48" height="48" alt="nobuo | 鈴木伸緒"/> <b>nobuo | 鈴木伸緒</b> @nobgraphica</p><p>【11/16（月） 19:00 - オンライン】CPOと現場のPdMによる行政AX/DXについての採用イベントを開催します！<br/>PdMはもちろん、デザイナーの方にとっても具体的にプロジェクトがどのように進んでいるのかについて把握しやすい機会です。<br/>興味あるデザイナーの方もぜひご参加ください！<br/><a href="https://digital-recruit-gov.note.jp/n/n919ed6ab6680">https://digital-recruit-gov.note.jp/n/n919ed6ab6680</a></p><p>いいね 0・リポスト 0・ブックマーク 0・表示 352</p><p>投稿 2026-11-02 12:19（日本時間）・<a href="https://x.com/nobgraphica/status/2117094103691489311">Xで開く</a></p>]]></description>
-<xf:original><![CDATA[【11/16（月） 19:00 - オンライン】CPOと現場のPdMによる行政AX/DXについての採用イベントを開催します！
-PdMはもちろん、デザイナーの方にとっても具体的にプロジェクトがどのように進んでいるのかについて把握しやすい機会です。
-興味あるデザイナーの方もぜひご参加ください！
-https://digital-recruit-gov.note.jp/n/n919ed6ab6680]]></xf:original>
-</item>
-<item>
-<title>ヴィズマーラ恵子🇮🇹 (@VISMARA_KEIKO)</title>
-<link>https://x.com/VISMARA_KEIKO/status/2117023880791359930</link>
-<guid isPermaLink="true">https://x.com/VISMARA_KEIKO/status/2117023880791359930</guid>
-<category>行政DX</category>
-<dc:creator>ヴィズマーラ恵子🇮🇹</dc:creator>
-<pubDate>Mon, 02 Nov 2026 08:08:45 +0000</pubDate>
-<xf:postedAt>2026-11-02T07:40:00+09:00</xf:postedAt>
-<xf:addedAt>2026-11-02T17:08:45.497524+09:00</xf:addedAt>
-<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/2067568146978897920/WiKGgzTx_400x400.jpg" width="48" height="48" alt="ヴィズマーラ恵子🇮🇹"/> <b>ヴィズマーラ恵子🇮🇹</b> @VISMARA_KEIKO</p><p>スウェーデン政府がChatGPTとClaudeを業務用PCから遮断した。<br/><br/>ただし、生成AIの全面禁止ではない。ブラウザー版への直接アクセスを止め、政府が承認した環境に利用を限定した措置だ。<br/><br/>この判断の背景には、行政機関が扱う機密情報と外部AIサービスのデータ管理をめぐる問題がある。</p><p>いいね 8・リポスト 2・ブックマーク 0・表示 1,692</p><p>投稿 2026-11-02 07:40（日本時間）・<a href="https://x.com/VISMARA_KEIKO/status/2117023880791359930">Xで開く</a></p>]]></description>
-<xf:original><![CDATA[スウェーデン政府がChatGPTとClaudeを業務用PCから遮断した。
-
-ただし、生成AIの全面禁止ではない。ブラウザー版への直接アクセスを止め、政府が承認した環境に利用を限定した措置だ。
-
-この判断の背景には、行政機関が扱う機密情報と外部AIサービスのデータ管理をめぐる問題がある。]]></xf:original>
-</item>
-<item>
-<title>うみゆき@AI研究 (@umiyuki_ai)</title>
-<link>https://x.com/umiyuki_ai/status/2117008030453919817</link>
-<guid isPermaLink="true">https://x.com/umiyuki_ai/status/2117008030453919817</guid>
-<category>AI</category>
-<dc:creator>うみゆき@AI研究</dc:creator>
-<pubDate>Mon, 02 Nov 2026 08:08:45 +0000</pubDate>
-<xf:postedAt>2026-11-02T06:37:01+09:00</xf:postedAt>
-<xf:addedAt>2026-11-02T17:08:45.497524+09:00</xf:addedAt>
-<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1581572203660787712/SAdL4WOj_400x400.jpg" width="48" height="48" alt="うみゆき@AI研究"/> <b>うみゆき@AI研究</b> @umiyuki_ai</p><p>うわっ！良くない意味ですごい！内閣府のパブリックコメントに大量爆撃されたアンチAIコメントに対して知財戦略会議では真摯に受け止めるどころか「そういう人たちは5年後クリエイターではないので気にしなくて良いと思います」って言ってみんな同意しちゃって実質嘲笑されて終わった。「新しいテクノロジー（AI）に興味ない人はクリエイターじゃない」との事。こ、これが国家の答えか…</p><p>いいね 799・リポスト 327・ブックマーク 126・表示 58,460</p><p>投稿 2026-11-02 06:37（日本時間）・<a href="https://x.com/umiyuki_ai/status/2117008030453919817">Xで開く</a></p>]]></description>
-<xf:original><![CDATA[うわっ！良くない意味ですごい！内閣府のパブリックコメントに大量爆撃されたアンチAIコメントに対して知財戦略会議では真摯に受け止めるどころか「そういう人たちは5年後クリエイターではないので気にしなくて良いと思います」って言ってみんな同意しちゃって実質嘲笑されて終わった。「新しいテクノロジー（AI）に興味ない人はクリエイターじゃない」との事。こ、これが国家の答えか…]]></xf:original>
-</item>
-<item>
-<title>石崎ひでゆき市川市議会議員 (@h_ishizaki)</title>
-<link>https://x.com/h_ishizaki/status/2116831590802485670</link>
-<guid isPermaLink="true">https://x.com/h_ishizaki/status/2116831590802485670</guid>
-<category>行政DX</category>
-<dc:creator>石崎ひでゆき市川市議会議員</dc:creator>
-<pubDate>Mon, 02 Nov 2026 08:08:45 +0000</pubDate>
-<xf:postedAt>2026-11-01T18:55:54+09:00</xf:postedAt>
-<xf:addedAt>2026-11-02T17:08:45.497524+09:00</xf:addedAt>
-<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/2057295886443806720/5JIIY0Pd_400x400.jpg" width="48" height="48" alt="石崎ひでゆき市川市議会議員"/> <b>石崎ひでゆき市川市議会議員</b> @h_ishizaki</p><p>【市川市にCIO補佐官は必要か？】<br/><br/>行政DXとは、単にシステムを導入することではありません。<br/>生成AIの活用、業務の効率化、システム投資の適正化など、市役所全体を見渡して改革を進めるには、専門的な知見が必要です。<br/>その役割を担うのが「CIO補佐官」です。<br/>もちろん、外部人材の招聘には費用がかかります。<br/>しかし、職員の業務負担を減らし、行政コストを削減し、市民サービスを向上できるのであれば、将来の行政運営を支える投資になり得ます。<br/>大切なのは、費用に見合う成果を出せる仕組みをつくること。<br/>田中市長も6月の所信表明で、CIO補佐官の招聘を検討すると表明しています。<br/>12月議会では、その具体化に向けた考えを確認したいと思います。<br/><br/>#市川市 #CIO補佐官 #市川はもっとよくなる</p><p>いいね 8・リポスト 2・ブックマーク 0・表示 405</p><p>投稿 2026-11-01 18:55（日本時間）・<a href="https://x.com/h_ishizaki/status/2116831590802485670">Xで開く</a></p>]]></description>
-<xf:original><![CDATA[【市川市にCIO補佐官は必要か？】
-
-行政DXとは、単にシステムを導入することではありません。
-生成AIの活用、業務の効率化、システム投資の適正化など、市役所全体を見渡して改革を進めるには、専門的な知見が必要です。
-その役割を担うのが「CIO補佐官」です。
-もちろん、外部人材の招聘には費用がかかります。
-しかし、職員の業務負担を減らし、行政コストを削減し、市民サービスを向上できるのであれば、将来の行政運営を支える投資になり得ます。
-大切なのは、費用に見合う成果を出せる仕組みをつくること。
-田中市長も6月の所信表明で、CIO補佐官の招聘を検討すると表明しています。
-12月議会では、その具体化に向けた考えを確認したいと思います。
-
-#市川市 #CIO補佐官 #市川はもっとよくなる]]></xf:original>
 </item>
 </channel>
 </rss>

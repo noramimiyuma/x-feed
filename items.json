@@ -1,5 +1,273 @@
 [
  {
+  "id": "2120233740026974287",
+  "handle": "lennysan",
+  "name": "Lenny Rachitsky",
+  "avatar": "https://pbs.twimg.com/profile_images/1592990461517389824/iln8hi1f_400x400.jpg",
+  "theme": "PdM",
+  "text": "Narrative violation: Product managers are benefiting most in the AI era\n\nThere’s been a lot of talk about AI replacing product managers (“who needs ’em!”). But so far, the data is showing the exact opposite. \n\nThere are more open PM roles than at any point in nearly four years, up 75% from the March 2023 low, and PM openings have grown faster than any other core product role since the start of 2023.\n\nMore here: https://www.lennysnewsletter.com/i/224206488/takeaway-1-product-managers-seem-to-be-benefiting-most-in-the-ai-era",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWyRxtxaIAADC4D.jpg"
+   }
+  ],
+  "created_at": "2026-11-10T19:14:50.000Z",
+  "metrics": {
+   "like": 121,
+   "repost": 7,
+   "bookmark": 36,
+   "view": 10498
+  },
+  "translation_ja": "通説への反証：AI時代に最も恩恵を受けているのはプロダクトマネージャーだ\n\nAIがプロダクトマネージャーを置き換える（「PMなんて誰が必要とする？」）という話がたくさん出ている。だが今のところ、データはまったく逆のことを示している。\n\nPMの求人はここ約4年で最も多く、2023年3月の底から75%増えている。そして2023年初め以降、PMの求人は他のどの主要プロダクト職よりも速く伸びている。\n\n詳しくはこちら: https://t.co/LLH5zO3hCE",
+  "added_at": "2026-11-10T20:48:28.307860+00:00"
+ },
+ {
+  "id": "2120216592395174382",
+  "handle": "OpenAI",
+  "name": "OpenAI",
+  "avatar": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_400x400.jpg",
+  "theme": "AI",
+  "text": "Now in beta: Businesses in ChatGPT.\n\nClaim your business, manage your information, and get insights on how people engage with you.\n\nEligible businesses can also build a Business Agent to answer customers’ questions and help them explore what you offer.\n\nhttps://openai.com/index/introducing-businesses-chatgpt/",
+  "media": [
+   {
+    "type": "video",
+    "url": "https://pbs.twimg.com/amplify_video_thumb/2120214011451170817/img/p-eqRNRKImbCTq9L.jpg"
+   }
+  ],
+  "created_at": "2026-11-10T18:06:42.000Z",
+  "metrics": {
+   "like": 6604,
+   "repost": 433,
+   "bookmark": 5510,
+   "view": 877906
+  },
+  "translation_ja": "ベータ版を公開：Businesses in ChatGPT。\n\nビジネスを登録して、情報を管理し、人々がどのように関わっているかのインサイトを得られます。\n\n対象のビジネスは、顧客の質問に答えたり、提供内容を探すのを手伝ったりする Business Agent も作成できます。\n\nhttps://t.co/N2GEZX0mFT https://t.co/lYj2Z48fhQ",
+  "added_at": "2026-11-10T20:48:28.307860+00:00"
+ },
+ {
+  "id": "2120206365759094857",
+  "handle": "claudeai",
+  "name": "Claude",
+  "avatar": "https://pbs.twimg.com/profile_images/1950950107937185792/QOfEjFoJ_400x400.jpg",
+  "theme": "AI",
+  "text": "Starting to roll out today: Claude Whiteboards, Claude Sheets and Claude Data.\n\nThink a plan through on a board, build a tracker in a sheet, and tell a story with your data.",
+  "media": [
+   {
+    "type": "video",
+    "url": "https://pbs.twimg.com/media/HWx89ZkXMAAqMO6.png"
+   }
+  ],
+  "created_at": "2026-11-10T17:26:03.000Z",
+  "metrics": {
+   "like": 26460,
+   "repost": 1552,
+   "bookmark": 10573,
+   "view": 2825484
+  },
+  "translation_ja": "本日から順次提供開始：Claude Whiteboards、Claude Sheets、Claude Data。\n\nボードで計画を考え抜き、シートでトラッカーを作り、データでストーリーを伝えよう。 https://t.co/S8M32FMrce",
+  "added_at": "2026-11-10T20:48:28.307860+00:00"
+ },
+ {
+  "id": "2120140681759060048",
+  "handle": "emiekayama",
+  "name": "Emie (加山恵美)",
+  "avatar": "https://pbs.twimg.com/profile_images/2007137156981239809/6pI-Qoba_400x400.jpg",
+  "theme": "PdM",
+  "text": "💁‍♀️公開されました（書きました）🖋✨\n【導入事例】\n多様なお客さまを、 \nもっと深く理解するために \nJR東日本が10日間で体得した ユーザー起点の仮説検証とプロダクトづくり\nhttps://bekindlabs.com/jp/our-services/client-stories/jr-east",
+  "media": [],
+  "created_at": "2026-11-10T13:05:03.000Z",
+  "metrics": {
+   "like": 0,
+   "repost": 0,
+   "bookmark": 0,
+   "view": 35
+  },
+  "added_at": "2026-11-10T20:48:28.307860+00:00"
+ },
+ {
+  "id": "2120137697964720477",
+  "handle": "srt_takayuki",
+  "name": "猿田貴之",
+  "avatar": "https://pbs.twimg.com/profile_images/2120136687292665856/AcFo_cN4_400x400.jpg",
+  "theme": "PdM",
+  "text": "pmconfの登壇枠を社内コンペで決めるというアイディアを思いつき実行しました。  \n\npmconf 登壇者を社内オーディションで選んだら、「PdMとしての言語化」を学び直せた話 - Sansan Tech Blog https://buildersbox.corp-sansan.com/entry/2026/11/10/150000 \n\n#33Tech #Sansan技術本部 #Sansan #pmconf #pmconf2026",
+  "media": [],
+  "created_at": "2026-11-10T12:53:12.000Z",
+  "metrics": {
+   "like": 0,
+   "repost": 0,
+   "bookmark": 0,
+   "view": 2
+  },
+  "added_at": "2026-11-10T20:48:28.307860+00:00"
+ },
+ {
+  "id": "2120134376604541325",
+  "handle": "shotovim",
+  "name": "松濤Vimmer",
+  "avatar": "https://pbs.twimg.com/profile_images/1846880148551045120/IkLrswuq_400x400.jpg",
+  "theme": "AI",
+  "text": "これ。わたしもアイデア探しで毎日Grok Bot（Muse）でラッコM&amp;Aからおもしろい事業案ピックアップしてもらっているけどかなり参考になる。  https://twitter.com/bakusoku_kigyo/status/2088561737054437675",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWrp7WaaYAA0BCx.jpg"
+   }
+  ],
+  "created_at": "2026-11-10T12:40:00.000Z",
+  "metrics": {
+   "like": 190,
+   "repost": 8,
+   "bookmark": 411,
+   "view": 22126
+  },
+  "added_at": "2026-11-10T20:48:28.307860+00:00"
+ },
+ {
+  "id": "2120116907269661071",
+  "handle": "TsubasaDXvoyage",
+  "name": "自治体DXの航海士_つばさ",
+  "avatar": "https://pbs.twimg.com/profile_images/2027733375088467968/9BeTA_mm_400x400.jpg",
+  "theme": "行政DX",
+  "text": "役所のAIはなぜ平気で嘘をつくのか？デジタル庁がガバメントAI「源内」の「行政実務用RAG」解説を公開。PDFをそのまま読み込ませるだけのAIが現場で失敗する理由と、正確な根拠を引き出す技術が明らかに。皆さんの庁の生成AI、正確に回答できていますか？",
+  "media": [],
+  "created_at": "2026-11-10T11:30:35.000Z",
+  "metrics": {
+   "like": 20,
+   "repost": 1,
+   "bookmark": 27,
+   "view": 4434
+  },
+  "added_at": "2026-11-10T20:48:28.307860+00:00"
+ },
+ {
+  "id": "2120109966509871218",
+  "handle": "cu30rry_",
+  "name": "kaito",
+  "avatar": "https://pbs.twimg.com/profile_images/2101959420439834625/ucyJOshP_400x400.jpg",
+  "theme": "AI",
+  "text": "/grill-me 使う・使わないに関わらず、エージェントには「ユーザーの使い方」や「起こっていること」を伝えるといい\n\n「何をするか」「どう解決するか」の what や how を伝えると、エージェントから別のより良い解決策を考えつく余白を奪うことになる\n\nしかも人間の提示する解決策が間違っていることを認識しても、それを伝えずに作業を継続することも分かっている\n\nエージェントは人間より遥かに賢いので、賢い人から、こちらが思いつかないようなアイデアや解決策を引き出すには、具体的な手段を伝えるのは避けたほうがいい\n\nhow・whatを考えると具体や詳細に行き、whyを考えると拡散や創造に行く\nこれはエージェントも人間も同じだ",
+  "media": [],
+  "created_at": "2026-11-10T11:03:00.000Z",
+  "metrics": {
+   "like": 31,
+   "repost": 1,
+   "bookmark": 23,
+   "view": 2194
+  },
+  "added_at": "2026-11-10T20:48:28.307860+00:00"
+ },
+ {
+  "id": "2120109716282229148",
+  "handle": "kotukotu0519",
+  "name": "コツコツくん| 配当優待積み立て日記",
+  "avatar": "https://pbs.twimg.com/profile_images/2102766172827787266/51CESlNK_400x400.jpg",
+  "theme": "日本株・高配当株",
+  "text": "🔥【11/10 ヤベー決算 BEST5】🔥\n業績爆発＆増配ラッシュ！！\n\n🥇 シンデン・ハイテックス（3131）\n経常利益90%上方修正！190円増配！\nPER2.5倍／PBR1.03倍／利回り8.00%\n\n🥈 日本金銭機械（6418）\n経常利益61.3%上方修正！27円増配！\nPER8.6倍／PBR0.89倍／利回り5.88%\n\n🥉 日本電子材料（6855）\n経常利益29%上方修正！20円増配！\nPER10.6倍／PBR1.79倍／利回り2.02%\n\n🏅 フジクラ（5803）\n上期経常利益2.7倍！42円増配！\nPER15.6倍／PBR7.38倍／利回り2.59%\n\n🏅 バンダイナムコHD（7832）\n経常利益24.7%上方修正！最高益予想！\nPER26.3倍／PBR4.56倍\n\n💰 特に3131と6418はバリュエーションも強烈！\n\n※11/10終値基準・修正後予想。3131の配当には特別配当290円を含む。5803は通期経常利益を0.9%下方修正。",
+  "media": [],
+  "created_at": "2026-11-10T11:02:00.000Z",
+  "metrics": {
+   "like": 14,
+   "repost": 1,
+   "bookmark": 1,
+   "view": 599
+  },
+  "added_at": "2026-11-10T20:48:28.307860+00:00"
+ },
+ {
+  "id": "2120097634677563457",
+  "handle": "statistics1012",
+  "name": "ウマたん(上野佑馬) | AI×個人開発",
+  "avatar": "https://pbs.twimg.com/profile_images/1271052037518573568/aQXx0CVf_400x400.jpg",
+  "theme": "PdM",
+  "text": "飲む量を減らすとペットの狐が元気になるアプリ「Tipple(https://onbo-hub.com/apps/tipple)」が、なんと月約1400万円(9.3万ドル)！2026年5月リリースなのに伸びがヤバい！\n\nお酒を「やめろ」とは言わない。飲む量を抑えると狐が元気になって、キャンプが育っていく。育成ゲームの形で続けさせるのがうまい！\n\nオンボーディングは約35画面。\n・「飲酒」「生活」「プラン」の3章に分ける\n・1週間の飲酒量を曜日ごとに入力させて、「ミッドウィークの常連」のような面白タイプを返す\n・6週間の目標を決めると、節約額や睡眠の変化を見せる\n・長押しのコミット画面から、ギフトの演出でトライアルへつなぐ\n\n自分の飲み方に名前がつくと、急に他人事じゃなくなる！\n\nそしてペイウォールがえぐい！7日間無料トライアル付きの年額がデフォルトで、メインのボタンはアプリ外のWeb決済に飛ぶ。「アプリ内で支払う」を選んだ人にだけApp Storeの購入シートが出る。",
+  "media": [
+   {
+    "type": "video",
+    "url": "https://pbs.twimg.com/amplify_video_thumb/2119508907810865153/img/GuOiQSp6Gv_IJzi2.jpg"
+   }
+  ],
+  "created_at": "2026-11-10T10:14:00.000Z",
+  "metrics": {
+   "like": 13,
+   "repost": 0,
+   "bookmark": 11,
+   "view": 1564
+  },
+  "added_at": "2026-11-10T20:48:28.307860+00:00"
+ },
+ {
+  "id": "2120067761200419226",
+  "handle": "nyataromapo",
+  "name": "配当リス",
+  "avatar": "https://pbs.twimg.com/profile_images/2014894656576954368/B2XSXnBg_400x400.jpg",
+  "theme": "日本株・高配当株",
+  "text": "🚨【NTT、NEC株売却で約1,890億円の利益！！】🔥\n\nNTTの資本戦略がすごいことに😳\n\n✅ NEC株を約3,256万株売却\n✅ 売却価格：4,308.8円\n✅ 売却額：約1,403億円\n✅ 自社株買いにも応募予定\n✅ 特別利益：約1,890億円を計上予定！\n\nしかも、連結当期利益への影響はなし！\n\nこれだけの資産を現金化して、次は何に使うのか！？\n\n💰 増配？\n🔥 自社株買い？\n🚀 成長投資？\n\nNTT株主としては、株主還元の強化に期待したい！！\n\n#NTT #9432 #NEC #6701 #高配当株 #日本株 #株主還元 #新NISA",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWv-Y8BaQAAy3Bv.jpg"
+   }
+  ],
+  "created_at": "2026-11-10T08:15:17.000Z",
+  "metrics": {
+   "like": 50,
+   "repost": 0,
+   "bookmark": 1,
+   "view": 2478
+  },
+  "added_at": "2026-11-10T20:48:28.307860+00:00"
+ },
+ {
+  "id": "2120054743439745198",
+  "handle": "kabutakabusuke",
+  "name": "かぶすけ@配当株で老後の不労所得を",
+  "avatar": "https://pbs.twimg.com/profile_images/2004516568164888576/tYhcH4X0_400x400.jpg",
+  "theme": "日本株・高配当株",
+  "text": "しずおかFG【5831】\n\n1Q決算に続いて2Q決算でもまたまた上方修正と配当増額修正と自社株買いのトリプルコンボ🥊\n年間配当は前期80円→今期113円(+41.3%)\n\nこれで累進配当だなんて心強すぎる！",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWvyjVTaoAE2rw3.jpg"
+   },
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWvyjVUaMAE4p1_.jpg"
+   }
+  ],
+  "created_at": "2026-11-10T07:23:34.000Z",
+  "metrics": {
+   "like": 2,
+   "repost": 1,
+   "bookmark": 0,
+   "view": 110
+  },
+  "added_at": "2026-11-10T20:48:28.307860+00:00"
+ },
+ {
+  "id": "2120022685069836464",
+  "handle": "kindanpolitics",
+  "name": "禁断の日本政治",
+  "avatar": "https://pbs.twimg.com/profile_images/2045499359941562369/RbaIdjjm_400x400.jpg",
+  "theme": "行政DX",
+  "text": "【悲報】自治体システム、見積もりや運用の見直しで費用が3割程度下がる事例まで明かされてしまう\n　\n自治体システムの標準化をめぐり\n高額なデータ移行費用や\n見積もりの説明を拒まれる\n可能性があるとして\n公正取引委員会が実態調査へ\n　\nこの問題への対応を問われた\n古川デジタル相は\n自治体が業者を自由に選べる環境と\n競争を維持する重要性を説明\n　\nその上で挙げたのが\nクラウドの使い方への理解不足や\nシステムの二重利用\n見積もりが精緻でない場合など\n費用を見直せる余地があるという話\n　\nデジタル庁が支援することで\n自治体と業者の一対一の交渉より\n3割程度安くなった事例も\nあると明かした\n　\nさらに必要以上の容量や\n土日や夜間の稼働\n保守管理費の見直しなど\n運用開始後にも\n効率化の余地があると説明\n　\n全自治体で一律3割下がる話でも\n不正請求が確定した話でもない\nただ国が間に入ることで\nこれだけ費用が変わるなら\n自治体だけの交渉で\n適正な契約にたどり着けるのか\nという課題は小さくない\n　\n標準化で便利にするはずが\n費用や業者選びで苦労するのでは\n現場の負担は減らない",
+  "media": [
+   {
+    "type": "video",
+    "url": "https://pbs.twimg.com/amplify_video_thumb/2120022542945796096/img/SxLAjS65xlMwGjT8.jpg"
+   }
+  ],
+  "created_at": "2026-11-10T05:16:10.000Z",
+  "metrics": {
+   "like": 47,
+   "repost": 10,
+   "bookmark": 3,
+   "view": 4248
+  },
+  "added_at": "2026-11-10T20:48:28.307860+00:00"
+ },
+ {
   "id": "2120115917829075135",
   "handle": "0x7c0x80386",
   "name": "Otak",
@@ -7813,261 +8081,5 @@
    "view": 36
   },
   "added_at": "2026-11-03T15:02:30.582566+00:00"
- },
- {
-  "id": "2117359628292149359",
-  "handle": "m4Ora564Kqx0PMS",
-  "name": "かぞまる@高配当でFIREする！",
-  "avatar": "https://pbs.twimg.com/profile_images/1840127042454753280/QvTrbnYY_400x400.jpg",
-  "theme": "日本株・高配当株",
-  "text": "日本企業の株主還元が、過去最大になります。\n\n2026年度の予想がこれです。\n\n・配当総額 31.6兆円（前年度比+20.3%）\n・自社株買い 24.0兆円（同+27.3%）\n・総還元額 55.6兆円（同+23.3%）\n\n野村證券の見通しです。\n\n高配当株投資をしている人にとって、\nこれは強烈な追い風です。\n\n【なぜ還元が増え続けるのか】\n\n日本企業の総還元性向は68.5%。\n\n一方、海外の多くの国は70〜75%です。\nつまり日本はまだ低い。\n\nだから「もっと還元せよ」という圧力が\n今後も続きやすい構造です。\n\n本多静六の言葉。\n「投資とは、未来を買う行為である」\n\n増配の流れは、一時的な話ではありません。\n\n【今日の5分チェック】\n\n□ 保有銘柄の中間決算を確認する\n→ 増配や自社株買いが出ていないか\n\n□ 配当予想が上方修正されていないか見る\n\n□ 権利確定月を一覧にする\n→ 3月・9月に偏っていないか\n\n□ インデックス側の積立が止まっていないか確認\n\n【ただし注意】\n\n還元が増えているからといって、\n利回りの高さだけで買うのは危険です。\n\n明日、その理由を書きます。\n\nあなたの保有銘柄、増配出ましたか？\n\n#高配当株 #株主還元 #自社株買い",
-  "media": [
-   {
-    "type": "photo",
-    "url": "https://pbs.twimg.com/media/HWJfW_ca4AA-kVE.jpg"
-   }
-  ],
-  "created_at": "2026-11-02T20:54:08.000Z",
-  "metrics": {
-   "like": 4,
-   "repost": 1,
-   "bookmark": 0,
-   "view": 151
-  },
-  "added_at": "2026-11-03T15:02:30.582566+00:00"
- },
- {
-  "id": "2117349540168876334",
-  "handle": "bot",
-  "name": "Grok Bot",
-  "avatar": "https://pbs.twimg.com/profile_images/2087219239275069440/KW6C403V_400x400.jpg",
-  "theme": "AI",
-  "text": "Our team built a Team Bot that gives everyone at the company on-demand access to a data scientist.\n\nPMs use Data Bot to investigate product usage, marketers use it to measure campaign results, and teams across the company use it to build dashboards and track key metrics.",
-  "media": [
-   {
-    "type": "photo",
-    "url": "https://pbs.twimg.com/media/HWJPCGsaAAAOf8O.jpg"
-   }
-  ],
-  "created_at": "2026-11-02T20:14:03.000Z",
-  "metrics": {
-   "like": 3850,
-   "repost": 257,
-   "bookmark": 2657,
-   "view": 569324
-  },
-  "translation_ja": "私たちのチームは、全社員がいつでもデータサイエンティストを頼れる「Team Bot」を作りました。\n\nPMはData Botでプロダクトの利用状況を調べ、マーケターはキャンペーンの成果を測り、社内のさまざまなチームがダッシュボードの構築や主要指標の追跡に使っています。",
-  "added_at": "2026-11-03T15:02:30.582566+00:00"
- },
- {
-  "id": "2117480193061531768",
-  "handle": "toushi_kenshou",
-  "name": "ぽこたん@AI活用×投資家",
-  "avatar": "https://pbs.twimg.com/profile_images/1862614331969437697/hljSfpjB_400x400.jpg",
-  "theme": "日本株・高配当株",
-  "text": "配当利回り12%の銘柄を保有したい人へ。今の利回り3%の株でも、増配率10%が続けば配当金は約7年で2倍、約15年で4倍。つまり15年後には買値に対して利回り約12%。100万円で年3万円だった配当が、何もしなくても年約12万円になる。「10%も増配する会社なんてある？」と思うかもだけど、10年以上連続増配の183社のうち、過去5年で年平均10%以上増配してるのは147社。なんと約8割。三菱商事19.8%、伊藤忠19.0%、日立18.9%、オービック17.8%、富士フイルム16.0%と、名前を知ってる会社は10%どころかそれ以上のペース。利回り12%は探すものじゃなくて、育てるもの。株価を毎日見るより、増配のペースを見るほうがずっと楽しい！！",
-  "media": [],
-  "created_at": "2026-11-03T04:53:13.000Z",
-  "metrics": {
-   "like": 74,
-   "repost": 2,
-   "bookmark": 30,
-   "view": 18225
-  },
-  "added_at": "2026-11-03T13:08:17.529503+00:00"
- },
- {
-  "id": "2117557899857924513",
-  "handle": "cu30rry_",
-  "name": "kaito",
-  "avatar": "https://pbs.twimg.com/profile_images/2101959420439834625/ucyJOshP_400x400.jpg",
-  "theme": "AI",
-  "text": "敵対的レビューよりも検証と、その質を上げることに時間とトークンを使ったほうが絶対良い！\n\n検証を徹底して、検証の質を上げるほうが、敵対的レビューをするより遥かに効果的だし、信頼背も高く、人間が介入する場面が減る\n\n敵対的レビューは、ハーネスを設計しないとハルシネーションが大量に出るし、その仕組を作ってもトークンの消費が激しく、効率も悪い\n\n指摘の根拠・その根拠を再現する方法を報告させ、それが本当に再現するかをエージェントが判断し、人間も最終的な結果を確認する必要があり、成果物の信頼性が形式検証に遥かに劣る",
-  "media": [],
-  "created_at": "2026-11-03T10:02:00.000Z",
-  "metrics": {
-   "like": 20,
-   "repost": 1,
-   "bookmark": 19,
-   "view": 2695
-  },
-  "added_at": "2026-11-03T13:07:49.596090+00:00"
- },
- {
-  "id": "2117550326865707227",
-  "handle": "StaneerWatanabe",
-  "name": "渡邉 拓哉｜日本一Claude Codeを使い倒す\"個人ファースト型\"転職エージェント｜スタニア代表",
-  "avatar": "https://pbs.twimg.com/profile_images/2041756771010953216/VS7QsnSR_400x400.jpg",
-  "theme": "PdM",
-  "text": "プロダクトマネージャーの面接で、「主体的に進めました」と言うほど、本人の判断が見えなくなることがあります。\n\n私が面接対策で勧めるのは、役割を3つに分けて話すことです。\n\n自分が責任を持って調査、設計、判断、実行した範囲。\nプロダクトオーナーや他職種と一緒に決めた範囲。\n最終決裁者に提案して、意思決定に影響した範囲。\n\nたとえば「ユーザー行動の分析と課題仮説の整理は私が主担当。優先順位は、事業影響と開発工数を示したうえで一緒に決めた。最終決裁はPOだったが、私の分析をもとに施策を前倒しする判断になった」。\n\nこう話すと、「主体的」という形容詞がなくても、どこまで自分で決めた人かが伝わります。",
-  "media": [],
-  "created_at": "2026-11-03T09:31:54.000Z",
-  "metrics": {
-   "like": 11,
-   "repost": 0,
-   "bookmark": 0,
-   "view": 224
-  },
-  "added_at": "2026-11-03T13:07:49.596090+00:00"
- },
- {
-  "id": "2117527201390133622",
-  "handle": "shige_haitou",
-  "name": "しげ@高配当FIRE",
-  "avatar": "https://pbs.twimg.com/profile_images/2113178327334989824/4bnW7WfP_400x400.jpg",
-  "theme": "日本株・高配当株",
-  "text": "INPEX、年間配当予想112円！\n\n100株なら11,200円。\n\nさらに今期は最大1,400億円の自社株買いも計画。\n\n「配当だけじゃないの？」\n\n石油・天然ガス価格の影響を受ける企業ですが、株主還元の規模は大きい。\n\nみなさんは配当と自社株買い、どちらがうれしいですか？",
-  "media": [],
-  "created_at": "2026-11-03T08:00:01.000Z",
-  "metrics": {
-   "like": 35,
-   "repost": 0,
-   "bookmark": 1,
-   "view": 2195
-  },
-  "added_at": "2026-11-03T13:07:49.596090+00:00"
- },
- {
-  "id": "2117485161784987793",
-  "handle": "kgsi",
-  "name": "こぎそ",
-  "avatar": "https://pbs.twimg.com/profile_images/2106765574747623424/YKS7OaPc_400x400.jpg",
-  "theme": "AI",
-  "text": "話題のDeepSeek Harnessの仕組みを図に起こした👀\n\nAIが次の行動を決め、ツールを実行し、結果を見てまた判断する。履歴を管理しながら、必要なら子エージェントにも仕事を分担する。\nデザインエージェントの土台にも使えないか検証中。\n\ndeepseek-harness\nhttps://github.com/deepseek-ai/deepseek-harness",
-  "media": [
-   {
-    "type": "photo",
-    "url": "https://pbs.twimg.com/media/HWLRJ4PbYAAAegK.jpg"
-   }
-  ],
-  "created_at": "2026-11-03T05:12:58.000Z",
-  "metrics": {
-   "like": 31,
-   "repost": 0,
-   "bookmark": 33,
-   "view": 1715
-  },
-  "added_at": "2026-11-03T13:07:49.596090+00:00"
- },
- {
-  "id": "2117461651704393736",
-  "handle": "tktnbr8",
-  "name": "tkt | Loglass PdM🐳",
-  "avatar": "https://pbs.twimg.com/profile_images/2095011369779363840/6tkYIiff_400x400.jpg",
-  "theme": "PdM",
-  "text": "結構PdMの人、事業責任者やった方が良いと思います。新規でも既存でも良いけど、出来れば新規で立ち上げてPMFさせた経験を持っておくの凄い大事です。\n今後PdMは事業の方に寄っていくと思われますので、そこの経験があるかないかでセンスだいぶ出るので。",
-  "media": [],
-  "created_at": "2026-11-03T03:39:32.000Z",
-  "metrics": {
-   "like": 19,
-   "repost": 0,
-   "bookmark": 3,
-   "view": 514
-  },
-  "added_at": "2026-11-03T13:07:49.596090+00:00"
- },
- {
-  "id": "2117431072300617913",
-  "handle": "sanpouyoshikici",
-  "name": "よし＠高配当株×15項目分析",
-  "avatar": "https://pbs.twimg.com/profile_images/1676574047965159425/TUIClkzX_400x400.jpg",
-  "theme": "日本株・高配当株",
-  "text": "気になりますよね😊\nイエローハットが自社株買いを実施☝️\n\n・37.7万株を約6億円で取得\n・1株1,600円\n・11/4から市場での買付も再開\n\n上期は経常+17.4%で\n配当予想は年68円（6円増配）のまま\n\n株主還元、しっかりしてますね😁\n※投資判断はご自身で",
-  "media": [],
-  "created_at": "2026-11-03T01:38:02.000Z",
-  "metrics": {
-   "like": 20,
-   "repost": 0,
-   "bookmark": 1,
-   "view": 1390
-  },
-  "added_at": "2026-11-03T13:07:49.596090+00:00"
- },
- {
-  "id": "2117539400771117323",
-  "handle": "mameyama_kun",
-  "name": "豆山くん",
-  "avatar": "https://pbs.twimg.com/profile_images/2101186222861500416/Lxr9wnpe_400x400.png",
-  "theme": "日本株・高配当株",
-  "text": "日本特殊陶業（5334）が反発。\n\n・通期予想を上方修正。売上高8100億円（前期比10.8％増）、純利益1250億円（10.7％増）に増額。減益予想から一転、過去最高益更新の見通し。\n・年間配当を119円に増配。\n・海外投資家を中心に東芝の再上場に注目が集まる中、東芝株を保有する同社への関心が高まる。",
-  "media": [
-   {
-    "type": "photo",
-    "url": "https://pbs.twimg.com/media/HWMCgMVaUAATEIu.jpg"
-   }
-  ],
-  "created_at": "2026-11-03T08:48:29.000Z",
-  "metrics": {
-   "like": 95,
-   "repost": 5,
-   "bookmark": 7,
-   "view": 9339
-  },
-  "added_at": "2026-11-03T10:57:57.910284+00:00"
- },
- {
-  "id": "2117532632611488214",
-  "handle": "kenn",
-  "name": "Kenn Ejima",
-  "avatar": "https://pbs.twimg.com/profile_images/2101495370660655104/F8tzCryw_400x400.jpg",
-  "theme": "AI",
-  "text": "NNの重みを直接編集するリプログラミングの件\n\n再現試験により、この直近2ヶ月に登場したモデルでなければ実現できなかった、ということが示されて、本当にRSIのフェーズに入ったことを感じる…\n\n言語がどうこう、機械語がどうこうじゃない、重みを直接だよ？\n\n自己書き換えループという可能性が開かれると、NNの重みはコードなのかデータなのか、再びその問いに戻ってくるんだよな…",
-  "media": [],
-  "created_at": "2026-11-03T08:21:36.000Z",
-  "metrics": {
-   "like": 95,
-   "repost": 11,
-   "bookmark": 47,
-   "view": 6920
-  },
-  "added_at": "2026-11-03T10:57:57.910284+00:00"
- },
- {
-  "id": "2117528787017720229",
-  "handle": "Imngst21R0H0",
-  "name": "ちゃーん #原沢でもヤマナ禍",
-  "avatar": "https://pbs.twimg.com/profile_images/1525077216152805380/FQKbtmHD_400x400.jpg",
-  "theme": "行政DX",
-  "text": "【11/3祝日に記者発表する非常事態】\n横浜市電子申請・届出システム\n不正アクセスの影響\n82万人(人口376万人の約21%)個人情報の漏えい\n\n市長の定例会見は11/6(金)を予定しているようだが、明日の朝イチに何らかのアクションは起こせるのか？\n#原沢でもヤマナ禍\nhttps://www.city.yokohama.lg.jp/city-info/koho-kocho/press/somu/2026/1103denshishinsei.html",
-  "media": [
-   {
-    "type": "photo",
-    "url": "https://pbs.twimg.com/media/HWL5NMVbYAAOJhy.jpg"
-   }
-  ],
-  "created_at": "2026-11-03T08:06:19.000Z",
-  "metrics": {
-   "like": 62,
-   "repost": 45,
-   "bookmark": 20,
-   "view": 28302
-  },
-  "added_at": "2026-11-03T10:57:57.910284+00:00"
- },
- {
-  "id": "2117528052502778169",
-  "handle": "AkgTakeyoshi",
-  "name": "たけ＠株主優待&高配当株",
-  "avatar": "https://pbs.twimg.com/profile_images/1916367692271140864/DuPjbuYv_400x400.jpg",
-  "theme": "日本株・高配当株",
-  "text": "日本空調累進配当銘柄である日本空調サービスが7%下落は熱いですね‼️\n\n✅配当方針\n連結配当性向50%の累進配当、DOE7.5%を目標とした配当\n\n✅目安利回り\n現在株価：1408円\n現在利回り：4.05%\n利回り4.2%：1357円\n利回り4.4%：1295円\n利回り4.6%：1239円  https://twitter.com/sorave55/status/2117239803918053405",
-  "media": [
-   {
-    "type": "photo",
-    "url": "https://pbs.twimg.com/media/HWL4ijHawAAh719.jpg"
-   },
-   {
-    "type": "photo",
-    "url": "https://pbs.twimg.com/media/HWL4ijFaUAAJoBx.jpg"
-   }
-  ],
-  "created_at": "2026-11-03T08:03:24.000Z",
-  "metrics": {
-   "like": 61,
-   "repost": 2,
-   "bookmark": 34,
-   "view": 8507
-  },
-  "added_at": "2026-11-03T10:57:57.910284+00:00"
  }
 ]

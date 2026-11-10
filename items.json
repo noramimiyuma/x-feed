@@ -1,5 +1,363 @@
 [
  {
+  "id": "2119950285284204801",
+  "handle": "imacrea_caio",
+  "name": "自治体AI Daily@イマクリエCAIO",
+  "avatar": "https://pbs.twimg.com/profile_images/1909845169803022336/7laCTGF-_400x400.jpg",
+  "theme": "行政DX",
+  "text": "📢 自治体AI Daily｜11/10\n\n今日の3つのハイライト\n① 磐梯町「責任あるAI宣言」を発表\n② 磐梯町「aX共創準備室」を設置\n③ 北海道で自治体の生成AI活用に地域差\n\n「私たちは今、AIの時代を生きている。」磐梯町の宣言の一節です。宣言と準備室で、町の挑戦が始まりました。 https://x.com/i/article/2119948911121174528",
+  "media": [],
+  "created_at": "2026-11-10T00:28:29.000Z",
+  "metrics": {
+   "like": 1,
+   "repost": 0,
+   "bookmark": 0,
+   "view": 176
+  },
+  "added_at": "2026-11-10T02:53:33.825978+00:00"
+ },
+ {
+  "id": "2119934050903465988",
+  "handle": "TsubasaDXvoyage",
+  "name": "自治体DXの航海士_つばさ",
+  "avatar": "https://pbs.twimg.com/profile_images/2027733375088467968/9BeTA_mm_400x400.jpg",
+  "theme": "行政DX",
+  "text": "【本日の実務ワンポイント】\nデジ庁が「源内」の行政実務用RAG解説を公開。自治体AIの誤回答を防ぐ鍵は、例規PDFの丸投げを脱し「条項・QA単位でテキストを小分け（チャンク化）して登録する」こと。冬の議会答弁AIの精度向上に直結します！\nhttps://www.digital.go.jp/news",
+  "media": [],
+  "created_at": "2026-11-09T23:23:58.000Z",
+  "metrics": {
+   "like": 0,
+   "repost": 0,
+   "bookmark": 0,
+   "view": 34
+  },
+  "added_at": "2026-11-10T02:53:33.825978+00:00"
+ },
+ {
+  "id": "2119920468891218332",
+  "handle": "Haruki_Sonehara",
+  "name": "Haruki Sonehara / 🇺🇸シリコンバレーのプロダクト戦略 & 組織アドバイザー",
+  "avatar": "https://pbs.twimg.com/profile_images/1170937949061410816/0HlOljs2_400x400.jpg",
+  "theme": "PdM",
+  "text": "CoinbaseのCEO Brian氏が組んでいるエージェント体制を、本人の弁から図にするとこんな感じ。\n\n今年5月に14%の社員をレイオフし、5層あった中間マネジメント層を排除。組織のフラット化とAIネイティブ化を実行。\n\nChief of Staff Agentとか、Lead agentとか本当に人間の組織がAIに飲み込まれていく様が現れている...",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWqQlcja0AEnZeh.jpg"
+   }
+  ],
+  "created_at": "2026-11-09T22:30:00.000Z",
+  "metrics": {
+   "like": 40,
+   "repost": 3,
+   "bookmark": 45,
+   "view": 3073
+  },
+  "added_at": "2026-11-10T02:53:33.825978+00:00"
+ },
+ {
+  "id": "2119915949558206585",
+  "handle": "umiyuki_ai",
+  "name": "うみゆき@AI研究",
+  "avatar": "https://pbs.twimg.com/profile_images/1581572203660787712/SAdL4WOj_400x400.jpg",
+  "theme": "AI",
+  "text": "NVidiaがロボット制御モデルのGR00T-2を発表。未来予測の映像とロボットアクションを同時生成する。過去バージョンではVLMベースだったけど今回からはワールドモデル（Cosmos）がベースになって諸々良くなった。あと学習データがロボの動画から人間の動画に切り替わりつつある。モデルとコードは12月に公開予定",
+  "media": [],
+  "created_at": "2026-11-09T22:12:03.000Z",
+  "metrics": {
+   "like": 27,
+   "repost": 8,
+   "bookmark": 13,
+   "view": 3829
+  },
+  "added_at": "2026-11-10T02:53:33.825978+00:00"
+ },
+ {
+  "id": "2119915568996520315",
+  "handle": "TAKAKING22",
+  "name": "TAKAKING22 | Takao Oyobe",
+  "avatar": "https://pbs.twimg.com/profile_images/1826840522113314816/O4PbZqnI_400x400.jpg",
+  "theme": "PdM",
+  "text": "『私たちはスクラムを実践するために報酬を得ているのではない。答えるべき5つの問い』\n\nタイトルが本当にそれ！\n\nhttp://Scrum.orgに掲載された、AI時代のプロダクト開発についての論考。以下、詳細です。\n\n1. どの顧客課題に、解く価値があるか\n\n顧客にとっての重要性と、組織が取り組む価値の両方を確かめる。AIに顧客の声を要約させる場合も、何が拾われ、何が省かれたかを見る。\n\n2. 今、チームの時間を使う最善の選択か\n\n新機能だけでなく、保守や信頼性の改善も同じ時間を使う。「安く作れる」だけで決めず、作らない選択も含めて考える。\n\n3. それに触れる人にとって、十分な品質か\n\n製品と実験では、求める品質の基準が異なる。試作品が動いたことを、そのまま本番利用してよい根拠にしない。\n\n4. 実際に問題を解決したか\n\n完成した機能の数では、顧客に起きた変化は分からない。何を観察し、どの結果なら継続・変更・撤去するかを、事前に決めておく。\n\n5. 今の働き方は、まだ適切か\n\nAIに任せた仕事も定期的に見直す。人が確認するはずだった仕事が、いつの間にか無確認で流れるようになっていないかも点検する。\n\n問いを並べるだけなら、既存の会議にも簡単に追加できる。難しいのは、答えに応じて優先順位を変えたり、すでに動いている仕事を止めたりすることだと思う。\n\nAIを使って何を増やせたかに加えて、何をやめられたかも話したい。作れる量が増えるほど、顧客にもチームにも必要なものを選ぶ責任は重くなる。\n\nhttps://www.scrum.org/resources/blog/were-not-paid-practice-scrum-answer-5-product-questions",
+  "media": [],
+  "created_at": "2026-11-09T22:10:32.000Z",
+  "metrics": {
+   "like": 10,
+   "repost": 2,
+   "bookmark": 6,
+   "view": 754
+  },
+  "added_at": "2026-11-10T02:53:33.825978+00:00"
+ },
+ {
+  "id": "2119913172039868579",
+  "handle": "OpenAI",
+  "name": "OpenAI",
+  "avatar": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_400x400.jpg",
+  "theme": "AI",
+  "text": "We built Control Room, a central system to track model workloads across our research infrastructure and stop them quickly when safety or security concerns arise.\n\nIt connects every research inference workload, including agentic sampling for model training and evaluation, data processing, and more. This works together with our misalignment monitoring systems, and halts model output within 35 seconds of a decision to intervene to stop or pause a job.\n\nControl Room is just one part of our holistic approach for safe frontier model training and deployment.\n\nhttps://openai.com/index/control-room/",
+  "media": [],
+  "created_at": "2026-11-09T22:01:00.000Z",
+  "metrics": {
+   "like": 2938,
+   "repost": 204,
+   "bookmark": 764,
+   "view": 432700
+  },
+  "translation_ja": "私たちは「Control Room」を構築しました。研究インフラ全体のモデルのワークロードを追跡し、安全性やセキュリティ上の懸念が生じたときに素早く停止するための中央システムです。\n\nこれは、モデルの学習・評価のためのエージェント的なサンプリング、データ処理など、あらゆる研究用推論ワークロードをつなぎます。ミスアラインメント監視システムと連携して動作し、ジョブの停止または一時停止を介入すると決定してから35秒以内にモデルの出力を止めます。\n\nControl Room は、フロンティアモデルを安全に学習・展開するための私たちの総合的な取り組みの一部にすぎません。\n\nhttps://t.co/tc0lBqFdS5",
+  "added_at": "2026-11-10T02:53:33.825978+00:00"
+ },
+ {
+  "id": "2119912939532832979",
+  "handle": "hhayashiss",
+  "name": "林 英俊｜AI x IoT CEO｜製造DX代表",
+  "avatar": "https://pbs.twimg.com/profile_images/1992522331068280832/sGk6bsrU_400x400.jpg",
+  "theme": "PdM",
+  "text": "Amazon入社初日、こう言われた。「2週間後にSVPレビューがあるから、プレスリリースを書いて」。オンボーディングなし。ベゾス直下No2との対峙が、最初の仕事だった。\n\nAmazonのプロダクト開発では、企画の最上流で必ずプレスリリースを書く。「顧客にとって何がすごいのか」を顧客主語で書き切れなければ、そのプロダクトは作らない。仕様から始めると技術ドリブンになる。顧客体験から始めると、何を作るべきかが先に決まる。\n\nスタートアップを経営する今も、この逆算思考は使い続けている。「このプレスリリースを書けるか？」という問いが、機能議論を整理する最速の手段だ。",
+  "media": [],
+  "created_at": "2026-11-09T22:00:05.000Z",
+  "metrics": {
+   "like": 6,
+   "repost": 0,
+   "bookmark": 5,
+   "view": 453
+  },
+  "added_at": "2026-11-10T02:53:33.825978+00:00"
+ },
+ {
+  "id": "2119908851801829666",
+  "handle": "ctgptlb",
+  "name": "AGIラボ",
+  "avatar": "https://pbs.twimg.com/profile_images/1671845985574875137/W689Frac_400x400.jpg",
+  "theme": "AI",
+  "text": "【速報】Anthropic、Claude Fable 5.2とMythos 5.2を公開\n\n・公式評価のほぼ全項目でOpus 5.5を上回る\n・出力は5.1より最大30%高速\n・API料金は入力$8／出力$40（100万トークンあたり、5.1から2割安）\n・Fableは全有料プランとAPIで本日から。Mythosは審査制\n\n性能と提供範囲はリプで↓",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWtt2CsaYAAXNCz.jpg"
+   },
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWtt2V3aYAAHpUb.jpg"
+   }
+  ],
+  "created_at": "2026-11-09T21:43:50.000Z",
+  "metrics": {
+   "like": 117,
+   "repost": 20,
+   "bookmark": 25,
+   "view": 16454
+  },
+  "added_at": "2026-11-10T02:53:33.825978+00:00"
+ },
+ {
+  "id": "2119899459761131615",
+  "handle": "claudeai",
+  "name": "Claude",
+  "avatar": "https://pbs.twimg.com/profile_images/1950950107937185792/QOfEjFoJ_400x400.jpg",
+  "theme": "AI",
+  "text": "During pre-release testing, Claude Fable 5.2 and Claude Mythos 5.2 worked on ambitious projects in many different fields. Here are a few.\n\nFrom a one-paragraph prompt, Fable 5.2 designed three working electronic devices, including this home voice assistant hub.",
+  "media": [
+   {
+    "type": "video",
+    "url": "https://pbs.twimg.com/amplify_video_thumb/2119889970664030208/img/zA7dOkx94Gdcx8Se.jpg"
+   }
+  ],
+  "created_at": "2026-11-09T21:06:31.000Z",
+  "metrics": {
+   "like": 17699,
+   "repost": 959,
+   "bookmark": 5455,
+   "view": 1253043
+  },
+  "translation_ja": "リリース前のテストで、Claude Fable 5.2 と Claude Mythos 5.2 はさまざまな分野で野心的なプロジェクトに取り組みました。そのうちいくつかを紹介します。\n\n1段落のプロンプトから、Fable 5.2 は実際に動作する電子機器を3つ設計しました。このホーム音声アシスタントハブもその一つです。 https://t.co/efOYdhRr7K",
+  "added_at": "2026-11-10T02:53:33.825978+00:00"
+ },
+ {
+  "id": "2119795715329413523",
+  "handle": "financial1111",
+  "name": "配当太郎",
+  "avatar": "https://pbs.twimg.com/profile_images/1566658926397247488/n8g7rtj7_400x400.jpg",
+  "theme": "日本株・高配当株",
+  "text": "JTのロシア事業、プーチン大統領により\nロシア管理下へ。それによりJTの株価はまさかの2営業日連続ストップ安。配当株投資としてどう考えれば良いのか、そんな点についての所感。\n↓↓↓\nnoteメンバーシップ記事\nhttps://note.com/h10taro/n/nc8bdeece5ff6",
+  "media": [],
+  "created_at": "2026-11-09T14:14:17.000Z",
+  "metrics": {
+   "like": 145,
+   "repost": 5,
+   "bookmark": 4,
+   "view": 56828
+  },
+  "added_at": "2026-11-10T02:53:33.825978+00:00"
+ },
+ {
+  "id": "2119780505579360735",
+  "handle": "aitarimise",
+  "name": "藍田りみせ⚔株クエスト",
+  "avatar": "https://pbs.twimg.com/profile_images/2118999405357592577/H_f4DnjL_400x400.jpg",
+  "theme": "日本株・高配当株",
+  "text": "今日の気になる高配当株ニュース\n\n✅ 清水建設（1803）\n業績上方修正、年間12円増配！\n概要：営業利益予想を1,920億円に25.5％上方修正\n重要：年間配当77円→89円\n影響：株価は7.68％上昇\n注目：建設工事の採算改善継続\n\n✅ 商船三井（9104）\n500億円自社株買いと1対3の株式分割！\n概要：上限900万株・500億円の自社株買い\n重要：2027年1月に1株を3株へ分割\n影響：終値6,440円（-1.17％）\n注目：取得株式の消却と株主還元\n\n✅ 東京センチュリー（8439）\n通期上方修正、年間14円増配！\n概要：通期純利益予想を1,450億円へ17.9％上方修正\n重要：年間配当90円→104円\n影響：増配による株主還元強化\n注目：下期の利益回復と最高益達成\n\n✅ JX金属（5016）\n営業利益倍増、通期予想を上方修正！\n概要：上期営業利益1,507億円（+115.3％）\n重要：通期純利益予想1,410億円→1,600億円\n影響：AI需要拡大・銅価格上昇が追い風\n注目：年間配当予想20円は据え置き\n\n昨日までの下落が嘘のような反発ですね😂\n\n個人的には清水建設と東京センチュリーの増配が気になるところ！\n\nただ、好決算だからといって飛びつくつもりはありません。株価が上がれば配当利回りは下がるので、買うなら利回りと株価のバランスを見ながらコツコツ拾っていきたいです⚔️",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWr5H6ua4AAtpOf.jpg"
+   },
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWr5H5GboAAXpCB.jpg"
+   },
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWr5H5VbwAAD2-v.jpg"
+   },
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWr5H5NbgAAf2lR.jpg"
+   }
+  ],
+  "created_at": "2026-11-09T13:13:50.000Z",
+  "metrics": {
+   "like": 21,
+   "repost": 1,
+   "bookmark": 1,
+   "view": 984
+  },
+  "added_at": "2026-11-10T02:53:33.825978+00:00"
+ },
+ {
+  "id": "2119741056443122129",
+  "handle": "0ajZFTMFyU4144",
+  "name": "むらやま",
+  "avatar": "https://pbs.twimg.com/profile_images/2087037924043010048/_2gDMgAg_400x400.jpg",
+  "theme": "日本株・高配当株",
+  "text": "【11/9(月)決算8銘柄を徹底分析！📊】\n\n好決算の筆頭は古河電工・味の素・三菱地所！JX金属も大幅上方修正📈\nKOKUSAIは増益・増配も株価急落。一方、商船三井は500億円の自社株買いを発表！\n\n好業績と株価反応は別物。決算相場の難しさが浮き彫りに🔥\n\n#日本株 #決算 #AI #半導体 #高配当株 #日経平均  https://twitter.com/0ajZFTMFyU4144/status/2119388963068633505",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWrVQQBaQAAjX9G.jpg"
+   }
+  ],
+  "created_at": "2026-11-09T10:37:05.000Z",
+  "metrics": {
+   "like": 14,
+   "repost": 4,
+   "bookmark": 8,
+   "view": 4549
+  },
+  "added_at": "2026-11-10T02:53:33.825978+00:00"
+ },
+ {
+  "id": "2119737436993384851",
+  "handle": "bunchou_it",
+  "name": "ぶんちょう@ITシステム開発会社の人",
+  "avatar": "https://pbs.twimg.com/profile_images/1984625201846632448/R3YlhXes_400x400.jpg",
+  "theme": "PdM",
+  "text": "事業部長兼PdMとして、勤怠管理システムをほぼプロトタイプからガチ商用化したワイからひと言…\n\nマ　ジ　で　や　め　と　け\n\n法令ガン無視でも残業時間集計にシフト有休代休振休の管理が必要で容易ではない（超ざっくり）\n\n仮に最初軽く済んでも追加要望が出まくるから、せめて保守契約前提で文字数 https://twitter.com/shi_sa_man_/status/2119156526854390055",
+  "media": [],
+  "created_at": "2026-11-09T10:22:42.000Z",
+  "metrics": {
+   "like": 51,
+   "repost": 9,
+   "bookmark": 1,
+   "view": 4498
+  },
+  "added_at": "2026-11-10T02:53:33.825978+00:00"
+ },
+ {
+  "id": "2119709072148602933",
+  "handle": "kddi_agile",
+  "name": "KDDIアジャイル開発センター(KAG)",
+  "avatar": "https://pbs.twimg.com/profile_images/1577913207322079232/s3lT1DjI_400x400.jpg",
+  "theme": "PdM",
+  "text": "KDDI SUMMIT 2026で実施した「AI駆動開発ワークショップ」のレポートを公開しました。\n参加者がプロダクトオーナー役となり、70分で1つの機能を「決めて、作って、受け入れる」体験をしていただきました。「何を作るか」より「なぜ作るか」に向き合う様子をご紹介しています。\nhttps://hubs.li/Q04DKlkd0",
+  "media": [],
+  "created_at": "2026-11-09T08:29:59.000Z",
+  "metrics": {
+   "like": 10,
+   "repost": 3,
+   "bookmark": 4,
+   "view": 1618
+  },
+  "added_at": "2026-11-10T02:53:33.825978+00:00"
+ },
+ {
+  "id": "2119701524301693115",
+  "handle": "digital_jpn",
+  "name": "デジタル庁",
+  "avatar": "https://pbs.twimg.com/profile_images/1432867630298419206/Uez_q2Zx_400x400.png",
+  "theme": "行政DX",
+  "text": "デジタル庁採用note\n「使える」から「使われる」マイナポータルへ。\n約35分の短縮ケースも見られた青森県むつ市の乳幼児健診。\n手続の「その先」まで見届けるのが、マイナポータルのPdMの仕事です。\n全員が民間出身のプロダクトマネージャーサブユニットを紹介します👇\nhttps://digital-recruit-gov.note.jp/n/n383f6a38afcf",
+  "media": [],
+  "created_at": "2026-11-09T08:00:00.000Z",
+  "metrics": {
+   "like": 28,
+   "repost": 3,
+   "bookmark": 7,
+   "view": 9715
+  },
+  "added_at": "2026-11-10T02:53:33.825978+00:00"
+ },
+ {
+  "id": "2119635013969105180",
+  "handle": "BE9zoj",
+  "name": "コツコツわんこ投資マン",
+  "avatar": "https://pbs.twimg.com/profile_images/2034219418012758017/PGhnV7Ir_400x400.jpg",
+  "theme": "日本株・高配当株",
+  "text": "【商船三井、6430円なら株主還元がかなり強い⛴️】\n\n9104 商船三井の中間決算👇\n\n✅ 経常利益：2Q累計1,636億円\n✅ 通期予想：2,950億円\n✅ 年間配当：205円\n✅ 自社株買い：500億円\n✅ 1→3の株式分割\n✅ 分割後300株でカタログギフト\n\n株価6430円で計算すると……\n\n💰 配当利回り：約3.19%\n📊 PER：約7.4倍\n📉 PBR：約0.74倍\n🔥 自社株買い：約2.1%相当\n\n配当＋自社株買いを単純計算すると、\n\n株主還元：約5.3%相当\n\nしかも通期経常利益は2,950億円予想で、前年同期比でも大幅増益。\n\n海運株なので業績のブレはあるものの、\n\n「配当3%超」\n「PER7倍台」\n「PBR1倍割れ」\n「500億円の自社株買い」\n「株式分割」\n「株主優待」\n\nここまで並ぶと、6430円ではかなり気になる銘柄です👀\n\n🐾 個人的おすすめ度\n★★★★☆ 4/5\n\nただし、海運市況による業績変動が大きい点は忘れずに。\n\n6430円なら皆さんどう評価します？🤔",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWp0zyHboAA9Dt3.jpg"
+   },
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWp0zyKaQAAL9Of.jpg"
+   }
+  ],
+  "created_at": "2026-11-09T03:35:42.000Z",
+  "metrics": {
+   "like": 67,
+   "repost": 0,
+   "bookmark": 2,
+   "view": 8313
+  },
+  "added_at": "2026-11-10T02:53:33.825978+00:00"
+ },
+ {
+  "id": "2119628556699623675",
+  "handle": "so_ainsight",
+  "name": "そう@『n8nの教科書』マイナビ出版 10/22発売",
+  "avatar": "https://pbs.twimg.com/profile_images/1951625625455951872/pj57KIjJ_400x400.jpg",
+  "theme": "AI",
+  "text": "今週GitHubで急上昇したAIリポジトリ10選：\n\n1. claude-mem\nセッションが変わっても作業の記憶を引き継げる相棒。前回までのやり取りをAIが要約し、次の会話に差し戻す。\nhttps://github.com/thedotmack/claude-mem\n\n2. auto-ontology\nバラバラのデータを意味のつながりで結び直す土台。AIが根拠をたどりながら答えを導けるようになる。\nhttps://github.com/NVIDIA/auto-ontology\n\n3. orca\n手持ちの契約のまま、複数のコーディングAIを一度に走らせる管制室。パソコンでもスマホでも、離れた場所から動かせる。\nhttps://github.com/stablyai/orca\n\n4. hallmark\n生成AIの画面にありがちな、やっつけ感のある見た目を抑えるデザイン校正役。Claude CodeやCursorに差し込んですぐ使える。\nhttps://github.com/Nutlope/hallmark\n\n5. Claude-Code-Game-Studios\nClaude Code をまるごとゲーム開発スタジオに変える仕掛け。企画から制作まで役割を分けたチーム体制を、そっくり再現する。\nhttps://github.com/Donchitos/Claude-Code-Game-Studios\n\n6. superpowers\nAIエージェントに実戦的なスキル一式と開発の進め方をまとめて授ける枠組み。思いつきでなく決まった型で回せる。\nhttps://github.com/obra/superpowers\n\n7. OpenMontage\nコーディング用のAIを、動画づくりの全工程に引き上げる制作現場。絵コンテから仕上げまでの流れを、ひとつながりで受け持つ。\nhttps://github.com/calesthio/OpenMontage\n\n8. freellmapi\n34の無料AI提供元と635のモデル呼び出し口を1つに束ねる中継所。接続は自動で切り替わり、個人の実験用途に限られる。\nhttps://github.com/tashfeenahmed/freellmapi\n\n9. humanizer\nAIが書いた文章から、機械くさい言い回しを抜き取る仕上げ役。人が書いたような自然な文面に整える。\nhttps://github.com/blader/humanizer\n\n10. ai-engineering-hub\n生成AIや検索と組み合わせた仕組みや、実務レベルの自律型AIの作り方を手を動かして学べる教材集。基礎から実例まで順を追える。\nhttps://github.com/patchy631/ai-engineering-hub\n\n10件の詳細はリプ欄へ👇",
+  "media": [
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWpu7tsa4AAF7-D.jpg"
+   },
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWpu73HbUAAn9xq.jpg"
+   },
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWpu8AVb0AAZSmb.jpg"
+   },
+   {
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWpu8JQagAAuIq4.jpg"
+   }
+  ],
+  "created_at": "2026-11-09T03:10:03.000Z",
+  "metrics": {
+   "like": 594,
+   "repost": 44,
+   "bookmark": 989,
+   "view": 47464
+  },
+  "added_at": "2026-11-10T02:53:33.825978+00:00"
+ },
+ {
   "id": "2119881563878113579",
   "handle": "Seria_GovCloud",
   "name": "ガバクラに強い松屋JK",
@@ -7711,364 +8069,5 @@
    "view": 1907
   },
   "added_at": "2026-11-03T08:58:50.345722+00:00"
- },
- {
-  "id": "2117283978260746702",
-  "handle": "kanchanakichan",
-  "name": "幹ちゃん",
-  "avatar": "https://pbs.twimg.com/profile_images/1857518325083025412/zovtE1Mh_400x400.jpg",
-  "theme": "日本株・高配当株",
-  "text": "【日本郵船、年間配当330円へ増配の見通し！】\n\n保有株の日本郵船（9101）に嬉しいニュースが飛び込んできました！2日経新聞電子版によると、2027年3月期の年間配当を、従来予想の240円から330円前後へ引き上げる見通しとのこと🥂\n\nまだ正式発表ではありませんが、10月29日の大幅な業績上方修正を受け、増配への期待が高まっています。\n\n【増配が実現した場合】\n🔹年間配当：240円 → 330円\n（＋90円）\n🔹増配率：37.5％\n🔹予想配当利回り：約4.48％\n（2日終値 7,371円）\n🔹配当性向：約40.4％\n（予想EPS 817.36円）\n\n【幹ちゃんの保有状況】\n🔹保有株数：300株\n🔹取得単価：1,246円\n🔹現在株価：7,371円\n🔹評価益：＋183万7,500円\n（＋491.57％）\n\n【年間配当の試算】\n🔹従来予想：72,000円\n🔹増配後：    99,000円\n🔹年間増配額：＋27,000円\n🔹取得額ベースの配当利回り：\n約26.5％\n\n取得額37万3,800円に対して、年間約10万円の配当がいただける計算になります。\n\nコンテナ船やドライバルクの市況が堅調なうえ、データセンター関連設備の輸送需要も追い風となっているようです。日本郵船は10月29日に通期純利益予想を3,300億円へ大幅上方修正したばかり。\n配当性向40％を目安とする株主還元方針からも、今回の増配観測には納得感があります。\n\n海運株は景気敏感株で業績の変動も大きいですが、長期保有してきた株主としては、利益成長が配当増加につながるのは何より嬉しいですね。11月5日の決算発表で正式に増配が発表されることを楽しみにしています。引き続き、長期保有で応援していきます！🚢\n#日本郵船  #増配期待 #高配当株 #配当金生活 #長期投資",
-  "media": [
-   {
-    "type": "photo",
-    "url": "https://pbs.twimg.com/media/HWIajUna4AE8Ta5.jpg"
-   },
-   {
-    "type": "animated_gif",
-    "url": "https://pbs.twimg.com/tweet_video_thumb/HWIajUmbkAAlJZm.jpg"
-   },
-   {
-    "type": "animated_gif",
-    "url": "https://pbs.twimg.com/tweet_video_thumb/HWIajUnagAAGZS8.jpg"
-   }
-  ],
-  "created_at": "2026-11-02T15:53:32.000Z",
-  "metrics": {
-   "like": 14,
-   "repost": 0,
-   "bookmark": 1,
-   "view": 535
-  },
-  "added_at": "2026-11-03T08:58:50.345722+00:00"
- },
- {
-  "id": "2117509127794766065",
-  "handle": "aaa_porio",
-  "name": "佐藤光＠株式投資",
-  "avatar": "https://pbs.twimg.com/profile_images/2117079696718622720/c6OhhCeM_400x400.jpg",
-  "theme": "日本株・高配当株",
-  "text": "NISAは初期設定に要注意。\n配当金の受取方法を「株式数比例配分方式」にしないと、課税される場合があります。\n投資歴27年でも、この設定ミスはよく見かけます。\n楽天証券・SBI証券の確認方法は…\n↓\n①楽天証券アプリにログイン\n②マイメニューを開く…",
-  "media": [
-   {
-    "type": "photo",
-    "url": "https://pbs.twimg.com/media/HWLiODqaMAAlBfp.jpg"
-   }
-  ],
-  "created_at": "2026-11-03T06:48:12.000Z",
-  "metrics": {
-   "like": 70,
-   "repost": 3,
-   "bookmark": 24,
-   "view": 155
-  },
-  "added_at": "2026-11-03T06:57:59.146146+00:00"
- },
- {
-  "id": "2117505257785966924",
-  "handle": "SOU_BTC",
-  "name": "SOU⚡️投資ニュース / 米国株・日本株・仮想通貨・AI",
-  "avatar": "https://pbs.twimg.com/profile_images/1765218233324597248/LRgSXGTP_400x400.png",
-  "theme": "行政DX",
-  "text": "【速報】🚨横浜市の行政システム、約82万件の情報漏洩か\n\n・住民票やマイナンバー関連のオンライン手続きで使用\n・登録された利用者名やメールアドレスなどが対象\n・現時点では漏洩の可能性として調査中",
-  "media": [
-   {
-    "type": "photo",
-    "url": "https://pbs.twimg.com/media/HWLjzoBaAAAcA_F.jpg"
-   }
-  ],
-  "created_at": "2026-11-03T06:32:49.000Z",
-  "metrics": {
-   "like": 39,
-   "repost": 26,
-   "bookmark": 4,
-   "view": 6650
-  },
-  "added_at": "2026-11-03T06:57:59.146146+00:00"
- },
- {
-  "id": "2117486612045246567",
-  "handle": "umiyuki_ai",
-  "name": "うみゆき@AI研究",
-  "avatar": "https://pbs.twimg.com/profile_images/1581572203660787712/SAdL4WOj_400x400.jpg",
-  "theme": "AI",
-  "text": "StrataでISTAのDSV4.1F1017-GSQ-RCO-Coderが使えるように！このモデルは本来552BパラのDSV4.1F1017を72GBまで1bit量子化相当に圧縮！メインメモリ64GBで動作するという！それでもベンチスコア（SWEとLiveCodeBench）の低下は最小限に抑えられてる。何故こんな事が可能なのか？トリックとしては実は中身のエキスパートを思い切って半分削除してる。これでサイズ半減。残りを2bit相当まで量子化。197BのEngramはそのまま。（EngramはSSDに置くからメモリ食わない）つまりコーディング能力を維持する事だけに全力で他の能力はすべて切り捨てた形。元のモデルのベンチスコア高いしコーディングに限ればQwen3.8FNより有能な可能性もありえるかも。DSV4.1FはKVキャッシュサイズがやたら小さいのでコンテキストサイズ稼げるというメリットもある",
-  "media": [],
-  "created_at": "2026-11-03T05:18:43.000Z",
-  "metrics": {
-   "like": 34,
-   "repost": 2,
-   "bookmark": 20,
-   "view": 3724
-  },
-  "added_at": "2026-11-03T06:57:59.146146+00:00"
- },
- {
-  "id": "2117464031569281118",
-  "handle": "nyataromapo",
-  "name": "配当リス",
-  "avatar": "https://pbs.twimg.com/profile_images/2014894656576954368/B2XSXnBg_400x400.jpg",
-  "theme": "日本株・高配当株",
-  "text": "🔥 NTT（9432）、自社株買いが止まらない！🐿️\n\nなんと10月だけで約273億円の自社株買いを実施！😳\n\n✅ 10月取得額：約273億円\n✅ 10月取得株数：約1億5,754万株\n✅ 累計取得額：約1,049億円\n✅ 自社株買い上限：2,000億円\n\nつまり、まだ約951億円の買付余力が残っている計算！💰\n\n配当金をもらいながら、自社株買いによる株主還元にも期待できるNTT。\n\n長期保有の株主としては心強いですね😊\n\n#NTT #9432 #高配当株 #日本株 #配当金 #新NISA #株式投資",
-  "media": [
-   {
-    "type": "photo",
-    "url": "https://pbs.twimg.com/media/HWK-UALbMAAb6ia.jpg"
-   }
-  ],
-  "created_at": "2026-11-03T03:49:00.000Z",
-  "metrics": {
-   "like": 19,
-   "repost": 0,
-   "bookmark": 0,
-   "view": 1117
-  },
-  "added_at": "2026-11-03T06:57:59.146146+00:00"
- },
- {
-  "id": "2117455391961534896",
-  "handle": "makemmd",
-  "name": "すずき",
-  "avatar": "https://pbs.twimg.com/profile_images/2112367678317064192/HbIwutcB_400x400.jpg",
-  "theme": "日本株・高配当株",
-  "text": "オリエンタルランド、ゲスト一人あたり単価脅威の2万円マジかの好調で上方修正。。19429円って凄まじいな。。\n\nゲストアトラクションショーや有料の課金パスが好調そう\n\nhttps://www.olc.co.jp/ja/ir/latest/main/01111111114/teaserItems2/0/linkList/03/link/sp2027-02.pdf",
-  "media": [
-   {
-    "type": "photo",
-    "url": "https://pbs.twimg.com/media/HWK2dGpaYAEnxrb.jpg"
-   },
-   {
-    "type": "photo",
-    "url": "https://pbs.twimg.com/media/HWK2dGsbgAAStOh.jpg"
-   }
-  ],
-  "created_at": "2026-11-03T03:14:40.000Z",
-  "metrics": {
-   "like": 23,
-   "repost": 2,
-   "bookmark": 0,
-   "view": 6521
-  },
-  "added_at": "2026-11-03T06:57:59.146146+00:00"
- },
- {
-  "id": "2117444048227123277",
-  "handle": "OpenAI",
-  "name": "OpenAI",
-  "avatar": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_400x400.jpg",
-  "theme": "AI",
-  "text": "As AI becomes more capable at finding vulnerabilities, defenders need to put it to work before attackers do.\n\nWe’re planning our next internal security sprint at OpenAI and partnering with Cathedral Systems, whose researchers will use our models alongside our teams to challenge our defenses. They’ll bring differentiated expertise and approaches to our ongoing work to find and fix weaknesses with AI.\n\nWe’re also raising bug bounty rewards, including more than quadrupling rewards for critical findings. Exceptional findings will be eligible for up to $172,000, including bonuses.\n\nWe’ll keep advancing our models, using them to strengthen our own systems, and expanding access for trusted defenders.\n\nhttps://openai.com/index/preparing-our-next-security-sprint-to-harden-openai/",
-  "media": [],
-  "created_at": "2026-11-03T02:29:35.000Z",
-  "metrics": {
-   "like": 2095,
-   "repost": 204,
-   "bookmark": 413,
-   "view": 360579
-  },
-  "translation_ja": "AI が脆弱性を見つける能力を高めるにつれ、攻撃者より先に防御側がそれを活用する必要があります。\n\nOpenAI は次の社内セキュリティスプリントを計画しており、Cathedral Systems と提携します。同社の研究者が、私たちのモデルを社内チームと併用しながら、私たちの防御に挑戦します。AI を使って弱点を見つけて修正する私たちの継続的な取り組みに、他にない専門性とアプローチをもたらしてくれます。\n\nあわせて、バグバウンティの報酬も引き上げます。重大な発見への報酬は4倍超になります。優れた発見には、ボーナスを含め最大172,000ドルが支払われます。\n\n私たちは、モデルを進化させ続け、自社システムの強化に活用し、信頼できる防御者へのアクセスを広げていきます。\n\nhttps://t.co/vcaoHROTt2",
-  "added_at": "2026-11-03T06:57:59.146146+00:00"
- },
- {
-  "id": "2117424542004203526",
-  "handle": "npaka123",
-  "name": "布留川英一 / Hidekazu Furukawa",
-  "avatar": "https://pbs.twimg.com/profile_images/1497823072560492545/PoUh9VNk_400x400.jpg",
-  "theme": "AI",
-  "text": "個人情報を扱う常駐型AIエージェント「Muse」のセキュリティの仕組み｜npaka @npaka123 https://note.com/npaka/n/ncccb2783a262?sub_rt=share_pw",
-  "media": [],
-  "created_at": "2026-11-03T01:12:05.000Z",
-  "metrics": {
-   "like": 164,
-   "repost": 29,
-   "bookmark": 148,
-   "view": 20830
-  },
-  "added_at": "2026-11-03T06:57:59.146146+00:00"
- },
- {
-  "id": "2117418155647684676",
-  "handle": "Ldataengineer",
-  "name": "Gul Saeed Khattak",
-  "avatar": "https://pbs.twimg.com/profile_images/2063281035014500352/3hpG3G0Q_400x400.jpg",
-  "theme": "AI",
-  "text": "NVIDIA Open-Sources Auto Ontology, a Semantic Layer for AI Agents\n\nYour boss asks the AI agent: \"What was revenue last quarter?\"\n\nIt answers in 3 seconds. Clean number. Nice chart.\n\nBut it used the wrong \"revenue\" column. 𝗡𝗼𝗯𝗼𝗱𝘆 𝗻𝗼𝘁𝗶𝗰𝗲𝘀.\n\nThat's the problem NVIDIA's new open-source library, Auto Ontology, goes after. Its README puts it plainly:\n\n\"…𝘢 𝘳𝘦𝘷𝘦𝘯𝘶𝘦 𝘮𝘦𝘵𝘳𝘪𝘤 𝘢𝘯𝘴𝘸𝘦𝘳𝘦𝘥 𝘧𝘢𝘴𝘵𝘦𝘳 𝘪𝘴 𝘸𝘰𝘳𝘵𝘩 𝘯𝘰𝘵𝘩𝘪𝘯𝘨 𝘪𝘧 𝘵𝘩𝘦 𝘯𝘶𝘮𝘣𝘦𝘳 𝘪𝘴 𝘸𝘳𝘰𝘯𝘨.\"\n\n𝗪𝗵𝗮𝘁 𝗶𝘁 𝗶𝘀:\n\nA \"context layer\" that sits between an AI agent and your database. It tells the agent where the data lives, what each field means, and whether to use it.\n\n𝗛𝗼𝘄 𝗶𝘁 𝘄𝗼𝗿𝗸𝘀, 𝘀𝘁𝗲𝗽 𝗯𝘆 𝘀𝘁𝗲𝗽:\n\n• 𝗗𝗶𝘀𝗰𝗼𝘃𝗲𝗿: it reads your database metadata and drafts an ontology, a map of business terms like \"active customer\"\n• 𝗚𝗿𝗼𝘂𝗻𝗱: agents use those terms instead of guessing from raw table names\n• 𝗩𝗮𝗹𝗶𝗱𝗮𝘁𝗲: it checks generated SQL against certified definitions\n• 𝗘𝘅𝗽𝗼𝘀𝗲: agents reach it through MCP, a CLI or an API\n• 𝗟𝗲𝗮𝗿𝗻: certified corrections go back into the map\n\n𝗙𝗼𝗿 𝘂𝘀𝗲𝗿𝘀:\n\nAsk a question, get 𝘁𝗵𝗲 𝗮𝗻𝘀𝘄𝗲𝗿, 𝘁𝗵𝗲 𝗦𝗤𝗟 𝗶𝘁 𝗿𝗮𝗻, 𝗮𝗻𝗱 𝘁𝗵𝗲 𝗿𝗼𝘄𝘀. You can check the work, not just trust it.\n\n𝗙𝗼𝗿 𝗯𝘂𝗶𝗹𝗱𝗲𝗿𝘀:\n\n• Apache 2.0, runs with Docker Compose or Helm\n• Works with Databricks, Postgres, Snowflake and DuckDB\n• Defaults to NVIDIA's Nemotron models, but 𝗮𝗻𝘆 𝗢𝗽𝗲𝗻𝗔𝗜-𝗰𝗼𝗺𝗽𝗮𝘁𝗶𝗯𝗹𝗲 𝗲𝗻𝗱𝗽𝗼𝗶𝗻𝘁 𝘄𝗼𝗿𝗸𝘀\n• The MCP server has 𝟵 𝗿𝗲𝗮𝗱-𝗼𝗻𝗹𝘆 𝘁𝗼𝗼𝗹𝘀. There is deliberately no tool to browse raw tables, so agents must go through the business terms\n\n𝗜𝘁 𝗯𝘂𝗶𝗹𝗱𝘀 𝗼𝗻 𝗲𝗮𝗿𝗹𝗶𝗲𝗿 𝘄𝗼𝗿𝗸:\n\n• Cube and dbt MetricFlow: semantic layers you write by hand in code\n• Wren AI: an open semantic layer for AI agents, with a context layer built partly by agents\n• Snowflake's Semantic View Autopilot: also drafts semantic models with AI, but only for Snowflake\n\nWhat's different here: 𝗼𝗽𝗲𝗻 𝘀𝗼𝘂𝗿𝗰𝗲, 𝘄𝗼𝗿𝗸𝘀 𝗮𝗰𝗿𝗼𝘀𝘀 𝗳𝗼𝘂𝗿 𝗱𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀, 𝗮𝗻𝗱 𝗯𝘂𝗶𝗹𝘁 𝗳𝗼𝗿 𝗮𝗴𝗲𝗻𝘁𝘀 𝘁𝗵𝗿𝗼𝘂𝗴𝗵 𝗠𝗖𝗣.\n\n𝗧𝗵𝗲 𝗵𝗼𝗻𝗲𝘀𝘁 𝗽𝗮𝗿𝘁:\n\n• 𝗧𝗵𝗲 \"𝟵𝟬% 𝗳𝗮𝘀𝘁𝗲𝗿\" 𝗰𝗹𝗮𝗶𝗺 𝗶𝘀 𝗡𝗩𝗜𝗗𝗜𝗔'𝘀 𝗼𝘄𝗻 𝘁𝗲𝘀𝘁𝗶𝗻𝗴, with no baseline published\n• 𝗡𝗼 𝗮𝗰𝗰𝘂𝗿𝗮𝗰𝘆 𝘀𝗰𝗼𝗿𝗲𝘀 𝗮𝗿𝗲 𝗽𝘂𝗯𝗹𝗶𝘀𝗵𝗲𝗱. NVIDIA ships an eval harness (BIRD, 1,534 questions) but no results\n• That harness was tested with 𝗖𝗹𝗮𝘂𝗱𝗲 𝗢𝗽𝘂𝘀 𝟰.𝟴, 𝗻𝗼𝘁 𝗡𝗲𝗺𝗼𝘁𝗿𝗼𝗻\n• 𝗪𝗶𝘁𝗵𝗼𝘂𝘁 𝗛𝗮𝘀𝗵𝗶𝗖𝗼𝗿𝗽 𝗩𝗮𝘂𝗹𝘁, 𝗱𝗮𝘁𝗮𝗯𝗮𝘀𝗲 𝗽𝗮𝘀𝘀𝘄𝗼𝗿𝗱𝘀 𝗮𝗿𝗲 𝘀𝘁𝗼𝗿𝗲𝗱 𝘂𝗻𝗲𝗻𝗰𝗿𝘆𝗽𝘁𝗲𝗱 in Postgres (per the README)\n• It's young: 𝗮𝗯𝗼𝘂𝘁 𝟳𝟱𝟬 𝗚𝗶𝘁𝗛𝘂𝗯 𝘀𝘁𝗮𝗿𝘀, and NVIDIA isn't accepting outside contributions\n\n𝗧𝗵𝗲 𝗯𝗶𝗴𝗴𝗲𝗿 𝗽𝗼𝗶𝗻𝘁: the hard part of AI analytics isn't writing SQL. 𝗜𝘁'𝘀 𝗮𝗴𝗿𝗲𝗲𝗶𝗻𝗴 𝗼𝗻 𝘄𝗵𝗮𝘁 𝘁𝗵𝗲 𝘄𝗼𝗿𝗱𝘀 𝗺𝗲𝗮𝗻.\nGitHub: https://github.com/NVIDIA/auto-ontology\nLinks in reply 👇",
-  "media": [],
-  "created_at": "2026-11-03T00:46:42.000Z",
-  "metrics": {
-   "like": 780,
-   "repost": 78,
-   "bookmark": 1517,
-   "view": 55629
-  },
-  "translation_ja": "NVIDIA が AI エージェント向けセマンティックレイヤー「Auto Ontology」をオープンソース化\n\n上司が AI エージェントに「先四半期の売上は？」と聞く。\n\n3秒で答えが返る。きれいな数字。きれいなグラフ。\n\nでも使われたのは間違った「売上」列だった。誰も気づかない。\n\nNVIDIA の新しいオープンソースライブラリ Auto Ontology が狙うのはこの問題だ。README にははっきりこう書かれている：\n\n「…速く返ってきた売上の答えは、その数字が間違っていれば何の価値もない。」\n\n何であるか：\n\nAI エージェントとデータベースの間に入る「コンテキストレイヤー」。データがどこにあり、各フィールドが何を意味し、使ってよいかどうかをエージェントに伝える。\n\n仕組み（ステップごと）：\n\n• 発見（Discover）：データベースのメタデータを読み、「アクティブ顧客」のようなビジネス用語の地図（オントロジー）を下書きする\n• 接地（Ground）：エージェントは生のテーブル名から推測せず、その用語を使う\n• 検証（Validate）：生成された SQL を認定済みの定義と照合する\n• 公開（Expose）：エージェントは MCP、CLI、API 経由でアクセスする\n• 学習（Learn）：認定された修正が地図に反映される\n\nユーザー向け：\n\n質問すると、答え、実行した SQL、取得した行が返る。ただ信じるのではなく、作業内容を確認できる。\n\n構築者向け：\n\n• Apache 2.0。Docker Compose または Helm で動く\n• Databricks、Postgres、Snowflake、DuckDB に対応\n• 既定では NVIDIA の Nemotron モデルを使うが、OpenAI 互換のエンドポイントなら何でも動く\n• MCP サーバーには読み取り専用ツールが9つある。生のテーブルを閲覧するツールは意図的に無く、エージェントは必ずビジネス用語を通すことになる\n\n先行する取り組みの上に成り立っている：\n\n• Cube と dbt MetricFlow：コードで手書きするセマンティックレイヤー\n• Wren AI：エージェントのためのオープンなセマンティックレイヤー。コンテキストレイヤーの一部をエージェントが作る\n• Snowflake の Semantic View Autopilot：同じく AI でセマンティックモデルを下書きするが、Snowflake 限定\n\nここでの違い：オープンソースで、4つのデータベースで動き、MCP を通じてエージェント向けに作られている点。\n\n正直なところ：\n\n• 「90% 高速化」という主張は NVIDIA 自身のテストによるもので、比較対象（ベースライン）は公開されていない\n• 精度スコアは公開されていない。NVIDIA は評価ハーネス（BIRD、1,534問）を同梱しているが、結果は無い\n• そのハーネスは Nemotron ではなく Claude Opus 4.8 でテストされた\n• HashiCorp Vault が無い場合、データベースのパスワードは Postgres に暗号化されずに保存される（README による）\n• まだ若い：GitHub スターは約750で、NVIDIA は外部からの貢献を受け付けていない\n\nより大きなポイント：AI による分析で難しいのは SQL を書くことではない。言葉の意味について合意することだ。\nGitHub: https://t.co/yzFZkacXNy\nリンクは返信に👇",
-  "added_at": "2026-11-03T06:57:59.146146+00:00"
- },
- {
-  "id": "2117397844860576061",
-  "handle": "sorave55",
-  "name": "そらぶ🐶💓高配当株好き",
-  "avatar": "https://pbs.twimg.com/profile_images/2109273488490110976/sj0VgkHS_400x400.jpg",
-  "theme": "日本株・高配当株",
-  "text": "同じ会社を売買して、この明暗..\n\n阪急阪神エクスプレスを\n買った三菱倉庫 → -14.00%\n売った阪急阪神HD → +4.38%\n\n買い物した側が売られて、\n売った側が買われる株式市場。\n\n三菱倉庫\nそんなにダメな買い物だったの？",
-  "media": [
-   {
-    "type": "photo",
-    "url": "https://pbs.twimg.com/media/HWIHR86bYAAIONJ.jpg"
-   },
-   {
-    "type": "photo",
-    "url": "https://pbs.twimg.com/media/HWIHR8taAAAf-fE.jpg"
-   }
-  ],
-  "created_at": "2026-11-02T23:26:00.000Z",
-  "metrics": {
-   "like": 55,
-   "repost": 0,
-   "bookmark": 1,
-   "view": 6633
-  },
-  "added_at": "2026-11-03T06:57:59.146146+00:00"
- },
- {
-  "id": "2117156821261820037",
-  "handle": "aitarimise",
-  "name": "藍田りみせ⚔株クエスト",
-  "avatar": "https://pbs.twimg.com/profile_images/2116635607950864384/756zChNB_400x400.jpg",
-  "theme": "日本株・高配当株",
-  "text": "大引け後の気になるニュース👀💭✨\n住友関連が多めです♪\n\n✅ 住友商事（8053）\n通期利益を上方修正し増配\n概要：純利益予想を6,300億円から6,700億円へ\n重要：年間配当を40円から44円へ\n影響：業績と還元の両面で好材料\n注目：上期利益は前年同期比15.5％増\n\n✅ 住友化学（4005）\n通期利益を上方修正し増配\n概要：純利益予想を700億円から900億円へ\n重要：年間配当を16円から17円へ\n影響：利益回復と還元強化\n注目：上期純利益は前年同期比2.1倍\n\n✅ 日本軽金属HD（5703）\n業績上方修正と自社株買い\n概要：営業利益予想を330億円から370億円へ\n重要：上限60万株または15億円を取得\n影響：業績改善と株主還元が材料\n注目：取得期間は11月4日から\n\n✅ 住友ファーマ（4506）\n4期ぶりの復配を受け株価が一時10％高\n概要：年間15円の配当を発表済み\n重要：通期利益予想も上方修正\n影響：復配を好感する買い\n注目：11月2日の株価反応",
-  "media": [
-   {
-    "type": "photo",
-    "url": "https://pbs.twimg.com/media/HWGm5-Ja8AAXoFw.jpg"
-   },
-   {
-    "type": "photo",
-    "url": "https://pbs.twimg.com/media/HWGm5-CaoAEvQOd.jpg"
-   },
-   {
-    "type": "photo",
-    "url": "https://pbs.twimg.com/media/HWGm5-BakAEoqiy.jpg"
-   },
-   {
-    "type": "photo",
-    "url": "https://pbs.twimg.com/media/HWGm59zaYAEbu58.jpg"
-   }
-  ],
-  "created_at": "2026-11-02T07:28:15.000Z",
-  "metrics": {
-   "like": 44,
-   "repost": 0,
-   "bookmark": 1,
-   "view": 1095
-  },
-  "added_at": "2026-11-03T06:57:59.146146+00:00"
- },
- {
-  "id": "2117444204943323325",
-  "handle": "shimotsuke_np",
-  "name": "下野新聞",
-  "avatar": "https://pbs.twimg.com/profile_images/1090439837/company-logo-02_400x400.gif",
-  "theme": "行政DX",
-  "text": "TKC顧客のメアド最大223万件漏えいか　宇都宮市の電子申請システムも　「アララ」不正アクセス\n#下野新聞\nhttps://www.shimotsuke.co.jp/articles/-/1452350",
-  "media": [],
-  "created_at": "2026-11-03T02:30:13.000Z",
-  "metrics": {
-   "like": 20,
-   "repost": 10,
-   "bookmark": 1,
-   "view": 3805
-  },
-  "added_at": "2026-11-03T05:06:55.018322+00:00"
- },
- {
-  "id": "2117436603249361083",
-  "handle": "tadakabu",
-  "name": "ただかぶ",
-  "avatar": "https://pbs.twimg.com/profile_images/1537025824070975490/_Z5EHT35_400x400.jpg",
-  "theme": "日本株・高配当株",
-  "text": "SBI HDに期待してるのは金融サービス事業が伸びるかどうか。\nここが伸びればどんどん増配していく。\nこの数年は素晴らしい業績です！！",
-  "media": [
-   {
-    "type": "photo",
-    "url": "https://pbs.twimg.com/media/HWKBLwWakAEKMQC.jpg"
-   }
-  ],
-  "created_at": "2026-11-03T02:00:00.000Z",
-  "metrics": {
-   "like": 74,
-   "repost": 1,
-   "bookmark": 6,
-   "view": 5059
-  },
-  "added_at": "2026-11-03T05:06:55.018322+00:00"
- },
- {
-  "id": "2117435372796100744",
-  "handle": "fladdict",
-  "name": "深津 貴之 / THE GUILD, note",
-  "avatar": "https://pbs.twimg.com/profile_images/1282239681/icon128_400x400.png",
-  "theme": "AI",
-  "text": "やはりCodexは、「先輩に言われなかったから」という理由で、ゴミとか鳴ってる電話とか来客を放置するタイプの学年首席エース新入社員。",
-  "media": [],
-  "created_at": "2026-11-03T01:55:07.000Z",
-  "metrics": {
-   "like": 588,
-   "repost": 59,
-   "bookmark": 76,
-   "view": 47515
-  },
-  "added_at": "2026-11-03T05:06:55.018322+00:00"
- },
- {
-  "id": "2117413127910482379",
-  "handle": "fukkyy",
-  "name": "福島良典 | LayerX",
-  "avatar": "https://pbs.twimg.com/profile_images/479435326083964928/CPcSdHAV_400x400.png",
-  "theme": "AI",
-  "text": "AIに関しては、コンビニに行くのにF1カーを使うなという例えがよくされる。これはそうなんだけど全く本質ではない。大事なのはF1カーを走らせるべき場所を見つけ、そこではエンジン全開で走ること。LayerXは再びトークンマキシングのモードに",
-  "media": [],
-  "created_at": "2026-11-03T00:26:43.000Z",
-  "metrics": {
-   "like": 69,
-   "repost": 4,
-   "bookmark": 8,
-   "view": 7319
-  },
-  "added_at": "2026-11-03T05:06:55.018322+00:00"
- },
- {
-  "id": "2117412185991475466",
-  "handle": "kgsi",
-  "name": "こぎそ",
-  "avatar": "https://pbs.twimg.com/profile_images/2106765574747623424/YKS7OaPc_400x400.jpg",
-  "theme": "PdM",
-  "text": "グッドパッチの調査で、デザイナーの8割近くがAIを毎日使い、7割近くが担当範囲が広がったと答えている。そのうえで半数がキャリアに不安を感じている。\n\n自分も新しい楽しさは感じてるが、それ以上に不安なことが多い。産業革命が起きたときってこういう感じなんだなぁとしみじみ。 https://twitter.com/nikkei/status/2117074583488508115",
-  "media": [],
-  "created_at": "2026-11-03T00:22:59.000Z",
-  "metrics": {
-   "like": 35,
-   "repost": 4,
-   "bookmark": 5,
-   "view": 1900
-  },
-  "added_at": "2026-11-03T05:06:55.018322+00:00"
- },
- {
-  "id": "2117403693696139739",
-  "handle": "financial1111",
-  "name": "配当太郎",
-  "avatar": "https://pbs.twimg.com/profile_images/1566658926397247488/n8g7rtj7_400x400.jpg",
-  "theme": "日本株・高配当株",
-  "text": "短期の株価は気にしない。決算発表翌日に例え株価が下落したとしても、業績堅調で見通しも良く、引き続き稼ぐ力に変化がないのなら気にしない。と言うより、そんな短期的な株価変動で都度不安になって売却していたら損切り大きく利益は少なくの繰り返しになりかねない。",
-  "media": [],
-  "created_at": "2026-11-02T23:49:14.000Z",
-  "metrics": {
-   "like": 323,
-   "repost": 2,
-   "bookmark": 3,
-   "view": 19173
-  },
-  "added_at": "2026-11-03T05:06:55.018322+00:00"
  }
 ]

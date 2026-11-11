@@ -6,7 +6,361 @@
 <atom:link href="https://noramimiyuma.github.io/x-feed/feed.xml" rel="self" type="application/rss+xml"/>
 <description>行政DX・PdM・AI・日本株/高配当株の注目X投稿（X偵察が更新）</description>
 <language>ja</language>
-<lastBuildDate>Wed, 11 Nov 2026 05:48:32 +0900</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 11:54:15 +0900</lastBuildDate>
+<item>
+<title>こころ@ITエージェントのリアルをぶっちゃけるマネージャー (@pt_kokoro)</title>
+<link>https://x.com/pt_kokoro/status/2120341831670259802</link>
+<guid isPermaLink="true">https://x.com/pt_kokoro/status/2120341831670259802</guid>
+<category>行政DX</category>
+<dc:creator>こころ@ITエージェントのリアルをぶっちゃけるマネージャー</dc:creator>
+<pubDate>Wed, 11 Nov 2026 02:54:10 +0000</pubDate>
+<xf:postedAt>2026-11-11T11:24:21+09:00</xf:postedAt>
+<xf:addedAt>2026-11-11T11:54:10.692318+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1904433695676919808/5SUyMr6U_400x400.jpg" width="48" height="48" alt="こころ@ITエージェントのリアルをぶっちゃけるマネージャー"/> <b>こころ@ITエージェントのリアルをぶっちゃけるマネージャー</b> @pt_kokoro</p><p>「ガバメントクラウド＝外資系メガクラウド」というこれまでの常識を覆す、国産クラウド逆襲<br/><br/>浦安市が、自治体の基幹業務システムのガバメントクラウド移行先として、国産の「さくらのクラウド」を採用（自治体初）するという報道です。<br/><br/>■ 「外資偏重」から「国産回帰」への雪崩現象<br/>これまで実績重視でAWSなどの海外メガクラウドに集まりがちだった自治体案件ですが、「国の技術要件を満たした国産クラウドの採用事例」が一つ出たことで、他の自治体も一気に「国産を選ぶ」という選択肢を現実的に取りやすくなります。<br/>これを皮切りに、さくらのクラウドを前提とした大型の移行案件が急増するはずです。<br/><br/>■ 特定のクラウドに依存するエンジニアの陳腐化<br/>移行先のクラウドが複数に分散していくため、SIerやパッケージベンダーはマルチクラウド対応を迫られます。「AWSのマネージドサービスしか分かりません」といった特定のクラウドの仕様に極度に依存した構成・運用スキルでは、今後の大型案件を取り切ることができなくなります。<br/><br/>■ 価値が爆増する「移植性×ガバナンス」人材<br/>今後のインフラエンジニアに求められるのは、コンテナ化やTerraform等のIaCを駆使し、「どのクラウドにも乗せ替えられる移植性の高いアーキテクチャ」を設計できる能力です。<br/>あわせて、ISMAPなど政府のシビアなセキュリティ基準を理解し、監査対応まで見据えた設計ができる人材は、圧倒的な高単価で奪い合われます。<br/><br/>「メガクラウドの資格を持っていれば安泰」という時代は終わりつつあります。<br/><br/>特定のベンダーロックインを避け、クラウド間の差分を吸収して設計できる「真のインフラ・アーキテクト」へ進化できるかが問われる局面です。</p><p>いいね 0・リポスト 0・ブックマーク 0・表示 37</p><p>投稿 2026-11-11 11:24（日本時間）・<a href="https://x.com/pt_kokoro/status/2120341831670259802">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[「ガバメントクラウド＝外資系メガクラウド」というこれまでの常識を覆す、国産クラウド逆襲
+
+浦安市が、自治体の基幹業務システムのガバメントクラウド移行先として、国産の「さくらのクラウド」を採用（自治体初）するという報道です。
+
+■ 「外資偏重」から「国産回帰」への雪崩現象
+これまで実績重視でAWSなどの海外メガクラウドに集まりがちだった自治体案件ですが、「国の技術要件を満たした国産クラウドの採用事例」が一つ出たことで、他の自治体も一気に「国産を選ぶ」という選択肢を現実的に取りやすくなります。
+これを皮切りに、さくらのクラウドを前提とした大型の移行案件が急増するはずです。
+
+■ 特定のクラウドに依存するエンジニアの陳腐化
+移行先のクラウドが複数に分散していくため、SIerやパッケージベンダーはマルチクラウド対応を迫られます。「AWSのマネージドサービスしか分かりません」といった特定のクラウドの仕様に極度に依存した構成・運用スキルでは、今後の大型案件を取り切ることができなくなります。
+
+■ 価値が爆増する「移植性×ガバナンス」人材
+今後のインフラエンジニアに求められるのは、コンテナ化やTerraform等のIaCを駆使し、「どのクラウドにも乗せ替えられる移植性の高いアーキテクチャ」を設計できる能力です。
+あわせて、ISMAPなど政府のシビアなセキュリティ基準を理解し、監査対応まで見据えた設計ができる人材は、圧倒的な高単価で奪い合われます。
+
+「メガクラウドの資格を持っていれば安泰」という時代は終わりつつあります。
+
+特定のベンダーロックインを避け、クラウド間の差分を吸収して設計できる「真のインフラ・アーキテクト」へ進化できるかが問われる局面です。]]></xf:original>
+</item>
+<item>
+<title>AGIラボ (@ctgptlb)</title>
+<link>https://x.com/ctgptlb/status/2120332433895907454</link>
+<guid isPermaLink="true">https://x.com/ctgptlb/status/2120332433895907454</guid>
+<category>AI</category>
+<dc:creator>AGIラボ</dc:creator>
+<pubDate>Wed, 11 Nov 2026 02:54:10 +0000</pubDate>
+<xf:postedAt>2026-11-11T10:47:00+09:00</xf:postedAt>
+<xf:addedAt>2026-11-11T11:54:10.692318+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1671845985574875137/W689Frac_400x400.jpg" width="48" height="48" alt="AGIラボ"/> <b>AGIラボ</b> @ctgptlb</p><p>【速報】Google、Gemini 4 Carbonを一般公開。Fable 5.2並みの性能を半分以下の費用で<br/><br/>Perplexityの評価ではFable 5.2と同等、費用は約4割に押さえる結果に<br/><br/>・APIは有料の全開発者に。入力$2／出力$10（12/1から$4／$20）<br/>・Ultra加入者はGeminiアプリ・AI Mode・Antigravityで順次<br/><br/>↓  <a href="https://twitter.com/1614958591269797888/status/2115559927670587814">https://twitter.com/1614958591269797888/status/2115559927670587814</a></p><p><img src="https://pbs.twimg.com/media/HWzvFAMawAAehtT.jpg" alt="画像"/></p><p>いいね 31・リポスト 3・ブックマーク 14・表示 4,515</p><p>投稿 2026-11-11 10:47（日本時間）・<a href="https://x.com/ctgptlb/status/2120332433895907454">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[【速報】Google、Gemini 4 Carbonを一般公開。Fable 5.2並みの性能を半分以下の費用で
+
+Perplexityの評価ではFable 5.2と同等、費用は約4割に押さえる結果に
+
+・APIは有料の全開発者に。入力$2／出力$10（12/1から$4／$20）
+・Ultra加入者はGeminiアプリ・AI Mode・Antigravityで順次
+
+↓  https://twitter.com/1614958591269797888/status/2115559927670587814]]></xf:original>
+</item>
+<item>
+<title>深津 貴之 / THE GUILD, note (@fladdict)</title>
+<link>https://x.com/fladdict/status/2120301688682959002</link>
+<guid isPermaLink="true">https://x.com/fladdict/status/2120301688682959002</guid>
+<category>AI</category>
+<dc:creator>深津 貴之 / THE GUILD, note</dc:creator>
+<pubDate>Wed, 11 Nov 2026 02:54:10 +0000</pubDate>
+<xf:postedAt>2026-11-11T08:44:50+09:00</xf:postedAt>
+<xf:addedAt>2026-11-11T11:54:10.692318+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1282239681/icon128_400x400.png" width="48" height="48" alt="深津 貴之 / THE GUILD, note"/> <b>深津 貴之 / THE GUILD, note</b> @fladdict</p><p>データツールをAI企業で作りあって、データ争奪戦の流れするのエグい。notion, slack, figma, Miro , DropboxもどきをみんなAI企業が作り合う流れか <a href="https://twitter.com/claudeai/status/2120206365759094857">https://twitter.com/claudeai/status/2120206365759094857</a></p><p>いいね 144・リポスト 23・ブックマーク 57・表示 18,822</p><p>投稿 2026-11-11 08:44（日本時間）・<a href="https://x.com/fladdict/status/2120301688682959002">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[データツールをAI企業で作りあって、データ争奪戦の流れするのエグい。notion, slack, figma, Miro , DropboxもどきをみんなAI企業が作り合う流れか https://twitter.com/claudeai/status/2120206365759094857]]></xf:original>
+</item>
+<item>
+<title>配当太郎 (@financial1111)</title>
+<link>https://x.com/financial1111/status/2120299790047281447</link>
+<guid isPermaLink="true">https://x.com/financial1111/status/2120299790047281447</guid>
+<category>日本株・高配当株</category>
+<dc:creator>配当太郎</dc:creator>
+<pubDate>Wed, 11 Nov 2026 02:54:10 +0000</pubDate>
+<xf:postedAt>2026-11-11T08:37:17+09:00</xf:postedAt>
+<xf:addedAt>2026-11-11T11:54:10.692318+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1566658926397247488/n8g7rtj7_400x400.jpg" width="48" height="48" alt="配当太郎"/> <b>配当太郎</b> @financial1111</p><p>「日経 商社株トップ 10 指数」！！<br/>13日から指数の算出・公表開始！！そのうちETFも出るだろうから、人によってはこうしたETFを活用するのも一つかもしれないね！！</p><p><img src="https://pbs.twimg.com/media/HWzRa47aUAA9HT_.jpg" alt="画像"/></p><p><img src="https://pbs.twimg.com/media/HWzRa47aUAEUdvH.jpg" alt="画像"/></p><p>いいね 209・リポスト 5・ブックマーク 35・表示 26,616</p><p>投稿 2026-11-11 08:37（日本時間）・<a href="https://x.com/financial1111/status/2120299790047281447">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[「日経 商社株トップ 10 指数」！！
+13日から指数の算出・公表開始！！そのうちETFも出るだろうから、人によってはこうしたETFを活用するのも一つかもしれないね！！]]></xf:original>
+</item>
+<item>
+<title>みのさん@高配当×株主優待 (@minosann0304)</title>
+<link>https://x.com/minosann0304/status/2120296739232219370</link>
+<guid isPermaLink="true">https://x.com/minosann0304/status/2120296739232219370</guid>
+<category>日本株・高配当株</category>
+<dc:creator>みのさん@高配当×株主優待</dc:creator>
+<pubDate>Wed, 11 Nov 2026 02:54:10 +0000</pubDate>
+<xf:postedAt>2026-11-11T08:25:10+09:00</xf:postedAt>
+<xf:addedAt>2026-11-11T11:54:10.692318+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/2096944098305552384/VniV0b5A_400x400.jpg" width="48" height="48" alt="みのさん@高配当×株主優待"/> <b>みのさん@高配当×株主優待</b> @minosann0304</p><p>💰 11/10決算｜年間配当予想の引上げを31社で確認<br/><br/>藤倉コンポジットは 86→140円<br/>フジクラは 38→80円<br/>名前が似た2社がそろって大幅に増額しました👀<br/><br/>📌 増額幅が大きかった銘柄<br/>・藤倉コンポジット〈5121〉86→140円<br/>・フジクラ〈5803〉38→80円〈分割後〉<br/>・イノテック〈9880〉130→170円〈特別50円・記念30円込み〉<br/>・ふくおかFG〈8354〉210→240円<br/>・日本金銭機械〈6418〉46→73円<br/>・サンテック〈1960〉55→80円<br/>・日本電子材料〈6855〉100→120円<br/>・加賀電子〈8154〉160→180円<br/><br/>🏦 地銀も配当予想を引き上げ<br/>・西日本FH〈7189〉140→158円<br/>・南都銀行〈8367〉56→64円〈分割後〉<br/>・ひろぎんHD〈7337〉70→77円<br/>・しずおかFG〈5831〉108→113円<br/>・百五銀行〈8368〉42→46円<br/><br/>身近な銘柄では、タカラトミーが70→80円、宝HDが31→34円、ヨネックスが28→31円〈記念3円込み〉<br/><br/>🔍 配当を比べるときに見ておきたいこと<br/>東亜建設工業は77→85円に増額しましたが、特別配当23円を含んだ前期の100円は下回ります<br/><br/>UEXは未定だった年間配当を140円と公表し、そのうち55円は特別配当です</p><p><img src="https://pbs.twimg.com/media/HWzOkU4a8AAg1mP.jpg" alt="画像"/></p><p><img src="https://pbs.twimg.com/media/HWzOnKMboAATMCU.jpg" alt="画像"/></p><p>いいね 5・リポスト 1・ブックマーク 1・表示 160</p><p>投稿 2026-11-11 08:25（日本時間）・<a href="https://x.com/minosann0304/status/2120296739232219370">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[💰 11/10決算｜年間配当予想の引上げを31社で確認
+
+藤倉コンポジットは 86→140円
+フジクラは 38→80円
+名前が似た2社がそろって大幅に増額しました👀
+
+📌 増額幅が大きかった銘柄
+・藤倉コンポジット〈5121〉86→140円
+・フジクラ〈5803〉38→80円〈分割後〉
+・イノテック〈9880〉130→170円〈特別50円・記念30円込み〉
+・ふくおかFG〈8354〉210→240円
+・日本金銭機械〈6418〉46→73円
+・サンテック〈1960〉55→80円
+・日本電子材料〈6855〉100→120円
+・加賀電子〈8154〉160→180円
+
+🏦 地銀も配当予想を引き上げ
+・西日本FH〈7189〉140→158円
+・南都銀行〈8367〉56→64円〈分割後〉
+・ひろぎんHD〈7337〉70→77円
+・しずおかFG〈5831〉108→113円
+・百五銀行〈8368〉42→46円
+
+身近な銘柄では、タカラトミーが70→80円、宝HDが31→34円、ヨネックスが28→31円〈記念3円込み〉
+
+🔍 配当を比べるときに見ておきたいこと
+東亜建設工業は77→85円に増額しましたが、特別配当23円を含んだ前期の100円は下回ります
+
+UEXは未定だった年間配当を140円と公表し、そのうち55円は特別配当です]]></xf:original>
+</item>
+<item>
+<title>KAZZN (@Kazzn_blog)</title>
+<link>https://x.com/Kazzn_blog/status/2120290508899819531</link>
+<guid isPermaLink="true">https://x.com/Kazzn_blog/status/2120290508899819531</guid>
+<category>日本株・高配当株</category>
+<dc:creator>KAZZN</dc:creator>
+<pubDate>Wed, 11 Nov 2026 02:54:10 +0000</pubDate>
+<xf:postedAt>2026-11-11T08:00:25+09:00</xf:postedAt>
+<xf:addedAt>2026-11-11T11:54:10.692318+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1560587873958895617/w9a0BcLs_400x400.jpg" width="48" height="48" alt="KAZZN"/> <b>KAZZN</b> @Kazzn_blog</p><p>今回の決算で、増収増益を達成した好業績の銘柄✨<br/>(時価総額50億円以上・第2四半期に売上高と経常利益がともに前年同期を上回る・経常利益が10％以上伸びて着地)<br/><br/>※株探より<br/><br/>🟢大水(7538)<br/>🟢日伝(9902)<br/>🟢FUJI(6134)<br/>🟢SANKYO(6417)<br/>🟢日本製鉄(5401)<br/>🟢ホーチキ(6745)<br/>🟢綜研化学(4972)<br/>🟢山一電機(6941)<br/>🟢タクミナ(6322)<br/>🟢太陽誘電(6976)<br/>🟢ダイセル(4202)<br/>🟢日本郵船(9101)<br/>🟢荒川化学工業(4968)<br/>🟢クロスキャット(2307)<br/>🟢フジミインコーポレーテッド(5384)</p><p>いいね 105・リポスト 3・ブックマーク 8・表示 7,897</p><p>投稿 2026-11-11 08:00（日本時間）・<a href="https://x.com/Kazzn_blog/status/2120290508899819531">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[今回の決算で、増収増益を達成した好業績の銘柄✨
+(時価総額50億円以上・第2四半期に売上高と経常利益がともに前年同期を上回る・経常利益が10％以上伸びて着地)
+
+※株探より
+
+🟢大水(7538)
+🟢日伝(9902)
+🟢FUJI(6134)
+🟢SANKYO(6417)
+🟢日本製鉄(5401)
+🟢ホーチキ(6745)
+🟢綜研化学(4972)
+🟢山一電機(6941)
+🟢タクミナ(6322)
+🟢太陽誘電(6976)
+🟢ダイセル(4202)
+🟢日本郵船(9101)
+🟢荒川化学工業(4968)
+🟢クロスキャット(2307)
+🟢フジミインコーポレーテッド(5384)]]></xf:original>
+</item>
+<item>
+<title>ぷーじ (@yug1224)</title>
+<link>https://x.com/yug1224/status/2120290409893048658</link>
+<guid isPermaLink="true">https://x.com/yug1224/status/2120290409893048658</guid>
+<category>PdM</category>
+<dc:creator>ぷーじ</dc:creator>
+<pubDate>Wed, 11 Nov 2026 02:54:10 +0000</pubDate>
+<xf:postedAt>2026-11-11T08:00:01+09:00</xf:postedAt>
+<xf:addedAt>2026-11-11T11:54:10.692318+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1600779910720520192/QKdZC5yr_400x400.jpg" width="48" height="48" alt="ぷーじ"/> <b>ぷーじ</b> @yug1224</p><p>PdMを経てPdEに戻った灘脇さんのインタビュー記事！<br/>配慮はするが遠慮はしないチームで巨大ドメインに挑めるっていいね<br/><br/>人のものづくりに感動できる仲間と 巨大なドメインで妥協せずにプロダクトを作る｜Dress Code株式会社<br/><a href="https://note.com/dresscode/n/n61b36849daa7">https://note.com/dresscode/n/n61b36849daa7</a></p><p>いいね 9・リポスト 2・ブックマーク 2・表示 771</p><p>投稿 2026-11-11 08:00（日本時間）・<a href="https://x.com/yug1224/status/2120290409893048658">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[PdMを経てPdEに戻った灘脇さんのインタビュー記事！
+配慮はするが遠慮はしないチームで巨大ドメインに挑めるっていいね
+
+人のものづくりに感動できる仲間と 巨大なドメインで妥協せずにプロダクトを作る｜Dress Code株式会社
+https://note.com/dresscode/n/n61b36849daa7]]></xf:original>
+</item>
+<item>
+<title>atsushisakai (@_atsushisakai)</title>
+<link>https://x.com/_atsushisakai/status/2120286625720848516</link>
+<guid isPermaLink="true">https://x.com/_atsushisakai/status/2120286625720848516</guid>
+<category>PdM</category>
+<dc:creator>atsushisakai</dc:creator>
+<pubDate>Wed, 11 Nov 2026 02:54:10 +0000</pubDate>
+<xf:postedAt>2026-11-11T07:44:59+09:00</xf:postedAt>
+<xf:addedAt>2026-11-11T11:54:10.692318+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1574941619496751104/uKJQVOK1_400x400.jpg" width="48" height="48" alt="atsushisakai"/> <b>atsushisakai</b> @_atsushisakai</p><p>pmconf 登壇者を社内オーディションで選んだら、「PdMとしての言語化」を学び直せた話 - Sansan Tech Blog <a href="https://buildersbox.corp-sansan.com/entry/2026/11/10/150000">https://buildersbox.corp-sansan.com/entry/2026/11/10/150000</a></p><p>いいね 0・リポスト 0・ブックマーク 0・表示 291</p><p>投稿 2026-11-11 07:44（日本時間）・<a href="https://x.com/_atsushisakai/status/2120286625720848516">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[pmconf 登壇者を社内オーディションで選んだら、「PdMとしての言語化」を学び直せた話 - Sansan Tech Blog https://buildersbox.corp-sansan.com/entry/2026/11/10/150000]]></xf:original>
+</item>
+<item>
+<title>Haruki Sonehara / 🇺🇸シリコンバレーのプロダクト戦略 &amp; 組織アドバイザー (@Haruki_Sonehara)</title>
+<link>https://x.com/Haruki_Sonehara/status/2120282856941371777</link>
+<guid isPermaLink="true">https://x.com/Haruki_Sonehara/status/2120282856941371777</guid>
+<category>PdM</category>
+<dc:creator>Haruki Sonehara / 🇺🇸シリコンバレーのプロダクト戦略 &amp; 組織アドバイザー</dc:creator>
+<pubDate>Wed, 11 Nov 2026 02:54:10 +0000</pubDate>
+<xf:postedAt>2026-11-11T07:30:00+09:00</xf:postedAt>
+<xf:addedAt>2026-11-11T11:54:10.692318+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1170937949061410816/0HlOljs2_400x400.jpg" width="48" height="48" alt="Haruki Sonehara / 🇺🇸シリコンバレーのプロダクト戦略 &amp; 組織アドバイザー"/> <b>Haruki Sonehara / 🇺🇸シリコンバレーのプロダクト戦略 &amp; 組織アドバイザー</b> @Haruki_Sonehara</p><p>Claude Codeの生みの親・ボリス・チェーニーの発言。<br/><br/>彼は「1〜2年後にはコードを学ぶかどうかは問題にならなくなる」と言う。代わりにやるべきことは三つ。<br/><br/>①AIツールで遊ぶこと。恐れずに触り、学ぶ<br/>②フロンティアに留まること。新しいモデルが出るたび、使い方を変える<br/>③ハーネスを組むこと。ツール・記憶・ルール・循環を自分の仕事に合わせて束ね、回し続ける<br/><br/>チェーニー自身、去年の11月からコードを手で編集していない。<br/><br/>チームはプロダクトマネージャーもデザイナーも経理も全員コードを書き、1日10〜30件のPRを出す。<br/><br/>コードを書く力ではなく、仕組みを構想・設計する力が価値になる。<br/><br/>ボリスは言っていないが、見落とされがちなのが、<br/>👇</p><p><a href="https://x.com/Haruki_Sonehara/status/2120282856941371777"><img src="https://pbs.twimg.com/amplify_video_thumb/2119944815655985152/img/nMepxXGV6_pxpKPx.jpg" alt="動画"/></a><br/>（動画はXで再生）</p><p>いいね 91・リポスト 7・ブックマーク 88・表示 8,579</p><p>投稿 2026-11-11 07:30（日本時間）・<a href="https://x.com/Haruki_Sonehara/status/2120282856941371777">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[Claude Codeの生みの親・ボリス・チェーニーの発言。
+
+彼は「1〜2年後にはコードを学ぶかどうかは問題にならなくなる」と言う。代わりにやるべきことは三つ。
+
+①AIツールで遊ぶこと。恐れずに触り、学ぶ
+②フロンティアに留まること。新しいモデルが出るたび、使い方を変える
+③ハーネスを組むこと。ツール・記憶・ルール・循環を自分の仕事に合わせて束ね、回し続ける
+
+チェーニー自身、去年の11月からコードを手で編集していない。
+
+チームはプロダクトマネージャーもデザイナーも経理も全員コードを書き、1日10〜30件のPRを出す。
+
+コードを書く力ではなく、仕組みを構想・設計する力が価値になる。
+
+ボリスは言っていないが、見落とされがちなのが、
+👇]]></xf:original>
+</item>
+<item>
+<title>su8 / denchu (@__su888)</title>
+<link>https://x.com/__su888/status/2120280590083907764</link>
+<guid isPermaLink="true">https://x.com/__su888/status/2120280590083907764</guid>
+<category>行政DX</category>
+<dc:creator>su8 / denchu</dc:creator>
+<pubDate>Wed, 11 Nov 2026 02:54:10 +0000</pubDate>
+<xf:postedAt>2026-11-11T07:21:00+09:00</xf:postedAt>
+<xf:addedAt>2026-11-11T11:54:10.692318+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1926996715174772736/doem9xXN_400x400.jpg" width="48" height="48" alt="su8 / denchu"/> <b>su8 / denchu</b> @__su888</p><p>生成AI導入率は都道府県・指定都市100%、他市区町村46%だが、権利利益に関わる業務での活用例なし。NRIは要因を利用条件とガバナンスの2つの壁に整理し、指示文と審査基準の照合、2段階の契約ひな型、判断経緯の記録等6施策を示す / 自治体におけるAI活用の課題と方向性<br/><a href="https://www.nri.com/jp/knowledge/publication/region_202611/02.html">https://www.nri.com/jp/knowledge/publication/region_202611/02.html</a></p><p><img src="https://pbs.twimg.com/media/HWw1GhDbUAABeuP.png" alt="画像"/></p><p>いいね 2・リポスト 0・ブックマーク 0・表示 118</p><p>投稿 2026-11-11 07:21（日本時間）・<a href="https://x.com/__su888/status/2120280590083907764">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[生成AI導入率は都道府県・指定都市100%、他市区町村46%だが、権利利益に関わる業務での活用例なし。NRIは要因を利用条件とガバナンスの2つの壁に整理し、指示文と審査基準の照合、2段階の契約ひな型、判断経緯の記録等6施策を示す / 自治体におけるAI活用の課題と方向性
+https://www.nri.com/jp/knowledge/publication/region_202611/02.html]]></xf:original>
+</item>
+<item>
+<title>ClaudeDevs (@ClaudeDevs)</title>
+<link>https://x.com/ClaudeDevs/status/2120275296637321476</link>
+<guid isPermaLink="true">https://x.com/ClaudeDevs/status/2120275296637321476</guid>
+<category>AI</category>
+<dc:creator>ClaudeDevs</dc:creator>
+<pubDate>Wed, 11 Nov 2026 02:54:10 +0000</pubDate>
+<xf:postedAt>2026-11-11T06:59:58+09:00</xf:postedAt>
+<xf:addedAt>2026-11-11T11:54:10.692318+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/2044472418815893504/xf14RxM8_400x400.png" width="48" height="48" alt="ClaudeDevs"/> <b>ClaudeDevs</b> @ClaudeDevs</p><p>We've given all Pro, Max, Ultra, and Team users one free full reset, across all models and limits. Use it anytime before December 10 at 2:00PM PT.<br/><br/>We recently fixed a few small issues that used more limits than intended, and the Fable resets didn't do much for those of you who'd already hit your weekly limits for all models. While these issues didn't affect everyone, we want to make up for the trouble.<br/><br/>You'll find it in Settings &gt; Usage, or at <a href="http://clau.de/reset.">http://clau.de/reset.</a></p><hr/><p><b>日本語訳</b></p><p>Pro、Max、Ultra、Team の全ユーザーに、全モデル・全上限を対象とした無料のフルリセットを1回分付与しました。12月10日 午後2時（太平洋時間）までならいつでも使えます。<br/><br/>最近、意図より多く上限を消費してしまう小さな不具合をいくつか修正しました。また、Fable のリセットは、すでに全モデルの週間上限に達していた方々にはあまり効果がありませんでした。これらの問題は全員に影響したわけではありませんが、ご迷惑をおかけした分を埋め合わせたいと考えています。<br/><br/>設定 &gt; 使用量、または <a href="https://t.co/5YRzheAZyQ">https://t.co/5YRzheAZyQ</a> から利用できます。</p><hr/><p>いいね 27,133・リポスト 1,706・ブックマーク 3,435・表示 1,138,684</p><p>投稿 2026-11-11 06:59（日本時間）・<a href="https://x.com/ClaudeDevs/status/2120275296637321476">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[We've given all Pro, Max, Ultra, and Team users one free full reset, across all models and limits. Use it anytime before December 10 at 2:00PM PT.
+
+We recently fixed a few small issues that used more limits than intended, and the Fable resets didn't do much for those of you who'd already hit your weekly limits for all models. While these issues didn't affect everyone, we want to make up for the trouble.
+
+You'll find it in Settings > Usage, or at http://clau.de/reset.]]></xf:original>
+<xf:translation xml:lang="ja"><![CDATA[Pro、Max、Ultra、Team の全ユーザーに、全モデル・全上限を対象とした無料のフルリセットを1回分付与しました。12月10日 午後2時（太平洋時間）までならいつでも使えます。
+
+最近、意図より多く上限を消費してしまう小さな不具合をいくつか修正しました。また、Fable のリセットは、すでに全モデルの週間上限に達していた方々にはあまり効果がありませんでした。これらの問題は全員に影響したわけではありませんが、ご迷惑をおかけした分を埋め合わせたいと考えています。
+
+設定 > 使用量、または https://t.co/5YRzheAZyQ から利用できます。]]></xf:translation>
+</item>
+<item>
+<title>Lenny Rachitsky (@lennysan)</title>
+<link>https://x.com/lennysan/status/2120274852766703938</link>
+<guid isPermaLink="true">https://x.com/lennysan/status/2120274852766703938</guid>
+<category>PdM</category>
+<dc:creator>Lenny Rachitsky</dc:creator>
+<pubDate>Wed, 11 Nov 2026 02:54:10 +0000</pubDate>
+<xf:postedAt>2026-11-11T06:58:12+09:00</xf:postedAt>
+<xf:addedAt>2026-11-11T11:54:10.692318+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1592990461517389824/iln8hi1f_400x400.jpg" width="48" height="48" alt="Lenny Rachitsky"/> <b>Lenny Rachitsky</b> @lennysan</p><p>Engineering is changing: FDE is ascendant while mobile and front-end roles are disappearing.<br/><br/>Open mobile and front-end engineers jobs have been nearly halved in the past year!</p><hr/><p><b>日本語訳</b></p><p>エンジニアリングは変わりつつある：FDE（フォワード・デプロイド・エンジニア）が台頭する一方、モバイルとフロントエンドの職種は消えつつある。<br/><br/>モバイルとフロントエンドのエンジニアの求人はこの1年でほぼ半減した！</p><hr/><p><img src="https://pbs.twimg.com/media/HWy1FyYaMAA7rVs.jpg" alt="画像"/></p><p>いいね 521・リポスト 40・ブックマーク 287・表示 42,394</p><p>投稿 2026-11-11 06:58（日本時間）・<a href="https://x.com/lennysan/status/2120274852766703938">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[Engineering is changing: FDE is ascendant while mobile and front-end roles are disappearing.
+
+Open mobile and front-end engineers jobs have been nearly halved in the past year!]]></xf:original>
+<xf:translation xml:lang="ja"><![CDATA[エンジニアリングは変わりつつある：FDE（フォワード・デプロイド・エンジニア）が台頭する一方、モバイルとフロントエンドの職種は消えつつある。
+
+モバイルとフロントエンドのエンジニアの求人はこの1年でほぼ半減した！]]></xf:translation>
+</item>
+<item>
+<title>チャエン | デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》 (@masahirochaen)</title>
+<link>https://x.com/masahirochaen/status/2120269627058184293</link>
+<guid isPermaLink="true">https://x.com/masahirochaen/status/2120269627058184293</guid>
+<category>AI</category>
+<dc:creator>チャエン | デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》</dc:creator>
+<pubDate>Wed, 11 Nov 2026 02:54:10 +0000</pubDate>
+<xf:postedAt>2026-11-11T06:37:26+09:00</xf:postedAt>
+<xf:addedAt>2026-11-11T11:54:10.692318+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1689665533929725953/fClFlzLd_400x400.jpg" width="48" height="48" alt="チャエン | デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》"/> <b>チャエン | デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》</b> @masahirochaen</p><p>【新機能】AnthropicがClaude Whiteboards・Sheets・Dataを公開。完全にエクセル、パワポを潰しにきてる、、<br/><br/>ボードや表計算、ダッシュボードをClaudeに頼んで作り、そのままチームで編集可能に。<br/><br/>ExcelやMiroで手を動かしていた作業を、Claude完結は大きい。<br/>Claudeだけでオフィスツール十分かもしれない。<br/><br/>・Whiteboards：話した計画をボードに整理<br/>・Sheets：予算表やトラッカーを頼むだけで作成<br/>・Data：旧Dashboardsが有料プランで正式版に<br/>・Adobe・Atlassian・Boxの3ツールを会話の横で操作</p><p><a href="https://x.com/masahirochaen/status/2120269627058184293"><img src="https://pbs.twimg.com/amplify_video_thumb/2120269606304796672/img/MYOZxkHWrQjbOelg.jpg" alt="動画"/></a><br/>（動画はXで再生）</p><p>いいね 199・リポスト 15・ブックマーク 131・表示 20,453</p><p>投稿 2026-11-11 06:37（日本時間）・<a href="https://x.com/masahirochaen/status/2120269627058184293">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[【新機能】AnthropicがClaude Whiteboards・Sheets・Dataを公開。完全にエクセル、パワポを潰しにきてる、、
+
+ボードや表計算、ダッシュボードをClaudeに頼んで作り、そのままチームで編集可能に。
+
+ExcelやMiroで手を動かしていた作業を、Claude完結は大きい。
+Claudeだけでオフィスツール十分かもしれない。
+
+・Whiteboards：話した計画をボードに整理
+・Sheets：予算表やトラッカーを頼むだけで作成
+・Data：旧Dashboardsが有料プランで正式版に
+・Adobe・Atlassian・Boxの3ツールを会話の横で操作]]></xf:original>
+</item>
+<item>
+<title>ぽこたん@AI活用×投資家 (@toushi_kenshou)</title>
+<link>https://x.com/toushi_kenshou/status/2120266264547668228</link>
+<guid isPermaLink="true">https://x.com/toushi_kenshou/status/2120266264547668228</guid>
+<category>日本株・高配当株</category>
+<dc:creator>ぽこたん@AI活用×投資家</dc:creator>
+<pubDate>Wed, 11 Nov 2026 02:54:10 +0000</pubDate>
+<xf:postedAt>2026-11-11T06:24:04+09:00</xf:postedAt>
+<xf:addedAt>2026-11-11T11:54:10.692318+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1862614331969437697/hljSfpjB_400x400.jpg" width="48" height="48" alt="ぽこたん@AI活用×投資家"/> <b>ぽこたん@AI活用×投資家</b> @toushi_kenshou</p><p>時価総額5000億円以上の<br/>配当利回りTOP50</p><p><img src="https://pbs.twimg.com/media/HWyy6CCbsAAV2Jg.jpg" alt="画像"/></p><p>いいね 82・リポスト 9・ブックマーク 34・表示 25,203</p><p>投稿 2026-11-11 06:24（日本時間）・<a href="https://x.com/toushi_kenshou/status/2120266264547668228">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[時価総額5000億円以上の
+配当利回りTOP50]]></xf:original>
+</item>
+<item>
+<title>公僕DXおぢ (@kobokuDXoji)</title>
+<link>https://x.com/kobokuDXoji/status/2120262138182959333</link>
+<guid isPermaLink="true">https://x.com/kobokuDXoji/status/2120262138182959333</guid>
+<category>行政DX</category>
+<dc:creator>公僕DXおぢ</dc:creator>
+<pubDate>Wed, 11 Nov 2026 02:54:10 +0000</pubDate>
+<xf:postedAt>2026-11-11T06:07:40+09:00</xf:postedAt>
+<xf:addedAt>2026-11-11T11:54:10.692318+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1920349182021206017/qAcWOYAz_400x400.jpg" width="48" height="48" alt="公僕DXおぢ"/> <b>公僕DXおぢ</b> @kobokuDXoji</p><p>デジタル庁が昨日、国・地方AI共通サービスの実証事業に関する資料を更新していました。対象となっているのは、自治体から国への照会事務の自動化など。自治体の仕事って、制度の解釈や運用を確認するために、国や都道府県に照会する場面が結構あります。AIで回答を支援できるようになれば、自治体側だけでなく、回答する国の担当者の負担も減らせるかもしれません。もちろん、回答の正確性や責任の所在は整理が必要。それでも、一つの自治体だけでは変えにくい仕事に、国と地方が一緒に取り組むのは良い方向だと思います。<a href="https://www.digital.go.jp/news">https://www.digital.go.jp/news</a></p><p>いいね 1・リポスト 0・ブックマーク 1・表示 226</p><p>投稿 2026-11-11 06:07（日本時間）・<a href="https://x.com/kobokuDXoji/status/2120262138182959333">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[デジタル庁が昨日、国・地方AI共通サービスの実証事業に関する資料を更新していました。対象となっているのは、自治体から国への照会事務の自動化など。自治体の仕事って、制度の解釈や運用を確認するために、国や都道府県に照会する場面が結構あります。AIで回答を支援できるようになれば、自治体側だけでなく、回答する国の担当者の負担も減らせるかもしれません。もちろん、回答の正確性や責任の所在は整理が必要。それでも、一つの自治体だけでは変えにくい仕事に、国と地方が一緒に取り組むのは良い方向だと思います。https://www.digital.go.jp/news]]></xf:original>
+</item>
+<item>
+<title>ClaudeDevs (@ClaudeDevs)</title>
+<link>https://x.com/ClaudeDevs/status/2120227979041341943</link>
+<guid isPermaLink="true">https://x.com/ClaudeDevs/status/2120227979041341943</guid>
+<category>AI</category>
+<dc:creator>ClaudeDevs</dc:creator>
+<pubDate>Wed, 11 Nov 2026 02:54:10 +0000</pubDate>
+<xf:postedAt>2026-11-11T03:51:56+09:00</xf:postedAt>
+<xf:addedAt>2026-11-11T11:54:10.692318+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/2044472418815893504/xf14RxM8_400x400.png" width="48" height="48" alt="ClaudeDevs"/> <b>ClaudeDevs</b> @ClaudeDevs</p><p>Claude now supports more of the MCP Apps extension, such as app tools and embedded sites, so your full app can run inside Claude.<br/><br/>Start building: <a href="https://claude.com/docs/connectors/building/mcp-apps/getting-started">https://claude.com/docs/connectors/building/mcp-apps/getting-started</a> <a href="https://twitter.com/claudeai/status/2120206375137484875">https://twitter.com/claudeai/status/2120206375137484875</a></p><hr/><p><b>日本語訳</b></p><p>Claude が MCP Apps 拡張のより多くの機能（アプリツールや埋め込みサイトなど）に対応し、アプリ全体を Claude の中で動かせるようになりました。<br/><br/>開発を始める: <a href="https://t.co/X4ioqGu3A1">https://t.co/X4ioqGu3A1</a> <a href="https://t.co/Ff3BTwMUZo">https://t.co/Ff3BTwMUZo</a></p><hr/><p>いいね 2,950・リポスト 123・ブックマーク 1,525・表示 221,903</p><p>投稿 2026-11-11 03:51（日本時間）・<a href="https://x.com/ClaudeDevs/status/2120227979041341943">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[Claude now supports more of the MCP Apps extension, such as app tools and embedded sites, so your full app can run inside Claude.
+
+Start building: https://claude.com/docs/connectors/building/mcp-apps/getting-started https://twitter.com/claudeai/status/2120206375137484875]]></xf:original>
+<xf:translation xml:lang="ja"><![CDATA[Claude が MCP Apps 拡張のより多くの機能（アプリツールや埋め込みサイトなど）に対応し、アプリ全体を Claude の中で動かせるようになりました。
+
+開発を始める: https://t.co/X4ioqGu3A1 https://t.co/Ff3BTwMUZo]]></xf:translation>
+</item>
+<item>
+<title>二本松哲也 / Tetsuya Nihonmatsu (@t_nihonmatsu)</title>
+<link>https://x.com/t_nihonmatsu/status/2120067616681169372</link>
+<guid isPermaLink="true">https://x.com/t_nihonmatsu/status/2120067616681169372</guid>
+<category>行政DX</category>
+<dc:creator>二本松哲也 / Tetsuya Nihonmatsu</dc:creator>
+<pubDate>Wed, 11 Nov 2026 02:54:10 +0000</pubDate>
+<xf:postedAt>2026-11-10T17:14:43+09:00</xf:postedAt>
+<xf:addedAt>2026-11-11T11:54:10.692318+09:00</xf:addedAt>
+<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1437738711756595200/xY4ZPYD6_400x400.jpg" width="48" height="48" alt="二本松哲也 / Tetsuya Nihonmatsu"/> <b>二本松哲也 / Tetsuya Nihonmatsu</b> @t_nihonmatsu</p><p>総務省は通信事業者によるサイバー攻撃防御について、ブロッキングを含むアクセス抑止策の法的課題を検討する作業部会の設置を発表しました。<br/>2027年早々に中間整理を行う方針です。<br/>注目は、個別企業の防御にとどまらず、通信事業者や政府機関が連携して社会全体の被害拡大を防ぐという方向性です。<br/><br/>私は2025年10月24日のマルチメディア推進フォーラムで、SASEをITU-T X.1060のCDC（Cyber Defence Centre）モデルおよびSOC運用と接続する構想を提言しました。<br/><br/>その基本構造は、<br/><br/>企業CDC → セクターCDC → 国家CDC<br/><br/>という多層的なサイバー防御体制です。<br/><br/>① 企業CDC SASEやSOC/XDRを活用し、通信・端末・クラウドの脅威を検知・分析し、必要な対処につなげる。<br/><br/>② セクターCDC 重要インフラ分野などで脅威インテリジェンスを集約・分析し、同一の攻撃キャンペーンによる被害拡大を防ぐため、業界横断で協調する。<br/><br/>③ 国家CDC 省庁横断で脅威情報を分析・評価し、国家レベルの状況認識、政策判断、関係機関の対応調整につなげる。<br/><br/>これはITU-T X.1060の考え方を応用した構想であり、同勧告がこの3階層を規定しているわけではありません。<br/><br/>能動的サイバー防御に関する制度整備によって、官民の情報共有、重要インフラの資産届出、インシデント報告などの仕組みが整えられつつあります。<br/>こうした制度を実効性のある運用につなげるには、企業・業界・政府の間で脅威インテリジェンスを共有し、検知から分析、判断、対処、検証までを連携させる必要があります。<br/><br/>一方、通信事業者による強制的なブロッキングは、企業のSASEによる通信制御とは異なり、通信の秘密との関係など慎重な法的整理が必要です。<br/>重要なのは、誰が脅威を検知し、誰が分析・判断し、誰が対処し、その結果を誰が検証するのか。<br/>この責任と権限を明確にしたうえで、企業CDC、セクターCDC、国家CDCを接続することです。<br/><br/>能動的サイバー防御は、制度を整備する段階から、省庁横断・官民連携による実効的な運用体制を構築する段階へと進みつつあります。<br/>今後は、制度と技術、そして運用をどのように統合するかが重要になると考えています。</p><p><img src="https://pbs.twimg.com/media/HWv9mVlbgAA2Iad.jpg" alt="画像"/></p><p>いいね 66・リポスト 22・ブックマーク 7・表示 2,242</p><p>投稿 2026-11-10 17:14（日本時間）・<a href="https://x.com/t_nihonmatsu/status/2120067616681169372">Xで開く</a></p>]]></description>
+<xf:original><![CDATA[総務省は通信事業者によるサイバー攻撃防御について、ブロッキングを含むアクセス抑止策の法的課題を検討する作業部会の設置を発表しました。
+2027年早々に中間整理を行う方針です。
+注目は、個別企業の防御にとどまらず、通信事業者や政府機関が連携して社会全体の被害拡大を防ぐという方向性です。
+
+私は2025年10月24日のマルチメディア推進フォーラムで、SASEをITU-T X.1060のCDC（Cyber Defence Centre）モデルおよびSOC運用と接続する構想を提言しました。
+
+その基本構造は、
+
+企業CDC → セクターCDC → 国家CDC
+
+という多層的なサイバー防御体制です。
+
+① 企業CDC SASEやSOC/XDRを活用し、通信・端末・クラウドの脅威を検知・分析し、必要な対処につなげる。
+
+② セクターCDC 重要インフラ分野などで脅威インテリジェンスを集約・分析し、同一の攻撃キャンペーンによる被害拡大を防ぐため、業界横断で協調する。
+
+③ 国家CDC 省庁横断で脅威情報を分析・評価し、国家レベルの状況認識、政策判断、関係機関の対応調整につなげる。
+
+これはITU-T X.1060の考え方を応用した構想であり、同勧告がこの3階層を規定しているわけではありません。
+
+能動的サイバー防御に関する制度整備によって、官民の情報共有、重要インフラの資産届出、インシデント報告などの仕組みが整えられつつあります。
+こうした制度を実効性のある運用につなげるには、企業・業界・政府の間で脅威インテリジェンスを共有し、検知から分析、判断、対処、検証までを連携させる必要があります。
+
+一方、通信事業者による強制的なブロッキングは、企業のSASEによる通信制御とは異なり、通信の秘密との関係など慎重な法的整理が必要です。
+重要なのは、誰が脅威を検知し、誰が分析・判断し、誰が対処し、その結果を誰が検証するのか。
+この責任と権限を明確にしたうえで、企業CDC、セクターCDC、国家CDCを接続することです。
+
+能動的サイバー防御は、制度を整備する段階から、省庁横断・官民連携による実効的な運用体制を構築する段階へと進みつつあります。
+今後は、制度と技術、そして運用をどのように統合するかが重要になると考えています。]]></xf:original>
+</item>
 <item>
 <title>Lenny Rachitsky (@lennysan)</title>
 <link>https://x.com/lennysan/status/2120233740026974287</link>
@@ -9937,555 +10291,6 @@ Claude Codeでは多くのユーザーにデフォルトで適用され、APIで
 どれだけ頑丈で美しい家を建てられても、住む人が誰もいない場所に建ててしまえば価値はゼロです。「仕様書通りにバグなく組む技術」はAIやオフショア開発によって急速にコモディティ化（無価値化）していますが、「曖昧な現実世界の課題から要件を抽出し、定義する力」だけは代替できません。
 
 日本が「職人の技」を磨いている間に、アメリカは「都市の設計権（要件定義）」を独占しました。]]></xf:original>
-</item>
-<item>
-<title>テツメモ｜AI図解×検証｜Newsletter (@tetumemo)</title>
-<link>https://x.com/tetumemo/status/2117395081951105269</link>
-<guid isPermaLink="true">https://x.com/tetumemo/status/2117395081951105269</guid>
-<category>行政DX</category>
-<dc:creator>テツメモ｜AI図解×検証｜Newsletter</dc:creator>
-<pubDate>Tue, 03 Nov 2026 23:05:43 +0000</pubDate>
-<xf:postedAt>2026-11-03T08:15:01+09:00</xf:postedAt>
-<xf:addedAt>2026-11-04T08:05:43.718442+09:00</xf:addedAt>
-<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1740572915685584896/7nsuwNFv_400x400.jpg" width="48" height="48" alt="テツメモ｜AI図解×検証｜Newsletter"/> <b>テツメモ｜AI図解×検証｜Newsletter</b> @tetumemo</p><p>📝そのExcel、AIがちゃんと読める形になってる？<br/>デジタル庁が、表データを100点満点で採点してくれるツール「Harunobu（はるのぶ）」をGitHubで公開した<br/><br/>公式ページによると<br/>・Excel、CSV、TSVの「機械可読性」をチェック<br/>・基準は「行政データにおける機械可読性に関するルール」<br/>・どこをどう直せばいいかがすぐ分かる<br/>・ブラウザの画面、CLI、Pythonの3つの使い方がある<br/>・処理は手元で完結（AI判定補助をオンにしたときだけAPIに送られる）<br/><br/>AIに表を読ませて「なんか読み間違える」ときは、まず表の形を疑うのが近道かもしれない<br/><br/><a href="https://x.com/digital_jpn/status/2117081044860154331">https://x.com/digital_jpn/status/2117081044860154331</a></p><p><img src="https://pbs.twimg.com/media/HWJ_m0da0AASKg4.jpg" alt="画像"/></p><p>いいね 36・リポスト 4・ブックマーク 42・表示 3,317</p><p>投稿 2026-11-03 08:15（日本時間）・<a href="https://x.com/tetumemo/status/2117395081951105269">Xで開く</a></p>]]></description>
-<xf:original><![CDATA[📝そのExcel、AIがちゃんと読める形になってる？
-デジタル庁が、表データを100点満点で採点してくれるツール「Harunobu（はるのぶ）」をGitHubで公開した
-
-公式ページによると
-・Excel、CSV、TSVの「機械可読性」をチェック
-・基準は「行政データにおける機械可読性に関するルール」
-・どこをどう直せばいいかがすぐ分かる
-・ブラウザの画面、CLI、Pythonの3つの使い方がある
-・処理は手元で完結（AI判定補助をオンにしたときだけAPIに送られる）
-
-AIに表を読ませて「なんか読み間違える」ときは、まず表の形を疑うのが近道かもしれない
-
-https://x.com/digital_jpn/status/2117081044860154331]]></xf:original>
-</item>
-<item>
-<title>カナロコ by 神奈川新聞 (@KanalocoLocal)</title>
-<link>https://x.com/KanalocoLocal/status/2117708432006664598</link>
-<guid isPermaLink="true">https://x.com/KanalocoLocal/status/2117708432006664598</guid>
-<category>行政DX</category>
-<dc:creator>カナロコ by 神奈川新聞</dc:creator>
-<pubDate>Tue, 03 Nov 2026 20:59:38 +0000</pubDate>
-<xf:postedAt>2026-11-04T05:00:09+09:00</xf:postedAt>
-<xf:addedAt>2026-11-04T05:59:38.133747+09:00</xf:addedAt>
-<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1236668058845843456/hEGQpswk_400x400.png" width="48" height="48" alt="カナロコ by 神奈川新聞"/> <b>カナロコ by 神奈川新聞</b> @KanalocoLocal</p><p>横浜市、オンライン申請システムに不正アクセス　登録者名など情報漏えいか<br/><a href="https://www.kanaloco.jp/news/government/article-1317685.html">https://www.kanaloco.jp/news/government/article-1317685.html</a><br/>横浜市は3日、行政手続きをオンラインで受け付ける「市電子申請・届出システム」に登録された利用者の個人情報が漏えいした可能性があると発表した。<br/> #不正アクセス #横浜市</p><p>いいね 9・リポスト 10・ブックマーク 0・表示 1,316</p><p>投稿 2026-11-04 05:00（日本時間）・<a href="https://x.com/KanalocoLocal/status/2117708432006664598">Xで開く</a></p>]]></description>
-<xf:original><![CDATA[横浜市、オンライン申請システムに不正アクセス　登録者名など情報漏えいか
-https://www.kanaloco.jp/news/government/article-1317685.html
-横浜市は3日、行政手続きをオンラインで受け付ける「市電子申請・届出システム」に登録された利用者の個人情報が漏えいした可能性があると発表した。
- #不正アクセス #横浜市]]></xf:original>
-</item>
-<item>
-<title>OpenAI (@OpenAI)</title>
-<link>https://x.com/OpenAI/status/2117692475775258785</link>
-<guid isPermaLink="true">https://x.com/OpenAI/status/2117692475775258785</guid>
-<category>AI</category>
-<dc:creator>OpenAI</dc:creator>
-<pubDate>Tue, 03 Nov 2026 20:59:38 +0000</pubDate>
-<xf:postedAt>2026-11-04T03:56:45+09:00</xf:postedAt>
-<xf:addedAt>2026-11-04T05:59:38.133747+09:00</xf:addedAt>
-<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_400x400.jpg" width="48" height="48" alt="OpenAI"/> <b>OpenAI</b> @OpenAI</p><p>ChatGPT and Codex are helping engineers build for the physical world.<br/><br/>We’re sharing our progress across mechanical design, electrical engineering, and simulation—from helping our hardware teams iterate faster to testing new workflows with industry collaborators.</p><hr/><p><b>日本語訳</b></p><p>ChatGPT と Codex が、エンジニアの「物理世界のものづくり」を支援しています。<br/><br/>機械設計、電気設計、シミュレーションの各分野での進捗を共有します。社内のハードウェアチームが試行を速く回せるようにする取り組みから、業界のパートナーと新しいワークフローを試す取り組みまで含みます。</p><hr/><p><a href="https://x.com/OpenAI/status/2117692475775258785"><img src="https://pbs.twimg.com/media/HWOOL0QWwAA5B61.jpg" alt="動画"/></a><br/>（動画はXで再生）</p><p>いいね 2,787・リポスト 196・ブックマーク 737・表示 242,812</p><p>投稿 2026-11-04 03:56（日本時間）・<a href="https://x.com/OpenAI/status/2117692475775258785">Xで開く</a></p>]]></description>
-<xf:original><![CDATA[ChatGPT and Codex are helping engineers build for the physical world.
-
-We’re sharing our progress across mechanical design, electrical engineering, and simulation—from helping our hardware teams iterate faster to testing new workflows with industry collaborators.]]></xf:original>
-<xf:translation xml:lang="ja"><![CDATA[ChatGPT と Codex が、エンジニアの「物理世界のものづくり」を支援しています。
-
-機械設計、電気設計、シミュレーションの各分野での進捗を共有します。社内のハードウェアチームが試行を速く回せるようにする取り組みから、業界のパートナーと新しいワークフローを試す取り組みまで含みます。]]></xf:translation>
-</item>
-<item>
-<title>ClaudeDevs (@ClaudeDevs)</title>
-<link>https://x.com/ClaudeDevs/status/2117680635561312732</link>
-<guid isPermaLink="true">https://x.com/ClaudeDevs/status/2117680635561312732</guid>
-<category>AI</category>
-<dc:creator>ClaudeDevs</dc:creator>
-<pubDate>Tue, 03 Nov 2026 20:59:38 +0000</pubDate>
-<xf:postedAt>2026-11-04T03:09:42+09:00</xf:postedAt>
-<xf:addedAt>2026-11-04T05:59:38.133747+09:00</xf:addedAt>
-<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/2044472418815893504/xf14RxM8_400x400.png" width="48" height="48" alt="ClaudeDevs"/> <b>ClaudeDevs</b> @ClaudeDevs</p><p>Users can now auto-connect plugins when they log in to Claude, with MCP servers that accept Claude as a trusted issuer.<br/><br/>If you’re building plugins for Claude, add support so users get started faster and stay connected without re-authorizing.</p><hr/><p><b>日本語訳</b></p><p>Claude にログインしたときに、プラグインを自動で接続できるようになりました。対象は、Claude を信頼できる発行者（trusted issuer）として受け入れる MCP サーバーです。<br/><br/>Claude 向けのプラグインを作っている方は、この仕組みに対応しておくと、ユーザーがより早く使い始められ、再認可なしで接続したままにできます。</p><hr/><p><a href="https://x.com/ClaudeDevs/status/2117680635561312732"><img src="https://pbs.twimg.com/amplify_video_thumb/2117680108706140161/img/W7IjAqq94Q6lFVOo.jpg" alt="動画"/></a><br/>（動画はXで再生）</p><p>いいね 3,057・リポスト 126・ブックマーク 1,365・表示 245,275</p><p>投稿 2026-11-04 03:09（日本時間）・<a href="https://x.com/ClaudeDevs/status/2117680635561312732">Xで開く</a></p>]]></description>
-<xf:original><![CDATA[Users can now auto-connect plugins when they log in to Claude, with MCP servers that accept Claude as a trusted issuer.
-
-If you’re building plugins for Claude, add support so users get started faster and stay connected without re-authorizing.]]></xf:original>
-<xf:translation xml:lang="ja"><![CDATA[Claude にログインしたときに、プラグインを自動で接続できるようになりました。対象は、Claude を信頼できる発行者（trusted issuer）として受け入れる MCP サーバーです。
-
-Claude 向けのプラグインを作っている方は、この仕組みに対応しておくと、ユーザーがより早く使い始められ、再認可なしで接続したままにできます。]]></xf:translation>
-</item>
-<item>
-<title>ClaudeDevs (@ClaudeDevs)</title>
-<link>https://x.com/ClaudeDevs/status/2117670658113155075</link>
-<guid isPermaLink="true">https://x.com/ClaudeDevs/status/2117670658113155075</guid>
-<category>AI</category>
-<dc:creator>ClaudeDevs</dc:creator>
-<pubDate>Tue, 03 Nov 2026 20:59:38 +0000</pubDate>
-<xf:postedAt>2026-11-04T02:30:03+09:00</xf:postedAt>
-<xf:addedAt>2026-11-04T05:59:38.133747+09:00</xf:addedAt>
-<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/2044472418815893504/xf14RxM8_400x400.png" width="48" height="48" alt="ClaudeDevs"/> <b>ClaudeDevs</b> @ClaudeDevs</p><p>October was a big month for Claude Code 🍁<br/><br/>We shipped mods, made the desktop app better at running lots of sessions side by side, gave you more insight into where your usage goes, and plenty more. Here's a recap!</p><hr/><p><b>日本語訳</b></p><p>10月は Claude Code にとって大きな月でした 🍁<br/><br/>mods を公開し、デスクトップアプリで複数セッションを並べて動かしやすくし、利用量がどこに使われているかをより詳しく見られるようにしました。ほかにも多数あります。まとめはこちらです！</p><hr/><p><a href="https://x.com/ClaudeDevs/status/2117670658113155075"><img src="https://pbs.twimg.com/amplify_video_thumb/2117670650877972481/img/CNDYQvwU0yAKCNRX.jpg" alt="動画"/></a><br/>（動画はXで再生）</p><p>いいね 5,281・リポスト 141・ブックマーク 710・表示 216,803</p><p>投稿 2026-11-04 02:30（日本時間）・<a href="https://x.com/ClaudeDevs/status/2117670658113155075">Xで開く</a></p>]]></description>
-<xf:original><![CDATA[October was a big month for Claude Code 🍁
-
-We shipped mods, made the desktop app better at running lots of sessions side by side, gave you more insight into where your usage goes, and plenty more. Here's a recap!]]></xf:original>
-<xf:translation xml:lang="ja"><![CDATA[10月は Claude Code にとって大きな月でした 🍁
-
-mods を公開し、デスクトップアプリで複数セッションを並べて動かしやすくし、利用量がどこに使われているかをより詳しく見られるようにしました。ほかにも多数あります。まとめはこちらです！]]></xf:translation>
-</item>
-<item>
-<title>チャエン | デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》 (@masahirochaen)</title>
-<link>https://x.com/masahirochaen/status/2117645829964272055</link>
-<guid isPermaLink="true">https://x.com/masahirochaen/status/2117645829964272055</guid>
-<category>AI</category>
-<dc:creator>チャエン | デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》</dc:creator>
-<pubDate>Tue, 03 Nov 2026 20:59:38 +0000</pubDate>
-<xf:postedAt>2026-11-04T00:51:24+09:00</xf:postedAt>
-<xf:addedAt>2026-11-04T05:59:38.133747+09:00</xf:addedAt>
-<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1689665533929725953/fClFlzLd_400x400.jpg" width="48" height="48" alt="チャエン | デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》"/> <b>チャエン | デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》</b> @masahirochaen</p><p>【速報】AIが別のAIの中身を直接書き換えて、数学の正答率を約6倍に。<br/><br/>MITの研究で、GPT-6 Astraが小型AIのQwenを追加学習なしで修正。AIの中身は「重み」という8億個のつまみのような数字で、普通は人が読めません。<br/><br/>・原因: 同じ思考を繰り返すクセ<br/>・修正: 全体の0.016%だけ<br/>・数学: 7.9%→48.1%<br/>・指示の遵守: 21%→62.3%<br/><br/>新しい能力を足したというより、詰まりを取って本来の力を出した形です。別モデルのGemmaは伸びていません。<br/><br/>それでも、AIがAIを読んで直せるのは衝撃的。開発の常識が変わりそうです。AIモデル開発者もAIに置き換えられてしまうのか、、、</p><p><img src="https://pbs.twimg.com/media/HWNjqJxaYAA0tMF.jpg" alt="画像"/></p><p><img src="https://pbs.twimg.com/media/HWNjqStawAA_1xg.jpg" alt="画像"/></p><p>いいね 35・リポスト 2・ブックマーク 8・表示 4,969</p><p>投稿 2026-11-04 00:51（日本時間）・<a href="https://x.com/masahirochaen/status/2117645829964272055">Xで開く</a></p>]]></description>
-<xf:original><![CDATA[【速報】AIが別のAIの中身を直接書き換えて、数学の正答率を約6倍に。
-
-MITの研究で、GPT-6 Astraが小型AIのQwenを追加学習なしで修正。AIの中身は「重み」という8億個のつまみのような数字で、普通は人が読めません。
-
-・原因: 同じ思考を繰り返すクセ
-・修正: 全体の0.016%だけ
-・数学: 7.9%→48.1%
-・指示の遵守: 21%→62.3%
-
-新しい能力を足したというより、詰まりを取って本来の力を出した形です。別モデルのGemmaは伸びていません。
-
-それでも、AIがAIを読んで直せるのは衝撃的。開発の常識が変わりそうです。AIモデル開発者もAIに置き換えられてしまうのか、、、]]></xf:original>
-</item>
-<item>
-<title>布留川英一 / Hidekazu Furukawa (@npaka123)</title>
-<link>https://x.com/npaka123/status/2117609218673090886</link>
-<guid isPermaLink="true">https://x.com/npaka123/status/2117609218673090886</guid>
-<category>AI</category>
-<dc:creator>布留川英一 / Hidekazu Furukawa</dc:creator>
-<pubDate>Tue, 03 Nov 2026 20:59:38 +0000</pubDate>
-<xf:postedAt>2026-11-03T22:25:55+09:00</xf:postedAt>
-<xf:addedAt>2026-11-04T05:59:38.133747+09:00</xf:addedAt>
-<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1497823072560492545/PoUh9VNk_400x400.jpg" width="48" height="48" alt="布留川英一 / Hidekazu Furukawa"/> <b>布留川英一 / Hidekazu Furukawa</b> @npaka123</p><p>Weight-Space Programming の概要 - GPT-6 Astraがニューラルネットワークの重みを直接解析・編集・生成｜npaka @npaka123 <a href="https://note.com/npaka/n/n270373a5a637?sub_rt=share_pw">https://note.com/npaka/n/n270373a5a637?sub_rt=share_pw</a></p><p>いいね 56・リポスト 12・ブックマーク 40・表示 4,896</p><p>投稿 2026-11-03 22:25（日本時間）・<a href="https://x.com/npaka123/status/2117609218673090886">Xで開く</a></p>]]></description>
-<xf:original><![CDATA[Weight-Space Programming の概要 - GPT-6 Astraがニューラルネットワークの重みを直接解析・編集・生成｜npaka @npaka123 https://note.com/npaka/n/n270373a5a637?sub_rt=share_pw]]></xf:original>
-</item>
-<item>
-<title>そらぶ🐶💓高配当株好き (@sorave55)</title>
-<link>https://x.com/sorave55/status/2117580048609984710</link>
-<guid isPermaLink="true">https://x.com/sorave55/status/2117580048609984710</guid>
-<category>日本株・高配当株</category>
-<dc:creator>そらぶ🐶💓高配当株好き</dc:creator>
-<pubDate>Tue, 03 Nov 2026 20:59:38 +0000</pubDate>
-<xf:postedAt>2026-11-03T20:30:00+09:00</xf:postedAt>
-<xf:addedAt>2026-11-04T05:59:38.133747+09:00</xf:addedAt>
-<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/2109273488490110976/sj0VgkHS_400x400.jpg" width="48" height="48" alt="そらぶ🐶💓高配当株好き"/> <b>そらぶ🐶💓高配当株好き</b> @sorave55</p><p>キオクシアだけかと思ったら、<br/>銀行株もセール会場でした。<br/><br/>昨日、大きく値下がりした銀行株を<br/>配当利回りとともにまとめました。<br/><br/>正直、預金の金利より<br/>株の利回りに目がいっちゃいます。<br/><br/>みなさんの気になる銀行株は？<br/><br/>1位：プロクレアHD -9.46% (2.58%)<br/>2位：愛媛銀行 -8.93% (1.72%)<br/>3位：四国銀行 -7.65% (2.38%)<br/>4位：富山第一銀行 -7.13% (2.62%)<br/>5位：福井銀行 -6.53% (2.23%)<br/>6位：筑波銀行 -6.46% (0.80%)<br/>7位：北日本銀行 -6.25% (2.79%)<br/>8位：大分銀行 -6.20% (1.85%)<br/>9位：高知銀行 -6.03% (2.59%)<br/>10位：佐賀銀行 -5.85% (1.96%)<br/>11位：山形銀行 -5.73% (2.57%)<br/>12位：富山銀行 -5.69% (2.72%)<br/>13位：大光銀行 -5.51% (3.68%)<br/>14位：琉球銀行 -5.30% (3.68%)<br/>15位：福島銀行 -5.23% (1.53%)<br/>16位：秋田銀行 -5.01% (2.74%)<br/>17位：百十四銀行 -5.01% (3.32%)<br/>18位：じもとHD -5.00% (0.94%)<br/>19位：十六FG -4.97% (2.52%)<br/>20位：大東銀行 -4.94% (3.58%)<br/>21位：CCIグループ -4.87% (3.26%)<br/>22位：岩手銀行 -4.66% (2.78%)<br/>23位：東京きらぼしFG -4.61% (2.13%)<br/>24位：宮崎銀行 -4.54% (2.38%)<br/>25位：フィデアHD -4.54% (3.02%)<br/>26位：大垣共立銀行 -4.37% (2.02%)<br/>27位：鳥取銀行 -4.33% (2.97%)<br/>28位：栃木銀行 -4.31% (3.30%)<br/>29位：あいちFG -4.29% (1.82%)<br/>30位：池田泉州HD -4.26% (3.14%)<br/>31位：三十三FG -4.10% (2.77%)<br/>32位：おきなわFG -4.03% (2.90%)<br/>33位：Jトラスト -4.03% (2.30%)<br/>34位：京葉銀行 -3.98% (2.74%)<br/>35位：阿波銀行 -3.97% (2.20%)<br/>36位：東邦銀行 -3.92% (2.79%)<br/>37位：トマト銀行 -3.85% (2.86%)<br/>38位：南都銀行 -3.75% (3.26%)<br/>39位：東北銀行 -3.72% (3.57%)<br/>40位：百五銀行 -3.67% (2.04%)<br/>41位：清水銀行 -3.45% (2.56%)<br/>42位：武蔵野銀行 -3.38% (3.26%)<br/>43位：楽天銀行 -3.07% (0.00%)<br/>44位：めぶきFG -3.06% (3.02%)<br/>45位：トモニHD -3.05% (2.95%)<br/>46位：第四北越FG -2.96% (3.48%)<br/>47位：七十七銀行 -2.86% (2.97%)<br/>48位：いよぎんHD -2.82% (2.49%)<br/>49位：群馬銀行 -2.69% (2.76%)<br/>50位：山梨中央銀行 -2.69% (2.58%)</p><p><img src="https://pbs.twimg.com/media/HWKYuQYbkAA2O_F.jpg" alt="画像"/></p><p>いいね 106・リポスト 4・ブックマーク 21・表示 11,240</p><p>投稿 2026-11-03 20:30（日本時間）・<a href="https://x.com/sorave55/status/2117580048609984710">Xで開く</a></p>]]></description>
-<xf:original><![CDATA[キオクシアだけかと思ったら、
-銀行株もセール会場でした。
-
-昨日、大きく値下がりした銀行株を
-配当利回りとともにまとめました。
-
-正直、預金の金利より
-株の利回りに目がいっちゃいます。
-
-みなさんの気になる銀行株は？
-
-1位：プロクレアHD -9.46% (2.58%)
-2位：愛媛銀行 -8.93% (1.72%)
-3位：四国銀行 -7.65% (2.38%)
-4位：富山第一銀行 -7.13% (2.62%)
-5位：福井銀行 -6.53% (2.23%)
-6位：筑波銀行 -6.46% (0.80%)
-7位：北日本銀行 -6.25% (2.79%)
-8位：大分銀行 -6.20% (1.85%)
-9位：高知銀行 -6.03% (2.59%)
-10位：佐賀銀行 -5.85% (1.96%)
-11位：山形銀行 -5.73% (2.57%)
-12位：富山銀行 -5.69% (2.72%)
-13位：大光銀行 -5.51% (3.68%)
-14位：琉球銀行 -5.30% (3.68%)
-15位：福島銀行 -5.23% (1.53%)
-16位：秋田銀行 -5.01% (2.74%)
-17位：百十四銀行 -5.01% (3.32%)
-18位：じもとHD -5.00% (0.94%)
-19位：十六FG -4.97% (2.52%)
-20位：大東銀行 -4.94% (3.58%)
-21位：CCIグループ -4.87% (3.26%)
-22位：岩手銀行 -4.66% (2.78%)
-23位：東京きらぼしFG -4.61% (2.13%)
-24位：宮崎銀行 -4.54% (2.38%)
-25位：フィデアHD -4.54% (3.02%)
-26位：大垣共立銀行 -4.37% (2.02%)
-27位：鳥取銀行 -4.33% (2.97%)
-28位：栃木銀行 -4.31% (3.30%)
-29位：あいちFG -4.29% (1.82%)
-30位：池田泉州HD -4.26% (3.14%)
-31位：三十三FG -4.10% (2.77%)
-32位：おきなわFG -4.03% (2.90%)
-33位：Jトラスト -4.03% (2.30%)
-34位：京葉銀行 -3.98% (2.74%)
-35位：阿波銀行 -3.97% (2.20%)
-36位：東邦銀行 -3.92% (2.79%)
-37位：トマト銀行 -3.85% (2.86%)
-38位：南都銀行 -3.75% (3.26%)
-39位：東北銀行 -3.72% (3.57%)
-40位：百五銀行 -3.67% (2.04%)
-41位：清水銀行 -3.45% (2.56%)
-42位：武蔵野銀行 -3.38% (3.26%)
-43位：楽天銀行 -3.07% (0.00%)
-44位：めぶきFG -3.06% (3.02%)
-45位：トモニHD -3.05% (2.95%)
-46位：第四北越FG -2.96% (3.48%)
-47位：七十七銀行 -2.86% (2.97%)
-48位：いよぎんHD -2.82% (2.49%)
-49位：群馬銀行 -2.69% (2.76%)
-50位：山梨中央銀行 -2.69% (2.58%)]]></xf:original>
-</item>
-<item>
-<title>井上さくら（横浜市議・無所属・鶴見区選出） (@sakuraline)</title>
-<link>https://x.com/sakuraline/status/2117569671117656186</link>
-<guid isPermaLink="true">https://x.com/sakuraline/status/2117569671117656186</guid>
-<category>行政DX</category>
-<dc:creator>井上さくら（横浜市議・無所属・鶴見区選出）</dc:creator>
-<pubDate>Tue, 03 Nov 2026 15:02:30 +0000</pubDate>
-<xf:postedAt>2026-11-03T19:48:46+09:00</xf:postedAt>
-<xf:addedAt>2026-11-04T00:02:30.582566+09:00</xf:addedAt>
-<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1167581220/sakurabike_400x400.jpg" width="48" height="48" alt="井上さくら（横浜市議・無所属・鶴見区選出）"/> <b>井上さくら（横浜市議・無所属・鶴見区選出）</b> @sakuraline</p><p>「#横浜市 電子申請・届出システムが使用するメール送信サービスにおける個人情報の漏えいの可能性について」<br/><br/>・利用者登録　82万件<br/>・漏えい対象件数等は事業者が確認中<br/>・マイナカード、パブコメ等ログインが必要な手続きは利用不可<br/><br/>画像：記者発表資料　2026年11月3日<br/><a href="https://www.city.yokohama.lg.jp/city-info/koho-kocho/press/somu/2026/1103denshishinsei.html">https://www.city.yokohama.lg.jp/city-info/koho-kocho/press/somu/2026/1103denshishinsei.html</a>  <a href="https://twitter.com/sakuraline/status/2117564481517887586">https://twitter.com/sakuraline/status/2117564481517887586</a></p><p><img src="https://pbs.twimg.com/media/HWMb7mma0AAzGEq.jpg" alt="画像"/></p><p><img src="https://pbs.twimg.com/media/HWMcBPPbwAAoA5q.png" alt="画像"/></p><p>いいね 57・リポスト 39・ブックマーク 6・表示 4,872</p><p>投稿 2026-11-03 19:48（日本時間）・<a href="https://x.com/sakuraline/status/2117569671117656186">Xで開く</a></p>]]></description>
-<xf:original><![CDATA[「#横浜市 電子申請・届出システムが使用するメール送信サービスにおける個人情報の漏えいの可能性について」
-
-・利用者登録　82万件
-・漏えい対象件数等は事業者が確認中
-・マイナカード、パブコメ等ログインが必要な手続きは利用不可
-
-画像：記者発表資料　2026年11月3日
-https://www.city.yokohama.lg.jp/city-info/koho-kocho/press/somu/2026/1103denshishinsei.html  https://twitter.com/sakuraline/status/2117564481517887586]]></xf:original>
-</item>
-<item>
-<title>チャエン | デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》 (@masahirochaen)</title>
-<link>https://x.com/masahirochaen/status/2117565184135094548</link>
-<guid isPermaLink="true">https://x.com/masahirochaen/status/2117565184135094548</guid>
-<category>AI</category>
-<dc:creator>チャエン | デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》</dc:creator>
-<pubDate>Tue, 03 Nov 2026 15:02:30 +0000</pubDate>
-<xf:postedAt>2026-11-03T19:30:57+09:00</xf:postedAt>
-<xf:addedAt>2026-11-04T00:02:30.582566+09:00</xf:addedAt>
-<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1689665533929725953/fClFlzLd_400x400.jpg" width="48" height="48" alt="チャエン | デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》"/> <b>チャエン | デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》</b> @masahirochaen</p><p>AGIBOTに来ています。正直めちゃくちゃすごかったです。（ちょっと高いけど）<br/><br/>この5日間で深セン・杭州・上海と10社ぐらい回り、主要なロボット企業はほぼ見てきました。強み弱みや実際の規模感、技術力までかなり分かりました。<br/><br/>その中でも出荷台数1位のAGIBOTはやはりすごかったです。中の様子は許可後にしか載せられないのですが、圧倒的だなと思いました。<br/><br/>フィジカルAIは確実に来ます。そう確信を持てた出張でした。<br/><br/>現地企業とのコネクションとロボットの強みの見極めは、多分日本でも相当トップクラスまで来たと思うので、何かあればぜひご連絡ください。<br/><br/>デジライズはこれからフィジカルAIにかなり踏み込んでいきます。協業も全方位で募集中です。よろしくお願いします🔥</p><p><a href="https://x.com/masahirochaen/status/2117565184135094548"><img src="https://pbs.twimg.com/amplify_video_thumb/2117560425974009856/img/yXaKmQYZ5yKeKdth.jpg" alt="動画"/></a><br/>（動画はXで再生）</p><p>いいね 53・リポスト 3・ブックマーク 14・表示 8,734</p><p>投稿 2026-11-03 19:30（日本時間）・<a href="https://x.com/masahirochaen/status/2117565184135094548">Xで開く</a></p>]]></description>
-<xf:original><![CDATA[AGIBOTに来ています。正直めちゃくちゃすごかったです。（ちょっと高いけど）
-
-この5日間で深セン・杭州・上海と10社ぐらい回り、主要なロボット企業はほぼ見てきました。強み弱みや実際の規模感、技術力までかなり分かりました。
-
-その中でも出荷台数1位のAGIBOTはやはりすごかったです。中の様子は許可後にしか載せられないのですが、圧倒的だなと思いました。
-
-フィジカルAIは確実に来ます。そう確信を持てた出張でした。
-
-現地企業とのコネクションとロボットの強みの見極めは、多分日本でも相当トップクラスまで来たと思うので、何かあればぜひご連絡ください。
-
-デジライズはこれからフィジカルAIにかなり踏み込んでいきます。協業も全方位で募集中です。よろしくお願いします🔥]]></xf:original>
-</item>
-<item>
-<title>のっち🐼｜配当金100万円を目指す会社員 (@Nocchi_nochilog)</title>
-<link>https://x.com/Nocchi_nochilog/status/2117557405936456165</link>
-<guid isPermaLink="true">https://x.com/Nocchi_nochilog/status/2117557405936456165</guid>
-<category>日本株・高配当株</category>
-<dc:creator>のっち🐼｜配当金100万円を目指す会社員</dc:creator>
-<pubDate>Tue, 03 Nov 2026 15:02:30 +0000</pubDate>
-<xf:postedAt>2026-11-03T19:00:02+09:00</xf:postedAt>
-<xf:addedAt>2026-11-04T00:02:30.582566+09:00</xf:addedAt>
-<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1379762078244724736/VEwcllB-_400x400.jpg" width="48" height="48" alt="のっち🐼｜配当金100万円を目指す会社員"/> <b>のっち🐼｜配当金100万円を目指す会社員</b> @Nocchi_nochilog</p><p>JALの配当方針に注目🐼✈️<br/><br/>上期EBIT36%減も、年間配当96円は維持！<br/><br/>経営ビジョン2035では、配当性向35%程度、総還元性向35〜50%を目標に、利益成長に応じた増配を掲げています。<br/><br/>利回り3.17%。増配方針は魅力だけど、まずは利益回復を確認したいパン👀<br/><br/>#高配当株</p><p><img src="https://pbs.twimg.com/media/HWHqJDqbUAMfmVK.jpg" alt="画像"/></p><p>いいね 6・リポスト 0・ブックマーク 0・表示 242</p><p>投稿 2026-11-03 19:00（日本時間）・<a href="https://x.com/Nocchi_nochilog/status/2117557405936456165">Xで開く</a></p>]]></description>
-<xf:original><![CDATA[JALの配当方針に注目🐼✈️
-
-上期EBIT36%減も、年間配当96円は維持！
-
-経営ビジョン2035では、配当性向35%程度、総還元性向35〜50%を目標に、利益成長に応じた増配を掲げています。
-
-利回り3.17%。増配方針は魅力だけど、まずは利益回復を確認したいパン👀
-
-#高配当株]]></xf:original>
-</item>
-<item>
-<title>うみゆき@AI研究 (@umiyuki_ai)</title>
-<link>https://x.com/umiyuki_ai/status/2117541318327222278</link>
-<guid isPermaLink="true">https://x.com/umiyuki_ai/status/2117541318327222278</guid>
-<category>AI</category>
-<dc:creator>うみゆき@AI研究</dc:creator>
-<pubDate>Tue, 03 Nov 2026 15:02:30 +0000</pubDate>
-<xf:postedAt>2026-11-03T17:56:06+09:00</xf:postedAt>
-<xf:addedAt>2026-11-04T00:02:30.582566+09:00</xf:addedAt>
-<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1581572203660787712/SAdL4WOj_400x400.jpg" width="48" height="48" alt="うみゆき@AI研究"/> <b>うみゆき@AI研究</b> @umiyuki_ai</p><p>はやくもウエイトスペースプログラミング（AIが直接AIモデルをプログラムする）のベンチマーク出た。Astraが全一！OpenAIはこのパラダイムを見越してモデル作ってたのか？ <a href="https://twitter.com/xingyudang/status/2117428789068386630">https://twitter.com/xingyudang/status/2117428789068386630</a></p><p>いいね 166・リポスト 27・ブックマーク 76・表示 13,526</p><p>投稿 2026-11-03 17:56（日本時間）・<a href="https://x.com/umiyuki_ai/status/2117541318327222278">Xで開く</a></p>]]></description>
-<xf:original><![CDATA[はやくもウエイトスペースプログラミング（AIが直接AIモデルをプログラムする）のベンチマーク出た。Astraが全一！OpenAIはこのパラダイムを見越してモデル作ってたのか？ https://twitter.com/xingyudang/status/2117428789068386630]]></xf:original>
-</item>
-<item>
-<title>ローソク足探偵 (@riplewismarnell)</title>
-<link>https://x.com/riplewismarnell/status/2117516107338957006</link>
-<guid isPermaLink="true">https://x.com/riplewismarnell/status/2117516107338957006</guid>
-<category>日本株・高配当株</category>
-<dc:creator>ローソク足探偵</dc:creator>
-<pubDate>Tue, 03 Nov 2026 15:02:30 +0000</pubDate>
-<xf:postedAt>2026-11-03T16:15:56+09:00</xf:postedAt>
-<xf:addedAt>2026-11-04T00:02:30.582566+09:00</xf:addedAt>
-<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/2116016326020116480/zgLRD4k6_400x400.jpg" width="48" height="48" alt="ローソク足探偵"/> <b>ローソク足探偵</b> @riplewismarnell</p><p>【マクニカHD（3132）】上期営業利益+91.5％。配当90円、自社株買い50億円。それでも株価は下落。この決算の裏側に何があるのか。<br/>11月2日、マクニカHDは強烈な決算を発表した。<br/>・上期売上高8,312億円、前年同期比+44.5％<br/>・営業利益335億円、前年同期比+91.5％<br/>・経常利益327億円、前年同期比+122.4％<br/>・純利益222億円、前年同期比+102.1％<br/>・年間配当70円→90円に増額<br/>・最大50億円の自社株買い<br/>普通に見れば、かなり強い決算や。<br/>それなのに11月2日の株価は3,705円、前日比−3.94％。<br/>場中には3,997円まで上昇したのに、安値3,586円まで売られた。<br/>なぜ、これだけの好材料が出ても売られるのか。<br/>数字を割り算してみると、面白いことが見えてくる。<br/>▶️ まず、稼いでいる事業が強い<br/>マクニカHDの上期業績を支えたのは半導体事業。<br/>半導体事業：売上7,213億円、前年同期比+46.7％<br/>サイバーセキュリティ：売上1,058億円、前年同期比+31.3％<br/>半導体事業の利益は前年同期比+117.1％。<br/>AIサーバー、半導体製造装置、FA、車載向け需要の回復が数字に表れとる。<br/>つまり、単なるAIブームへの期待だけではない。<br/>実際に売上と利益が伸びている。<br/>▶️ でも、僕ちんが気になったのは「営業キャッシュフロー」や<br/>ここは見逃したらあかん。<br/>上期営業利益：335.18億円<br/>上期営業キャッシュフロー：−325.69億円<br/>利益は大きく伸びているのに、営業活動による現金収支はマイナス。<br/>もちろん、これだけで業績が悪いとは言えへん。<br/>商社型のビジネスは在庫や売上債権の増加で資金が先に出ていくこともある。<br/>ただ、利益が実際の現金として回収されているかは、次の決算で確認したいところや。<br/>現金残高は532億円。<br/>直ちに資金繰り危機と判断する状況ではない。<br/>それでも、利益成長と現金創出力は分けて見る必要がある。<br/>▶️ もう一つの弱点は事業ごとの利益格差<br/>半導体事業は好調。<br/>サイバーセキュリティ事業も増収増益。<br/>一方、CPSソリューション事業は営業損失46.47億円。<br/>自動運転EVバス関連の導入長期化や顧客側の開発中止が影響しとる。<br/>会社全体が成長していても、すべての事業が利益を生んでいるわけではない。<br/>ここは今後の改善を見たい。<br/>▶️ 通期予想から逆算すると<br/>会社が示した2027年3月期の予想は、<br/>売上高：1兆6,700億円<br/>営業利益：675億円<br/>経常利益：660億円<br/>純利益：460億円<br/>営業利益の前年比は+60.9％。<br/>上期営業利益は335億円で、通期計画に対する進捗率は約49.7％。<br/>つまり、残り半年で約340億円の営業利益が必要になる。<br/>上期とほぼ同じ利益を下期にも稼げるか。<br/>これが次の焦点や。<br/>▶️ 50億円の自社株買いも発表<br/>ここは評価したい。<br/>取得上限：160万株<br/>取得総額：50億円<br/>取得期間：11月4日〜12月21日<br/>発行済株式総数に対する割合は約0.89％。<br/>業績上方修正、増配、自社株買い。<br/>株主還元を強化する姿勢は明確や。<br/>ただし、実際に何株取得するかは今後の開示で確認したい。<br/>▶️ 11月4日から見る3つの価格<br/>3,586円<br/>11月2日の安値。ここを維持できるか。<br/>3,771円<br/>当日のVWAP付近。回復して定着できるか。<br/>3,997円<br/>当日の高値。出来高を伴って突破できるか。<br/>▶️ さらに監視したい日本株10銘柄<br/>今回の決算シーズンで、僕ちんが注目しているのはこのあたりや。<br/>【AI・半導体・電子部品】<br/>① 日本ガイシ（5333）<br/>通期経常利益予想を20％上方修正。年間配当106円→126円。半導体製造装置向け製品の需要に注目。<br/>② パナソニックHD（6752）<br/>純利益予想を4,500億円→5,400億円に上方修正。年間配当54円→70円。AIデータセンター向け蓄電システムが焦点。<br/>③ スズデン（7480）<br/>上期営業利益+153.9％。通期経常利益を18.1％上方修正。年間配当176円→202円。<br/>④ 日本軽金属HD（5703）<br/>上期営業利益+83.5％。通期経常利益を310億円→350億円に上方修正。35期ぶりの最高益更新を目指す。<br/>⑤ マクニカHD（3132）<br/>半導体×サイバーセキュリティ。利益成長と営業キャッシュフローの改善を追いたい。<br/>【業績上方修正・成長株】<br/>⑥ 住友商事（8053）<br/>通期純利益6,300億円→6,700億円。年間配当40円→44円。<br/>⑦ 商船三井（9104）<br/>通期経常利益2,250億円→2,950億円。上方修正率31.1％。<br/>⑧ 住友ファーマ（4506）<br/>純利益予想を22.1％上方修正。4期ぶりの復配15円にも注目。<br/>⑨ LITALICO（7366）<br/>上期営業利益+37.0％。通期営業利益予想を55億円→58〜63億円に上方修正。<br/>⑩ JIG-SAW（3914）<br/>1〜9月期営業利益+67.8％。継続課金型サービスの成長を監視。<br/>▶️ 僕ちんなら3つに分ける<br/>① 業績成長を重視<br/>マクニカHD、日本ガイシ、パナソニックHD、スズデン。<br/>② 増益と株主還元を重視<br/>住友商事、商船三井、日本軽金属HD。<br/>③ 次の成長余地を監視<br/>LITALICO、JIG-SAW、住友ファーマ。<br/>▶️ 僕ちんの答え<br/>昔は好決算が出たら、何も考えずに飛びついていた。<br/>でも今は違う。<br/>売上を見る。<br/>利益を見る。<br/>現金の流れを見る。<br/>最後に株価がどう反応したかを見る。<br/>好決算でも売られる銘柄がある。<br/>反対に、地味な決算でも資金が集まり続ける銘柄がある。<br/>大切なのは、ニュースの見出しではなく、その裏にある数字や。<br/>11月4日以降、特に確認したいのはマクニカHDの自社株買い、営業キャッシュフロー、そして半導体事業の成長継続。<br/>今回の10銘柄なら、あなたはどれを一番監視したい？<br/>理由も一言聞かせてほしい。<br/>決算から次の資金流入を追いたい人は保存しておいてくだされ。<br/>僕ちんが注目する日本株の決算・需給・買い場の監視リストはプロフィールのリンク先にまとめています。<br/>※株価・業績は公表資料に基づく参考情報。上昇を保証するものではありません。投資判断は必ず最新の開示を確認してご自身でお願いします。</p><p><a href="https://x.com/riplewismarnell/status/2117516107338957006"><img src="https://pbs.twimg.com/amplify_video_thumb/2117446129722036224/img/4wN137-6grVQB2f8.jpg" alt="動画"/></a><br/>（動画はXで再生）</p><p><img src="https://pbs.twimg.com/media/HWKuHF9bIAADwqy.png" alt="画像"/></p><p>いいね 77・リポスト 24・ブックマーク 18・表示 1,275</p><p>投稿 2026-11-03 16:15（日本時間）・<a href="https://x.com/riplewismarnell/status/2117516107338957006">Xで開く</a></p>]]></description>
-<xf:original><![CDATA[【マクニカHD（3132）】上期営業利益+91.5％。配当90円、自社株買い50億円。それでも株価は下落。この決算の裏側に何があるのか。
-11月2日、マクニカHDは強烈な決算を発表した。
-・上期売上高8,312億円、前年同期比+44.5％
-・営業利益335億円、前年同期比+91.5％
-・経常利益327億円、前年同期比+122.4％
-・純利益222億円、前年同期比+102.1％
-・年間配当70円→90円に増額
-・最大50億円の自社株買い
-普通に見れば、かなり強い決算や。
-それなのに11月2日の株価は3,705円、前日比−3.94％。
-場中には3,997円まで上昇したのに、安値3,586円まで売られた。
-なぜ、これだけの好材料が出ても売られるのか。
-数字を割り算してみると、面白いことが見えてくる。
-▶️ まず、稼いでいる事業が強い
-マクニカHDの上期業績を支えたのは半導体事業。
-半導体事業：売上7,213億円、前年同期比+46.7％
-サイバーセキュリティ：売上1,058億円、前年同期比+31.3％
-半導体事業の利益は前年同期比+117.1％。
-AIサーバー、半導体製造装置、FA、車載向け需要の回復が数字に表れとる。
-つまり、単なるAIブームへの期待だけではない。
-実際に売上と利益が伸びている。
-▶️ でも、僕ちんが気になったのは「営業キャッシュフロー」や
-ここは見逃したらあかん。
-上期営業利益：335.18億円
-上期営業キャッシュフロー：−325.69億円
-利益は大きく伸びているのに、営業活動による現金収支はマイナス。
-もちろん、これだけで業績が悪いとは言えへん。
-商社型のビジネスは在庫や売上債権の増加で資金が先に出ていくこともある。
-ただ、利益が実際の現金として回収されているかは、次の決算で確認したいところや。
-現金残高は532億円。
-直ちに資金繰り危機と判断する状況ではない。
-それでも、利益成長と現金創出力は分けて見る必要がある。
-▶️ もう一つの弱点は事業ごとの利益格差
-半導体事業は好調。
-サイバーセキュリティ事業も増収増益。
-一方、CPSソリューション事業は営業損失46.47億円。
-自動運転EVバス関連の導入長期化や顧客側の開発中止が影響しとる。
-会社全体が成長していても、すべての事業が利益を生んでいるわけではない。
-ここは今後の改善を見たい。
-▶️ 通期予想から逆算すると
-会社が示した2027年3月期の予想は、
-売上高：1兆6,700億円
-営業利益：675億円
-経常利益：660億円
-純利益：460億円
-営業利益の前年比は+60.9％。
-上期営業利益は335億円で、通期計画に対する進捗率は約49.7％。
-つまり、残り半年で約340億円の営業利益が必要になる。
-上期とほぼ同じ利益を下期にも稼げるか。
-これが次の焦点や。
-▶️ 50億円の自社株買いも発表
-ここは評価したい。
-取得上限：160万株
-取得総額：50億円
-取得期間：11月4日〜12月21日
-発行済株式総数に対する割合は約0.89％。
-業績上方修正、増配、自社株買い。
-株主還元を強化する姿勢は明確や。
-ただし、実際に何株取得するかは今後の開示で確認したい。
-▶️ 11月4日から見る3つの価格
-3,586円
-11月2日の安値。ここを維持できるか。
-3,771円
-当日のVWAP付近。回復して定着できるか。
-3,997円
-当日の高値。出来高を伴って突破できるか。
-▶️ さらに監視したい日本株10銘柄
-今回の決算シーズンで、僕ちんが注目しているのはこのあたりや。
-【AI・半導体・電子部品】
-① 日本ガイシ（5333）
-通期経常利益予想を20％上方修正。年間配当106円→126円。半導体製造装置向け製品の需要に注目。
-② パナソニックHD（6752）
-純利益予想を4,500億円→5,400億円に上方修正。年間配当54円→70円。AIデータセンター向け蓄電システムが焦点。
-③ スズデン（7480）
-上期営業利益+153.9％。通期経常利益を18.1％上方修正。年間配当176円→202円。
-④ 日本軽金属HD（5703）
-上期営業利益+83.5％。通期経常利益を310億円→350億円に上方修正。35期ぶりの最高益更新を目指す。
-⑤ マクニカHD（3132）
-半導体×サイバーセキュリティ。利益成長と営業キャッシュフローの改善を追いたい。
-【業績上方修正・成長株】
-⑥ 住友商事（8053）
-通期純利益6,300億円→6,700億円。年間配当40円→44円。
-⑦ 商船三井（9104）
-通期経常利益2,250億円→2,950億円。上方修正率31.1％。
-⑧ 住友ファーマ（4506）
-純利益予想を22.1％上方修正。4期ぶりの復配15円にも注目。
-⑨ LITALICO（7366）
-上期営業利益+37.0％。通期営業利益予想を55億円→58〜63億円に上方修正。
-⑩ JIG-SAW（3914）
-1〜9月期営業利益+67.8％。継続課金型サービスの成長を監視。
-▶️ 僕ちんなら3つに分ける
-① 業績成長を重視
-マクニカHD、日本ガイシ、パナソニックHD、スズデン。
-② 増益と株主還元を重視
-住友商事、商船三井、日本軽金属HD。
-③ 次の成長余地を監視
-LITALICO、JIG-SAW、住友ファーマ。
-▶️ 僕ちんの答え
-昔は好決算が出たら、何も考えずに飛びついていた。
-でも今は違う。
-売上を見る。
-利益を見る。
-現金の流れを見る。
-最後に株価がどう反応したかを見る。
-好決算でも売られる銘柄がある。
-反対に、地味な決算でも資金が集まり続ける銘柄がある。
-大切なのは、ニュースの見出しではなく、その裏にある数字や。
-11月4日以降、特に確認したいのはマクニカHDの自社株買い、営業キャッシュフロー、そして半導体事業の成長継続。
-今回の10銘柄なら、あなたはどれを一番監視したい？
-理由も一言聞かせてほしい。
-決算から次の資金流入を追いたい人は保存しておいてくだされ。
-僕ちんが注目する日本株の決算・需給・買い場の監視リストはプロフィールのリンク先にまとめています。
-※株価・業績は公表資料に基づく参考情報。上昇を保証するものではありません。投資判断は必ず最新の開示を確認してご自身でお願いします。]]></xf:original>
-</item>
-<item>
-<title>kaito (@cu30rry_)</title>
-<link>https://x.com/cu30rry_/status/2117452960011624755</link>
-<guid isPermaLink="true">https://x.com/cu30rry_/status/2117452960011624755</guid>
-<category>AI</category>
-<dc:creator>kaito</dc:creator>
-<pubDate>Tue, 03 Nov 2026 15:02:30 +0000</pubDate>
-<xf:postedAt>2026-11-03T12:05:00+09:00</xf:postedAt>
-<xf:addedAt>2026-11-04T00:02:30.582566+09:00</xf:addedAt>
-<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/2101959420439834625/ucyJOshP_400x400.jpg" width="48" height="48" alt="kaito"/> <b>kaito</b> @cu30rry_</p><p>本日のGrok Bot 10選<br/><br/>1. Grok Bot Efficiency Optimizer by @SawyerMerritt<br/>毎週、自分のボットがどれだけ使用量を使ったかを調べて、むだと減らし方を教えてくれます<br/><br/>使用量の上限に早く届いてしまう心配が減ります（Grok Botの運用コストの持続性問題に対してクリティカルなBotです）<br/><br/><a href="https://x.ai/bot/6q44k3eKlHmC0keocH7He">https://x.ai/bot/6q44k3eKlHmC0keocH7He</a><br/><br/>2. SwarmCoordinator Bot by @ChaseMc67<br/>複数のボットの現場監督として、案件ごとのやることをNotionのボードで管理し、各Botに1つずつ仕事を渡します<br/><br/>Bot が増えても、仕事がコンフリクトせず進みます<br/><br/><a href="https://x.ai/bot/tlPYGlEEruj2J2V6SOudb">https://x.ai/bot/tlPYGlEEruj2J2V6SOudb</a><br/><br/>3. Bot Guard by @ferlogs<br/>Bot のテンプレートを取り込む前と、取り込んだ直後に、危ないところがないか点検してくれます<br/><br/>人が作った Bot も安心して試せます。<br/><br/><a href="https://x.ai/bot/5SBqQtWvbxlytLfpgf3gr">https://x.ai/bot/5SBqQtWvbxlytLfpgf3gr</a><br/><br/>4. Redline by @jtr2342<br/>使用量のメーターを読んで、作業ごとにいちばん安い道具に回し、週の使用枠をリセット前に超えないようにほぼ使い切ります<br/><br/>利用枠を無駄にも、使いすぎにもしません<br/><br/><a href="https://x.ai/bot/Pojm9y9xc_ZVnnBMIpOJI">https://x.ai/bot/Pojm9y9xc_ZVnnBMIpOJI</a><br/><br/>5. Usage Steward by @dr_chrontell<br/>使用量の上限が近づいたとき、Botを大事な順に分けて、大事でないものから使用量を減らします<br/><br/>主要なBotが止まらずにすみます<br/><br/><a href="https://x.ai/bot/62dgM8mQt2kl22HsD0p9T">https://x.ai/bot/62dgM8mQt2kl22HsD0p9T</a><br/><br/>6. Cazador de Ofertas by @galfrevn<br/>セール品の値段を過去の値段やほかの店と比べて、本当にお得かを教えてくれます<br/><br/>見せかけの値引きにだまされずにすみます<br/><br/><a href="https://x.ai/bot/tSqrpVGlngwZH_rCYHeQd">https://x.ai/bot/tSqrpVGlngwZH_rCYHeQd</a><br/><br/>7. Security by @kylekane<br/>毎日GitHubのコードを調べ、うっかり載せたパスワードや危ない設定を見つけ、重大なものは直す変更まで用意してくれます<br/><br/>情報もれに早く気づけます<br/><br/><a href="https://x.ai/bot/HBVJCsqErP7ToM8QdwSH3">https://x.ai/bot/HBVJCsqErP7ToM8QdwSH3</a><br/><br/>8. Outbound Desk by @monokern<br/>見込み客の情報集めと、メールなどでの声かけを、1つのGoogleシートでまとめて進めてくれます<br/><br/>創業者や営業の人が、営業の段取りを一か所で管理できます<br/><br/><a href="https://x.ai/bot/5fcknlf1SHiLCCVULgBql">https://x.ai/bot/5fcknlf1SHiLCCVULgBql</a><br/><br/>9. IT Director by @GSxKineticKnif<br/>Bot が使うコンピューターの管理係で、開発ツールの入れ替えや更新、ブラウザの片付け、ログインが切れていないかの確認をします<br/><br/>Bot が急に動かなくなるのを防げます<br/><br/><a href="https://x.ai/bot/NxzDg726Ms_4Py8nKXlNC">https://x.ai/bot/NxzDg726Ms_4Py8nKXlNC</a><br/><br/>10. Office View by @daddycross<br/>自分のGrok Botたちを「オフィスビル」の画面にまとめ、それぞれの状態や使用量、自分の返事待ちの仕事を見せてくれます<br/><br/>たくさんのBotの様子が一目で分かります<br/><br/><a href="https://x.ai/bot/ONO7BjX08iDAW7Xx-A1QH">https://x.ai/bot/ONO7BjX08iDAW7Xx-A1QH</a></p><p>いいね 115・リポスト 13・ブックマーク 223・表示 11,232</p><p>投稿 2026-11-03 12:05（日本時間）・<a href="https://x.com/cu30rry_/status/2117452960011624755">Xで開く</a></p>]]></description>
-<xf:original><![CDATA[本日のGrok Bot 10選
-
-1. Grok Bot Efficiency Optimizer by @SawyerMerritt
-毎週、自分のボットがどれだけ使用量を使ったかを調べて、むだと減らし方を教えてくれます
-
-使用量の上限に早く届いてしまう心配が減ります（Grok Botの運用コストの持続性問題に対してクリティカルなBotです）
-
-https://x.ai/bot/6q44k3eKlHmC0keocH7He
-
-2. SwarmCoordinator Bot by @ChaseMc67
-複数のボットの現場監督として、案件ごとのやることをNotionのボードで管理し、各Botに1つずつ仕事を渡します
-
-Bot が増えても、仕事がコンフリクトせず進みます
-
-https://x.ai/bot/tlPYGlEEruj2J2V6SOudb
-
-3. Bot Guard by @ferlogs
-Bot のテンプレートを取り込む前と、取り込んだ直後に、危ないところがないか点検してくれます
-
-人が作った Bot も安心して試せます。
-
-https://x.ai/bot/5SBqQtWvbxlytLfpgf3gr
-
-4. Redline by @jtr2342
-使用量のメーターを読んで、作業ごとにいちばん安い道具に回し、週の使用枠をリセット前に超えないようにほぼ使い切ります
-
-利用枠を無駄にも、使いすぎにもしません
-
-https://x.ai/bot/Pojm9y9xc_ZVnnBMIpOJI
-
-5. Usage Steward by @dr_chrontell
-使用量の上限が近づいたとき、Botを大事な順に分けて、大事でないものから使用量を減らします
-
-主要なBotが止まらずにすみます
-
-https://x.ai/bot/62dgM8mQt2kl22HsD0p9T
-
-6. Cazador de Ofertas by @galfrevn
-セール品の値段を過去の値段やほかの店と比べて、本当にお得かを教えてくれます
-
-見せかけの値引きにだまされずにすみます
-
-https://x.ai/bot/tSqrpVGlngwZH_rCYHeQd
-
-7. Security by @kylekane
-毎日GitHubのコードを調べ、うっかり載せたパスワードや危ない設定を見つけ、重大なものは直す変更まで用意してくれます
-
-情報もれに早く気づけます
-
-https://x.ai/bot/HBVJCsqErP7ToM8QdwSH3
-
-8. Outbound Desk by @monokern
-見込み客の情報集めと、メールなどでの声かけを、1つのGoogleシートでまとめて進めてくれます
-
-創業者や営業の人が、営業の段取りを一か所で管理できます
-
-https://x.ai/bot/5fcknlf1SHiLCCVULgBql
-
-9. IT Director by @GSxKineticKnif
-Bot が使うコンピューターの管理係で、開発ツールの入れ替えや更新、ブラウザの片付け、ログインが切れていないかの確認をします
-
-Bot が急に動かなくなるのを防げます
-
-https://x.ai/bot/NxzDg726Ms_4Py8nKXlNC
-
-10. Office View by @daddycross
-自分のGrok Botたちを「オフィスビル」の画面にまとめ、それぞれの状態や使用量、自分の返事待ちの仕事を見せてくれます
-
-たくさんのBotの様子が一目で分かります
-
-https://x.ai/bot/ONO7BjX08iDAW7Xx-A1QH]]></xf:original>
-</item>
-<item>
-<title>Granty（グランティ） (@granty_me)</title>
-<link>https://x.com/granty_me/status/2117406405225218313</link>
-<guid isPermaLink="true">https://x.com/granty_me/status/2117406405225218313</guid>
-<category>PdM</category>
-<dc:creator>Granty（グランティ）</dc:creator>
-<pubDate>Tue, 03 Nov 2026 15:02:30 +0000</pubDate>
-<xf:postedAt>2026-11-03T09:00:01+09:00</xf:postedAt>
-<xf:addedAt>2026-11-04T00:02:30.582566+09:00</xf:addedAt>
-<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1752848190435684352/MkfjuMMm_400x400.jpg" width="48" height="48" alt="Granty（グランティ）"/> <b>Granty（グランティ）</b> @granty_me</p><p>📣AI時代のPMキャリア相談室 第2回 公開<br/>「キャリア戦略というよりは、人生なわけですよ」<br/><br/>BASE株式会社 執行役員 柳川慶太さん @gimupop に、エンジニアからPM、そして金融事業の事業責任者へと進んだキャリアを、どう決めてきたのかを伺いました。<br/><br/>📌見どころ<br/>・肩書きは後からついてくる。「勝手に事業責任者を名乗り始めた」<br/>・「責任と発言はセット」。分からないものに権限だけもらうのは気持ち悪い<br/>・転職を考える前に、まずいまの会社の強みを理解する<br/>・相談に乗ってくれる相手にも、ポジショントークがある<br/><br/>後半は、プロダクトマネージャー求人350件（2026年8月の収録時点）のデータから、PMとして活躍する5つの方向性を読み解いています。<br/><br/><a href="https://youtu.be/ukfsswvMBEY">https://youtu.be/ukfsswvMBEY</a><br/><br/>#プロダクトマネージャー #Granty</p><p>いいね 0・リポスト 0・ブックマーク 0・表示 184</p><p>投稿 2026-11-03 09:00（日本時間）・<a href="https://x.com/granty_me/status/2117406405225218313">Xで開く</a></p>]]></description>
-<xf:original><![CDATA[📣AI時代のPMキャリア相談室 第2回 公開
-「キャリア戦略というよりは、人生なわけですよ」
-
-BASE株式会社 執行役員 柳川慶太さん @gimupop に、エンジニアからPM、そして金融事業の事業責任者へと進んだキャリアを、どう決めてきたのかを伺いました。
-
-📌見どころ
-・肩書きは後からついてくる。「勝手に事業責任者を名乗り始めた」
-・「責任と発言はセット」。分からないものに権限だけもらうのは気持ち悪い
-・転職を考える前に、まずいまの会社の強みを理解する
-・相談に乗ってくれる相手にも、ポジショントークがある
-
-後半は、プロダクトマネージャー求人350件（2026年8月の収録時点）のデータから、PMとして活躍する5つの方向性を読み解いています。
-
-https://youtu.be/ukfsswvMBEY
-
-#プロダクトマネージャー #Granty]]></xf:original>
-</item>
-<item>
-<title>藍田りみせ⚔株クエスト (@aitarimise)</title>
-<link>https://x.com/aitarimise/status/2117381033507377556</link>
-<guid isPermaLink="true">https://x.com/aitarimise/status/2117381033507377556</guid>
-<category>日本株・高配当株</category>
-<dc:creator>藍田りみせ⚔株クエスト</dc:creator>
-<pubDate>Tue, 03 Nov 2026 15:02:30 +0000</pubDate>
-<xf:postedAt>2026-11-03T07:19:12+09:00</xf:postedAt>
-<xf:addedAt>2026-11-04T00:02:30.582566+09:00</xf:addedAt>
-<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/2116635607950864384/756zChNB_400x400.jpg" width="48" height="48" alt="藍田りみせ⚔株クエスト"/> <b>藍田りみせ⚔株クエスト</b> @aitarimise</p><p>気になる上方修正ニュース👀💭✨<br/>さらに増配もしたのに急落した銘柄アリ😭<br/><br/>✅ ほくほくFG（8377）<br/>最高益予想を上方修正・増配<br/>概要：経常益890→1,085億円<br/>重要：年間配当15→19円（分割調整後）<br/>影響：銀行収益・株主還元に追い風<br/>注目：資金利益の拡大<br/><br/>✅ 住友化学（4005）<br/>純利益29％上方修正・1円増配<br/>概要：通期純利益700→900億円<br/>重要：年間配当16→17円<br/>影響：株価は9.47％下落<br/>注目：下期の収益持続性<br/><br/>✅ フェローテック（6890）<br/>AI需要拡大で大幅上方修正<br/>概要：経常益550→660億円<br/>重要：純利益33.3％上方修正<br/>影響：半導体関連需要が好調<br/>注目：AIデータセンター向け需要</p><p><img src="https://pbs.twimg.com/media/HWJy0jKaUAAR4Rc.jpg" alt="画像"/></p><p><img src="https://pbs.twimg.com/media/HWJy0jObIAASEzQ.jpg" alt="画像"/></p><p><img src="https://pbs.twimg.com/media/HWJy0jIbMAAZ-1W.jpg" alt="画像"/></p><p>いいね 59・リポスト 0・ブックマーク 1・表示 1,582</p><p>投稿 2026-11-03 07:19（日本時間）・<a href="https://x.com/aitarimise/status/2117381033507377556">Xで開く</a></p>]]></description>
-<xf:original><![CDATA[気になる上方修正ニュース👀💭✨
-さらに増配もしたのに急落した銘柄アリ😭
-
-✅ ほくほくFG（8377）
-最高益予想を上方修正・増配
-概要：経常益890→1,085億円
-重要：年間配当15→19円（分割調整後）
-影響：銀行収益・株主還元に追い風
-注目：資金利益の拡大
-
-✅ 住友化学（4005）
-純利益29％上方修正・1円増配
-概要：通期純利益700→900億円
-重要：年間配当16→17円
-影響：株価は9.47％下落
-注目：下期の収益持続性
-
-✅ フェローテック（6890）
-AI需要拡大で大幅上方修正
-概要：経常益550→660億円
-重要：純利益33.3％上方修正
-影響：半導体関連需要が好調
-注目：AIデータセンター向け需要]]></xf:original>
-</item>
-<item>
-<title>池本博則@ユニークピース経営者 (@IkemotoHironori)</title>
-<link>https://x.com/IkemotoHironori/status/2117364095284650210</link>
-<guid isPermaLink="true">https://x.com/IkemotoHironori/status/2117364095284650210</guid>
-<category>行政DX</category>
-<dc:creator>池本博則@ユニークピース経営者</dc:creator>
-<pubDate>Tue, 03 Nov 2026 15:02:30 +0000</pubDate>
-<xf:postedAt>2026-11-03T06:11:53+09:00</xf:postedAt>
-<xf:addedAt>2026-11-04T00:02:30.582566+09:00</xf:addedAt>
-<description><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/2045315509957382145/p6K738y__400x400.jpg" width="48" height="48" alt="池本博則@ユニークピース経営者"/> <b>池本博則@ユニークピース経営者</b> @IkemotoHironori</p><p>Govtech協会が「Govtechカオスマップ2026年版」を公開しました。4領域・21分類で、生成AI・AIエージェントから防災、観光・地域活性化・農林水産まで並びます。自治体にとって「どんな選択肢があるのか」を把握することが導入検討の出発点。地図の次に必要なのは、現場の課題と選択肢をつなぐ役割です。官民連携の現場で、そのつなぎ役を担っていきたいと思います。 <a href="https://x.com/searched_press/status/2117255682038898913">https://x.com/searched_press/status/2117255682038898913</a></p><p>いいね 1・リポスト 0・ブックマーク 0・表示 36</p><p>投稿 2026-11-03 06:11（日本時間）・<a href="https://x.com/IkemotoHironori/status/2117364095284650210">Xで開く</a></p>]]></description>
-<xf:original><![CDATA[Govtech協会が「Govtechカオスマップ2026年版」を公開しました。4領域・21分類で、生成AI・AIエージェントから防災、観光・地域活性化・農林水産まで並びます。自治体にとって「どんな選択肢があるのか」を把握することが導入検討の出発点。地図の次に必要なのは、現場の課題と選択肢をつなぐ役割です。官民連携の現場で、そのつなぎ役を担っていきたいと思います。 https://x.com/searched_press/status/2117255682038898913]]></xf:original>
 </item>
 </channel>
 </rss>
